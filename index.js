@@ -11,7 +11,7 @@ let current = null;
 function retrieveSettings() {
     localStorage.getItem('mode') === 'dark' ? colorMode('dark') : colorMode('light')
     let lang = localStorage.getItem('language')
-    setLanguage(lang)
+    lang ? setLanguage(lang) : setLanguage('krv')
     let prog = localStorage.getItem('progress')
     if (prog) {
         current = data[parseInt(prog)]
