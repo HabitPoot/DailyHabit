@@ -12,7 +12,6 @@ let current = data[data.length - 1];
 function retrieveSettings() {
     let lang = localStorage.getItem('language')
     lang ? setLanguage(lang) : setLanguage('krv')
-    localStorage.getItem('mode') === 'dark' ? colorMode('dark') : colorMode('light')
     let prog = localStorage.getItem('progress')
     if (prog) {
         current = data[parseInt(prog)]
@@ -65,6 +64,7 @@ function setLanguage(lang) {
                 root.innerHTML += `<p class="text-tags">${verse}</p>`
             }
     }
+    localStorage.getItem('mode') === 'dark' ? colorMode('dark') : colorMode('light')
 }
 
 light.addEventListener("click", function () {
