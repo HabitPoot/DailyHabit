@@ -7,7 +7,8 @@ let esv = document.getElementById("esv")
 let krv = document.getElementById("krv")
 let both = document.getElementById("both")
 let textTags = document.getElementsByClassName("text-tags")
-let current = null;
+let current = data[data.length - 1];
+
 function retrieveSettings() {
     localStorage.getItem('mode') === 'dark' ? colorMode('dark') : colorMode('light')
     let lang = localStorage.getItem('language')
