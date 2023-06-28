@@ -10,9 +10,9 @@ let textTags = document.getElementsByClassName("text-tags")
 let current = data[data.length - 1];
 
 function retrieveSettings() {
-    localStorage.getItem('mode') === 'dark' ? colorMode('dark') : colorMode('light')
     let lang = localStorage.getItem('language')
     lang ? setLanguage(lang) : setLanguage('krv')
+    localStorage.getItem('mode') === 'dark' ? colorMode('dark') : colorMode('light')
     let prog = localStorage.getItem('progress')
     if (prog) {
         current = data[parseInt(prog)]
