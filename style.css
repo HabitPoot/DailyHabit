@@ -1,0 +1,28 @@
+#root {
+    border:1px solid gray;
+    border-radius:5px;
+    padding:20px;
+    margin-top: 20px;
+}
+.bg-light {
+    background-color: white;
+}
+.bg-dark {
+    background-color:black;
+    border-color:white;
+}
+.light {
+    color:black;
+}
+.dark {
+    color:white;
+}
+
+.btn-light {
+    background-color: gray;
+    color:black;
+}
+.btn-dark{
+    background-color:darkgray;
+    color:white;
+}
