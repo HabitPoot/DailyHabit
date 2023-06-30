@@ -52,6 +52,28 @@ let data = [
         "chapter": 1,
         "start": 6,
         "end": 10
+    },
+    {
+        "esv": [
+            "11| And God said, \"Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.\" And it was so.",
+            "12| The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good.",
+            "13| And there was evening and there was morning, the third day.",
+            "14| And God said, \"Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years,",
+            "15| and let them be lights in the expanse of the heavens to give light upon the earth.\" And it was so."
+        ],
+        "krv": [
+            "11| 하나님이 가라사대 땅은 풀과 씨 맺는 채소와 각기 종류대로 씨 가진 열매 맺는 과목을 내라 하시매 그대로 되어",
+            "12| 땅이 풀과 각기 종류대로 씨 맺는 채소와 각기 종류대로 씨 가진 열매 맺는 나무를 내니 하나님의 보시기에 좋았더라",
+            "13| 저녁이 되며 아침이 되니 이는 세째 날이니라",
+            "14| 하나님이 가라사대 하늘의 궁창에 광명이 있어 주야를 나뉘게 하라 또 그 광명으로 하여 징조와 사시와 일자와 연한이 이루라",
+            "15| 또 그 광명이 하늘의 궁창에 있어 땅에 비취라 하시고 (그대로 되니라)"
+        ],
+        "date": "2023-06-29T00:00:00",
+        "book": "Genesis",
+        "kbook": "창세기",
+        "chapter": 1,
+        "start": 11,
+        "end": 15
     }
 ]
 let root = document.getElementById("root")
