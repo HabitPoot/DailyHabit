@@ -74,6 +74,28 @@ let data = [
         "chapter": 1,
         "start": 11,
         "end": 15
+    },
+    {
+        "esv": [
+            "16| And God made the two great lights--the greater light to rule the day and the lesser light to rule the night--and the stars.",
+            "17| And God set them in the expanse of the heavens to give light on the earth,",
+            "18| to rule over the day and over the night, and to separate the light from the darkness. And God saw that it was good.",
+            "19| And there was evening and there was morning, the fourth day.",
+            "20| And God said, \"Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the heavens.\""
+        ],
+        "krv": [
+            "16| 하나님이 두 큰 광명을 만드사 큰 광명으로 낮을 주관하게 하시고 작은 광명으로 밤을 주관하게 하시며 또 별들을 만드시고",
+            "17| 하나님이 그것들을 하늘의 궁창에 두어 땅에 비취게 하시며",
+            "18| 주야를 주관하게 하시며 빛과 어두움을 나뉘게 하시니라 하나님의 보시기에 좋았더라",
+            "19| 저녁이 되며 아침이 되니 이는 네째 날이니라",
+            "20| 하나님이 가라사대 물들은 생물로 번성케 하라 땅위 하늘의 궁창에는 새가 날으라 하시고"
+        ],
+        "date": "2023-06-30T00:00:00",
+        "book": "Genesis",
+        "kbook": "창세기",
+        "chapter": 1,
+        "start": 16,
+        "end": 20
     }
 ]
 let root = document.getElementById("root")
