@@ -96,6 +96,28 @@ let data = [
         "chapter": 1,
         "start": 16,
         "end": 20
+    },
+    {
+        "esv": [
+            "21| So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good.",
+            "22| And God blessed them, saying, \"Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.\"",
+            "23| And there was evening and there was morning, the fifth day.",
+            "24| And God said, \"Let the earth bring forth living creatures according to their kinds--livestock and creeping things and beasts of the earth according to their kinds.\" And it was so.",
+            "25| And God made the beasts of the earth according to their kinds and the livestock according to their kinds, and everything that creeps on the ground according to its kind. And God saw that it was good."
+        ],
+        "krv": [
+            "21| 하나님이 큰 물고기와 물에서 번성하여 움직이는 모든 생물을 그 종류대로, 날개 있는 모든 새를 그 종류대로 창조하시니 하니님의 보시기에 좋았더라",
+            "22| 하나님이 그들에게 복을 주어 가라사대 생육하고 번성하여 여러 바다 물에 충만하라 새들도 땅에 번성하라 하시니라",
+            "23| 저녁이 되며 아침이 되니 이는 다섯째 날이니라",
+            "24| 하나님이 가라사대 땅은 생물을 그 종류대로 내되 육축과 기는것과 땅의 짐승을 종류대로 내라 하시고 (그대로 되니라)",
+            "25| 하나님이 땅의 짐승을 그 종류대로, 육축을 그 종류대로, 땅에 기는 모든 것을 그 종류대로 만드시니 하나님의 보시기에 좋았더라"
+        ],
+        "date": "2023-07-01T00:00:00",
+        "book": "Genesis",
+        "kbook": "창세기",
+        "chapter": 1,
+        "start": 21,
+        "end": 25
     }
 ]
 let root = document.getElementById("root")
