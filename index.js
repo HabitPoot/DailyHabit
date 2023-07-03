@@ -118,6 +118,30 @@ let data = [
         "chapter": 1,
         "start": 21,
         "end": 25
+    },
+    {
+        "esv": [
+            "26| Then God said, \"Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.\"",
+            "27| So God created man in his own image, in the image of God he created him; male and female he created them.",
+            "28| And God blessed them. And God said to them, \"Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.\"",
+            "29| And God said, \"Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit. You shall have them for food.",
+            "30| And to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food.\" And it was so.",
+            "31| And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day."
+        ],
+        "krv": [
+            "26| 하나님이 가라사대 우리의 형상을 따라 우리의 모양대로 우리가 사람을 만들고 그로 바다의 고기와 공중의 새와 육축과 온 땅과 땅에 기는 모든 것을 다스리게 하자 하시고",
+            "27| 하나님이 자기 형상 곧 하나님의 형상대로 사람을 창조하시되 남자와 여자를 창조하시고",
+            "28| 하나님이 그들에게 복을 주시며 그들에게 이르시되 생육하고 번성하여 땅에 충만하라, 땅을 정복하라, 바다의 고기와 공중의 새와 땅에 움직이는 모든 생물을 다스리라 하시니라",
+            "29| 하나님이 가라사대 내가 온 지면의 씨 맺는 모든 채소와 씨 가진 열매 맺는 모든 나무를 너희에게 주노니 너희 식물이 되리라",
+            "30| 또 땅의 모든 짐승과 공중의 모든 새와 생명이 있어 땅에 기는 모든 것에게는 내가 모든 푸른 풀을 식물로 주노라 하시니 그대로 되니라",
+            "31| 하나님이 그 지으신 모든 것을 보시니 보시기에 심히 좋았더라 저녁이 되며 아침이 되니 이는 여섯째 날이니라"
+        ],
+        "date": "2023-07-02T00:00:00",
+        "book": "Genesis",
+        "kbook": "창세기",
+        "chapter": 1,
+        "start": 26,
+        "end": 31
     }
 ]
 let root = document.getElementById("root")
