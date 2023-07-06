@@ -327,7 +327,7 @@ let data = [
         "kbook": "창세기",
         "chapter": 4,
         "start": 1,
-        "end": 25
+        "end": 26
     }
 ]
 let root = document.getElementById("root")
