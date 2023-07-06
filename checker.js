@@ -1,35 +1,43 @@
 mine = [
-    "1| 여호와 하나님의 지으신 들짐승 중에 뱀이 가장 간교하더라 뱀이 여자에게 물어 가로되 하나님이 참으로 너희더러 동산 모든 나무의 실과를 먹지 말라 하시더냐",
-    "2| 여자가 뱀에게 말하되 동산 나무의 실과를 우리가 먹을 수 있으나",
-    "3| 동산 중앙에 있는 나무의 실과는 하나님의 말씀에 너희는 먹지도 말고 만지지도 말라 너희가 죽을까 하노라 하셨느니라",
-    "4| 뱀이 여자에게 이르되 너희가 결코 죽지 아니하리라",
-    "5| 너희가 그것을 먹는 날에는 너희 눈이 밝아 하나님과 같이 되어 선악을 알줄을 하나님이 아심이니라",
-    "6| 여자가 그 나무를 본즉 먹음직도 하고 보암직도 하고 지혜롭게 할만큼 탐스럽기도 한 나무인지라 여자가 그 실과를 따먹고 자기와 함께한 남편에게도 주매 그도 먹은지라",
-    "7| 이에 그들의 눈이 밝아 자기들의 몸이 벗은 줄을 알고 무화과나무 잎을 엮어 치마를 하였더라",
-    "8| 그들이 날이 서늘할 때에 동산에 거니시는 여호와 하나님의 음성을 듣고 아담과 그 아내가 여호와 하나님의 낯을 피하여 동산 나무 사이에 숨은지라",
-    "9| 여호와 하나님이 아담을 부르시며 그에게 이르시되 네가 어디 있느냐",
-    "10| 가로되 내가 동산에서 하나님의 소리를 듣고 내가 벗었으므로 두려워하여 숨었나이다",
-    "11| 가라사대 누가 너의 벗었음을 네게 고하였느냐 내가 너더러 먹지 말라 명한 그 나무 실과를 네가 먹었느냐",
-    "12| 아담이 가로되 하나님이 주셔서 나와 함께하게 하신 여자 그가 그 나무 실과를 내게 주므로 내가 먹었나이다",
-    "13| 여호와 하나님이 여자에게 이르시되 네가 어찌하여 이렇게 하였느냐 여자가 가로되 뱀이 나를 꾀므로 내가 먹었나이다",
-    "14| 여호와 하나님이 뱀에게 이르시되 네가 이렇게 하였으니 네가 모든 육축과 들의 모든 짐승보다 더욱 저주를 받아 배로 다니고 종신토록 흙을 먹을지니라",
-    "15| 내가 너로 여자와 원수가 되게하고 너의 후손도 여자의 후손과 원수가 되게 하리니 여자의 후손은 네 머리를 상하게 할 것이요 너는 그의 발꿈치를 상하게 할 것이니라 하시고",
-    "16| 또 여자에게 이르시되 내가 네게 잉태하는 고통을 크게 더하리니 네가 수고하고 자식을 낳을 것이며 너는 남편을 사모하고 남편은 너를 다스릴 것이니라 하시고",
-    "17| 아담에게 이르시되 네가 네 아내의 말을 듣고 내가 너더러 먹지 말라한 나무 실과를 먹었은즉 땅은 너로 인하여 저주를 받고 너는 종신토록 수고하여야 그 소산을 먹으리라",
-    "18| 땅이 네게 가시덤불과 엉겅퀴를 낼 것이라 너의 먹을 것은 밭의 채소인즉",
-    "19| 네가 얼굴에 땀이 흘러야 식물을 먹고 필경은 흙으로 돌아 가리니 그 속에서 네가 취함을 입었음이라 너는 흙이니 흙으로 돌아갈 것이니라 하시니라",
-    "20| 아담이 그 아내를 하와라 이름하였으니 그는 모든 산 자의 어미가 됨이더라",
-    "21| 여호와 하나님이 아담과 그 아내를 위하여 가죽옷을 지어 입히시니라",
-    "22| 여호와 하나님이 가라사대 보라 이 사람이 선악을 아는 일에 우리 중 하나 같이 되었으니 그가 그 손을 들어 생명나무 실과도 따먹고 영생할까 하노라 하시고",
-    "23| 여호와 하나님이 에덴동산에서 그 사람을 내어 보내어 그의 근본된 토지를 갈게 하시니라",
-    "24| 이같이 하나님이 그 사람을 쫓아 내시고 에덴동산 동편에 그룹들과 두루 도는 화염검을 두어 생명나무의 길을 지키게 하시니라"
+    "1| Now Adam knew Eve his wife, and she conceived and bore Cain, saying, \"I have gotten a man with the help of the Lord.\"",
+    "2| And again, she bore his brother Abel. Now Abel was a keeper of sheep, and Cain a worker of the ground.",
+    "3| In the course of time Cain brought to the Lord an offering of the fruit of the ground,",
+    "4| and Abel also brought of the firstborn of his flock and of their fat portions. And the Lord had regard for Abel and his offering,",
+    "5| but for Cain and his offering he had no regard. So Cain was very angry, and his face fell.",
+    "6| The Lord said to Cain, \"Why are you angry, and why has your face fallen?",
+    "7| If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is contrary to you, but you must rule over it.\"",
+    "8| Cain spoke to Abel his brother. And when they were in the field, Cain rose up against his brother Abel and killed him.",
+    "9| Then the Lord said to Cain, \"Where is Abel your brother?\" He said, \"I do not know; am I my brother's keeper?\"",
+    "10| And the Lord said, \"What have you done? The voice of your brother's blood is crying to me from the ground.",
+    "11| And now you are cursed from the ground, which has opened its mouth to receive your brother's blood from your hand.",
+    "12| When you work the ground, it shall no longer yield to you its strength. You shall be a fugitive and a wanderer on the earth.\"",
+    "13| Cain said to the Lord, \"My punishment is greater than I can bear.",
+    "14| Behold, you have driven me today away from the ground, and from your face I shall be hidden. I shall be a fugitive and a wanderer on the earth, and whoever finds me will kill me.\"",
+    "15| Then the Lord said to him, \"Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold.\" And the Lord put a mark on Cain, lest any who found him should attack him.",
+    "16| Then Cain went away from the presence of the Lord and settled in the land of Nod, east of Eden.",
+    "17| Cain knew his wife, and she conceived and bore Enoch. When he built a city, he called the name of the city after the name of his son, Enoch.",
+    "18| To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.",
+    "19| And Lamech took two wives. The name of the one was Adah, and the name of the other Zillah.",
+    "20| Adah bore Jabal; he was the father of those who dwell in tents and have livestock.",
+    "21| His brother's name was Jubal; he was the father of all those who play the lyre and pipe.",
+    "22| Zillah also bore Tubal-cain; he was the forger of all instruments of bronze and iron. The sister of Tubal-cain was Naamah.",
+    "23| Lamech said to his wives: \"Adah and Zillah, hear my voice; you wives of Lamech, listen to what I say: I have killed a man for wounding me, a young man for striking me.",
+    "24| If Cain's revenge is sevenfold, then Lamech's is seventy-sevenfold.\"",
+    "25| And Adam knew his wife again, and she bore a son and called his name Seth, for she said, \"God has appointed for me another offspring instead of Abel, for Cain killed him.\"",
+    "26| To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the Lord."
 ]
 
-theirs = `1여호와 하나님의 지으신 들짐승 중에 뱀이 가장 간교하더라 뱀이 여자에게 물어 가로되 하나님이 참으로 너희더러 동산 모든 나무의 실과를 먹지 말라 하시더냐 2여자가 뱀에게 말하되 동산 나무의 실과를 우리가 먹을 수 있으나 3동산 중앙에 있는 나무의 실과는 하나님의 말씀에 너희는 먹지도 말고 만지지도 말라 너희가 죽을까 하노라 하셨느니라 4뱀이 여자에게 이르되 너희가 결코 죽지 아니하리라 5너희가 그것을 먹는 날에는 너희 눈이 밝아 하나님과 같이 되어 선악을 알줄을 하나님이 아심이니라 6여자가 그 나무를 본즉 먹음직도 하고 보암직도 하고 지혜롭게 할만큼 탐스럽기도 한 나무인지라 여자가 그 실과를 따먹고 자기와 함께한 남편에게도 주매 그도 먹은지라 7이에 그들의 눈이 밝아 자기들의 몸이 벗은 줄을 알고 무화과나무 잎을 엮어 치마를 하였더라 8그들이 날이 서늘할 때에 동산에 거니시는 여호와 하나님의 음성을 듣고 아담과 그 아내가 여호와 하나님의 낯을 피하여 동산 나무 사이에 숨은지라 9여호와 하나님이 아담을 부르시며 그에게 이르시되 네가 어디 있느냐 10가로되 내가 동산에서 하나님의 소리를 듣고 내가 벗었으므로 두려워하여 숨었나이다 11가라사대 누가 너의 벗었음을 네게 고하였느냐 내가 너더러 먹지 말라 명한 그 나무 실과를 네가 먹었느냐
-12아담이 가로되 하나님이 주셔서 나와 함께하게 하신 여자 그가 그 나무 실과를 내게 주므로 내가 먹었나이다 13여호와 하나님이 여자에게 이르시되 네가 어찌하여 이렇게 하였느냐 여자가 가로되 뱀이 나를 꾀므로 내가 먹었나이다 14여호와 하나님이 뱀에게 이르시되 네가 이렇게 하였으니 네가 모든 육축과 들의 모든 짐승보다 더욱 저주를 받아 배로 다니고 종신토록 흙을 먹을지니라
-15내가 너로 여자와 원수가 되게하고 너의 후손도 여자의 후손과 원수가 되게 하리니 여자의 후손은 네 머리를 상하게 할 것이요 너는 그의 발꿈치를 상하게 할 것이니라 하시고 16또 여자에게 이르시되 내가 네게 잉태하는 고통을 크게 더하리니 네가 수고하고 자식을 낳을 것이며 너는 남편을 사모하고 남편은 너를 다스릴 것이니라 하시고 17아담에게 이르시되 네가 네 아내의 말을 듣고 내가 너더러 먹지 말라한 나무 실과를 먹었은즉 땅은 너로 인하여 저주를 받고 너는 종신토록 수고하여야 그 소산을 먹으리라
-18땅이 네게 가시덤불과 엉겅퀴를 낼 것이라 너의 먹을 것은 밭의 채소인즉 19네가 얼굴에 땀이 흘러야 식물을 먹고 필경은 흙으로 돌아 가리니 그 속에서 네가 취함을 입었음이라 너는 흙이니 흙으로 돌아갈 것이니라 하시니라 20아담이 그 아내를 하와라 이름하였으니 그는 모든 산 자의 어미가 됨이더라 21여호와 하나님이 아담과 그 아내를 위하여 가죽옷을 지어 입히시니라 22여호와 하나님이 가라사대 보라 이 사람이 선악을 아는 일에 우리 중 하나 같이 되었으니 그가 그 손을 들어 생명나무 실과도 따먹고 영생할까 하노라 하시고
-23여호와 하나님이 에덴동산에서 그 사람을 내어 보내어 그의 근본된 토지를 갈게 하시니라 24이같이 하나님이 그 사람을 쫓아 내시고 에덴동산 동편에 그룹들과 두루 도는 화염검을 두어 생명나무의 길을 지키게 하시니라`
+theirs = `1Now Adam knew Eve his wife, and she conceived and bore Cain, saying, "I have gotten a man with the help of the Lord." 2And again, she bore his brother Abel. Now Abel was a keeper of sheep, and Cain a worker of the ground. 3In the course of time Cain brought to the Lord an offering of the fruit of the ground, 4and Abel also brought of the firstborn of his flock and of their fat portions. And the Lord had regard for Abel and his offering, 5but for Cain and his offering he had no regard. So Cain was very angry, and his face fell. 6The Lord said to Cain, "Why are you angry, and why has your face fallen? 7If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is contrary to you, but you must rule over it."
+8Cain spoke to Abel his brother. And when they were in the field, Cain rose up against his brother Abel and killed him. 9Then the Lord said to Cain, "Where is Abel your brother?" He said, "I do not know; am I my brother's keeper?" 10And the Lord said, "What have you done? The voice of your brother's blood is crying to me from the ground. 11And now you are cursed from the ground, which has opened its mouth to receive your brother's blood from your hand. 12When you work the ground, it shall no longer yield to you its strength. You shall be a fugitive and a wanderer on the earth." 13Cain said to the Lord, "My punishment is greater than I can bear. 14Behold, you have driven me today away from the ground, and from your face I shall be hidden. I shall be a fugitive and a wanderer on the earth, and whoever finds me will kill me." 15Then the Lord said to him, "Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold." And the Lord put a mark on Cain, lest any who found him should attack him. 16Then Cain went away from the presence of the Lord and settled in the land of Nod, east of Eden.
+17Cain knew his wife, and she conceived and bore Enoch. When he built a city, he called the name of the city after the name of his son, Enoch. 18To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech. 19And Lamech took two wives. The name of the one was Adah, and the name of the other Zillah. 20Adah bore Jabal; he was the father of those who dwell in tents and have livestock. 21His brother's name was Jubal; he was the father of all those who play the lyre and pipe. 22Zillah also bore Tubal-cain; he was the forger of all instruments of bronze and iron. The sister of Tubal-cain was Naamah.
+23Lamech said to his wives:
+"Adah and Zillah, hear my voice;
+you wives of Lamech, listen to what I say:
+I have killed a man for wounding me,
+a young man for striking me.
+24If Cain's revenge is sevenfold,
+then Lamech's is seventy-sevenfold."
+25And Adam knew his wife again, and she bore a son and called his name Seth, for she said, "God has appointed for me another offspring instead of Abel, for Cain killed him." 26To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the Lord.`
 theirs = theirs.split("\n").join(" ")
 console.log(mine.map(v => v.split("| ").join("")).join(" ") === theirs)
 
@@ -41,7 +49,7 @@ for (let i = 0; i < theirs.length; i++) {
     if (mine.map(v => v.split("| ").join("")).join(" ")[i] == theirs[i]) {
         sample += theirs[i]
         real += theirs[i]
-        
+
     } else {
         console.log(mine.map(v => v.split("| ").join("")).join(" ")[i])
         break;
