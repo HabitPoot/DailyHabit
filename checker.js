@@ -1,51 +1,36 @@
 mine = [
-    "1| This is the book of the generations of Adam. When God created man, he made him in the likeness of God.",
-    "2| Male and female he created them, and he blessed them and named them Man when they were created.",
-    "3| When Adam had lived 130 years, he fathered a son in his own likeness, after his image, and named him Seth.",
-    "4| The days of Adam after he fathered Seth were 800 years; and he had other sons and daughters.",
-    "5| Thus all the days that Adam lived were 930 years, and he died.",
-    "6| When Seth had lived 105 years, he fathered Enosh.",
-    "7| Seth lived after he fathered Enosh 807 years and had other sons and daughters.",
-    "8| Thus all the days of Seth were 912 years, and he died.",
-    "9| When Enosh had lived 90 years, he fathered Kenan.",
-    "10| Enosh lived after he fathered Kenan 815 years and had other sons and daughters.",
-    "11| Thus all the days of Enosh were 905 years, and he died.",
-    "12| When Kenan had lived 70 years, he fathered Mahalalel.",
-    "13| Kenan lived after he fathered Mahalalel 840 years and had other sons and daughters.",
-    "14| Thus all the days of Kenan were 910 years, and he died.",
-    "15| When Mahalalel had lived 65 years, he fathered Jared.",
-    "16| Mahalalel lived after he fathered Jared 830 years and had other sons and daughters.",
-    "17| Thus all the days of Mahalalel were 895 years, and he died.",
-    "18| When Jared had lived 162 years, he fathered Enoch.",
-    "19| Jared lived after he fathered Enoch 800 years and had other sons and daughters.",
-    "20| Thus all the days of Jared were 962 years, and he died.",
-    "21| When Enoch had lived 65 years, he fathered Methuselah.",
-    "22| Enoch walked with God after he fathered Methuselah 300 years and had other sons and daughters.",
-    "23| Thus all the days of Enoch were 365 years.",
-    "24| Enoch walked with God, and he was not, for God took him.",
-    "25| When Methuselah had lived 187 years, he fathered Lamech.",
-    "26| Methuselah lived after he fathered Lamech 782 years and had other sons and daughters.",
-    "27| Thus all the days of Methuselah were 969 years, and he died.",
-    "28| When Lamech had lived 182 years, he fathered a son",
-    "29| and called his name Noah, saying, \"Out of the ground that the Lord has cursed, this one shall bring us relief from our work and from the painful toil of our hands.\"",
-    "30| Lamech lived after he fathered Noah 595 years and had other sons and daughters.",
-    "31| Thus all the days of Lamech were 777 years, and he died.",
-    "32| After Noah was 500 years old, Noah fathered Shem, Ham, and Japheth."
+    "1| When man began to multiply on the face of the land and daughters were born to them,",
+    "2| the sons of God saw that the daughters of man were attractive. And they took as their wives any they chose.",
+    "3| Then the Lord said, \"My Spirit shall not abide in man forever, for he is flesh: his days shall be 120 years.\"",
+    "4| The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of man and they bore children to them. These were the mighty men who were of old, the men of renown.",
+    "5| The Lord saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually.",
+    "6| And the Lord regretted that he had made man on the earth, and it grieved him to his heart.",
+    "7| So the Lord said, \"I will blot out man whom I have created from the face of the land, man and animals and creeping things and birds of the heavens, for I am sorry that I have made them.\"",
+    "8| But Noah found favor in the eyes of the Lord.",
+    "9| These are the generations of Noah. Noah was a righteous man, blameless in his generation. Noah walked with God.",
+    "10| And Noah had three sons, Shem, Ham, and Japheth.",
+    "11| Now the earth was corrupt in God's sight, and the earth was filled with violence.",
+    "12| And God saw the earth, and behold, it was corrupt, for all flesh had corrupted their way on the earth.",
+    "13| And God said to Noah, \"I have determined to make an end of all flesh, for the earth is filled with violence through them. Behold, I will destroy them with the earth.",
+    "14| Make yourself an ark of gopher wood. Make rooms in the ark, and cover it inside and out with pitch.",
+    "15| This is how you are to make it: the length of the ark 300 cubits, its breadth 50 cubits, and its height 30 cubits.",
+    "16| Make a roof for the ark, and finish it to a cubit above, and set the door of the ark in its side. Make it with lower, second, and third decks.",
+    "17| For behold, I will bring a flood of waters upon the earth to destroy all flesh in which is the breath of life under heaven. Everything that is on the earth shall die.",
+    "18| But I will establish my covenant with you, and you shall come into the ark, you, your sons, your wife, and your sons' wives with you.",
+    "19| And of every living thing of all flesh, you shall bring two of every sort into the ark to keep them alive with you. They shall be male and female.",
+    "20| Of the birds according to their kinds, and of the animals according to their kinds, of every creeping thing of the ground, according to its kind, two of every sort shall come in to you to keep them alive.",
+    "21| Also take with you every sort of food that is eaten, and store it up. It shall serve as food for you and for them.\"",
+    "22| Noah did this; he did all that God commanded him."
 ]
 let encoded = ` “ ” `
-theirs = `1This is the book of the generations of Adam. When God created man, he made him in the likeness of God. 2Male and female he created them, and he blessed them and named them Man when they were created. 3When Adam had lived 130 years, he fathered a son in his own likeness, after his image, and named him Seth. 4The days of Adam after he fathered Seth were 800 years; and he had other sons and daughters. 5Thus all the days that Adam lived were 930 years, and he died.
-6When Seth had lived 105 years, he fathered Enosh. 7Seth lived after he fathered Enosh 807 years and had other sons and daughters. 8Thus all the days of Seth were 912 years, and he died.
-9When Enosh had lived 90 years, he fathered Kenan. 10Enosh lived after he fathered Kenan 815 years and had other sons and daughters. 11Thus all the days of Enosh were 905 years, and he died.
-12When Kenan had lived 70 years, he fathered Mahalalel. 13Kenan lived after he fathered Mahalalel 840 years and had other sons and daughters. 14Thus all the days of Kenan were 910 years, and he died.
-15When Mahalalel had lived 65 years, he fathered Jared. 16Mahalalel lived after he fathered Jared 830 years and had other sons and daughters. 17Thus all the days of Mahalalel were 895 years, and he died.
-18When Jared had lived 162 years, he fathered Enoch. 19Jared lived after he fathered Enoch 800 years and had other sons and daughters. 20Thus all the days of Jared were 962 years, and he died.
-21When Enoch had lived 65 years, he fathered Methuselah. 22Enoch walked with God after he fathered Methuselah 300 years and had other sons and daughters. 23Thus all the days of Enoch were 365 years. 24Enoch walked with God, and he was not, for God took him.
-25When Methuselah had lived 187 years, he fathered Lamech. 26Methuselah lived after he fathered Lamech 782 years and had other sons and daughters. 27Thus all the days of Methuselah were 969 years, and he died.
-28When Lamech had lived 182 years, he fathered a son 29and called his name Noah, saying, "Out of the ground that the Lord has cursed, this one shall bring us relief from our work and from the painful toil of our hands." 30Lamech lived after he fathered Noah 595 years and had other sons and daughters. 31Thus all the days of Lamech were 777 years, and he died.
-32After Noah was 500 years old, Noah fathered Shem, Ham, and Japheth.`
+theirs = `1When man began to multiply on the face of the land and daughters were born to them, 2the sons of God saw that the daughters of man were attractive. And they took as their wives any they chose. 3Then the Lord said, “My Spirit shall not abide in man forever, for he is flesh: his days shall be 120 years.” 4The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of man and they bore children to them. These were the mighty men who were of old, the men of renown.
+5The Lord saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually. 6And the Lord regretted that he had made man on the earth, and it grieved him to his heart. 7So the Lord said, “I will blot out man whom I have created from the face of the land, man and animals and creeping things and birds of the heavens, for I am sorry that I have made them.” 8But Noah found favor in the eyes of the Lord.
+9These are the generations of Noah. Noah was a righteous man, blameless in his generation. Noah walked with God. 10And Noah had three sons, Shem, Ham, and Japheth.
+11Now the earth was corrupt in God’s sight, and the earth was filled with violence. 12And God saw the earth, and behold, it was corrupt, for all flesh had corrupted their way on the earth. 13And God said to Noah, “I have determined to make an end of all flesh, for the earth is filled with violence through them. Behold, I will destroy them with the earth. 14Make yourself an ark of gopher wood. Make rooms in the ark, and cover it inside and out with pitch. 15This is how you are to make it: the length of the ark 300 cubits, its breadth 50 cubits, and its height 30 cubits. 16Make a roof for the ark, and finish it to a cubit above, and set the door of the ark in its side. Make it with lower, second, and third decks. 17For behold, I will bring a flood of waters upon the earth to destroy all flesh in which is the breath of life under heaven. Everything that is on the earth shall die. 18But I will establish my covenant with you, and you shall come into the ark, you, your sons, your wife, and your sons’ wives with you. 19And of every living thing of all flesh, you shall bring two of every sort into the ark to keep them alive with you. They shall be male and female. 20Of the birds according to their kinds, and of the animals according to their kinds, of every creeping thing of the ground, according to its kind, two of every sort shall come in to you to keep them alive. 21Also take with you every sort of food that is eaten, and store it up. It shall serve as food for you and for them.” 22Noah did this; he did all that God commanded him.`
 theirs = theirs.split("\n").join(" ")
-theirs = theirs.split("“").join("")
-theirs = theirs.split("”").join("")
+theirs = theirs.split("“").join('"')
+theirs = theirs.split("”").join('"')
+theirs = theirs.split("’").join("'")
 console.log(mine.map(v => v.split("| ").join("")).join(" ") === theirs)
 
 let sample = ""
