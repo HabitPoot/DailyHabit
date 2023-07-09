@@ -1,32 +1,37 @@
 mine = [
-    "1| When man began to multiply on the face of the land and daughters were born to them,",
-    "2| the sons of God saw that the daughters of man were attractive. And they took as their wives any they chose.",
-    "3| Then the Lord said, \"My Spirit shall not abide in man forever, for he is flesh: his days shall be 120 years.\"",
-    "4| The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of man and they bore children to them. These were the mighty men who were of old, the men of renown.",
-    "5| The Lord saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually.",
-    "6| And the Lord regretted that he had made man on the earth, and it grieved him to his heart.",
-    "7| So the Lord said, \"I will blot out man whom I have created from the face of the land, man and animals and creeping things and birds of the heavens, for I am sorry that I have made them.\"",
-    "8| But Noah found favor in the eyes of the Lord.",
-    "9| These are the generations of Noah. Noah was a righteous man, blameless in his generation. Noah walked with God.",
-    "10| And Noah had three sons, Shem, Ham, and Japheth.",
-    "11| Now the earth was corrupt in God's sight, and the earth was filled with violence.",
-    "12| And God saw the earth, and behold, it was corrupt, for all flesh had corrupted their way on the earth.",
-    "13| And God said to Noah, \"I have determined to make an end of all flesh, for the earth is filled with violence through them. Behold, I will destroy them with the earth.",
-    "14| Make yourself an ark of gopher wood. Make rooms in the ark, and cover it inside and out with pitch.",
-    "15| This is how you are to make it: the length of the ark 300 cubits, its breadth 50 cubits, and its height 30 cubits.",
-    "16| Make a roof for the ark, and finish it to a cubit above, and set the door of the ark in its side. Make it with lower, second, and third decks.",
-    "17| For behold, I will bring a flood of waters upon the earth to destroy all flesh in which is the breath of life under heaven. Everything that is on the earth shall die.",
-    "18| But I will establish my covenant with you, and you shall come into the ark, you, your sons, your wife, and your sons' wives with you.",
-    "19| And of every living thing of all flesh, you shall bring two of every sort into the ark to keep them alive with you. They shall be male and female.",
-    "20| Of the birds according to their kinds, and of the animals according to their kinds, of every creeping thing of the ground, according to its kind, two of every sort shall come in to you to keep them alive.",
-    "21| Also take with you every sort of food that is eaten, and store it up. It shall serve as food for you and for them.\"",
-    "22| Noah did this; he did all that God commanded him."
+    "1| 여호와께서 노아에게 이르시되 너와 네 온 집은 방주로 들어가라 네가 이 세대에 내 앞에서 의로움을 내가 보았음이니라",
+    "2| 너는 모든 정결한 짐승은 암 수 일곱씩, 부정한 것은 암 수 둘씩을 네게로 취하며",
+    "3| 공중의 새도 암 수 일곱씩을 취하여 그 씨를 온 지면에 유전케 하라",
+    "4| 지금부터 칠일이면 내가 사십 주야를 땅에 비를 내려 나의 지은 모든 생물을 지면에서 쓸어 버리리라",
+    "5| 노아가 여호와께서 자기에게 명하신대로 다 준행하였더라",
+    "6| 홍수가 땅에 있을 때에 노아가 육백세라",
+    "7| 노아가 아들들과 아내와 자부들과 함께 홍수를 피하여 방주에 들어갔고",
+    "8| 정결한 짐승과 부정한 짐승과 새와 땅에 기는 모든 것이",
+    "9| 하나님이 노아에게 명하신대로 암 수 둘씩 노아에게 나아와 방주로 들어갔더니",
+    "10| 칠일 후에 홍수가 땅에 덮이니",
+    "11| 노아 육백세 되던 해 이월 곧 그 달 십칠일이라 그 날에 큰 깊음의 샘들이 터지며 하늘의 창들이 열려",
+    "12| 사십 주야를 비가 땅에 쏟아졌더라",
+    "13| 곧 그 날에 노아와 그의 아들 셈, 함, 야벳과 노아의 처와 세 자부가 다 방주로 들어갔고",
+    "14| 그들과 모든 들짐승이 그 종류대로, 모든 육축이 그 종류대로, 땅에 기는 모든 것이 그 종류대로, 모든 새 곧 각양의 새가 그 종류대로",
+    "15| 무릇 기식이 있는 육체가 둘씩 노아에게 나아와 방주로 들어갔으니",
+    "16| 들어간 것들은 모든 것의 암 수라 하나님이 그에게 명하신대로 들어가매 여호와께서 그를 닫아 넣으시니라",
+    "17| 홍수가 땅에 사십일을 있었는지라 물이 많아져 방주가 땅에서 떠 올랐고",
+    "18| 물이 더 많아져 땅에 창일하매 방주가 물위에 떠 다녔으며",
+    "19| 물이 땅에 더욱 창일하매 천하에 높은 산이 다 덮였더니",
+    "20| 물이 불어서 십 오 규빗이 오르매 산들이 덮인지라",
+    "21| 땅위에 움직이는 생물이 다 죽었으니 곧 새와 육축과 들짐승과 땅에 기는 모든 것과 모든 사람이라",
+    "22| 육지에 있어 코로 생물의 기식을 호흡하는 것은 다 죽었더라",
+    "23| 지면의 모든 생물을 쓸어버리시니 곧 사람과 짐승과 기는 것과 공중의 새까지라 이들은 땅에서 쓸어버림을 당하였으되 홀로 노아와 그와 함께 방주에 있던 자만 남았더라",
+    "24| 물이 일백 오십일을 땅에 창일하였더라"
 ]
 let encoded = ` “ ” `
-theirs = `1When man began to multiply on the face of the land and daughters were born to them, 2the sons of God saw that the daughters of man were attractive. And they took as their wives any they chose. 3Then the Lord said, “My Spirit shall not abide in man forever, for he is flesh: his days shall be 120 years.” 4The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of man and they bore children to them. These were the mighty men who were of old, the men of renown.
-5The Lord saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually. 6And the Lord regretted that he had made man on the earth, and it grieved him to his heart. 7So the Lord said, “I will blot out man whom I have created from the face of the land, man and animals and creeping things and birds of the heavens, for I am sorry that I have made them.” 8But Noah found favor in the eyes of the Lord.
-9These are the generations of Noah. Noah was a righteous man, blameless in his generation. Noah walked with God. 10And Noah had three sons, Shem, Ham, and Japheth.
-11Now the earth was corrupt in God’s sight, and the earth was filled with violence. 12And God saw the earth, and behold, it was corrupt, for all flesh had corrupted their way on the earth. 13And God said to Noah, “I have determined to make an end of all flesh, for the earth is filled with violence through them. Behold, I will destroy them with the earth. 14Make yourself an ark of gopher wood. Make rooms in the ark, and cover it inside and out with pitch. 15This is how you are to make it: the length of the ark 300 cubits, its breadth 50 cubits, and its height 30 cubits. 16Make a roof for the ark, and finish it to a cubit above, and set the door of the ark in its side. Make it with lower, second, and third decks. 17For behold, I will bring a flood of waters upon the earth to destroy all flesh in which is the breath of life under heaven. Everything that is on the earth shall die. 18But I will establish my covenant with you, and you shall come into the ark, you, your sons, your wife, and your sons’ wives with you. 19And of every living thing of all flesh, you shall bring two of every sort into the ark to keep them alive with you. They shall be male and female. 20Of the birds according to their kinds, and of the animals according to their kinds, of every creeping thing of the ground, according to its kind, two of every sort shall come in to you to keep them alive. 21Also take with you every sort of food that is eaten, and store it up. It shall serve as food for you and for them.” 22Noah did this; he did all that God commanded him.`
+theirs = `1여호와께서 노아에게 이르시되 너와 네 온 집은 방주로 들어가라 네가 이 세대에 내 앞에서 의로움을 내가 보았음이니라 2너는 모든 정결한 짐승은 암 수 일곱씩, 부정한 것은 암 수 둘씩을 네게로 취하며 3공중의 새도 암 수 일곱씩을 취하여 그 씨를 온 지면에 유전케 하라 4지금부터 칠일이면 내가 사십 주야를 땅에 비를 내려 나의 지은 모든 생물을 지면에서 쓸어 버리리라 5노아가 여호와께서 자기에게 명하신대로 다 준행하였더라
+6홍수가 땅에 있을 때에 노아가 육백세라 7노아가 아들들과 아내와 자부들과 함께 홍수를 피하여 방주에 들어갔고
+8정결한 짐승과 부정한 짐승과 새와 땅에 기는 모든 것이 9하나님이 노아에게 명하신대로 암 수 둘씩 노아에게 나아와 방주로 들어갔더니 10칠일 후에 홍수가 땅에 덮이니 11노아 육백세 되던 해 이월 곧 그 달 십칠일이라 그 날에 큰 깊음의 샘들이 터지며 하늘의 창들이 열려
+12사십 주야를 비가 땅에 쏟아졌더라 13곧 그 날에 노아와 그의 아들 셈, 함, 야벳과 노아의 처와 세 자부가 다 방주로 들어갔고
+14그들과 모든 들짐승이 그 종류대로, 모든 육축이 그 종류대로, 땅에 기는 모든 것이 그 종류대로, 모든 새 곧 각양의 새가 그 종류대로 15무릇 기식이 있는 육체가 둘씩 노아에게 나아와 방주로 들어갔으니 16들어간 것들은 모든 것의 암 수라 하나님이 그에게 명하신대로 들어가매 여호와께서 그를 닫아 넣으시니라 17홍수가 땅에 사십일을 있었는지라 물이 많아져 방주가 땅에서 떠 올랐고
+18물이 더 많아져 땅에 창일하매 방주가 물위에 떠 다녔으며 19물이 땅에 더욱 창일하매 천하에 높은 산이 다 덮였더니 20물이 불어서 십 오 규빗이 오르매 산들이 덮인지라 21땅위에 움직이는 생물이 다 죽었으니 곧 새와 육축과 들짐승과 땅에 기는 모든 것과 모든 사람이라
+22육지에 있어 코로 생물의 기식을 호흡하는 것은 다 죽었더라 23지면의 모든 생물을 쓸어버리시니 곧 사람과 짐승과 기는 것과 공중의 새까지라 이들은 땅에서 쓸어버림을 당하였으되 홀로 노아와 그와 함께 방주에 있던 자만 남았더라 24물이 일백 오십일을 땅에 창일하였더라`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
