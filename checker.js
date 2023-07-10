@@ -1,41 +1,37 @@
 mine = [
-    "1| 여호와께서 노아에게 이르시되 너와 네 온 집은 방주로 들어가라 네가 이 세대에 내 앞에서 의로움을 내가 보았음이니라",
-    "2| 너는 모든 정결한 짐승은 암 수 일곱씩, 부정한 것은 암 수 둘씩을 네게로 취하며",
-    "3| 공중의 새도 암 수 일곱씩을 취하여 그 씨를 온 지면에 유전케 하라",
-    "4| 지금부터 칠일이면 내가 사십 주야를 땅에 비를 내려 나의 지은 모든 생물을 지면에서 쓸어 버리리라",
-    "5| 노아가 여호와께서 자기에게 명하신대로 다 준행하였더라",
-    "6| 홍수가 땅에 있을 때에 노아가 육백세라",
-    "7| 노아가 아들들과 아내와 자부들과 함께 홍수를 피하여 방주에 들어갔고",
-    "8| 정결한 짐승과 부정한 짐승과 새와 땅에 기는 모든 것이",
-    "9| 하나님이 노아에게 명하신대로 암 수 둘씩 노아에게 나아와 방주로 들어갔더니",
-    "10| 칠일 후에 홍수가 땅에 덮이니",
-    "11| 노아 육백세 되던 해 이월 곧 그 달 십칠일이라 그 날에 큰 깊음의 샘들이 터지며 하늘의 창들이 열려",
-    "12| 사십 주야를 비가 땅에 쏟아졌더라",
-    "13| 곧 그 날에 노아와 그의 아들 셈, 함, 야벳과 노아의 처와 세 자부가 다 방주로 들어갔고",
-    "14| 그들과 모든 들짐승이 그 종류대로, 모든 육축이 그 종류대로, 땅에 기는 모든 것이 그 종류대로, 모든 새 곧 각양의 새가 그 종류대로",
-    "15| 무릇 기식이 있는 육체가 둘씩 노아에게 나아와 방주로 들어갔으니",
-    "16| 들어간 것들은 모든 것의 암 수라 하나님이 그에게 명하신대로 들어가매 여호와께서 그를 닫아 넣으시니라",
-    "17| 홍수가 땅에 사십일을 있었는지라 물이 많아져 방주가 땅에서 떠 올랐고",
-    "18| 물이 더 많아져 땅에 창일하매 방주가 물위에 떠 다녔으며",
-    "19| 물이 땅에 더욱 창일하매 천하에 높은 산이 다 덮였더니",
-    "20| 물이 불어서 십 오 규빗이 오르매 산들이 덮인지라",
-    "21| 땅위에 움직이는 생물이 다 죽었으니 곧 새와 육축과 들짐승과 땅에 기는 모든 것과 모든 사람이라",
-    "22| 육지에 있어 코로 생물의 기식을 호흡하는 것은 다 죽었더라",
-    "23| 지면의 모든 생물을 쓸어버리시니 곧 사람과 짐승과 기는 것과 공중의 새까지라 이들은 땅에서 쓸어버림을 당하였으되 홀로 노아와 그와 함께 방주에 있던 자만 남았더라",
-    "24| 물이 일백 오십일을 땅에 창일하였더라"
+    "1| But God remembered Noah and all the beasts and all the livestock that were with him in the ark. And God made a wind blow over the earth, and the waters subsided.",
+    "2| The fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained,",
+    "3| and the waters receded from the earth continually. At the end of 150 days the waters had abated,",
+    "4| and in the seventh month, on the seventeenth day of the month, the ark came to rest on the mountains of Ararat.",
+    "5| And the waters continued to abate until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains were seen.",
+    "6| At the end of forty days Noah opened the window of the ark that he had made",
+    "7| and sent forth a raven. It went to and fro until the waters were dried up from the earth.",
+    "8| Then he sent forth a dove from him, to see if the waters had subsided from the face of the ground.",
+    "9| But the dove found no place to set her foot, and she returned to him to the ark, for the waters were still on the face of the whole earth. So he put out his hand and took her and brought her into the ark with him.",
+    "10| He waited another seven days, and again he sent forth the dove out of the ark.",
+    "11| And the dove came back to him in the evening, and behold, in her mouth was a freshly plucked olive leaf. So Noah knew that the waters had subsided from the earth.",
+    "12| Then he waited another seven days and sent forth the dove, and she did not return to him anymore.",
+    "13| In the six hundred and first year, in the first month, the first day of the month, the waters were dried from off the earth. And Noah removed the covering of the ark and looked, and behold, the face of the ground was dry.",
+    "14| In the second month, on the twenty-seventh day of the month, the earth had dried out.",
+    "15| Then God said to Noah,",
+    "16| \"Go out from the ark, you and your wife, and your sons and your sons' wives with you.",
+    "17| Bring out with you every living thing that is with you of all flesh-birds and animals and every creeping thing that creeps on the earth-that they may swarm on the earth, and be fruitful and multiply on the earth.\"",
+    "18| So Noah went out, and his sons and his wife and his sons' wives with him.",
+    "19| Every beast, every creeping thing, and every bird, everything that moves on the earth, went out by families from the ark.",
+    "20| Then Noah built an altar to the Lord and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar.",
+    "21| And when the Lord smelled the pleasing aroma, the Lord said in his heart, \"I will never again curse the ground because of man, for the intention of man's heart is evil from his youth. Neither will I ever again strike down every living creature as I have done.",
+    "22| While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease.\""
 ]
 let encoded = ` “ ” `
-theirs = `1여호와께서 노아에게 이르시되 너와 네 온 집은 방주로 들어가라 네가 이 세대에 내 앞에서 의로움을 내가 보았음이니라 2너는 모든 정결한 짐승은 암 수 일곱씩, 부정한 것은 암 수 둘씩을 네게로 취하며 3공중의 새도 암 수 일곱씩을 취하여 그 씨를 온 지면에 유전케 하라 4지금부터 칠일이면 내가 사십 주야를 땅에 비를 내려 나의 지은 모든 생물을 지면에서 쓸어 버리리라 5노아가 여호와께서 자기에게 명하신대로 다 준행하였더라
-6홍수가 땅에 있을 때에 노아가 육백세라 7노아가 아들들과 아내와 자부들과 함께 홍수를 피하여 방주에 들어갔고
-8정결한 짐승과 부정한 짐승과 새와 땅에 기는 모든 것이 9하나님이 노아에게 명하신대로 암 수 둘씩 노아에게 나아와 방주로 들어갔더니 10칠일 후에 홍수가 땅에 덮이니 11노아 육백세 되던 해 이월 곧 그 달 십칠일이라 그 날에 큰 깊음의 샘들이 터지며 하늘의 창들이 열려
-12사십 주야를 비가 땅에 쏟아졌더라 13곧 그 날에 노아와 그의 아들 셈, 함, 야벳과 노아의 처와 세 자부가 다 방주로 들어갔고
-14그들과 모든 들짐승이 그 종류대로, 모든 육축이 그 종류대로, 땅에 기는 모든 것이 그 종류대로, 모든 새 곧 각양의 새가 그 종류대로 15무릇 기식이 있는 육체가 둘씩 노아에게 나아와 방주로 들어갔으니 16들어간 것들은 모든 것의 암 수라 하나님이 그에게 명하신대로 들어가매 여호와께서 그를 닫아 넣으시니라 17홍수가 땅에 사십일을 있었는지라 물이 많아져 방주가 땅에서 떠 올랐고
-18물이 더 많아져 땅에 창일하매 방주가 물위에 떠 다녔으며 19물이 땅에 더욱 창일하매 천하에 높은 산이 다 덮였더니 20물이 불어서 십 오 규빗이 오르매 산들이 덮인지라 21땅위에 움직이는 생물이 다 죽었으니 곧 새와 육축과 들짐승과 땅에 기는 모든 것과 모든 사람이라
-22육지에 있어 코로 생물의 기식을 호흡하는 것은 다 죽었더라 23지면의 모든 생물을 쓸어버리시니 곧 사람과 짐승과 기는 것과 공중의 새까지라 이들은 땅에서 쓸어버림을 당하였으되 홀로 노아와 그와 함께 방주에 있던 자만 남았더라 24물이 일백 오십일을 땅에 창일하였더라`
+theirs = `1But God remembered Noah and all the beasts and all the livestock that were with him in the ark. And God made a wind blow over the earth, and the waters subsided. 2The fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained, 3and the waters receded from the earth continually. At the end of 150 days the waters had abated, 4and in the seventh month, on the seventeenth day of the month, the ark came to rest on the mountains of Ararat. 5And the waters continued to abate until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains were seen.
+6At the end of forty days Noah opened the window of the ark that he had made 7and sent forth a raven. It went to and fro until the waters were dried up from the earth. 8Then he sent forth a dove from him, to see if the waters had subsided from the face of the ground. 9But the dove found no place to set her foot, and she returned to him to the ark, for the waters were still on the face of the whole earth. So he put out his hand and took her and brought her into the ark with him. 10He waited another seven days, and again he sent forth the dove out of the ark. 11And the dove came back to him in the evening, and behold, in her mouth was a freshly plucked olive leaf. So Noah knew that the waters had subsided from the earth. 12Then he waited another seven days and sent forth the dove, and she did not return to him anymore.
+13In the six hundred and first year, in the first month, the first day of the month, the waters were dried from off the earth. And Noah removed the covering of the ark and looked, and behold, the face of the ground was dry. 14In the second month, on the twenty-seventh day of the month, the earth had dried out. 15Then God said to Noah, 16“Go out from the ark, you and your wife, and your sons and your sons’ wives with you. 17Bring out with you every living thing that is with you of all flesh—birds and animals and every creeping thing that creeps on the earth—that they may swarm on the earth, and be fruitful and multiply on the earth.” 18So Noah went out, and his sons and his wife and his sons’ wives with him. 19Every beast, every creeping thing, and every bird, everything that moves on the earth, went out by families from the ark.
+20Then Noah built an altar to the Lord and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar. 21And when the Lord smelled the pleasing aroma, the Lord said in his heart, “I will never again curse the ground because of man, for the intention of man’s heart is evil from his youth. Neither will I ever again strike down every living creature as I have done. 22While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease.”`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
 theirs = theirs.split("’").join("'")
+theirs = theirs.split("—").join("-")
 console.log(mine.map(v => v.split("| ").join("")).join(" ") === theirs)
 
 let sample = ""
