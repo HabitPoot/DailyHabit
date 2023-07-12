@@ -1,52 +1,44 @@
 mine = [
-    "1| And God blessed Noah and his sons and said to them, \"Be fruitful and multiply and fill the earth.",
-    "2| The fear of you and the dread of you shall be upon every beast of the earth and upon every bird of the heavens, upon everything that creeps on the ground and all the fish of the sea. Into your hand they are delivered.",
-    "3| Every moving thing that lives shall be food for you. And as I gave you the green plants, I give you everything.",
-    "4| But you shall not eat flesh with its life, that is, its blood.",
-    "5| And for your lifeblood I will require a reckoning: from every beast I will require it and from man. From his fellow man I will require a reckoning for the life of man.",
-    "6|  \"Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image.",
-    "7| And you, be fruitful and multiply, increase greatly on the earth and multiply in it.\"",
-    "8| Then God said to Noah and to his sons with him,",
-    "9| \"Behold, I establish my covenant with you and your offspring after you,",
-    "10| and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out of the ark; it is for every beast of the earth.",
-    "11| I establish my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth.\"",
-    "12| And God said, \"This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations:",
-    "13| I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth.",
-    "14| When I bring clouds over the earth and the bow is seen in the clouds,",
-    "15| I will remember my covenant that is between me and you and every living creature of all flesh. And the waters shall never again become a flood to destroy all flesh.",
-    "16| When the bow is in the clouds, I will see it and remember the everlasting covenant between God and every living creature of all flesh that is on the earth.\"",
-    "17| God said to Noah, \"This is the sign of the covenant that I have established between me and all flesh that is on the earth.\"",
-    "18| The sons of Noah who went forth from the ark were Shem, Ham, and Japheth. (Ham was the father of Canaan.)",
-    "19| These three were the sons of Noah, and from these the people of the whole earth were dispersed.",
-    "20| Noah began to be a man of the soil, and he planted a vineyard.",
-    "21| He drank of the wine and became drunk and lay uncovered in his tent.",
-    "22| And Ham, the father of Canaan, saw the nakedness of his father and told his two brothers outside.",
-    "23| Then Shem and Japheth took a garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned backward, and they did not see their father's nakedness.",
-    "24| When Noah awoke from his wine and knew what his youngest son had done to him,",
-    "25| he said, \"Cursed be Canaan; a servant of servants shall he be to his brothers.\"",
-    "26| He also said, \"Blessed be the Lord, the God of Shem; and let Canaan be his servant.",
-    "27| May God enlarge Japheth, and let him dwell in the tents of Shem, and let Canaan be his servant.\"",
-    "28| After the flood Noah lived 350 years.",
-    "29| All the days of Noah were 950 years, and he died."
+    "1| These are the generations of the sons of Noah, Shem, Ham, and Japheth. Sons were born to them after the flood.",
+    "2| The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+    "3| The sons of Gomer: Ashkenaz, Riphath, and Togarmah.",
+    "4| The sons of Javan: Elishah, Tarshish, Kittim, and Dodanim.",
+    "5| From these the coastland peoples spread in their lands, each with his own language, by their clans, in their nations.",
+    "6| The sons of Ham: Cush, Egypt, Put, and Canaan.",
+    "7| The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.",
+    "8| Cush fathered Nimrod; he was the first on earth to be a mighty man.",
+    "9| He was a mighty hunter before the Lord. Therefore it is said, \"Like Nimrod a mighty hunter before the Lord.\"",
+    "10| The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.",
+    "11| From that land he went into Assyria and built Nineveh, Rehoboth-Ir, Calah, and",
+    "12| Resen between Nineveh and Calah; that is the great city.",
+    "13| Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim,",
+    "14| Pathrusim, Casluhim (from whom the Philistines came), and Caphtorim.",
+    "15| Canaan fathered Sidon his firstborn and Heth,",
+    "16| and the Jebusites, the Amorites, the Girgashites,",
+    "17| the Hivites, the Arkites, the Sinites,",
+    "18| the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Canaanites dispersed.",
+    "19| And the territory of the Canaanites extended from Sidon in the direction of Gerar as far as Gaza, and in the direction of Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.",
+    "20| These are the sons of Ham, by their clans, their languages, their lands, and their nations.",
+    "21| To Shem also, the father of all the children of Eber, the elder brother of Japheth, children were born.",
+    "22| The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram.",
+    "23| The sons of Aram: Uz, Hul, Gether, and Mash.",
+    "24| Arpachshad fathered Shelah; and Shelah fathered Eber.",
+    "25| To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided, and his brother's name was Joktan.",
+    "26| Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,",
+    "27| Hadoram, Uzal, Diklah,",
+    "28| Obal, Abimael, Sheba,",
+    "29| Ophir, Havilah, and Jobab; all these were the sons of Joktan.",
+    "30| The territory in which they lived extended from Mesha in the direction of Sephar to the hill country of the east.",
+    "31| These are the sons of Shem, by their clans, their languages, their lands, and their nations.",
+    "32| These are the clans of the sons of Noah, according to their genealogies, in their nations, and from these the nations spread abroad on the earth after the flood."
 ]
 let encoded = ` “ ” `
-theirs = `1And God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth. 2The fear of you and the dread of you shall be upon every beast of the earth and upon every bird of the heavens, upon everything that creeps on the ground and all the fish of the sea. Into your hand they are delivered. 3Every moving thing that lives shall be food for you. And as I gave you the green plants, I give you everything. 4But you shall not eat flesh with its life, that is, its blood. 5And for your lifeblood I will require a reckoning: from every beast I will require it and from man. From his fellow man I will require a reckoning for the life of man.
-6 “Whoever sheds the blood of man,
-by man shall his blood be shed,
-for God made man in his own image.
-7And you, be fruitful and multiply, increase greatly on the earth and multiply in it.”
-8Then God said to Noah and to his sons with him, 9“Behold, I establish my covenant with you and your offspring after you, 10and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out of the ark; it is for every beast of the earth. 11I establish my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth.” 12And God said, “This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations: 13I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth. 14When I bring clouds over the earth and the bow is seen in the clouds, 15I will remember my covenant that is between me and you and every living creature of all flesh. And the waters shall never again become a flood to destroy all flesh. 16When the bow is in the clouds, I will see it and remember the everlasting covenant between God and every living creature of all flesh that is on the earth.” 17God said to Noah, “This is the sign of the covenant that I have established between me and all flesh that is on the earth.”
-18The sons of Noah who went forth from the ark were Shem, Ham, and Japheth. (Ham was the father of Canaan.) 19These three were the sons of Noah, and from these the people of the whole earth were dispersed.
-20Noah began to be a man of the soil, and he planted a vineyard. 21He drank of the wine and became drunk and lay uncovered in his tent. 22And Ham, the father of Canaan, saw the nakedness of his father and told his two brothers outside. 23Then Shem and Japheth took a garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned backward, and they did not see their father’s nakedness. 24When Noah awoke from his wine and knew what his youngest son had done to him, 25he said,
-“Cursed be Canaan;
-a servant of servants shall he be to his brothers.”
-26He also said,
-“Blessed be the Lord, the God of Shem;
-and let Canaan be his servant.
-27May God enlarge Japheth,
-and let him dwell in the tents of Shem,
-and let Canaan be his servant.”
-28After the flood Noah lived 350 years. 29All the days of Noah were 950 years, and he died.`
+theirs = `1These are the generations of the sons of Noah, Shem, Ham, and Japheth. Sons were born to them after the flood.
+2The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras. 3The sons of Gomer: Ashkenaz, Riphath, and Togarmah. 4The sons of Javan: Elishah, Tarshish, Kittim, and Dodanim. 5From these the coastland peoples spread in their lands, each with his own language, by their clans, in their nations.
+6The sons of Ham: Cush, Egypt, Put, and Canaan. 7The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan. 8Cush fathered Nimrod; he was the first on earth to be a mighty man. 9He was a mighty hunter before the Lord. Therefore it is said, “Like Nimrod a mighty hunter before the Lord.” 10The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar. 11From that land he went into Assyria and built Nineveh, Rehoboth-Ir, Calah, and 12Resen between Nineveh and Calah; that is the great city. 13Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim, 14Pathrusim, Casluhim (from whom the Philistines came), and Caphtorim.
+15Canaan fathered Sidon his firstborn and Heth, 16and the Jebusites, the Amorites, the Girgashites, 17the Hivites, the Arkites, the Sinites, 18the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Canaanites dispersed. 19And the territory of the Canaanites extended from Sidon in the direction of Gerar as far as Gaza, and in the direction of Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha. 20These are the sons of Ham, by their clans, their languages, their lands, and their nations.
+21To Shem also, the father of all the children of Eber, the elder brother of Japheth, children were born. 22The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram. 23The sons of Aram: Uz, Hul, Gether, and Mash. 24Arpachshad fathered Shelah; and Shelah fathered Eber. 25To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided, and his brother’s name was Joktan. 26Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah, 27Hadoram, Uzal, Diklah, 28Obal, Abimael, Sheba, 29Ophir, Havilah, and Jobab; all these were the sons of Joktan. 30The territory in which they lived extended from Mesha in the direction of Sephar to the hill country of the east. 31These are the sons of Shem, by their clans, their languages, their lands, and their nations.
+32These are the clans of the sons of Noah, according to their genealogies, in their nations, and from these the nations spread abroad on the earth after the flood.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
