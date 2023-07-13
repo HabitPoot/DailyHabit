@@ -921,15 +921,7 @@ right.addEventListener("click", function () {
 up.addEventListener("click", function(){
     window.scrollTo({top:0, behavior:'smooth'})
 })
-addEventListener("scroll", (event) => {
-    if(window.scrollY === 0){
-        up.classList.add("hidden")
-    } else {
-
-        up.classList.remove("hidden")
-    }
-});
-addEventListener("touchmove", (event) => {
+window.addEventListener("scroll", (event) => {
     if(window.scrollY === 0){
         up.classList.add("hidden")
     } else {
