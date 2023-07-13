@@ -3,6 +3,7 @@
     border-radius:5px;
     padding:20px;
     margin-top: 20px;
+    padding-bottom:50px;
 }
 .bg-light {
     background-color: white;
@@ -25,4 +26,14 @@
 .btn-dark{
     background-color:darkgray;
     color:white;
+}
+#up {
+    border-radius:50%;
+    height:50px;
+    width:50px;
+    background-color:lightgray;
+    position:fixed;
+    bottom:10px;
+    right:10px;
+    border-color:transparent;
 }

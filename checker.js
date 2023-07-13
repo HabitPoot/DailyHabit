@@ -1,44 +1,50 @@
 mine = [
-    "1| These are the generations of the sons of Noah, Shem, Ham, and Japheth. Sons were born to them after the flood.",
-    "2| The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
-    "3| The sons of Gomer: Ashkenaz, Riphath, and Togarmah.",
-    "4| The sons of Javan: Elishah, Tarshish, Kittim, and Dodanim.",
-    "5| From these the coastland peoples spread in their lands, each with his own language, by their clans, in their nations.",
-    "6| The sons of Ham: Cush, Egypt, Put, and Canaan.",
-    "7| The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.",
-    "8| Cush fathered Nimrod; he was the first on earth to be a mighty man.",
-    "9| He was a mighty hunter before the Lord. Therefore it is said, \"Like Nimrod a mighty hunter before the Lord.\"",
-    "10| The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.",
-    "11| From that land he went into Assyria and built Nineveh, Rehoboth-Ir, Calah, and",
-    "12| Resen between Nineveh and Calah; that is the great city.",
-    "13| Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim,",
-    "14| Pathrusim, Casluhim (from whom the Philistines came), and Caphtorim.",
-    "15| Canaan fathered Sidon his firstborn and Heth,",
-    "16| and the Jebusites, the Amorites, the Girgashites,",
-    "17| the Hivites, the Arkites, the Sinites,",
-    "18| the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Canaanites dispersed.",
-    "19| And the territory of the Canaanites extended from Sidon in the direction of Gerar as far as Gaza, and in the direction of Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.",
-    "20| These are the sons of Ham, by their clans, their languages, their lands, and their nations.",
-    "21| To Shem also, the father of all the children of Eber, the elder brother of Japheth, children were born.",
-    "22| The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram.",
-    "23| The sons of Aram: Uz, Hul, Gether, and Mash.",
-    "24| Arpachshad fathered Shelah; and Shelah fathered Eber.",
-    "25| To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided, and his brother's name was Joktan.",
-    "26| Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,",
-    "27| Hadoram, Uzal, Diklah,",
-    "28| Obal, Abimael, Sheba,",
-    "29| Ophir, Havilah, and Jobab; all these were the sons of Joktan.",
-    "30| The territory in which they lived extended from Mesha in the direction of Sephar to the hill country of the east.",
-    "31| These are the sons of Shem, by their clans, their languages, their lands, and their nations.",
-    "32| These are the clans of the sons of Noah, according to their genealogies, in their nations, and from these the nations spread abroad on the earth after the flood."
+    "1| Now the whole earth had one language and the same words.",
+    "2| And as people migrated from the east, they found a plain in the land of Shinar and settled there.",
+    "3| And they said to one another, \"Come, let us make bricks, and burn them thoroughly.\" And they had brick for stone, and bitumen for mortar.",
+    "4| Then they said, \"Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth.\"",
+    "5| And the Lord came down to see the city and the tower, which the children of man had built.",
+    "6| And the Lord said, \"Behold, they are one people, and they have all one language, and this is only the beginning of what they will do. And nothing that they propose to do will now be impossible for them.",
+    "7| Come, let us go down and there confuse their language, so that they may not understand one another's speech.\"",
+    "8| So the Lord dispersed them from there over the face of all the earth, and they left off building the city.",
+    "9| Therefore its name was called Babel, because there the Lord confused the language of all the earth. And from there the Lord dispersed them over the face of all the earth.",
+    "10| These are the generations of Shem. When Shem was 100 years old, he fathered Arpachshad two years after the flood.",
+    "11| And Shem lived after he fathered Arpachshad 500 years and had other sons and daughters.",
+    "12| When Arpachshad had lived 35 years, he fathered Shelah.",
+    "13| And Arpachshad lived after he fathered Shelah 403 years and had other sons and daughters.",
+    "14| When Shelah had lived 30 years, he fathered Eber.",
+    "15| And Shelah lived after he fathered Eber 403 years and had other sons and daughters.",
+    "16| When Eber had lived 34 years, he fathered Peleg.",
+    "17| And Eber lived after he fathered Peleg 430 years and had other sons and daughters.",
+    "18| When Peleg had lived 30 years, he fathered Reu.",
+    "19| And Peleg lived after he fathered Reu 209 years and had other sons and daughters.",
+    "20| When Reu had lived 32 years, he fathered Serug.",
+    "21| And Reu lived after he fathered Serug 207 years and had other sons and daughters.",
+    "22| When Serug had lived 30 years, he fathered Nahor.",
+    "23| And Serug lived after he fathered Nahor 200 years and had other sons and daughters.",
+    "24| When Nahor had lived 29 years, he fathered Terah.",
+    "25| And Nahor lived after he fathered Terah 119 years and had other sons and daughters.",
+    "26| When Terah had lived 70 years, he fathered Abram, Nahor, and Haran.",
+    "27| Now these are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot.",
+    "28| Haran died in the presence of his father Terah in the land of his kindred, in Ur of the Chaldeans.",
+    "29| And Abram and Nahor took wives. The name of Abram's wife was Sarai, and the name of Nahor's wife, Milcah, the daughter of Haran the father of Milcah and Iscah.",
+    "30| Now Sarai was barren; she had no child.",
+    "31| Terah took Abram his son and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram's wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan, but when they came to Haran, they settled there.",
+    "32| The days of Terah were 205 years, and Terah died in Haran."
 ]
 let encoded = ` “ ” `
-theirs = `1These are the generations of the sons of Noah, Shem, Ham, and Japheth. Sons were born to them after the flood.
-2The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras. 3The sons of Gomer: Ashkenaz, Riphath, and Togarmah. 4The sons of Javan: Elishah, Tarshish, Kittim, and Dodanim. 5From these the coastland peoples spread in their lands, each with his own language, by their clans, in their nations.
-6The sons of Ham: Cush, Egypt, Put, and Canaan. 7The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan. 8Cush fathered Nimrod; he was the first on earth to be a mighty man. 9He was a mighty hunter before the Lord. Therefore it is said, “Like Nimrod a mighty hunter before the Lord.” 10The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar. 11From that land he went into Assyria and built Nineveh, Rehoboth-Ir, Calah, and 12Resen between Nineveh and Calah; that is the great city. 13Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim, 14Pathrusim, Casluhim (from whom the Philistines came), and Caphtorim.
-15Canaan fathered Sidon his firstborn and Heth, 16and the Jebusites, the Amorites, the Girgashites, 17the Hivites, the Arkites, the Sinites, 18the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Canaanites dispersed. 19And the territory of the Canaanites extended from Sidon in the direction of Gerar as far as Gaza, and in the direction of Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha. 20These are the sons of Ham, by their clans, their languages, their lands, and their nations.
-21To Shem also, the father of all the children of Eber, the elder brother of Japheth, children were born. 22The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram. 23The sons of Aram: Uz, Hul, Gether, and Mash. 24Arpachshad fathered Shelah; and Shelah fathered Eber. 25To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided, and his brother’s name was Joktan. 26Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah, 27Hadoram, Uzal, Diklah, 28Obal, Abimael, Sheba, 29Ophir, Havilah, and Jobab; all these were the sons of Joktan. 30The territory in which they lived extended from Mesha in the direction of Sephar to the hill country of the east. 31These are the sons of Shem, by their clans, their languages, their lands, and their nations.
-32These are the clans of the sons of Noah, according to their genealogies, in their nations, and from these the nations spread abroad on the earth after the flood.`
+theirs = `1Now the whole earth had one language and the same words. 2And as people migrated from the east, they found a plain in the land of Shinar and settled there. 3And they said to one another, “Come, let us make bricks, and burn them thoroughly.” And they had brick for stone, and bitumen for mortar. 4Then they said, “Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth.” 5And the Lord came down to see the city and the tower, which the children of man had built. 6And the Lord said, “Behold, they are one people, and they have all one language, and this is only the beginning of what they will do. And nothing that they propose to do will now be impossible for them. 7Come, let us go down and there confuse their language, so that they may not understand one another’s speech.” 8So the Lord dispersed them from there over the face of all the earth, and they left off building the city. 9Therefore its name was called Babel, because there the Lord confused the language of all the earth. And from there the Lord dispersed them over the face of all the earth.
+10These are the generations of Shem. When Shem was 100 years old, he fathered Arpachshad two years after the flood. 11And Shem lived after he fathered Arpachshad 500 years and had other sons and daughters.
+12When Arpachshad had lived 35 years, he fathered Shelah. 13And Arpachshad lived after he fathered Shelah 403 years and had other sons and daughters.
+14When Shelah had lived 30 years, he fathered Eber. 15And Shelah lived after he fathered Eber 403 years and had other sons and daughters.
+16When Eber had lived 34 years, he fathered Peleg. 17And Eber lived after he fathered Peleg 430 years and had other sons and daughters.
+18When Peleg had lived 30 years, he fathered Reu. 19And Peleg lived after he fathered Reu 209 years and had other sons and daughters.
+20When Reu had lived 32 years, he fathered Serug. 21And Reu lived after he fathered Serug 207 years and had other sons and daughters.
+22When Serug had lived 30 years, he fathered Nahor. 23And Serug lived after he fathered Nahor 200 years and had other sons and daughters.
+24When Nahor had lived 29 years, he fathered Terah. 25And Nahor lived after he fathered Terah 119 years and had other sons and daughters.
+26When Terah had lived 70 years, he fathered Abram, Nahor, and Haran.
+27Now these are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot. 28Haran died in the presence of his father Terah in the land of his kindred, in Ur of the Chaldeans. 29And Abram and Nahor took wives. The name of Abram’s wife was Sarai, and the name of Nahor’s wife, Milcah, the daughter of Haran the father of Milcah and Iscah. 30Now Sarai was barren; she had no child.
+31Terah took Abram his son and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram’s wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan, but when they came to Haran, they settled there. 32The days of Terah were 205 years, and Terah died in Haran.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
@@ -49,16 +55,31 @@ console.log(mine.map(v => v.split("| ").join("")).join(" ") === theirs)
 let sample = ""
 let real = ""
 let counter = 0
+let lastVerse = 0
+let foundDouble = false
 for (let i = 0; i < theirs.length; i++) {
-
+    if (i != theirs.length - 1) {
+        if (parseInt(theirs[i]) && !foundDouble){
+            if (parseInt(theirs[i+1])){
+                lastVerse = parseInt(theirs[i] + theirs[i+1])
+                foundDouble = true
+            } else {
+                lastVerse = parseInt(theirs[i])
+                foundDouble = false
+            }
+        } else if (parseInt(theirs[i]) && foundDouble) {
+            foundDouble = false
+        }
+    }
     if (mine.map(v => v.split("| ").join("")).join(" ")[i] == theirs[i]) {
         sample += theirs[i]
         real += theirs[i]
 
     } else {
-        console.log(mine.map(v => v.split("| ").join("")).join(" ")[i])
+        console.log("Verse", lastVerse)
+        console.log(mine.map(v => v.split("| ").join("")).join(" ")[i], "|",theirs[i])
         break;
     }
 }
 console.log(sample)
-console.log(real)
+console.log(Intl.DateTimeFormat().resolvedOptions().timeZone)

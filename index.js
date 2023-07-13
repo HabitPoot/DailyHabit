@@ -722,6 +722,82 @@ let data = [
         "chapter": 10,
         "start": 1,
         "end": 32
+    },
+    {
+        "esv": [
+            "1| Now the whole earth had one language and the same words.",
+            "2| And as people migrated from the east, they found a plain in the land of Shinar and settled there.",
+            "3| And they said to one another, \"Come, let us make bricks, and burn them thoroughly.\" And they had brick for stone, and bitumen for mortar.",
+            "4| Then they said, \"Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth.\"",
+            "5| And the Lord came down to see the city and the tower, which the children of man had built.",
+            "6| And the Lord said, \"Behold, they are one people, and they have all one language, and this is only the beginning of what they will do. And nothing that they propose to do will now be impossible for them.",
+            "7| Come, let us go down and there confuse their language, so that they may not understand one another's speech.\"",
+            "8| So the Lord dispersed them from there over the face of all the earth, and they left off building the city.",
+            "9| Therefore its name was called Babel, because there the Lord confused the language of all the earth. And from there the Lord dispersed them over the face of all the earth.",
+            "10| These are the generations of Shem. When Shem was 100 years old, he fathered Arpachshad two years after the flood.",
+            "11| And Shem lived after he fathered Arpachshad 500 years and had other sons and daughters.",
+            "12| When Arpachshad had lived 35 years, he fathered Shelah.",
+            "13| And Arpachshad lived after he fathered Shelah 403 years and had other sons and daughters.",
+            "14| When Shelah had lived 30 years, he fathered Eber.",
+            "15| And Shelah lived after he fathered Eber 403 years and had other sons and daughters.",
+            "16| When Eber had lived 34 years, he fathered Peleg.",
+            "17| And Eber lived after he fathered Peleg 430 years and had other sons and daughters.",
+            "18| When Peleg had lived 30 years, he fathered Reu.",
+            "19| And Peleg lived after he fathered Reu 209 years and had other sons and daughters.",
+            "20| When Reu had lived 32 years, he fathered Serug.",
+            "21| And Reu lived after he fathered Serug 207 years and had other sons and daughters.",
+            "22| When Serug had lived 30 years, he fathered Nahor.",
+            "23| And Serug lived after he fathered Nahor 200 years and had other sons and daughters.",
+            "24| When Nahor had lived 29 years, he fathered Terah.",
+            "25| And Nahor lived after he fathered Terah 119 years and had other sons and daughters.",
+            "26| When Terah had lived 70 years, he fathered Abram, Nahor, and Haran.",
+            "27| Now these are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot.",
+            "28| Haran died in the presence of his father Terah in the land of his kindred, in Ur of the Chaldeans.",
+            "29| And Abram and Nahor took wives. The name of Abram's wife was Sarai, and the name of Nahor's wife, Milcah, the daughter of Haran the father of Milcah and Iscah.",
+            "30| Now Sarai was barren; she had no child.",
+            "31| Terah took Abram his son and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram's wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan, but when they came to Haran, they settled there.",
+            "32| The days of Terah were 205 years, and Terah died in Haran."
+        ],
+        "krv": [
+            "1| 온 땅의 구음이 하나이요 언어가 하나이었더라",
+            "2| 이에 그들이 동방으로 옮기다가 시날 평지를 만나 거기 거하고",
+            "3| 서로 말하되 자, 벽돌을 만들어 견고히 굽자 하고 이에 벽돌로 돌을 대신하며 역청으로 진흙을 대신하고",
+            "4| 또 말하되 자, 성과 대를 쌓아 대 꼭대기를 하늘에 닿게하여 우리 이름을 내고 온 지면에 흩어짐을 면하자 하였더니",
+            "5| 여호와께서 인생들의 쌓는 성과 대를 보시려고 강림하셨더라",
+            "6| 여호와께서 가라사대 이 무리가 한 족속이요 언어도 하나이므로 이같이 시작하였으니 이후로는 그 경영하는 일을 금지할 수 없으리로다",
+            "7| 자, 우리가 내려가서 거기서 그들의 언어를 혼잡케 하여 그들로 서로 알아듣지 못하게 하자 하시고",
+            "8| 여호와께서 거기서 그들을 온 지면에 흩으신고로 그들이 성 쌓기를 그쳤더라",
+            "9| 그러므로 그 이름을 바벨이라 하니 이는 여호와께서 거기서 온 땅의 언어를 혼잡케 하셨음이라 여호와께서 거기서 그들을 온 지면에 흩으셨더라",
+            "10| 셈의 후예는 이러하니라 셈은 일백세 곧 홍수 후 이년에 아르박삿을 낳았고",
+            "11| 아르박삿을 낳은 후에 오백년을 지내며 자녀를 낳았으며",
+            "12| 아르박삿은 삼십 오세에 셀라를 낳았고",
+            "13| 셀라를 낳은 후에 사백 삼년을 지내며 자녀를 낳았으며",
+            "14| 셀라는 삼십세에 에벨을 낳았고",
+            "15| 에벨을 낳은 후에 사백 삼년을 지내며 자녀를 낳았으며",
+            "16| 에벨은 삼십 사세에 벨렉을 낳았고",
+            "17| 벨렉을 낳은 후에 사백 삼십년을 지내며 자녀를 낳았으며",
+            "18| 벨렉은 삼십세에 르우를 낳았고",
+            "19| 르우를 낳은 후에 이백 구년을 지내며 자녀를 낳았으며",
+            "20| 르우는 삼십 이세에 스룩을 낳았고",
+            "21| 스룩을 낳은 후에 이백 칠년을 지내며 자녀를 낳았으며",
+            "22| 스룩은 삼십세에 나홀을 낳았고",
+            "23| 나홀을 낳은 후에 이백년을 지내며 자녀를 낳았으며",
+            "24| 나홀은 이십 구세에 데라를 낳았고",
+            "25| 데라를 낳은 후에 일백 십구년을 지내며 자녀를 낳았으며",
+            "26| 데라는 칠십세에 아브람과 나홀과 하란을 낳았더라",
+            "27| 데라의 후예는 이러하니라 데라는 아브람과 나홀과 하란을 낳았고 하란은 롯을 낳았으며",
+            "28| 하란은 그 아비 데라보다 먼저 본토 갈대아 우르에서 죽었더라",
+            "29| 아브람과 나홀이 장가 들었으니 아브람의 아내 이름은 사래며 나홀의 아내 이름은 밀가니 하란의 딸이요 하란은 밀가의 아비며 또 이스가의 아비더라",
+            "30| 사래는 잉태하지 못하므로 자식이 없었더라",
+            "31| 데라가 그 아들 아브람과 하란의 아들 그 손자 롯과 그 자부 아브람의 아내 사래를 데리고 갈대아 우르에서 떠나 가나안 땅으로 가고자 하더니 하란에 이르러 거기 거하였으며",
+            "32| 데라는 이백 오세를 향수하고 하란에서 죽었더라"
+        ],
+        "date": "2023-07-12T08:00:00.000Z",
+        "book": "Genesis",
+        "kbook": "창세기",
+        "chapter": 11,
+        "start": 1,
+        "end": 32
     }
 ]
 let root = document.getElementById("root")
@@ -735,6 +811,7 @@ let textTags = document.getElementsByClassName("text-tags")
 let tracker = document.getElementById("tracker")
 let left = document.getElementById("left")
 let right = document.getElementById("right")
+let up = document.getElementById("up")
 let current = data[data.length - 1];
 
 function retrieveSettings() {
@@ -761,7 +838,14 @@ function updateDay(direction) {
     }
     current = data[pos]
     localStorage.setItem('progress', pos.toString())
-    tracker.innerHTML = `Day ${pos + 1} of ${data.length} | ${new Date(current.date).toLocaleDateString()}`
+    let locale = Intl.DateTimeFormat().resolvedOptions().timeZone
+    if (locale === "America/Los_Angeles") {
+        tracker.innerHTML = `Day ${pos + 1} of ${data.length} | ${new Date(current.date).toLocaleDateString()}`
+    } else {
+        let koreaTime = current.date.substring(0, 11) + "17" + current.date.substring(13)
+        tracker.innerHTML = `Day ${pos + 1} of ${data.length} | ${new Date(koreaTime).toLocaleDateString('ko-KR', {timeZone:'Asia/Seoul'})}`
+    }
+    
     let lang = localStorage.getItem('language')
     setLanguage(lang)
 }
@@ -833,6 +917,9 @@ left.addEventListener("click", function () {
 })
 right.addEventListener("click", function () {
     updateDay('right')
+})
+up.addEventListener("click", function(){
+    window.scrollTo({top:0, behavior:'smooth'})
 })
 
 retrieveSettings()
