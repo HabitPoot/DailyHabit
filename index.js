@@ -929,6 +929,14 @@ addEventListener("scroll", (event) => {
         up.classList.remove("hidden")
     }
 });
+addEventListener("touchmove", (event) => {
+    if(window.scrollY === 0){
+        up.classList.add("hidden")
+    } else {
+
+        up.classList.remove("hidden")
+    }
+});
 
 
 retrieveSettings()
