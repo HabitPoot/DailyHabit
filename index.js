@@ -798,6 +798,58 @@ let data = [
         "chapter": 11,
         "start": 1,
         "end": 32
+    },
+    {
+        "esv": [
+            "1| Now the Lord said to Abram, \"Go from your country and your kindred and your father's house to the land that I will show you.",
+            "2| And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.",
+            "3| I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.\"",
+            "4| So Abram went, as the Lord had told him, and Lot went with him. Abram was seventy-five years old when he departed from Haran.",
+            "5| And Abram took Sarai his wife, and Lot his brother's son, and all their possessions that they had gathered, and the people that they had acquired in Haran, and they set out to go to the land of Canaan. When they came to the land of Canaan,",
+            "6| Abram passed through the land to the place at Shechem, to the oak of Moreh. At that time the Canaanites were in the land.",
+            "7| Then the Lord appeared to Abram and said, \"To your offspring I will give this land.\" So he built there an altar to the Lord, who had appeared to him.",
+            "8| From there he moved to the hill country on the east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. And there he built an altar to the Lord and called upon the name of the Lord.",
+            "9| And Abram journeyed on, still going toward the Negeb.",
+            "10| Now there was a famine in the land. So Abram went down to Egypt to sojourn there, for the famine was severe in the land.",
+            "11| When he was about to enter Egypt, he said to Sarai his wife, \"I know that you are a woman beautiful in appearance,",
+            "12| and when the Egyptians see you, they will say, \'This is his wife.\' Then they will kill me, but they will let you live.",
+            "13| Say you are my sister, that it may go well with me because of you, and that my life may be spared for your sake.\"",
+            "14| When Abram entered Egypt, the Egyptians saw that the woman was very beautiful.",
+            "15| And when the princes of Pharaoh saw her, they praised her to Pharaoh. And the woman was taken into Pharaoh's house.",
+            "16| And for her sake he dealt well with Abram; and he had sheep, oxen, male donkeys, male servants, female servants, female donkeys, and camels.",
+            "17| But the Lord afflicted Pharaoh and his house with great plagues because of Sarai, Abram's wife.",
+            "18| So Pharaoh called Abram and said, \"What is this you have done to me? Why did you not tell me that she was your wife?",
+            "19| Why did you say, \'She is my sister,\' so that I took her for my wife? Now then, here is your wife; take her, and go.\"",
+            "20| And Pharaoh gave men orders concerning him, and they sent him away with his wife and all that he had."
+        ],
+        "krv": [
+            "1| 여호와께서 아브람에게 이르시되 너는 너의 본토 친척 아비 집을 떠나 내가 네게 지시할 땅으로 가라",
+            "2| 내가 너로 큰 민족을 이루고 네게 복을 주어 네 이름을 창대케 하리니 너는 복의 근원이 될찌라",
+            "3| 너를 축복하는 자에게는 내가 복을 내리고 너를 저주하는 자에게는 내가 저주하리니 땅의 모든 족속이 너를 인하여 복을 얻을 것이니라 하신지라",
+            "4| 이에 아브람이 여호와의 말씀을 좇아 갔고 롯도 그와 함께 갔으며 아브람이 하란을 떠날 때에 그 나이 칠십 오세였더라",
+            "5| 아브람이 그 아내 사래와 조카 롯과 하란에서 모은 모든 소유와 얻은 사람들을 이끌고 가나안 땅으로 가려고 떠나서 마침내 가나안 땅에 들어 갔더라",
+            "6| 아브람이 그 땅을 통과하여 세겜 땅 모레 상수리나무에 이르니 그 때에 가나안 사람이 그 땅에 거하였더라",
+            "7| 여호와께서 아브람에게 나타나 가라사대 내가 이 땅을 네 자손에게 주리라 하신지라 그가 자기에게 나타나신 여호와를 위하여 그곳에 단을 쌓고",
+            "8| 거기서 벧엘 동편 산으로 옮겨 장막을 치니 서는 벧엘이요 동은 아이라 그가 그곳에서 여호와를 위하여 단을 쌓고 여호와의 이름을 부르더니",
+            "9| 점점 남방으로 옮겨 갔더라",
+            "10| 그 땅에 기근이 있으므로 아브람이 애굽에 우거하려 하여 그리로 내려갔으니 이는 그 땅에 기근이 심하였음이라",
+            "11| 그가 애굽에 가까이 이를 때에 그 아내 사래더러 말하되 나 알기에 그대는 아리따운 여인이라",
+            "12| 애굽 사람이 그대를 볼 때에 이르기를 이는 그의 아내라 하고 나는 죽이고 그대는 살리리니",
+            "13| 원컨대 그대는 나의 누이라 하라 그리하면 내가 그대로 인하여 안전하고 내 목숨이 그대로 인하여 보존하겠노라 하니라",
+            "14| 아브람이 애굽에 이르렀을 때에 애굽 사람들이 그 여인의 심히 아리따움을 보았고",
+            "15| 바로의 대신들도 그를 보고 바로 앞에 칭찬하므로 그 여인을 바로의 궁으로 취하여 들인지라",
+            "16| 이에 바로가 그를 인하여 아브람을 후대하므로 아브람이 양과 소와 노비와 암 수 나귀와 약대를 얻었더라",
+            "17| 여호와께서 아브람의 아내 사래의 연고로 바로와 그 집에 큰 재앙을 내리신지라",
+            "18| 바로가 아브람을 불러서 이르되 네가 어찌하여 나를 이렇게 대접하였느냐 네가 어찌하여 그를 네 아내라고 내게 고하지 아니하였느냐",
+            "19| 네가 어찌 그를 누이라 하여 나로 그를 취하여 아내를 삼게 하였느냐 네 아내가 여기 있으니 이제 데려가라 하고",
+            "20| 바로가 사람들에게 그의 일을 명하매 그들이 그 아내와 그 모든 소유를 보내었더라"
+        ],
+        "date": "2023-07-13T08:00:00.000Z",
+        "book": "Genesis",
+        "kbook": "창세기",
+        "chapter": 12,
+        "start": 1,
+        "end": 20
     }
 ]
 let root = document.getElementById("root")

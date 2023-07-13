@@ -1,53 +1,34 @@
 mine = [
-    "1| Now the whole earth had one language and the same words.",
-    "2| And as people migrated from the east, they found a plain in the land of Shinar and settled there.",
-    "3| And they said to one another, \"Come, let us make bricks, and burn them thoroughly.\" And they had brick for stone, and bitumen for mortar.",
-    "4| Then they said, \"Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth.\"",
-    "5| And the Lord came down to see the city and the tower, which the children of man had built.",
-    "6| And the Lord said, \"Behold, they are one people, and they have all one language, and this is only the beginning of what they will do. And nothing that they propose to do will now be impossible for them.",
-    "7| Come, let us go down and there confuse their language, so that they may not understand one another's speech.\"",
-    "8| So the Lord dispersed them from there over the face of all the earth, and they left off building the city.",
-    "9| Therefore its name was called Babel, because there the Lord confused the language of all the earth. And from there the Lord dispersed them over the face of all the earth.",
-    "10| These are the generations of Shem. When Shem was 100 years old, he fathered Arpachshad two years after the flood.",
-    "11| And Shem lived after he fathered Arpachshad 500 years and had other sons and daughters.",
-    "12| When Arpachshad had lived 35 years, he fathered Shelah.",
-    "13| And Arpachshad lived after he fathered Shelah 403 years and had other sons and daughters.",
-    "14| When Shelah had lived 30 years, he fathered Eber.",
-    "15| And Shelah lived after he fathered Eber 403 years and had other sons and daughters.",
-    "16| When Eber had lived 34 years, he fathered Peleg.",
-    "17| And Eber lived after he fathered Peleg 430 years and had other sons and daughters.",
-    "18| When Peleg had lived 30 years, he fathered Reu.",
-    "19| And Peleg lived after he fathered Reu 209 years and had other sons and daughters.",
-    "20| When Reu had lived 32 years, he fathered Serug.",
-    "21| And Reu lived after he fathered Serug 207 years and had other sons and daughters.",
-    "22| When Serug had lived 30 years, he fathered Nahor.",
-    "23| And Serug lived after he fathered Nahor 200 years and had other sons and daughters.",
-    "24| When Nahor had lived 29 years, he fathered Terah.",
-    "25| And Nahor lived after he fathered Terah 119 years and had other sons and daughters.",
-    "26| When Terah had lived 70 years, he fathered Abram, Nahor, and Haran.",
-    "27| Now these are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot.",
-    "28| Haran died in the presence of his father Terah in the land of his kindred, in Ur of the Chaldeans.",
-    "29| And Abram and Nahor took wives. The name of Abram's wife was Sarai, and the name of Nahor's wife, Milcah, the daughter of Haran the father of Milcah and Iscah.",
-    "30| Now Sarai was barren; she had no child.",
-    "31| Terah took Abram his son and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram's wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan, but when they came to Haran, they settled there.",
-    "32| The days of Terah were 205 years, and Terah died in Haran."
+    "1| Now the Lord said to Abram, \"Go from your country and your kindred and your father's house to the land that I will show you.",
+    "2| And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.",
+    "3| I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.\"",
+    "4| So Abram went, as the Lord had told him, and Lot went with him. Abram was seventy-five years old when he departed from Haran.",
+    "5| And Abram took Sarai his wife, and Lot his brother's son, and all their possessions that they had gathered, and the people that they had acquired in Haran, and they set out to go to the land of Canaan. When they came to the land of Canaan,",
+    "6| Abram passed through the land to the place at Shechem, to the oak of Moreh. At that time the Canaanites were in the land.",
+    "7| Then the Lord appeared to Abram and said, \"To your offspring I will give this land.\" So he built there an altar to the Lord, who had appeared to him.",
+    "8| From there he moved to the hill country on the east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. And there he built an altar to the Lord and called upon the name of the Lord.",
+    "9| And Abram journeyed on, still going toward the Negeb.",
+    "10| Now there was a famine in the land. So Abram went down to Egypt to sojourn there, for the famine was severe in the land.",
+    "11| When he was about to enter Egypt, he said to Sarai his wife, \"I know that you are a woman beautiful in appearance,",
+    "12| and when the Egyptians see you, they will say, \'This is his wife.\' Then they will kill me, but they will let you live.",
+    "13| Say you are my sister, that it may go well with me because of you, and that my life may be spared for your sake.\"",
+    "14| When Abram entered Egypt, the Egyptians saw that the woman was very beautiful.",
+    "15| And when the princes of Pharaoh saw her, they praised her to Pharaoh. And the woman was taken into Pharaoh's house.",
+    "16| And for her sake he dealt well with Abram; and he had sheep, oxen, male donkeys, male servants, female servants, female donkeys, and camels.",
+    "17| But the Lord afflicted Pharaoh and his house with great plagues because of Sarai, Abram's wife.",
+    "18| So Pharaoh called Abram and said, \"What is this you have done to me? Why did you not tell me that she was your wife?",
+    "19| Why did you say, \'She is my sister,\' so that I took her for my wife? Now then, here is your wife; take her, and go.\"",
+    "20| And Pharaoh gave men orders concerning him, and they sent him away with his wife and all that he had."
 ]
 let encoded = ` “ ” `
-theirs = `1Now the whole earth had one language and the same words. 2And as people migrated from the east, they found a plain in the land of Shinar and settled there. 3And they said to one another, “Come, let us make bricks, and burn them thoroughly.” And they had brick for stone, and bitumen for mortar. 4Then they said, “Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth.” 5And the Lord came down to see the city and the tower, which the children of man had built. 6And the Lord said, “Behold, they are one people, and they have all one language, and this is only the beginning of what they will do. And nothing that they propose to do will now be impossible for them. 7Come, let us go down and there confuse their language, so that they may not understand one another’s speech.” 8So the Lord dispersed them from there over the face of all the earth, and they left off building the city. 9Therefore its name was called Babel, because there the Lord confused the language of all the earth. And from there the Lord dispersed them over the face of all the earth.
-10These are the generations of Shem. When Shem was 100 years old, he fathered Arpachshad two years after the flood. 11And Shem lived after he fathered Arpachshad 500 years and had other sons and daughters.
-12When Arpachshad had lived 35 years, he fathered Shelah. 13And Arpachshad lived after he fathered Shelah 403 years and had other sons and daughters.
-14When Shelah had lived 30 years, he fathered Eber. 15And Shelah lived after he fathered Eber 403 years and had other sons and daughters.
-16When Eber had lived 34 years, he fathered Peleg. 17And Eber lived after he fathered Peleg 430 years and had other sons and daughters.
-18When Peleg had lived 30 years, he fathered Reu. 19And Peleg lived after he fathered Reu 209 years and had other sons and daughters.
-20When Reu had lived 32 years, he fathered Serug. 21And Reu lived after he fathered Serug 207 years and had other sons and daughters.
-22When Serug had lived 30 years, he fathered Nahor. 23And Serug lived after he fathered Nahor 200 years and had other sons and daughters.
-24When Nahor had lived 29 years, he fathered Terah. 25And Nahor lived after he fathered Terah 119 years and had other sons and daughters.
-26When Terah had lived 70 years, he fathered Abram, Nahor, and Haran.
-27Now these are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot. 28Haran died in the presence of his father Terah in the land of his kindred, in Ur of the Chaldeans. 29And Abram and Nahor took wives. The name of Abram’s wife was Sarai, and the name of Nahor’s wife, Milcah, the daughter of Haran the father of Milcah and Iscah. 30Now Sarai was barren; she had no child.
-31Terah took Abram his son and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram’s wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan, but when they came to Haran, they settled there. 32The days of Terah were 205 years, and Terah died in Haran.`
+theirs = `1Now the Lord said to Abram, “Go from your country and your kindred and your father’s house to the land that I will show you. 2And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. 3I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.”
+4So Abram went, as the Lord had told him, and Lot went with him. Abram was seventy-five years old when he departed from Haran. 5And Abram took Sarai his wife, and Lot his brother’s son, and all their possessions that they had gathered, and the people that they had acquired in Haran, and they set out to go to the land of Canaan. When they came to the land of Canaan, 6Abram passed through the land to the place at Shechem, to the oak of Moreh. At that time the Canaanites were in the land. 7Then the Lord appeared to Abram and said, “To your offspring I will give this land.” So he built there an altar to the Lord, who had appeared to him. 8From there he moved to the hill country on the east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. And there he built an altar to the Lord and called upon the name of the Lord. 9And Abram journeyed on, still going toward the Negeb.
+10Now there was a famine in the land. So Abram went down to Egypt to sojourn there, for the famine was severe in the land. 11When he was about to enter Egypt, he said to Sarai his wife, “I know that you are a woman beautiful in appearance, 12and when the Egyptians see you, they will say, ‘This is his wife.’ Then they will kill me, but they will let you live. 13Say you are my sister, that it may go well with me because of you, and that my life may be spared for your sake.” 14When Abram entered Egypt, the Egyptians saw that the woman was very beautiful. 15And when the princes of Pharaoh saw her, they praised her to Pharaoh. And the woman was taken into Pharaoh’s house. 16And for her sake he dealt well with Abram; and he had sheep, oxen, male donkeys, male servants, female servants, female donkeys, and camels.
+17But the Lord afflicted Pharaoh and his house with great plagues because of Sarai, Abram’s wife. 18So Pharaoh called Abram and said, “What is this you have done to me? Why did you not tell me that she was your wife? 19Why did you say, ‘She is my sister,’ so that I took her for my wife? Now then, here is your wife; take her, and go.” 20And Pharaoh gave men orders concerning him, and they sent him away with his wife and all that he had.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
+theirs = theirs.split("‘").join("'")
 theirs = theirs.split("’").join("'")
 theirs = theirs.split("—").join("-")
 console.log(mine.map(v => v.split("| ").join("")).join(" ") === theirs)
