@@ -1,30 +1,28 @@
 mine = [
-    "1| Now the Lord said to Abram, \"Go from your country and your kindred and your father's house to the land that I will show you.",
-    "2| And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.",
-    "3| I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.\"",
-    "4| So Abram went, as the Lord had told him, and Lot went with him. Abram was seventy-five years old when he departed from Haran.",
-    "5| And Abram took Sarai his wife, and Lot his brother's son, and all their possessions that they had gathered, and the people that they had acquired in Haran, and they set out to go to the land of Canaan. When they came to the land of Canaan,",
-    "6| Abram passed through the land to the place at Shechem, to the oak of Moreh. At that time the Canaanites were in the land.",
-    "7| Then the Lord appeared to Abram and said, \"To your offspring I will give this land.\" So he built there an altar to the Lord, who had appeared to him.",
-    "8| From there he moved to the hill country on the east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. And there he built an altar to the Lord and called upon the name of the Lord.",
-    "9| And Abram journeyed on, still going toward the Negeb.",
-    "10| Now there was a famine in the land. So Abram went down to Egypt to sojourn there, for the famine was severe in the land.",
-    "11| When he was about to enter Egypt, he said to Sarai his wife, \"I know that you are a woman beautiful in appearance,",
-    "12| and when the Egyptians see you, they will say, \'This is his wife.\' Then they will kill me, but they will let you live.",
-    "13| Say you are my sister, that it may go well with me because of you, and that my life may be spared for your sake.\"",
-    "14| When Abram entered Egypt, the Egyptians saw that the woman was very beautiful.",
-    "15| And when the princes of Pharaoh saw her, they praised her to Pharaoh. And the woman was taken into Pharaoh's house.",
-    "16| And for her sake he dealt well with Abram; and he had sheep, oxen, male donkeys, male servants, female servants, female donkeys, and camels.",
-    "17| But the Lord afflicted Pharaoh and his house with great plagues because of Sarai, Abram's wife.",
-    "18| So Pharaoh called Abram and said, \"What is this you have done to me? Why did you not tell me that she was your wife?",
-    "19| Why did you say, \'She is my sister,\' so that I took her for my wife? Now then, here is your wife; take her, and go.\"",
-    "20| And Pharaoh gave men orders concerning him, and they sent him away with his wife and all that he had."
+    "1| So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, into the Negeb.",
+    "2| Now Abram was very rich in livestock, in silver, and in gold.",
+    "3| And he journeyed on from the Negeb as far as Bethel to the place where his tent had been at the beginning, between Bethel and Ai,",
+    "4| to the place where he had made an altar at the first. And there Abram called upon the name of the Lord.",
+    "5| And Lot, who went with Abram, also had flocks and herds and tents,",
+    "6| so that the land could not support both of them dwelling together; for their possessions were so great that they could not dwell together,",
+    "7| and there was strife between the herdsmen of Abram's livestock and the herdsmen of Lot's livestock. At that time the Canaanites and the Perizzites were dwelling in the land.",
+    "8| Then Abram said to Lot, \"Let there be no strife between you and me, and between your herdsmen and my herdsmen, for we are kinsmen.",
+    "9| Is not the whole land before you? Separate yourself from me. If you take the left hand, then I will go to the right, or if you take the right hand, then I will go to the left.\"",
+    "10| And Lot lifted up his eyes and saw that the Jordan Valley was well watered everywhere like the garden of the Lord, like the land of Egypt, in the direction of Zoar. (This was before the Lord destroyed Sodom and Gomorrah.)",
+    "11| So Lot chose for himself all the Jordan Valley, and Lot journeyed east. Thus they separated from each other.",
+    "12| Abram settled in the land of Canaan, while Lot settled among the cities of the valley and moved his tent as far as Sodom.",
+    "13| Now the men of Sodom were wicked, great sinners against the Lord.",
+    "14| The Lord said to Abram, after Lot had separated from him, \"Lift up your eyes and look from the place where you are, northward and southward and eastward and westward,",
+    "15| for all the land that you see I will give to you and to your offspring forever.",
+    "16| I will make your offspring as the dust of the earth, so that if one can count the dust of the earth, your offspring also can be counted.",
+    "17| Arise, walk through the length and the breadth of the land, for I will give it to you.\"",
+    "18| So Abram moved his tent and came and settled by the oaks of Mamre, which are at Hebron, and there he built an altar to the Lord."
 ]
 let encoded = ` “ ” `
-theirs = `1Now the Lord said to Abram, “Go from your country and your kindred and your father’s house to the land that I will show you. 2And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. 3I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.”
-4So Abram went, as the Lord had told him, and Lot went with him. Abram was seventy-five years old when he departed from Haran. 5And Abram took Sarai his wife, and Lot his brother’s son, and all their possessions that they had gathered, and the people that they had acquired in Haran, and they set out to go to the land of Canaan. When they came to the land of Canaan, 6Abram passed through the land to the place at Shechem, to the oak of Moreh. At that time the Canaanites were in the land. 7Then the Lord appeared to Abram and said, “To your offspring I will give this land.” So he built there an altar to the Lord, who had appeared to him. 8From there he moved to the hill country on the east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. And there he built an altar to the Lord and called upon the name of the Lord. 9And Abram journeyed on, still going toward the Negeb.
-10Now there was a famine in the land. So Abram went down to Egypt to sojourn there, for the famine was severe in the land. 11When he was about to enter Egypt, he said to Sarai his wife, “I know that you are a woman beautiful in appearance, 12and when the Egyptians see you, they will say, ‘This is his wife.’ Then they will kill me, but they will let you live. 13Say you are my sister, that it may go well with me because of you, and that my life may be spared for your sake.” 14When Abram entered Egypt, the Egyptians saw that the woman was very beautiful. 15And when the princes of Pharaoh saw her, they praised her to Pharaoh. And the woman was taken into Pharaoh’s house. 16And for her sake he dealt well with Abram; and he had sheep, oxen, male donkeys, male servants, female servants, female donkeys, and camels.
-17But the Lord afflicted Pharaoh and his house with great plagues because of Sarai, Abram’s wife. 18So Pharaoh called Abram and said, “What is this you have done to me? Why did you not tell me that she was your wife? 19Why did you say, ‘She is my sister,’ so that I took her for my wife? Now then, here is your wife; take her, and go.” 20And Pharaoh gave men orders concerning him, and they sent him away with his wife and all that he had.`
+theirs = `1So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, into the Negeb.
+2Now Abram was very rich in livestock, in silver, and in gold. 3And he journeyed on from the Negeb as far as Bethel to the place where his tent had been at the beginning, between Bethel and Ai, 4to the place where he had made an altar at the first. And there Abram called upon the name of the Lord. 5And Lot, who went with Abram, also had flocks and herds and tents, 6so that the land could not support both of them dwelling together; for their possessions were so great that they could not dwell together, 7and there was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. At that time the Canaanites and the Perizzites were dwelling in the land.
+8Then Abram said to Lot, “Let there be no strife between you and me, and between your herdsmen and my herdsmen, for we are kinsmen. 9Is not the whole land before you? Separate yourself from me. If you take the left hand, then I will go to the right, or if you take the right hand, then I will go to the left.” 10And Lot lifted up his eyes and saw that the Jordan Valley was well watered everywhere like the garden of the Lord, like the land of Egypt, in the direction of Zoar. (This was before the Lord destroyed Sodom and Gomorrah.) 11So Lot chose for himself all the Jordan Valley, and Lot journeyed east. Thus they separated from each other. 12Abram settled in the land of Canaan, while Lot settled among the cities of the valley and moved his tent as far as Sodom. 13Now the men of Sodom were wicked, great sinners against the Lord.
+14The Lord said to Abram, after Lot had separated from him, “Lift up your eyes and look from the place where you are, northward and southward and eastward and westward, 15for all the land that you see I will give to you and to your offspring forever. 16I will make your offspring as the dust of the earth, so that if one can count the dust of the earth, your offspring also can be counted. 17Arise, walk through the length and the breadth of the land, for I will give it to you.” 18So Abram moved his tent and came and settled by the oaks of Mamre, which are at Hebron, and there he built an altar to the Lord.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')

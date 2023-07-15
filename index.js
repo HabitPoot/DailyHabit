@@ -850,6 +850,54 @@ let data = [
         "chapter": 12,
         "start": 1,
         "end": 20
+    },
+    {
+        "esv": [
+            "1| So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, into the Negeb.",
+            "2| Now Abram was very rich in livestock, in silver, and in gold.",
+            "3| And he journeyed on from the Negeb as far as Bethel to the place where his tent had been at the beginning, between Bethel and Ai,",
+            "4| to the place where he had made an altar at the first. And there Abram called upon the name of the Lord.",
+            "5| And Lot, who went with Abram, also had flocks and herds and tents,",
+            "6| so that the land could not support both of them dwelling together; for their possessions were so great that they could not dwell together,",
+            "7| and there was strife between the herdsmen of Abram's livestock and the herdsmen of Lot's livestock. At that time the Canaanites and the Perizzites were dwelling in the land.",
+            "8| Then Abram said to Lot, \"Let there be no strife between you and me, and between your herdsmen and my herdsmen, for we are kinsmen.",
+            "9| Is not the whole land before you? Separate yourself from me. If you take the left hand, then I will go to the right, or if you take the right hand, then I will go to the left.\"",
+            "10| And Lot lifted up his eyes and saw that the Jordan Valley was well watered everywhere like the garden of the Lord, like the land of Egypt, in the direction of Zoar. (This was before the Lord destroyed Sodom and Gomorrah.)",
+            "11| So Lot chose for himself all the Jordan Valley, and Lot journeyed east. Thus they separated from each other.",
+            "12| Abram settled in the land of Canaan, while Lot settled among the cities of the valley and moved his tent as far as Sodom.",
+            "13| Now the men of Sodom were wicked, great sinners against the Lord.",
+            "14| The Lord said to Abram, after Lot had separated from him, \"Lift up your eyes and look from the place where you are, northward and southward and eastward and westward,",
+            "15| for all the land that you see I will give to you and to your offspring forever.",
+            "16| I will make your offspring as the dust of the earth, so that if one can count the dust of the earth, your offspring also can be counted.",
+            "17| Arise, walk through the length and the breadth of the land, for I will give it to you.\"",
+            "18| So Abram moved his tent and came and settled by the oaks of Mamre, which are at Hebron, and there he built an altar to the Lord."
+        ],
+        "krv": [
+            "1| 아브람이 애굽에서 나올새 그와 그 아내와 모든 소유며 롯도 함께하여 남방으로 올라가니",
+            "2| 아브람에게 육축과 은금이 풍부하였더라",
+            "3| 그가 남방에서부터 발행하여 벧엘에 이르며 벧엘과 아이 사이 전에 장막 쳤던 곳에 이르니",
+            "4| 그가 처음으로 단을 쌓은 곳이라 그가 거기서 여호와의 이름을 불렀더라",
+            "5| 아브람의 일행 롯도 양과 소와 장막이 있으므로",
+            "6| 그 땅이 그들의 동거함을 용납지 못하였으니 곧 그들의 소유가 많아서 동거할 수 없었음이라",
+            "7| 그러므로 아브람의 가축의 목자와 롯의 가축의 목자가 서로 다투고 또 가나안 사람과 브리스 사람도 그 땅에 거하였는지라",
+            "8| 아브람이 롯에게 이르되 우리는 한 골육이라 나나 너나 내 목자나 네 목자나 서로 다투게 말자",
+            "9| 네 앞에 온 땅이 있지 아니하냐 나를 떠나라 네가 좌하면 나는 우하고 네가 우하면 나는 좌하리라",
+            "10| 이에 롯이 눈을 들어 요단 들을 바라본즉 소알까지 온 땅에 물이 넉넉하니 여호와께서 소돔과 고모라를 멸하시기 전이었는고로 여호와의 동산 같고 애굽 땅과 같았더라",
+            "11| 그러므로 롯이 요단 온 들을 택하고 동으로 옮기니 그들이 서로 떠난지라",
+            "12| 아브람은 가나안 땅에 거하였고 롯은 평지 성읍들에 머무르며 그 장막을 옮겨 소돔까지 이르렀더라",
+            "13| 소돔 사람은 악하여 여호와 앞에 큰 죄인이었더라",
+            "14| 롯이 아브람을 떠난 후에 여호와께서 아브람에게 이르시되 너는 눈을 들어 너 있는 곳에서 동서남북을 바라보라",
+            "15| 보이는 땅을 내가 너와 네 자손에게 주리니 영원히 이르리라",
+            "16| 내가 네 자손으로 땅의 티끌 같게 하리니 사람이 땅의 티끌을 능히 셀 수 있을찐대 네 자손도 세리라",
+            "17| 너는 일어나 그 땅을 종과 횡으로 행하여 보라 내가 그것을 네게 주리라",
+            "18| 이에 아브람이 장막을 옮겨 헤브론에 있는 마므레 상수리 수풀에 이르러 거하며 거기서 여호와를 위하여 단을 쌓았더라"
+        ],
+        "date": "2023-07-14T08:00:00.000Z",
+        "book": "Genesis",
+        "kbook": "창세기",
+        "chapter": 13,
+        "start": 1,
+        "end": 18
     }
 ]
 let root = document.getElementById("root")
