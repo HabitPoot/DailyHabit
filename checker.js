@@ -1,34 +1,31 @@
 mine = [
-    "1| 당시에 시날왕 아므라벨과 엘라살왕 아리옥과 엘람왕 그돌라오멜과 고임왕 디달이",
-    "2| 소돔왕 베라와 고모라왕 비르사와 아드마왕 시납과 스보임왕 세메벨과 벨라 곧 소알왕과 싸우니라",
-    "3| 이들이 다 싯딤 골짜기 곧 지금 염해에 모였더라",
-    "4| 이들이 십 이년 동안 그돌라오멜을 섬기다가 제 십삼년에 배반한지라",
-    "5| 제 십사년에 그돌라오멜과 그와 동맹한 왕들이 나와서 아스드롯 가르나임에서 르바 족속을, 함에서 수스 족속을, 사웨 기랴다임에서 엠 족속을 치고",
-    "6| 호리 족속을 그 산 세일에서 쳐서 광야 근방 엘바란까지 이르렀으며",
-    "7| 그들이 돌이켜 엔미스밧 곧 가데스에 이르러 아말렉 족속의 온 땅과 하사손다말에 사는 아모리 족속을 친지라",
-    "8| 소돔왕과 고모라왕과 아드마왕과 스보임왕과 벨라 곧 소알왕이 나와서 싯딤 골짜기에서 그들과 접전하였으니",
-    "9| 곧 그 다섯 왕이 엘람왕 그돌라오멜과 고임왕 디달과 시날왕 아므라벨과 엘라살왕 아리옥 네 왕과 교전하였더라",
-    "10| 싯딤 골짜기에는 역청 구덩이가 많은지라 소돔왕과 고모라왕이 달아날 때에 군사가 거기 빠지고 그 나머지는 산으로 도망하매",
-    "11| 네 왕이 소돔과 고모라의 모든 재물과 양식을 빼앗아 가고",
-    "12| 소돔에 거하는 아브람의 조카 롯도 사로잡고 그 재물까지 노략하여 갔더라",
-    "13| 도망한 자가 와서 히브리 사람 아브람에게 고하니 때에 아브람이 아모리 족속 마므레의 상수리 수풀 근처에 거하였더라 마므레는 에스골의 형제요 또 아넬의 형제라 이들은 아브람과 동맹한 자더라",
-    "14| 아브람이 그 조카의 사로잡혔음을 듣고 집에서 길리고 연습한 자 삼백 십 팔인을 거느리고 단까지 쫓아가서",
-    "15| 그 가신을 나누어 밤을 타서 그들을 쳐서 파하고 다메섹 좌편 호바까지 쫓아가서",
-    "16| 모든 빼앗겼던 재물과 자기 조카 롯과 그 재물과 또 부녀와 인민을 다 찾아 왔더라",
-    "17| 아브람이 그돌라오멜과 그와 함께한 왕들을 파하고 돌아올 때에 소돔왕이 사웨 골짜기 곧 왕곡에 나와 그를 영접하였고",
-    "18| 살렘왕 멜기세덱이 떡과 포도주를 가지고 나왔으니 그는 지극히 높으신 하나님의 제사장이었더라",
-    "19| 그가 아브람에게 축복하여 가로되 천지의 주재시요 지극히 높으신 하나님이여 아브람에게 복을 주옵소서",
-    "20| 너희 대적을 네 손에 붙이신 지극히 높으신 하나님을 찬송할찌로다 하매 아브람이 그 얻은 것에서 십분 일을 멜기세덱에게 주었더라",
-    "21| 소돔왕이 아브람에게 이르되 사람은 내게 보내고 물품은 네가 취하라",
-    "22| 아브람이 소돔왕에게 이르되 천지의 주재시요 지극히 높으신 하나님 여호와께 내가 손을 들어 맹세하노니",
-    "23| 네 말이 내가 아브람으로 치부케 하였다 할까 하여 네게 속한 것은 무론 한 실이나 신들메라도 내가 취하지 아니하리라",
-    "24| 오직 소년들의 먹은 것과 나와 동행한 아넬과 에스골과 마므레의 분깃을 제할찌니 그들이 그 분깃을 취할 것이니라"
+    "1| After these things the word of the Lord came to Abram in a vision: \"Fear not, Abram, I am your shield; your reward shall be very great.\"",
+    "2| But Abram said, \"O Lord God, what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus?\"",
+    "3| And Abram said, \"Behold, you have given me no offspring, and a member of my household will be my heir.\"",
+    "4| And behold, the word of the Lord came to him: \"This man shall not be your heir; your very own son shall be your heir.\"",
+    "5| And he brought him outside and said, \"Look toward heaven, and number the stars, if you are able to number them.\" Then he said to him, \"So shall your offspring be.\"",
+    "6| And he believed the Lord, and he counted it to him as righteousness.",
+    "7| And he said to him, \"I am the Lord who brought you out from Ur of the Chaldeans to give you this land to possess.\"",
+    "8| But he said, \"O Lord God, how am I to know that I shall possess it?\"",
+    "9| He said to him, \"Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.\"",
+    "10| And he brought him all these, cut them in half, and laid each half over against the other. But he did not cut the birds in half.",
+    "11| And when birds of prey came down on the carcasses, Abram drove them away.",
+    "12| As the sun was going down, a deep sleep fell on Abram. And behold, dreadful and great darkness fell upon him.",
+    "13| Then the Lord said to Abram, \"Know for certain that your offspring will be sojourners in a land that is not theirs and will be servants there, and they will be afflicted for four hundred years.",
+    "14| But I will bring judgment on the nation that they serve, and afterward they shall come out with great possessions.",
+    "15| As for you, you shall go to your fathers in peace; you shall be buried in a good old age.",
+    "16| And they shall come back here in the fourth generation, for the iniquity of the Amorites is not yet complete.\"",
+    "17| When the sun had gone down and it was dark, behold, a smoking fire pot and a flaming torch passed between these pieces.",
+    "18| On that day the Lord made a covenant with Abram, saying, \"To your offspring I give this land, from the river of Egypt to the great river, the river Euphrates,",
+    "19| the land of the Kenites, the Kenizzites, the Kadmonites,",
+    "20| the Hittites, the Perizzites, the Rephaim,",
+    "21| the Amorites, the Canaanites, the Girgashites and the Jebusites.\"",
 ]
 let encoded = ` “ ” `
-theirs = `1당시에 시날왕 아므라벨과 엘라살왕 아리옥과 엘람왕 그돌라오멜과 고임왕 디달이 2소돔왕 베라와 고모라왕 비르사와 아드마왕 시납과 스보임왕 세메벨과 벨라 곧 소알왕과 싸우니라 3이들이 다 싯딤 골짜기 곧 지금 염해에 모였더라 4이들이 십 이년 동안 그돌라오멜을 섬기다가 제 십삼년에 배반한지라 5제 십사년에 그돌라오멜과 그와 동맹한 왕들이 나와서 아스드롯 가르나임에서 르바 족속을, 함에서 수스 족속을, 사웨 기랴다임에서 엠 족속을 치고 6호리 족속을 그 산 세일에서 쳐서 광야 근방 엘바란까지 이르렀으며 7그들이 돌이켜 엔미스밧 곧 가데스에 이르러 아말렉 족속의 온 땅과 하사손다말에 사는 아모리 족속을 친지라 8소돔왕과 고모라왕과 아드마왕과 스보임왕과 벨라 곧 소알왕이 나와서 싯딤 골짜기에서 그들과 접전하였으니 9곧 그 다섯 왕이 엘람왕 그돌라오멜과 고임왕 디달과 시날왕 아므라벨과 엘라살왕 아리옥 네 왕과 교전하였더라 10싯딤 골짜기에는 역청 구덩이가 많은지라 소돔왕과 고모라왕이 달아날 때에 군사가 거기 빠지고 그 나머지는 산으로 도망하매 11네 왕이 소돔과 고모라의 모든 재물과 양식을 빼앗아 가고 12소돔에 거하는 아브람의 조카 롯도 사로잡고 그 재물까지 노략하여 갔더라 13도망한 자가 와서 히브리 사람 아브람에게 고하니 때에 아브람이 아모리 족속 마므레의 상수리 수풀 근처에 거하였더라 마므레는 에스골의 형제요 또 아넬의 형제라 이들은 아브람과 동맹한 자더라
-14아브람이 그 조카의 사로잡혔음을 듣고 집에서 길리고 연습한 자 삼백 십 팔인을 거느리고 단까지 쫓아가서 15그 가신을 나누어 밤을 타서 그들을 쳐서 파하고 다메섹 좌편 호바까지 쫓아가서 16모든 빼앗겼던 재물과 자기 조카 롯과 그 재물과 또 부녀와 인민을 다 찾아 왔더라 17아브람이 그돌라오멜과 그와 함께한 왕들을 파하고 돌아올 때에 소돔왕이 사웨 골짜기 곧 왕곡에 나와 그를 영접하였고
-18살렘왕 멜기세덱이 떡과 포도주를 가지고 나왔으니 그는 지극히 높으신 하나님의 제사장이었더라 19그가 아브람에게 축복하여 가로되 천지의 주재시요 지극히 높으신 하나님이여 아브람에게 복을 주옵소서 20너희 대적을 네 손에 붙이신 지극히 높으신 하나님을 찬송할찌로다 하매 아브람이 그 얻은 것에서 십분 일을 멜기세덱에게 주었더라 21소돔왕이 아브람에게 이르되 사람은 내게 보내고 물품은 네가 취하라
-22아브람이 소돔왕에게 이르되 천지의 주재시요 지극히 높으신 하나님 여호와께 내가 손을 들어 맹세하노니 23네 말이 내가 아브람으로 치부케 하였다 할까 하여 네게 속한 것은 무론 한 실이나 신들메라도 내가 취하지 아니하리라 24오직 소년들의 먹은 것과 나와 동행한 아넬과 에스골과 마므레의 분깃을 제할찌니 그들이 그 분깃을 취할 것이니라`
+theirs = `1After these things the word of the Lord came to Abram in a vision: “Fear not, Abram, I am your shield; your reward shall be very great.” 2But Abram said, “O Lord God, what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus?” 3And Abram said, “Behold, you have given me no offspring, and a member of my household will be my heir.” 4And behold, the word of the Lord came to him: “This man shall not be your heir; your very own son shall be your heir.” 5And he brought him outside and said, “Look toward heaven, and number the stars, if you are able to number them.” Then he said to him, “So shall your offspring be.” 6And he believed the Lord, and he counted it to him as righteousness.
+7And he said to him, “I am the Lord who brought you out from Ur of the Chaldeans to give you this land to possess.” 8But he said, “O Lord God, how am I to know that I shall possess it?” 9He said to him, “Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.” 10And he brought him all these, cut them in half, and laid each half over against the other. But he did not cut the birds in half. 11And when birds of prey came down on the carcasses, Abram drove them away.
+12As the sun was going down, a deep sleep fell on Abram. And behold, dreadful and great darkness fell upon him. 13Then the Lord said to Abram, “Know for certain that your offspring will be sojourners in a land that is not theirs and will be servants there, and they will be afflicted for four hundred years. 14But I will bring judgment on the nation that they serve, and afterward they shall come out with great possessions. 15As for you, you shall go to your fathers in peace; you shall be buried in a good old age. 16And they shall come back here in the fourth generation, for the iniquity of the Amorites is not yet complete.”
+17When the sun had gone down and it was dark, behold, a smoking fire pot and a flaming torch passed between these pieces. 18On that day the Lord made a covenant with Abram, saying, “To your offspring I give this land, from the river of Egypt to the great river, the river Euphrates, 19the land of the Kenites, the Kenizzites, the Kadmonites, 20the Hittites, the Perizzites, the Rephaim, 21the Amorites, the Canaanites, the Girgashites and the Jebusites.”`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
