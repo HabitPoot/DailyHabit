@@ -1,31 +1,34 @@
 mine = [
-    "1| After these things the word of the Lord came to Abram in a vision: \"Fear not, Abram, I am your shield; your reward shall be very great.\"",
-    "2| But Abram said, \"O Lord God, what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus?\"",
-    "3| And Abram said, \"Behold, you have given me no offspring, and a member of my household will be my heir.\"",
-    "4| And behold, the word of the Lord came to him: \"This man shall not be your heir; your very own son shall be your heir.\"",
-    "5| And he brought him outside and said, \"Look toward heaven, and number the stars, if you are able to number them.\" Then he said to him, \"So shall your offspring be.\"",
-    "6| And he believed the Lord, and he counted it to him as righteousness.",
-    "7| And he said to him, \"I am the Lord who brought you out from Ur of the Chaldeans to give you this land to possess.\"",
-    "8| But he said, \"O Lord God, how am I to know that I shall possess it?\"",
-    "9| He said to him, \"Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.\"",
-    "10| And he brought him all these, cut them in half, and laid each half over against the other. But he did not cut the birds in half.",
-    "11| And when birds of prey came down on the carcasses, Abram drove them away.",
-    "12| As the sun was going down, a deep sleep fell on Abram. And behold, dreadful and great darkness fell upon him.",
-    "13| Then the Lord said to Abram, \"Know for certain that your offspring will be sojourners in a land that is not theirs and will be servants there, and they will be afflicted for four hundred years.",
-    "14| But I will bring judgment on the nation that they serve, and afterward they shall come out with great possessions.",
-    "15| As for you, you shall go to your fathers in peace; you shall be buried in a good old age.",
-    "16| And they shall come back here in the fourth generation, for the iniquity of the Amorites is not yet complete.\"",
-    "17| When the sun had gone down and it was dark, behold, a smoking fire pot and a flaming torch passed between these pieces.",
-    "18| On that day the Lord made a covenant with Abram, saying, \"To your offspring I give this land, from the river of Egypt to the great river, the river Euphrates,",
-    "19| the land of the Kenites, the Kenizzites, the Kadmonites,",
-    "20| the Hittites, the Perizzites, the Rephaim,",
-    "21| the Amorites, the Canaanites, the Girgashites and the Jebusites.\"",
+    "1| Now Sarai, Abram's wife, had borne him no children. She had a female Egyptian servant whose name was Hagar.",
+    "2| And Sarai said to Abram, \"Behold now, the Lord has prevented me from bearing children. Go in to my servant; it may be that I shall obtain children by her.\" And Abram listened to the voice of Sarai.",
+    "3| So, after Abram had lived ten years in the land of Canaan, Sarai, Abram's wife, took Hagar the Egyptian, her servant, and gave her to Abram her husband as a wife.",
+    "4| And he went in to Hagar, and she conceived. And when she saw that she had conceived, she looked with contempt on her mistress.",
+    "5| And Sarai said to Abram, \"May the wrong done to me be on you! I gave my servant to your embrace, and when she saw that she had conceived, she looked on me with contempt. May the Lord judge between you and me!\"",
+    "6| But Abram said to Sarai, \"Behold, your servant is in your power; do to her as you please.\" Then Sarai dealt harshly with her, and she fled from her.",
+    "7| The angel of the Lord found her by a spring of water in the wilderness, the spring on the way to Shur.",
+    "8| And he said, \"Hagar, servant of Sarai, where have you come from and where are you going?\" She said, \"I am fleeing from my mistress Sarai.\"",
+    "9| The angel of the Lord said to her, \"Return to your mistress and submit to her.\"",
+    "10| The angel of the Lord also said to her, \"I will surely multiply your offspring so that they cannot be numbered for multitude.\"",
+    "11| And the angel of the Lord said to her, \"Behold, you are pregnant and shall bear a son. You shall call his name Ishmael, because the Lord has listened to your affliction.",
+    "12| He shall be a wild donkey of a man, his hand against everyone and everyone's hand against him, and he shall dwell over against all his kinsmen.\"",
+    "13| So she called the name of the Lord who spoke t o her, \"You are a God of seeing,\" for she said, \"Truly here I have seen him who looks after me.\"",
+    "14| Therefore the well was called Beer-lahai-roi; it lies between Kadesh and Bered.",
+    "15| And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael.",
+    "16| Abram was eighty-six years old when Hagar bore Ishmael to Abram.",
 ]
 let encoded = ` “ ” `
-theirs = `1After these things the word of the Lord came to Abram in a vision: “Fear not, Abram, I am your shield; your reward shall be very great.” 2But Abram said, “O Lord God, what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus?” 3And Abram said, “Behold, you have given me no offspring, and a member of my household will be my heir.” 4And behold, the word of the Lord came to him: “This man shall not be your heir; your very own son shall be your heir.” 5And he brought him outside and said, “Look toward heaven, and number the stars, if you are able to number them.” Then he said to him, “So shall your offspring be.” 6And he believed the Lord, and he counted it to him as righteousness.
-7And he said to him, “I am the Lord who brought you out from Ur of the Chaldeans to give you this land to possess.” 8But he said, “O Lord God, how am I to know that I shall possess it?” 9He said to him, “Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.” 10And he brought him all these, cut them in half, and laid each half over against the other. But he did not cut the birds in half. 11And when birds of prey came down on the carcasses, Abram drove them away.
-12As the sun was going down, a deep sleep fell on Abram. And behold, dreadful and great darkness fell upon him. 13Then the Lord said to Abram, “Know for certain that your offspring will be sojourners in a land that is not theirs and will be servants there, and they will be afflicted for four hundred years. 14But I will bring judgment on the nation that they serve, and afterward they shall come out with great possessions. 15As for you, you shall go to your fathers in peace; you shall be buried in a good old age. 16And they shall come back here in the fourth generation, for the iniquity of the Amorites is not yet complete.”
-17When the sun had gone down and it was dark, behold, a smoking fire pot and a flaming torch passed between these pieces. 18On that day the Lord made a covenant with Abram, saying, “To your offspring I give this land, from the river of Egypt to the great river, the river Euphrates, 19the land of the Kenites, the Kenizzites, the Kadmonites, 20the Hittites, the Perizzites, the Rephaim, 21the Amorites, the Canaanites, the Girgashites and the Jebusites.”`
+theirs = `1Now Sarai, Abram’s wife, had borne him no children. She had a female Egyptian servant whose name was Hagar. 2And Sarai said to Abram, “Behold now, the Lord has prevented me from bearing children. Go in to my servant; it may be that I shall obtain children by her.” And Abram listened to the voice of Sarai. 3So, after Abram had lived ten years in the land of Canaan, Sarai, Abram’s wife, took Hagar the Egyptian, her servant, and gave her to Abram her husband as a wife. 4And he went in to Hagar, and she conceived. And when she saw that she had conceived, she looked with contempt on her mistress. 5And Sarai said to Abram, “May the wrong done to me be on you! I gave my servant to your embrace, and when she saw that she had conceived, she looked on me with contempt. May the Lord judge between you and me!” 6But Abram said to Sarai, “Behold, your servant is in your power; do to her as you please.” Then Sarai dealt harshly with her, and she fled from her.
+7The angel of the Lord found her by a spring of water in the wilderness, the spring on the way to Shur. 8And he said, “Hagar, servant of Sarai, where have you come from and where are you going?” She said, “I am fleeing from my mistress Sarai.” 9The angel of the Lord said to her, “Return to your mistress and submit to her.” 10The angel of the Lord also said to her, “I will surely multiply your offspring so that they cannot be numbered for multitude.” 11And the angel of the Lord said to her,
+“Behold, you are pregnant
+and shall bear a son.
+You shall call his name Ishmael,
+because the Lord has listened to your affliction.
+12He shall be a wild donkey of a man,
+his hand against everyone
+and everyone’s hand against him,
+and he shall dwell over against all his kinsmen.”
+13So she called the name of the Lord who spoke to her, “You are a God of seeing,” for she said, “Truly here I have seen him who looks after me.” 14Therefore the well was called Beer-lahai-roi; it lies between Kadesh and Bered.
+15And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael. 16Abram was eighty-six years old when Hagar bore Ishmael to Abram.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
