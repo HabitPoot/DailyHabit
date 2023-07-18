@@ -1027,7 +1027,7 @@ let data = [
             "10| The angel of the Lord also said to her, \"I will surely multiply your offspring so that they cannot be numbered for multitude.\"",
             "11| And the angel of the Lord said to her, \"Behold, you are pregnant and shall bear a son. You shall call his name Ishmael, because the Lord has listened to your affliction.",
             "12| He shall be a wild donkey of a man, his hand against everyone and everyone's hand against him, and he shall dwell over against all his kinsmen.\"",
-            "13| So she called the name of the Lord who spoke t o her, \"You are a God of seeing,\" for she said, \"Truly here I have seen him who looks after me.\"",
+            "13| So she called the name of the Lord who spoke to her, \"You are a God of seeing,\" for she said, \"Truly here I have seen him who looks after me.\"",
             "14| Therefore the well was called Beer-lahai-roi; it lies between Kadesh and Bered.",
             "15| And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael.",
             "16| Abram was eighty-six years old when Hagar bore Ishmael to Abram.",

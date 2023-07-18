@@ -1,34 +1,27 @@
 mine = [
-    "1| Now Sarai, Abram's wife, had borne him no children. She had a female Egyptian servant whose name was Hagar.",
-    "2| And Sarai said to Abram, \"Behold now, the Lord has prevented me from bearing children. Go in to my servant; it may be that I shall obtain children by her.\" And Abram listened to the voice of Sarai.",
-    "3| So, after Abram had lived ten years in the land of Canaan, Sarai, Abram's wife, took Hagar the Egyptian, her servant, and gave her to Abram her husband as a wife.",
-    "4| And he went in to Hagar, and she conceived. And when she saw that she had conceived, she looked with contempt on her mistress.",
-    "5| And Sarai said to Abram, \"May the wrong done to me be on you! I gave my servant to your embrace, and when she saw that she had conceived, she looked on me with contempt. May the Lord judge between you and me!\"",
-    "6| But Abram said to Sarai, \"Behold, your servant is in your power; do to her as you please.\" Then Sarai dealt harshly with her, and she fled from her.",
-    "7| The angel of the Lord found her by a spring of water in the wilderness, the spring on the way to Shur.",
-    "8| And he said, \"Hagar, servant of Sarai, where have you come from and where are you going?\" She said, \"I am fleeing from my mistress Sarai.\"",
-    "9| The angel of the Lord said to her, \"Return to your mistress and submit to her.\"",
-    "10| The angel of the Lord also said to her, \"I will surely multiply your offspring so that they cannot be numbered for multitude.\"",
-    "11| And the angel of the Lord said to her, \"Behold, you are pregnant and shall bear a son. You shall call his name Ishmael, because the Lord has listened to your affliction.",
-    "12| He shall be a wild donkey of a man, his hand against everyone and everyone's hand against him, and he shall dwell over against all his kinsmen.\"",
-    "13| So she called the name of the Lord who spoke t o her, \"You are a God of seeing,\" for she said, \"Truly here I have seen him who looks after me.\"",
-    "14| Therefore the well was called Beer-lahai-roi; it lies between Kadesh and Bered.",
-    "15| And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael.",
-    "16| Abram was eighty-six years old when Hagar bore Ishmael to Abram.",
+    "1| 아브람의 아내 사래는 생산치 못하였고 그에게 한 여종이 있으니 애굽 사람이요 이름은 하갈이라",
+    "2| 사래가 아브람에게 이르되 여호와께서 나의 생산을 허락지 아니하셨으니 원컨대 나의 여종과 동침하라 내가 혹 그로 말미암아 자녀를 얻을까 하노라 하매 아브람이 사래의 말을 들으니라",
+    "3| 아브람의 아내 사래가 그 여종 애굽 사람 하갈을 가져 그 남편 아브람에게 첩으로 준 때는 아브람이 가나안 땅에 거한지 십년 후이었더라",
+    "4| 아브람이 하갈과 동침하였더니 하갈이 잉태하매 그가 자기의 잉태함을 깨닫고 그 여주인을 멸시한지라",
+    "5| 사래가 아브람에게 이르되 나의 받는 욕은 당신이 받아야 옳도다 내가 나의 여종을 당신의 품에 두었거늘 그가 자기의 잉태함을 깨닫고 나를 멸시하니 당신과 나 사이에 여호와께서 판단하시기를 원하노라",
+    "6| 아브람이 사래에게 이르되 그대의 여종은 그대의 수중에 있으니 그대의 눈에 좋은대로 그에게 행하라 하매 사래가 하갈을 학대하였더니 하갈이 사래의 앞에서 도망하였더라",
+    "7| 여호와의 사자가 광야의 샘곁 곧 술 길 샘물 곁에서 그를 만나",
+    "8| 가로되 사래의 여종 하갈아 네가 어디서 왔으며 어디로 가느냐 그가 가로되 나는 나의 여주인 사래를 피하여 도망하나이다",
+    "9| 여호와의 사자가 그에게 이르되 네 여주인에게로 돌아가서 그 수하에 복종하라",
+    "10| 여호와의 사자가 또 그에게 이르되 내가 네 자손으로 크게 번성하여 그 수가 많아 셀 수 없게 하리라",
+    "11| 여호와의 사자가 또 그에게 이르되 네가 잉태하였은즉 아들을 낳으리니 그 이름을 이스마엘이라 하라 이는 여호와께서 네 고통을 들으셨음이니라",
+    "12| 그가 사람 중에 들나귀 같이 되리니 그 손이 모든 사람을 치겠고 모든 사람의 손이 그를 칠찌며 그가 모든 형제의 동방에서 살리라 하니라",
+    "13| 하갈이 자기에게 이르신 여호와의 이름을 감찰하시는 하나님이라 하였으니 이는 내가 어떻게 여기서 나를 감찰하시는 하나님을 뵈었는고 함이라",
+    "14| 이러므로 그 샘을 브엘라해로이라 불렀으며 그것이 가데스와 베렛 사이에 있더라",
+    "15| 하갈이 아브람의 아들을 낳으매 아브람이 하갈의 낳은 그 아들을 이름하여 이스마엘이라 하였더라",
+    "16| 하갈이 아브람에게 이스마엘을 낳을 때에 아브람이 팔십 륙세이었더라"
 ]
 let encoded = ` “ ” `
-theirs = `1Now Sarai, Abram’s wife, had borne him no children. She had a female Egyptian servant whose name was Hagar. 2And Sarai said to Abram, “Behold now, the Lord has prevented me from bearing children. Go in to my servant; it may be that I shall obtain children by her.” And Abram listened to the voice of Sarai. 3So, after Abram had lived ten years in the land of Canaan, Sarai, Abram’s wife, took Hagar the Egyptian, her servant, and gave her to Abram her husband as a wife. 4And he went in to Hagar, and she conceived. And when she saw that she had conceived, she looked with contempt on her mistress. 5And Sarai said to Abram, “May the wrong done to me be on you! I gave my servant to your embrace, and when she saw that she had conceived, she looked on me with contempt. May the Lord judge between you and me!” 6But Abram said to Sarai, “Behold, your servant is in your power; do to her as you please.” Then Sarai dealt harshly with her, and she fled from her.
-7The angel of the Lord found her by a spring of water in the wilderness, the spring on the way to Shur. 8And he said, “Hagar, servant of Sarai, where have you come from and where are you going?” She said, “I am fleeing from my mistress Sarai.” 9The angel of the Lord said to her, “Return to your mistress and submit to her.” 10The angel of the Lord also said to her, “I will surely multiply your offspring so that they cannot be numbered for multitude.” 11And the angel of the Lord said to her,
-“Behold, you are pregnant
-and shall bear a son.
-You shall call his name Ishmael,
-because the Lord has listened to your affliction.
-12He shall be a wild donkey of a man,
-his hand against everyone
-and everyone’s hand against him,
-and he shall dwell over against all his kinsmen.”
-13So she called the name of the Lord who spoke to her, “You are a God of seeing,” for she said, “Truly here I have seen him who looks after me.” 14Therefore the well was called Beer-lahai-roi; it lies between Kadesh and Bered.
-15And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael. 16Abram was eighty-six years old when Hagar bore Ishmael to Abram.`
+theirs = `1아브람의 아내 사래는 생산치 못하였고 그에게 한 여종이 있으니 애굽 사람이요 이름은 하갈이라 2사래가 아브람에게 이르되 여호와께서 나의 생산을 허락지 아니하셨으니 원컨대 나의 여종과 동침하라 내가 혹 그로 말미암아 자녀를 얻을까 하노라 하매 아브람이 사래의 말을 들으니라 3아브람의 아내 사래가 그 여종 애굽 사람 하갈을 가져 그 남편 아브람에게 첩으로 준 때는 아브람이 가나안 땅에 거한지 십년 후이었더라 4아브람이 하갈과 동침하였더니 하갈이 잉태하매 그가 자기의 잉태함을 깨닫고 그 여주인을 멸시한지라
+5사래가 아브람에게 이르되 나의 받는 욕은 당신이 받아야 옳도다 내가 나의 여종을 당신의 품에 두었거늘 그가 자기의 잉태함을 깨닫고 나를 멸시하니 당신과 나 사이에 여호와께서 판단하시기를 원하노라 6아브람이 사래에게 이르되 그대의 여종은 그대의 수중에 있으니 그대의 눈에 좋은대로 그에게 행하라 하매 사래가 하갈을 학대하였더니 하갈이 사래의 앞에서 도망하였더라 7여호와의 사자가 광야의 샘곁 곧 술 길 샘물 곁에서 그를 만나
+8가로되 사래의 여종 하갈아 네가 어디서 왔으며 어디로 가느냐 그가 가로되 나는 나의 여주인 사래를 피하여 도망하나이다 9여호와의 사자가 그에게 이르되 네 여주인에게로 돌아가서 그 수하에 복종하라 10여호와의 사자가 또 그에게 이르되 내가 네 자손으로 크게 번성하여 그 수가 많아 셀 수 없게 하리라
+11여호와의 사자가 또 그에게 이르되 네가 잉태하였은즉 아들을 낳으리니 그 이름을 이스마엘이라 하라 이는 여호와께서 네 고통을 들으셨음이니라 12그가 사람 중에 들나귀 같이 되리니 그 손이 모든 사람을 치겠고 모든 사람의 손이 그를 칠찌며 그가 모든 형제의 동방에서 살리라 하니라 13하갈이 자기에게 이르신 여호와의 이름을 감찰하시는 하나님이라 하였으니 이는 내가 어떻게 여기서 나를 감찰하시는 하나님을 뵈었는고 함이라 14이러므로 그 샘을 브엘라해로이라 불렀으며 그것이 가데스와 베렛 사이에 있더라 15하갈이 아브람의 아들을 낳으매 아브람이 하갈의 낳은 그 아들을 이름하여 이스마엘이라 하였더라
+16하갈이 아브람에게 이스마엘을 낳을 때에 아브람이 팔십 륙세이었더라`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
