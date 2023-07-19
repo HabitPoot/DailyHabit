@@ -1,27 +1,37 @@
 mine = [
-    "1| 아브람의 아내 사래는 생산치 못하였고 그에게 한 여종이 있으니 애굽 사람이요 이름은 하갈이라",
-    "2| 사래가 아브람에게 이르되 여호와께서 나의 생산을 허락지 아니하셨으니 원컨대 나의 여종과 동침하라 내가 혹 그로 말미암아 자녀를 얻을까 하노라 하매 아브람이 사래의 말을 들으니라",
-    "3| 아브람의 아내 사래가 그 여종 애굽 사람 하갈을 가져 그 남편 아브람에게 첩으로 준 때는 아브람이 가나안 땅에 거한지 십년 후이었더라",
-    "4| 아브람이 하갈과 동침하였더니 하갈이 잉태하매 그가 자기의 잉태함을 깨닫고 그 여주인을 멸시한지라",
-    "5| 사래가 아브람에게 이르되 나의 받는 욕은 당신이 받아야 옳도다 내가 나의 여종을 당신의 품에 두었거늘 그가 자기의 잉태함을 깨닫고 나를 멸시하니 당신과 나 사이에 여호와께서 판단하시기를 원하노라",
-    "6| 아브람이 사래에게 이르되 그대의 여종은 그대의 수중에 있으니 그대의 눈에 좋은대로 그에게 행하라 하매 사래가 하갈을 학대하였더니 하갈이 사래의 앞에서 도망하였더라",
-    "7| 여호와의 사자가 광야의 샘곁 곧 술 길 샘물 곁에서 그를 만나",
-    "8| 가로되 사래의 여종 하갈아 네가 어디서 왔으며 어디로 가느냐 그가 가로되 나는 나의 여주인 사래를 피하여 도망하나이다",
-    "9| 여호와의 사자가 그에게 이르되 네 여주인에게로 돌아가서 그 수하에 복종하라",
-    "10| 여호와의 사자가 또 그에게 이르되 내가 네 자손으로 크게 번성하여 그 수가 많아 셀 수 없게 하리라",
-    "11| 여호와의 사자가 또 그에게 이르되 네가 잉태하였은즉 아들을 낳으리니 그 이름을 이스마엘이라 하라 이는 여호와께서 네 고통을 들으셨음이니라",
-    "12| 그가 사람 중에 들나귀 같이 되리니 그 손이 모든 사람을 치겠고 모든 사람의 손이 그를 칠찌며 그가 모든 형제의 동방에서 살리라 하니라",
-    "13| 하갈이 자기에게 이르신 여호와의 이름을 감찰하시는 하나님이라 하였으니 이는 내가 어떻게 여기서 나를 감찰하시는 하나님을 뵈었는고 함이라",
-    "14| 이러므로 그 샘을 브엘라해로이라 불렀으며 그것이 가데스와 베렛 사이에 있더라",
-    "15| 하갈이 아브람의 아들을 낳으매 아브람이 하갈의 낳은 그 아들을 이름하여 이스마엘이라 하였더라",
-    "16| 하갈이 아브람에게 이스마엘을 낳을 때에 아브람이 팔십 륙세이었더라"
+    "1| When Abram was ninety-nine years old the Lord appeared to Abram and said to him, \"I am God Almighty; walk before me, and be blameless,",
+    "2| that I may make my covenant between me and you, and may multiply you greatly.\"",
+    "3| Then Abram fell on his face. And God said to him,",
+    "4| \"Behold, my covenant is with you, and you shall be the father of a multitude of nations.",
+    "5| No longer shall your name be called Abram, but your name shall be Abraham, for I have made you the father of a multitude of nations.",
+    "6| I will make you exceedingly fruitful, and I will make you into nations, and kings shall come from you.",
+    "7| And I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you.",
+    "8| And I will give to you and to your offspring after you the land of your sojournings, all the land of Canaan, for an everlasting possession, and I will be their God.\"",
+    "9| And God said to Abraham, \"As for you, you shall keep my covenant, you and your offspring after you throughout their generations.",
+    "10| This is my covenant, which you shall keep, between me and you and your offspring after you: Every male among you shall be circumcised.",
+    "11| You shall be circumcised in the flesh of your foreskins, and it shall be a sign of the covenant between me and you.",
+    "12| He who is eight days old among you shall be circumcised. Every male throughout your generations, whether born in your house or bought with your money from any foreigner who is not of your offspring,",
+    "13| both he who is born in your house and he who is bought with your money, shall surely be circumcised. So shall my covenant be in your flesh an everlasting covenant.",
+    "14| Any uncircumcised male who is not circumcised in the flesh of his foreskin shall be cut off from his people; he has broken my covenant.\"",
+    "15| And God said to Abraham, \"As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name.",
+    "16| I will bless her, and moreover, I will give you a son by her. I will bless her, and she shall become nations; kings of peoples shall come from her.\"",
+    "17| Then Abraham fell on his face and laughed and said to himself, \"Shall a child be born to a man who is a hundred years old? Shall Sarah, who is ninety years old, bear a child?\"",
+    "18| And Abraham said to God, \"Oh that Ishmael might live before you!\"",
+    "19| God said, \"No, but Sarah your wife shall bear you a son, and you shall call his name Isaac. I will establish my covenant with him as an everlasting covenant for his offspring after him.",
+    "20| As for Ishmael, I have heard you; behold, I have blessed him and will make him fruitful and multiply him greatly. He shall father twelve princes, and I will make him into a great nation.",
+    "21| But I will establish my covenant with Isaac, whom Sarah shall bear to you at this time next year.\"",
+    "22| When he had finished talking with him, God went up from Abraham.",
+    "23| Then Abraham took Ishmael his son and all those born in his house or bought with his money, every male among the men of Abraham's house, and he circumcised the flesh of their foreskins that very day, as God had said to him.",
+    "24| Abraham was ninety-nine years old when he was circumcised in the flesh of his foreskin.",
+    "25| And Ishmael his son was thirteen years old when he was circumcised in the flesh of his foreskin.",
+    "26| That very day Abraham and his son Ishmael were circumcised.",
+    "27| And all the men of his house, those born in the house and those bought with money from a foreigner, were circumcised with him.",
 ]
 let encoded = ` “ ” `
-theirs = `1아브람의 아내 사래는 생산치 못하였고 그에게 한 여종이 있으니 애굽 사람이요 이름은 하갈이라 2사래가 아브람에게 이르되 여호와께서 나의 생산을 허락지 아니하셨으니 원컨대 나의 여종과 동침하라 내가 혹 그로 말미암아 자녀를 얻을까 하노라 하매 아브람이 사래의 말을 들으니라 3아브람의 아내 사래가 그 여종 애굽 사람 하갈을 가져 그 남편 아브람에게 첩으로 준 때는 아브람이 가나안 땅에 거한지 십년 후이었더라 4아브람이 하갈과 동침하였더니 하갈이 잉태하매 그가 자기의 잉태함을 깨닫고 그 여주인을 멸시한지라
-5사래가 아브람에게 이르되 나의 받는 욕은 당신이 받아야 옳도다 내가 나의 여종을 당신의 품에 두었거늘 그가 자기의 잉태함을 깨닫고 나를 멸시하니 당신과 나 사이에 여호와께서 판단하시기를 원하노라 6아브람이 사래에게 이르되 그대의 여종은 그대의 수중에 있으니 그대의 눈에 좋은대로 그에게 행하라 하매 사래가 하갈을 학대하였더니 하갈이 사래의 앞에서 도망하였더라 7여호와의 사자가 광야의 샘곁 곧 술 길 샘물 곁에서 그를 만나
-8가로되 사래의 여종 하갈아 네가 어디서 왔으며 어디로 가느냐 그가 가로되 나는 나의 여주인 사래를 피하여 도망하나이다 9여호와의 사자가 그에게 이르되 네 여주인에게로 돌아가서 그 수하에 복종하라 10여호와의 사자가 또 그에게 이르되 내가 네 자손으로 크게 번성하여 그 수가 많아 셀 수 없게 하리라
-11여호와의 사자가 또 그에게 이르되 네가 잉태하였은즉 아들을 낳으리니 그 이름을 이스마엘이라 하라 이는 여호와께서 네 고통을 들으셨음이니라 12그가 사람 중에 들나귀 같이 되리니 그 손이 모든 사람을 치겠고 모든 사람의 손이 그를 칠찌며 그가 모든 형제의 동방에서 살리라 하니라 13하갈이 자기에게 이르신 여호와의 이름을 감찰하시는 하나님이라 하였으니 이는 내가 어떻게 여기서 나를 감찰하시는 하나님을 뵈었는고 함이라 14이러므로 그 샘을 브엘라해로이라 불렀으며 그것이 가데스와 베렛 사이에 있더라 15하갈이 아브람의 아들을 낳으매 아브람이 하갈의 낳은 그 아들을 이름하여 이스마엘이라 하였더라
-16하갈이 아브람에게 이스마엘을 낳을 때에 아브람이 팔십 륙세이었더라`
+theirs = `1When Abram was ninety-nine years old the Lord appeared to Abram and said to him, “I am God Almighty; walk before me, and be blameless, 2that I may make my covenant between me and you, and may multiply you greatly.” 3Then Abram fell on his face. And God said to him, 4“Behold, my covenant is with you, and you shall be the father of a multitude of nations. 5No longer shall your name be called Abram, but your name shall be Abraham, for I have made you the father of a multitude of nations. 6I will make you exceedingly fruitful, and I will make you into nations, and kings shall come from you. 7And I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you. 8And I will give to you and to your offspring after you the land of your sojournings, all the land of Canaan, for an everlasting possession, and I will be their God.”
+9And God said to Abraham, “As for you, you shall keep my covenant, you and your offspring after you throughout their generations. 10This is my covenant, which you shall keep, between me and you and your offspring after you: Every male among you shall be circumcised. 11You shall be circumcised in the flesh of your foreskins, and it shall be a sign of the covenant between me and you. 12He who is eight days old among you shall be circumcised. Every male throughout your generations, whether born in your house or bought with your money from any foreigner who is not of your offspring, 13both he who is born in your house and he who is bought with your money, shall surely be circumcised. So shall my covenant be in your flesh an everlasting covenant. 14Any uncircumcised male who is not circumcised in the flesh of his foreskin shall be cut off from his people; he has broken my covenant.”
+15And God said to Abraham, “As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name. 16I will bless her, and moreover, I will give you a son by her. I will bless her, and she shall become nations; kings of peoples shall come from her.” 17Then Abraham fell on his face and laughed and said to himself, “Shall a child be born to a man who is a hundred years old? Shall Sarah, who is ninety years old, bear a child?” 18And Abraham said to God, “Oh that Ishmael might live before you!” 19God said, “No, but Sarah your wife shall bear you a son, and you shall call his name Isaac. I will establish my covenant with him as an everlasting covenant for his offspring after him. 20As for Ishmael, I have heard you; behold, I have blessed him and will make him fruitful and multiply him greatly. He shall father twelve princes, and I will make him into a great nation. 21But I will establish my covenant with Isaac, whom Sarah shall bear to you at this time next year.”
+22When he had finished talking with him, God went up from Abraham. 23Then Abraham took Ishmael his son and all those born in his house or bought with his money, every male among the men of Abraham’s house, and he circumcised the flesh of their foreskins that very day, as God had said to him. 24Abraham was ninety-nine years old when he was circumcised in the flesh of his foreskin. 25And Ishmael his son was thirteen years old when he was circumcised in the flesh of his foreskin. 26That very day Abraham and his son Ishmael were circumcised. 27And all the men of his house, those born in the house and those bought with money from a foreigner, were circumcised with him.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
