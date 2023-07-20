@@ -1,37 +1,43 @@
 mine = [
-    "1| When Abram was ninety-nine years old the Lord appeared to Abram and said to him, \"I am God Almighty; walk before me, and be blameless,",
-    "2| that I may make my covenant between me and you, and may multiply you greatly.\"",
-    "3| Then Abram fell on his face. And God said to him,",
-    "4| \"Behold, my covenant is with you, and you shall be the father of a multitude of nations.",
-    "5| No longer shall your name be called Abram, but your name shall be Abraham, for I have made you the father of a multitude of nations.",
-    "6| I will make you exceedingly fruitful, and I will make you into nations, and kings shall come from you.",
-    "7| And I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you.",
-    "8| And I will give to you and to your offspring after you the land of your sojournings, all the land of Canaan, for an everlasting possession, and I will be their God.\"",
-    "9| And God said to Abraham, \"As for you, you shall keep my covenant, you and your offspring after you throughout their generations.",
-    "10| This is my covenant, which you shall keep, between me and you and your offspring after you: Every male among you shall be circumcised.",
-    "11| You shall be circumcised in the flesh of your foreskins, and it shall be a sign of the covenant between me and you.",
-    "12| He who is eight days old among you shall be circumcised. Every male throughout your generations, whether born in your house or bought with your money from any foreigner who is not of your offspring,",
-    "13| both he who is born in your house and he who is bought with your money, shall surely be circumcised. So shall my covenant be in your flesh an everlasting covenant.",
-    "14| Any uncircumcised male who is not circumcised in the flesh of his foreskin shall be cut off from his people; he has broken my covenant.\"",
-    "15| And God said to Abraham, \"As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name.",
-    "16| I will bless her, and moreover, I will give you a son by her. I will bless her, and she shall become nations; kings of peoples shall come from her.\"",
-    "17| Then Abraham fell on his face and laughed and said to himself, \"Shall a child be born to a man who is a hundred years old? Shall Sarah, who is ninety years old, bear a child?\"",
-    "18| And Abraham said to God, \"Oh that Ishmael might live before you!\"",
-    "19| God said, \"No, but Sarah your wife shall bear you a son, and you shall call his name Isaac. I will establish my covenant with him as an everlasting covenant for his offspring after him.",
-    "20| As for Ishmael, I have heard you; behold, I have blessed him and will make him fruitful and multiply him greatly. He shall father twelve princes, and I will make him into a great nation.",
-    "21| But I will establish my covenant with Isaac, whom Sarah shall bear to you at this time next year.\"",
-    "22| When he had finished talking with him, God went up from Abraham.",
-    "23| Then Abraham took Ishmael his son and all those born in his house or bought with his money, every male among the men of Abraham's house, and he circumcised the flesh of their foreskins that very day, as God had said to him.",
-    "24| Abraham was ninety-nine years old when he was circumcised in the flesh of his foreskin.",
-    "25| And Ishmael his son was thirteen years old when he was circumcised in the flesh of his foreskin.",
-    "26| That very day Abraham and his son Ishmael were circumcised.",
-    "27| And all the men of his house, those born in the house and those bought with money from a foreigner, were circumcised with him.",
+    "1| 여호와께서 마므레 상수리 수풀 근처에서 아브라함에게 나타나시니라 오정 즈음에 그가 장막 문에 앉았다가",
+    "2| 눈을 들어 본즉 사람 셋이 맞은편에 섰는지라 그가 그들을 보자 곧 장막 문에서 달려나가 영접하며 몸을 땅에 굽혀",
+    "3| 가로되 내 주여 내가 주께 은혜를 입었사오면 원컨대 종을 떠나 지나가지 마옵시고",
+    "4| 물을 조금 가져오게 하사 당신들의 발을 씻으시고 나무 아래서 쉬소서",
+    "5| 내가 떡을 조금 가져오리니 당신들의 마음을 쾌활케 하신 후에 지나가소서 당신들이 종에게 오셨음이니이다 그들이 가로되 네 말대로 그리하라",
+    "6| 아브라함이 급히 장막에 들어가 사라에게 이르러 이르되 속히 고운 가루 세 스아를 가져다가 반죽하여 떡을 만들라 하고",
+    "7| 아브라함이 또 짐승 떼에 달려가서 기름지고 좋은 송아지를 취하여 하인에게 주니 그가 급히 요리한지라",
+    "8| 아브라함이 뻐터와 우유와 하인이 요리한 송아지를 가져다가 그들의 앞에 진설하고 나무 아래 모셔 서매 그들이 먹으니라",
+    "9| 그들이 아브라함에게 이르되 네 아내 사라가 어디 있느냐 대답하되 장막에 있나이다",
+    "10| 그가 가라사대 기한이 이를 때에 내가 정녕 네게로 돌아오리니 네 아내 사라에게 아들이 있으리라 하시니 사라가 그 뒤 장막 문에서 들었더라",
+    "11| 아브라함과 사라가 나이 많아 늙었고 사라의 경수는 끊어졌는지라",
+    "12| 사라가 속으로 웃고 이르되 내가 노쇠하였고 내 주인도 늙었으니 내게 어찌 낙이 있으리요",
+    "13| 여호와께서 아브라함에게 이르시되 사라가 왜 웃으며 이르기를 내가 늙었거늘 어떻게 아들을 낳으리요 하느냐",
+    "14| 여호와께 능치 못한 일이 있겠느냐 기한이 이를 때에 내가 네게로 돌아오리니 사라에게 아들이 있으리라",
+    "15| 사라가 두려워서 승인치 아니하여 가로되 내가 웃지 아니하였나이다 가라사대 아니라 네가 웃었느니라",
+    "16| 그 사람들이 거기서 일어나서 소돔으로 향하고 아브라함은 그들을 전송하러 함께 나가니라",
+    "17| 여호와께서 가라사대 나의 하려는 것을 아브라함에게 숨기겠느냐",
+    "18| 아브라함은 강대한 나라가 되고 천하 만민은 그를 인하여 복을 받게 될 것이 아니냐",
+    "19| 내가 그로 그 자식과 권속에게 명하여 여호와의 도를 지켜 의와 공도를 행하게 하려고 그를 택하였나니 이는 나 여호와가 아브라함에게 대하여 말한 일을 이루려 함이니라",
+    "20| 여호와께서 또 가라사대 소돔과 고모라에 대한 부르짖음이 크고 그 죄악이 심히 중하니",
+    "21| 내가 이제 내려가서 그 모든 행한 것이 과연 내게 들린 부르짖음과 같은지 그렇지 않은지 내가 보고 알려하노라",
+    "22| 그 사람들이 거기서 떠나 소돔으로 향하여 가고 아브라함은 여호와 앞에 그대로 섰더니",
+    "23| 가까이 나아가 가로되 주께서 의인을 악인과 함께 멸하시려나이까",
+    "24| 그 성중에 의인 오십이 있을찌라도 주께서 그 곳을 멸하시고 그 오십 의인을 위하여 용서치 아니하시리이까",
+    "25| 주께서 이같이 하사 의인을 악인과 함께 죽이심은 불가하오며 의인과 악인을 균등히 하심도 불가하니이다 세상을 심판하시는 이가 공의를 행하실 것이 아니니이까",
+    "26| 여호와께서 가라사대 내가 만일 소돔 성중에서 의인 오십을 찾으면 그들을 위하여 온 지경을 용서하리라",
+    "27| 아브라함이 말씀하여 가로되 티끌과 같은 나라도 감히 주께 고하나이다",
+    "28| 오십 의인 중에 오인이 부족할 것이면 그 오인 부족함을 인하여 온 성을 멸하시리이까 가라사대 내가 거기서 사십 오인을 찾으면 멸하지 아니하리라",
+    "29| 아브라함이 또 고하여 가로되 거기서 사십인을 찾으시면 어찌 하시려나이까 가라사대 사십인을 인하여 멸하지 아니하리라",
+    "30| 아브라함이 가로되 내 주여 노하지 마옵시고 말씀하게 하옵소서 거기서 삼십인을 찾으시면 어찌 하시려나이까 가라사대 내가 거기서 삼십인을 찾으면 멸하지 아니하리라",
+    "31| 아브라함이 또 가로되 내가 감히 내 주께 고하나이다 거기서 이십인을 찾으시면 어찌 하시려나이까 가라사대 내가 이십인을 인하여 멸하지 아니하리라",
+    "32| 아브라함이 또 가로되 주는 노하지 마옵소서 내가 이번만 더 말씀하리이다 거기서 십인을 찾으시면 어찌 하시려나이까 가라사대 내가 십인을 인하여도 멸하지 아니하리라",
+    "33| 여호와께서 아브라함과 말씀을 마치시고 즉시 가시니 아브라함도 자기 곳으로 돌아갔더라",
 ]
 let encoded = ` “ ” `
-theirs = `1When Abram was ninety-nine years old the Lord appeared to Abram and said to him, “I am God Almighty; walk before me, and be blameless, 2that I may make my covenant between me and you, and may multiply you greatly.” 3Then Abram fell on his face. And God said to him, 4“Behold, my covenant is with you, and you shall be the father of a multitude of nations. 5No longer shall your name be called Abram, but your name shall be Abraham, for I have made you the father of a multitude of nations. 6I will make you exceedingly fruitful, and I will make you into nations, and kings shall come from you. 7And I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you. 8And I will give to you and to your offspring after you the land of your sojournings, all the land of Canaan, for an everlasting possession, and I will be their God.”
-9And God said to Abraham, “As for you, you shall keep my covenant, you and your offspring after you throughout their generations. 10This is my covenant, which you shall keep, between me and you and your offspring after you: Every male among you shall be circumcised. 11You shall be circumcised in the flesh of your foreskins, and it shall be a sign of the covenant between me and you. 12He who is eight days old among you shall be circumcised. Every male throughout your generations, whether born in your house or bought with your money from any foreigner who is not of your offspring, 13both he who is born in your house and he who is bought with your money, shall surely be circumcised. So shall my covenant be in your flesh an everlasting covenant. 14Any uncircumcised male who is not circumcised in the flesh of his foreskin shall be cut off from his people; he has broken my covenant.”
-15And God said to Abraham, “As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name. 16I will bless her, and moreover, I will give you a son by her. I will bless her, and she shall become nations; kings of peoples shall come from her.” 17Then Abraham fell on his face and laughed and said to himself, “Shall a child be born to a man who is a hundred years old? Shall Sarah, who is ninety years old, bear a child?” 18And Abraham said to God, “Oh that Ishmael might live before you!” 19God said, “No, but Sarah your wife shall bear you a son, and you shall call his name Isaac. I will establish my covenant with him as an everlasting covenant for his offspring after him. 20As for Ishmael, I have heard you; behold, I have blessed him and will make him fruitful and multiply him greatly. He shall father twelve princes, and I will make him into a great nation. 21But I will establish my covenant with Isaac, whom Sarah shall bear to you at this time next year.”
-22When he had finished talking with him, God went up from Abraham. 23Then Abraham took Ishmael his son and all those born in his house or bought with his money, every male among the men of Abraham’s house, and he circumcised the flesh of their foreskins that very day, as God had said to him. 24Abraham was ninety-nine years old when he was circumcised in the flesh of his foreskin. 25And Ishmael his son was thirteen years old when he was circumcised in the flesh of his foreskin. 26That very day Abraham and his son Ishmael were circumcised. 27And all the men of his house, those born in the house and those bought with money from a foreigner, were circumcised with him.`
+theirs = `1여호와께서 마므레 상수리 수풀 근처에서 아브라함에게 나타나시니라 오정 즈음에 그가 장막 문에 앉았다가 2눈을 들어 본즉 사람 셋이 맞은편에 섰는지라 그가 그들을 보자 곧 장막 문에서 달려나가 영접하며 몸을 땅에 굽혀 3가로되 내 주여 내가 주께 은혜를 입었사오면 원컨대 종을 떠나 지나가지 마옵시고 4물을 조금 가져오게 하사 당신들의 발을 씻으시고 나무 아래서 쉬소서 5내가 떡을 조금 가져오리니 당신들의 마음을 쾌활케 하신 후에 지나가소서 당신들이 종에게 오셨음이니이다 그들이 가로되 네 말대로 그리하라 6아브라함이 급히 장막에 들어가 사라에게 이르러 이르되 속히 고운 가루 세 스아를 가져다가 반죽하여 떡을 만들라 하고 7아브라함이 또 짐승 떼에 달려가서 기름지고 좋은 송아지를 취하여 하인에게 주니 그가 급히 요리한지라 8아브라함이 뻐터와 우유와 하인이 요리한 송아지를 가져다가 그들의 앞에 진설하고 나무 아래 모셔 서매 그들이 먹으니라 9그들이 아브라함에게 이르되 네 아내 사라가 어디 있느냐 대답하되 장막에 있나이다
+10그가 가라사대 기한이 이를 때에 내가 정녕 네게로 돌아오리니 네 아내 사라에게 아들이 있으리라 하시니 사라가 그 뒤 장막 문에서 들었더라 11아브라함과 사라가 나이 많아 늙었고 사라의 경수는 끊어졌는지라 12사라가 속으로 웃고 이르되 내가 노쇠하였고 내 주인도 늙었으니 내게 어찌 낙이 있으리요 13여호와께서 아브라함에게 이르시되 사라가 왜 웃으며 이르기를 내가 늙었거늘 어떻게 아들을 낳으리요 하느냐 14여호와께 능치 못한 일이 있겠느냐 기한이 이를 때에 내가 네게로 돌아오리니 사라에게 아들이 있으리라 15사라가 두려워서 승인치 아니하여 가로되 내가 웃지 아니하였나이다 가라사대 아니라 네가 웃었느니라 16그 사람들이 거기서 일어나서 소돔으로 향하고 아브라함은 그들을 전송하러 함께 나가니라
+17여호와께서 가라사대 나의 하려는 것을 아브라함에게 숨기겠느냐 18아브라함은 강대한 나라가 되고 천하 만민은 그를 인하여 복을 받게 될 것이 아니냐 19내가 그로 그 자식과 권속에게 명하여 여호와의 도를 지켜 의와 공도를 행하게 하려고 그를 택하였나니 이는 나 여호와가 아브라함에게 대하여 말한 일을 이루려 함이니라 20여호와께서 또 가라사대 소돔과 고모라에 대한 부르짖음이 크고 그 죄악이 심히 중하니 21내가 이제 내려가서 그 모든 행한 것이 과연 내게 들린 부르짖음과 같은지 그렇지 않은지 내가 보고 알려하노라 22그 사람들이 거기서 떠나 소돔으로 향하여 가고 아브라함은 여호와 앞에 그대로 섰더니 23가까이 나아가 가로되 주께서 의인을 악인과 함께 멸하시려나이까
+24그 성중에 의인 오십이 있을찌라도 주께서 그 곳을 멸하시고 그 오십 의인을 위하여 용서치 아니하시리이까 25주께서 이같이 하사 의인을 악인과 함께 죽이심은 불가하오며 의인과 악인을 균등히 하심도 불가하니이다 세상을 심판하시는 이가 공의를 행하실 것이 아니니이까 26여호와께서 가라사대 내가 만일 소돔 성중에서 의인 오십을 찾으면 그들을 위하여 온 지경을 용서하리라 27아브라함이 말씀하여 가로되 티끌과 같은 나라도 감히 주께 고하나이다 28오십 의인 중에 오인이 부족할 것이면 그 오인 부족함을 인하여 온 성을 멸하시리이까 가라사대 내가 거기서 사십 오인을 찾으면 멸하지 아니하리라 29아브라함이 또 고하여 가로되 거기서 사십인을 찾으시면 어찌 하시려나이까 가라사대 사십인을 인하여 멸하지 아니하리라 30아브라함이 가로되 내 주여 노하지 마옵시고 말씀하게 하옵소서 거기서 삼십인을 찾으시면 어찌 하시려나이까 가라사대 내가 거기서 삼십인을 찾으면 멸하지 아니하리라 31아브라함이 또 가로되 내가 감히 내 주께 고하나이다 거기서 이십인을 찾으시면 어찌 하시려나이까 가라사대 내가 이십인을 인하여 멸하지 아니하리라 32아브라함이 또 가로되 주는 노하지 마옵소서 내가 이번만 더 말씀하리이다 거기서 십인을 찾으시면 어찌 하시려나이까 가라사대 내가 십인을 인하여도 멸하지 아니하리라 33여호와께서 아브라함과 말씀을 마치시고 즉시 가시니 아브라함도 자기 곳으로 돌아갔더라`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
