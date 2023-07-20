@@ -1,43 +1,53 @@
 mine = [
-    "1| 여호와께서 마므레 상수리 수풀 근처에서 아브라함에게 나타나시니라 오정 즈음에 그가 장막 문에 앉았다가",
-    "2| 눈을 들어 본즉 사람 셋이 맞은편에 섰는지라 그가 그들을 보자 곧 장막 문에서 달려나가 영접하며 몸을 땅에 굽혀",
-    "3| 가로되 내 주여 내가 주께 은혜를 입었사오면 원컨대 종을 떠나 지나가지 마옵시고",
-    "4| 물을 조금 가져오게 하사 당신들의 발을 씻으시고 나무 아래서 쉬소서",
-    "5| 내가 떡을 조금 가져오리니 당신들의 마음을 쾌활케 하신 후에 지나가소서 당신들이 종에게 오셨음이니이다 그들이 가로되 네 말대로 그리하라",
-    "6| 아브라함이 급히 장막에 들어가 사라에게 이르러 이르되 속히 고운 가루 세 스아를 가져다가 반죽하여 떡을 만들라 하고",
-    "7| 아브라함이 또 짐승 떼에 달려가서 기름지고 좋은 송아지를 취하여 하인에게 주니 그가 급히 요리한지라",
-    "8| 아브라함이 뻐터와 우유와 하인이 요리한 송아지를 가져다가 그들의 앞에 진설하고 나무 아래 모셔 서매 그들이 먹으니라",
-    "9| 그들이 아브라함에게 이르되 네 아내 사라가 어디 있느냐 대답하되 장막에 있나이다",
-    "10| 그가 가라사대 기한이 이를 때에 내가 정녕 네게로 돌아오리니 네 아내 사라에게 아들이 있으리라 하시니 사라가 그 뒤 장막 문에서 들었더라",
-    "11| 아브라함과 사라가 나이 많아 늙었고 사라의 경수는 끊어졌는지라",
-    "12| 사라가 속으로 웃고 이르되 내가 노쇠하였고 내 주인도 늙었으니 내게 어찌 낙이 있으리요",
-    "13| 여호와께서 아브라함에게 이르시되 사라가 왜 웃으며 이르기를 내가 늙었거늘 어떻게 아들을 낳으리요 하느냐",
-    "14| 여호와께 능치 못한 일이 있겠느냐 기한이 이를 때에 내가 네게로 돌아오리니 사라에게 아들이 있으리라",
-    "15| 사라가 두려워서 승인치 아니하여 가로되 내가 웃지 아니하였나이다 가라사대 아니라 네가 웃었느니라",
-    "16| 그 사람들이 거기서 일어나서 소돔으로 향하고 아브라함은 그들을 전송하러 함께 나가니라",
-    "17| 여호와께서 가라사대 나의 하려는 것을 아브라함에게 숨기겠느냐",
-    "18| 아브라함은 강대한 나라가 되고 천하 만민은 그를 인하여 복을 받게 될 것이 아니냐",
-    "19| 내가 그로 그 자식과 권속에게 명하여 여호와의 도를 지켜 의와 공도를 행하게 하려고 그를 택하였나니 이는 나 여호와가 아브라함에게 대하여 말한 일을 이루려 함이니라",
-    "20| 여호와께서 또 가라사대 소돔과 고모라에 대한 부르짖음이 크고 그 죄악이 심히 중하니",
-    "21| 내가 이제 내려가서 그 모든 행한 것이 과연 내게 들린 부르짖음과 같은지 그렇지 않은지 내가 보고 알려하노라",
-    "22| 그 사람들이 거기서 떠나 소돔으로 향하여 가고 아브라함은 여호와 앞에 그대로 섰더니",
-    "23| 가까이 나아가 가로되 주께서 의인을 악인과 함께 멸하시려나이까",
-    "24| 그 성중에 의인 오십이 있을찌라도 주께서 그 곳을 멸하시고 그 오십 의인을 위하여 용서치 아니하시리이까",
-    "25| 주께서 이같이 하사 의인을 악인과 함께 죽이심은 불가하오며 의인과 악인을 균등히 하심도 불가하니이다 세상을 심판하시는 이가 공의를 행하실 것이 아니니이까",
-    "26| 여호와께서 가라사대 내가 만일 소돔 성중에서 의인 오십을 찾으면 그들을 위하여 온 지경을 용서하리라",
-    "27| 아브라함이 말씀하여 가로되 티끌과 같은 나라도 감히 주께 고하나이다",
-    "28| 오십 의인 중에 오인이 부족할 것이면 그 오인 부족함을 인하여 온 성을 멸하시리이까 가라사대 내가 거기서 사십 오인을 찾으면 멸하지 아니하리라",
-    "29| 아브라함이 또 고하여 가로되 거기서 사십인을 찾으시면 어찌 하시려나이까 가라사대 사십인을 인하여 멸하지 아니하리라",
-    "30| 아브라함이 가로되 내 주여 노하지 마옵시고 말씀하게 하옵소서 거기서 삼십인을 찾으시면 어찌 하시려나이까 가라사대 내가 거기서 삼십인을 찾으면 멸하지 아니하리라",
-    "31| 아브라함이 또 가로되 내가 감히 내 주께 고하나이다 거기서 이십인을 찾으시면 어찌 하시려나이까 가라사대 내가 이십인을 인하여 멸하지 아니하리라",
-    "32| 아브라함이 또 가로되 주는 노하지 마옵소서 내가 이번만 더 말씀하리이다 거기서 십인을 찾으시면 어찌 하시려나이까 가라사대 내가 십인을 인하여도 멸하지 아니하리라",
-    "33| 여호와께서 아브라함과 말씀을 마치시고 즉시 가시니 아브라함도 자기 곳으로 돌아갔더라",
+    "1| The two angels came to Sodom in the evening, and Lot was sitting in the gate of Sodom. When Lot saw them, he rose to meet them and bowed himself with his face to the earth",
+    "2| and said, \"My lords, please turn aside to your servant's house and spend the night and wash your feet. Then you may rise up early and go on your way.\" They said, \"No; we will spend the night in the town square.\"",
+    "3| But he pressed them strongly; so they turned aside to him and entered his house. And he made them a feast and baked unleavened bread, and they ate.",
+    "4| But before they lay down, the men of the city, the men of Sodom, both young and old, all the people to the last man, surrounded the house.",
+    "5| And they called to Lot, \"Where are the men who came to you tonight? Bring them out to us, that we may know them.\"",
+    "6| Lot went out to the men at the entrance, shut the door after him,",
+    "7| and said, \"I beg you, my brothers, do not act so wickedly.",
+    "8| Behold, I have two daughters who have not known any man. Let me bring them out to you, and do to them as you please. Only do nothing to these men, for they have come under the shelter of my roof.\"",
+    "9| But they said, \"Stand back!\" And they said, \"This fellow came to sojourn, and he has become the judge! Now we will deal worse with you than with them.\" Then they pressed hard against the man Lot, and drew near to break the door down.",
+    "10| But the men reached out their hands and brought Lot into the house with them and shut the door.",
+    "11| And they struck with blindness the men who were at the entrance of the house, both small and great, so that they wore themselves out groping for the door.",
+    "12| Then the men said to Lot, \"Have you anyone else here? Sons-in-law, sons, daughters, or anyone you have in the city, bring them out of the place.",
+    "13| For we are about to destroy this place, because the outcry against its people has become great before the Lord, and the Lord has sent us to destroy it.\"",
+    "14| So Lot went out and said to his sons-in-law, who were to marry his daughters, \"Up! Get out of this place, for the Lord is about to destroy the city.\" But he seemed to his sons-in-law to be jesting.",
+    "15| As morning dawned, the angels urged Lot, saying, \"Up! Take your wife and your two daughters who are here, lest you be swept away in the punishment of the city.\"",
+    "16| But he lingered. So the men seized him and his wife and his two daughters by the hand, the Lord being merciful to him, and they brought him out and set him outside the city.",
+    "17| And as they brought them out, one said, \"Escape for your life. Do not look back or stop anywhere in the valley. Escape to the hills, lest you be swept away.\"",
+    "18| And Lot said to them, \"Oh, no, my lords.",
+    "19| Behold, your servant has found favor in your sight, and you have shown me great kindness in saving my life. But I cannot escape to the hills, lest the disaster overtake me and I die.",
+    "20| Behold, this city is near enough to flee to, and it is a little one. Let me escape there-is it not a little one?-and my life will be saved!\"",
+    "21| He said to him, \"Behold, I grant you this favor also, that I will not overthrow the city of which you have spoken.",
+    "22| Escape there quickly, for I can do nothing till you arrive there.\" Therefore the name of the city was called Zoar.",
+    "23| The sun had risen on the earth when Lot came to Zoar.",
+    "24| Then the Lord rained on Sodom and Gomorrah sulfur and fire from the Lord out of heaven.",
+    "25| And he overthrew those cities, and all the valley, and all the inhabitants of the cities, and what grew on the ground.",
+    "26| But Lot's wife, behind him, looked back, and she became a pillar of salt.",
+    "27| And Abraham went early in the morning to the place where he had stood before the Lord.",
+    "28| And he looked down toward Sodom and Gomorrah and toward all the land of the valley, and he looked and, behold, the smoke of the land went up like the smoke of a furnace.",
+    "29| So it was that, when God destroyed the cities of the valley, God remembered Abraham and sent Lot out of the midst of the overthrow when he overthrew the cities in which Lot had lived.",
+    "30| Now Lot went up out of Zoar and lived in the hills with his two daughters, for he was afraid to live in Zoar. So he lived in a cave with his two daughters.",
+    "31| And the firstborn said to the younger, \"Our father is old, and there is not a man on earth to come in to us after the manner of all the earth.",
+    "32| Come, let us make our father drink wine, and we will lie with him, that we may preserve offspring from our father.\"",
+    "33| So they made their father drink wine that night. And the firstborn went in and lay with her father. He did not know when she lay down or when she arose.",
+    "34| The next day, the firstborn said to the younger, \"Behold, I lay last night with my father. Let us make him drink wine tonight also. Then you go in and lie with him, that we may preserve offspring from our father.\"",
+    "35| So they made their father drink wine that night also. And the younger arose and lay with him, and he did not know when she lay down or when she arose.",
+    "36| Thus both the daughters of Lot became pregnant by their father.",
+    "37| The firstborn bore a son and called his name Moab. He is the father of the Moabites to this day.",
+    "38| The younger also bore a son and called his name Ben-ammi. He is the father of the Ammonites to this day.",
 ]
 let encoded = ` “ ” `
-theirs = `1여호와께서 마므레 상수리 수풀 근처에서 아브라함에게 나타나시니라 오정 즈음에 그가 장막 문에 앉았다가 2눈을 들어 본즉 사람 셋이 맞은편에 섰는지라 그가 그들을 보자 곧 장막 문에서 달려나가 영접하며 몸을 땅에 굽혀 3가로되 내 주여 내가 주께 은혜를 입었사오면 원컨대 종을 떠나 지나가지 마옵시고 4물을 조금 가져오게 하사 당신들의 발을 씻으시고 나무 아래서 쉬소서 5내가 떡을 조금 가져오리니 당신들의 마음을 쾌활케 하신 후에 지나가소서 당신들이 종에게 오셨음이니이다 그들이 가로되 네 말대로 그리하라 6아브라함이 급히 장막에 들어가 사라에게 이르러 이르되 속히 고운 가루 세 스아를 가져다가 반죽하여 떡을 만들라 하고 7아브라함이 또 짐승 떼에 달려가서 기름지고 좋은 송아지를 취하여 하인에게 주니 그가 급히 요리한지라 8아브라함이 뻐터와 우유와 하인이 요리한 송아지를 가져다가 그들의 앞에 진설하고 나무 아래 모셔 서매 그들이 먹으니라 9그들이 아브라함에게 이르되 네 아내 사라가 어디 있느냐 대답하되 장막에 있나이다
-10그가 가라사대 기한이 이를 때에 내가 정녕 네게로 돌아오리니 네 아내 사라에게 아들이 있으리라 하시니 사라가 그 뒤 장막 문에서 들었더라 11아브라함과 사라가 나이 많아 늙었고 사라의 경수는 끊어졌는지라 12사라가 속으로 웃고 이르되 내가 노쇠하였고 내 주인도 늙었으니 내게 어찌 낙이 있으리요 13여호와께서 아브라함에게 이르시되 사라가 왜 웃으며 이르기를 내가 늙었거늘 어떻게 아들을 낳으리요 하느냐 14여호와께 능치 못한 일이 있겠느냐 기한이 이를 때에 내가 네게로 돌아오리니 사라에게 아들이 있으리라 15사라가 두려워서 승인치 아니하여 가로되 내가 웃지 아니하였나이다 가라사대 아니라 네가 웃었느니라 16그 사람들이 거기서 일어나서 소돔으로 향하고 아브라함은 그들을 전송하러 함께 나가니라
-17여호와께서 가라사대 나의 하려는 것을 아브라함에게 숨기겠느냐 18아브라함은 강대한 나라가 되고 천하 만민은 그를 인하여 복을 받게 될 것이 아니냐 19내가 그로 그 자식과 권속에게 명하여 여호와의 도를 지켜 의와 공도를 행하게 하려고 그를 택하였나니 이는 나 여호와가 아브라함에게 대하여 말한 일을 이루려 함이니라 20여호와께서 또 가라사대 소돔과 고모라에 대한 부르짖음이 크고 그 죄악이 심히 중하니 21내가 이제 내려가서 그 모든 행한 것이 과연 내게 들린 부르짖음과 같은지 그렇지 않은지 내가 보고 알려하노라 22그 사람들이 거기서 떠나 소돔으로 향하여 가고 아브라함은 여호와 앞에 그대로 섰더니 23가까이 나아가 가로되 주께서 의인을 악인과 함께 멸하시려나이까
-24그 성중에 의인 오십이 있을찌라도 주께서 그 곳을 멸하시고 그 오십 의인을 위하여 용서치 아니하시리이까 25주께서 이같이 하사 의인을 악인과 함께 죽이심은 불가하오며 의인과 악인을 균등히 하심도 불가하니이다 세상을 심판하시는 이가 공의를 행하실 것이 아니니이까 26여호와께서 가라사대 내가 만일 소돔 성중에서 의인 오십을 찾으면 그들을 위하여 온 지경을 용서하리라 27아브라함이 말씀하여 가로되 티끌과 같은 나라도 감히 주께 고하나이다 28오십 의인 중에 오인이 부족할 것이면 그 오인 부족함을 인하여 온 성을 멸하시리이까 가라사대 내가 거기서 사십 오인을 찾으면 멸하지 아니하리라 29아브라함이 또 고하여 가로되 거기서 사십인을 찾으시면 어찌 하시려나이까 가라사대 사십인을 인하여 멸하지 아니하리라 30아브라함이 가로되 내 주여 노하지 마옵시고 말씀하게 하옵소서 거기서 삼십인을 찾으시면 어찌 하시려나이까 가라사대 내가 거기서 삼십인을 찾으면 멸하지 아니하리라 31아브라함이 또 가로되 내가 감히 내 주께 고하나이다 거기서 이십인을 찾으시면 어찌 하시려나이까 가라사대 내가 이십인을 인하여 멸하지 아니하리라 32아브라함이 또 가로되 주는 노하지 마옵소서 내가 이번만 더 말씀하리이다 거기서 십인을 찾으시면 어찌 하시려나이까 가라사대 내가 십인을 인하여도 멸하지 아니하리라 33여호와께서 아브라함과 말씀을 마치시고 즉시 가시니 아브라함도 자기 곳으로 돌아갔더라`
+theirs = `1The two angels came to Sodom in the evening, and Lot was sitting in the gate of Sodom. When Lot saw them, he rose to meet them and bowed himself with his face to the earth 2and said, “My lords, please turn aside to your servant’s house and spend the night and wash your feet. Then you may rise up early and go on your way.” They said, “No; we will spend the night in the town square.” 3But he pressed them strongly; so they turned aside to him and entered his house. And he made them a feast and baked unleavened bread, and they ate.
+4But before they lay down, the men of the city, the men of Sodom, both young and old, all the people to the last man, surrounded the house. 5And they called to Lot, “Where are the men who came to you tonight? Bring them out to us, that we may know them.” 6Lot went out to the men at the entrance, shut the door after him, 7and said, “I beg you, my brothers, do not act so wickedly. 8Behold, I have two daughters who have not known any man. Let me bring them out to you, and do to them as you please. Only do nothing to these men, for they have come under the shelter of my roof.” 9But they said, “Stand back!” And they said, “This fellow came to sojourn, and he has become the judge! Now we will deal worse with you than with them.” Then they pressed hard against the man Lot, and drew near to break the door down. 10But the men reached out their hands and brought Lot into the house with them and shut the door. 11And they struck with blindness the men who were at the entrance of the house, both small and great, so that they wore themselves out groping for the door.
+12Then the men said to Lot, “Have you anyone else here? Sons-in-law, sons, daughters, or anyone you have in the city, bring them out of the place. 13For we are about to destroy this place, because the outcry against its people has become great before the Lord, and the Lord has sent us to destroy it.” 14So Lot went out and said to his sons-in-law, who were to marry his daughters, “Up! Get out of this place, for the Lord is about to destroy the city.” But he seemed to his sons-in-law to be jesting.
+15As morning dawned, the angels urged Lot, saying, “Up! Take your wife and your two daughters who are here, lest you be swept away in the punishment of the city.” 16But he lingered. So the men seized him and his wife and his two daughters by the hand, the Lord being merciful to him, and they brought him out and set him outside the city. 17And as they brought them out, one said, “Escape for your life. Do not look back or stop anywhere in the valley. Escape to the hills, lest you be swept away.” 18And Lot said to them, “Oh, no, my lords. 19Behold, your servant has found favor in your sight, and you have shown me great kindness in saving my life. But I cannot escape to the hills, lest the disaster overtake me and I die. 20Behold, this city is near enough to flee to, and it is a little one. Let me escape there—is it not a little one?—and my life will be saved!” 21He said to him, “Behold, I grant you this favor also, that I will not overthrow the city of which you have spoken. 22Escape there quickly, for I can do nothing till you arrive there.” Therefore the name of the city was called Zoar.
+23The sun had risen on the earth when Lot came to Zoar. 24Then the Lord rained on Sodom and Gomorrah sulfur and fire from the Lord out of heaven. 25And he overthrew those cities, and all the valley, and all the inhabitants of the cities, and what grew on the ground. 26But Lot’s wife, behind him, looked back, and she became a pillar of salt.
+27And Abraham went early in the morning to the place where he had stood before the Lord. 28And he looked down toward Sodom and Gomorrah and toward all the land of the valley, and he looked and, behold, the smoke of the land went up like the smoke of a furnace.
+29So it was that, when God destroyed the cities of the valley, God remembered Abraham and sent Lot out of the midst of the overthrow when he overthrew the cities in which Lot had lived.
+30Now Lot went up out of Zoar and lived in the hills with his two daughters, for he was afraid to live in Zoar. So he lived in a cave with his two daughters. 31And the firstborn said to the younger, “Our father is old, and there is not a man on earth to come in to us after the manner of all the earth. 32Come, let us make our father drink wine, and we will lie with him, that we may preserve offspring from our father.” 33So they made their father drink wine that night. And the firstborn went in and lay with her father. He did not know when she lay down or when she arose.
+34The next day, the firstborn said to the younger, “Behold, I lay last night with my father. Let us make him drink wine tonight also. Then you go in and lie with him, that we may preserve offspring from our father.” 35So they made their father drink wine that night also. And the younger arose and lay with him, and he did not know when she lay down or when she arose. 36Thus both the daughters of Lot became pregnant by their father. 37The firstborn bore a son and called his name Moab. He is the father of the Moabites to this day. 38The younger also bore a son and called his name Ben-ammi. He is the father of the Ammonites to this day.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
