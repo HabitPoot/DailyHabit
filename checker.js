@@ -1,48 +1,78 @@
 mine = [
-    "1| Now there was a famine in the land, besides the former famine that was in the days of Abraham. And Isaac went to Gerar to Abimelech king of the Philistines.",
-    "2| And the Lord appeared to him and said, \"Do not go down to Egypt; dwell in the land of which I shall tell you.",
-    "3| Sojourn in this land, and I will be with you and will bless you, for to you and to your offspring I will give all these lands, and I will establish the oath that I swore to Abraham your father.",
-    "4| I will multiply your offspring as the stars of heaven and will give to your offspring all these lands. And in your offspring all the nations of the earth shall be blessed,",
-    "5| because Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws.\"",
-    "6| So Isaac settled in Gerar.",
-    "7| When the men of the place asked him about his wife, he said, \"She is my sister,\" for he feared to say, \"My wife,\" thinking, \"lest the men of the place should kill me because of Rebekah,\" because she was attractive in appearance.",
-    "8| When he had been there a long time, Abimelech king of the Philistines looked out of a window and saw Isaac laughing with Rebekah his wife.",
-    "9| So Abimelech called Isaac and said, \"Behold, she is your wife. How then could you say, \'She is my sister\'?\" Isaac said to him, \"Because I thought, \'Lest I die because of her.\'\"",
-    "10| Abimelech said, \"What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt upon us.\"",
-    "11| So Abimelech warned all the people, saying, \"Whoever touches this man or his wife shall surely be put to death.\"",
-    "12| And Isaac sowed in that land and reaped in the same year a hundredfold. The Lord blessed him,",
-    "13| and the man became rich, and gained more and more until he became very wealthy.",
-    "14| He had possessions of flocks and herds and many servants, so that the Philistines envied him.",
-    "15| (Now the Philistines had stopped and filled with earth all the wells that his father\'s servants had dug in the days of Abraham his father.)",
-    "16| And Abimelech said to Isaac, \"Go away from us, for you are much mightier than we.\"",
-    "17| So Isaac departed from there and encamped in the Valley of Gerar and settled there.",
-    "18| And Isaac dug again the wells of water that had been dug in the days of Abraham his father, which the Philistines had stopped after the death of Abraham. And he gave them the names that his father had given them.",
-    "19| But when Isaac's servants dug in the valley and found there a well of spring water,",
-    "20| the herdsmen of Gerar quarreled with Isaac's herdsmen, saying, \"The water is ours.\" So he called the name of the well Esek, because they contended with him.",
-    "21| Then they dug another well, and they quarreled over that also, so he called its name Sitnah.",
-    "22| And he moved from there and dug another well, and they did not quarrel over it. So he called its name Rehoboth, saying, \"For now the Lord has made room for us, and we shall be fruitful in the land.\"",
-    "23| From there he went up to Beersheba.",
-    "24| And the Lord appeared to him the same night and said, \"I am the God of Abraham your father. Fear not, for I am with you and will bless you and multiply your offspring for my servant Abraham's sake.\"",
-    "25| So he built an altar there and called upon the name of the Lord and pitched his tent there. And there Isaac's servants dug a well.",
-    "26| When Abimelech went to him from Gerar with Ahuzzath his adviser and Phicol the commander of his army,",
-    "27| Isaac said to them, \"Why have you come to me, seeing that you hate me and have sent me away from you?\"",
-    "28| They said, \"We see plainly that the Lord has been with you. So we said, let there be a sworn pact between us, between you and us, and let us make a covenant with you,",
-    "29| that you will do us no harm, just as we have not touched you and have done to you nothing but good and have sent you away in peace. You are now the blessed of the Lord.\"",
-    "30| So he made them a feast, and they ate and drank.",
-    "31| In the morning they rose early and exchanged oaths. And Isaac sent them on their way, and they departed from him in peace.",
-    "32| That same day Isaac's servants came and told him about the well that they had dug and said to him, \"We have found water.\"",
-    "33| He called it Shibah; therefore the name of the city is Beersheba to this day.",
-    "34| When Esau was forty years old, he took Judith the daughter of Beeri the Hittite to be his wife, and Basemath the daughter of Elon the Hittite,",
-    "35| and they made life bitter for Isaac and Rebekah.",
+    "1| When Isaac was old and his eyes were dim so that he could not see, he called Esau his older son and said to him, \"My son\"; and he answered, \"Here I am.\"",
+    "2| He said, \"Behold, I am old; I do not know the day of my death.",
+    "3| Now then, take your weapons, your quiver and your bow, and go out to the field and hunt game for me,",
+    "4| and prepare for me delicious food, such as I love, and bring it to me so that I may eat, that my soul may bless you before I die.\"",
+    "5| Now Rebekah was listening when Isaac spoke to his son Esau. So when Esau went to the field to hunt for game and bring it,",
+    "6| Rebekah said to her son Jacob, \"I heard your father speak to your brother Esau,",
+    "7| \'Bring me game and prepare for me delicious food, that I may eat it and bless you before the Lord before I die.\'",
+    "8| Now therefore, my son, obey my voice as I command you.",
+    "9| Go to the flock and bring me two good young goats, so that I may prepare from them delicious food for your father, such as he loves.",
+    "10| And you shall bring it to your father to eat, so that he may bless you before he dies.\"",
+    "11| But Jacob said to Rebekah his mother, \"Behold, my brother Esau is a hairy man, and I am a smooth man.",
+    "12| Perhaps my father will feel me, and I shall seem to be mocking him and bring a curse upon myself and not a blessing.\"",
+    "13| His mother said to him, \"Let your curse be on me, my son; only obey my voice, and go, bring them to me.\"",
+    "14| So he went and took them and brought them to his mother, and his mother prepared delicious food, such as his father loved.",
+    "15| Then Rebekah took the best garments of Esau her older son, which were with her in the house, and put them on Jacob her younger son.",
+    "16| And the skins of the young goats she put on his hands and on the smooth part of his neck.",
+    "17| And she put the delicious food and the bread, which she had prepared, into the hand of her son Jacob.",
+    "18| So he went in to his father and said, \"My father.\" And he said, \"Here I am. Who are you, my son?\"",
+    "19| Jacob said to his father, \"I am Esau your firstborn. I have done as you told me; now sit up and eat of my game, that your soul may bless me.\"",
+    "20| But Isaac said to his son, \"How is it that you have found it so quickly, my son?\" He answered, \"Because the Lord your God granted me success.\"",
+    "21| Then Isaac said to Jacob, \"Please come near, that I may feel you, my son, to know whether you are really my son Esau or not.\"",
+    "22| So Jacob went near to Isaac his father, who felt him and said, \"The voice is Jacob's voice, but the hands are the hands of Esau.\"",
+    "23| And he did not recognize him, because his hands were hairy like his brother Esau's hands. So he blessed him.",
+    "24| He said, \"Are you really my son Esau?\" He answered, \"I am.\"",
+    "25| Then he said, \"Bring it near to me, that I may eat of my son's game and bless you.\" So he brought it near to him, and he ate; and he brought him wine, and he drank.",
+    "26| Then his father Isaac said to him, \"Come near and kiss me, my son.\"",
+    "27| So he came near and kissed him. And Isaac smelled the smell of his garments and blessed him and said, \"See, the smell of my son is as the smell of a field that the Lord has blessed!",
+    "28| May God give you of the dew of heaven and of the fatness of the earth and plenty of grain and wine.",
+    "29| Let peoples serve you, and nations bow down to you. Be lord over your brothers, and may your mother's sons bow down to you. Cursed be everyone who curses you, and blessed be everyone who blesses you!\"",
+    "30| As soon as Isaac had finished blessing Jacob, when Jacob had scarcely gone out from the presence of Isaac his father, Esau his brother came in from his hunting.",
+    "31| He also prepared delicious food and brought it to his father. And he said to his father, \"Let my father arise and eat of his son's game, that you may bless me.\"",
+    "32| His father Isaac said to him, \"Who are you?\" He answered, \"I am your son, your firstborn, Esau.\"",
+    "33| Then Isaac trembled very violently and said, \"Who was it then that hunted game and brought it to me, and I ate it all before you came, and I have blessed him? Yes, and he shall be blessed.\"",
+    "34| As soon as Esau heard the words of his father, he cried out with an exceedingly great and bitter cry and said to his father, \"Bless me, even me also, O my father!\"",
+    "35| But he said, \"Your brother came deceitfully, and he has taken away your blessing.\"",
+    "36| Esau said, \"Is he not rightly named Jacob? For he has cheated me these two times. He took away my birthright, and behold, now he has taken away my blessing.\" Then he said, \"Have you not reserved a blessing for me?\"",
+    "37| Isaac answered and said to Esau, \"Behold, I have made him lord over you, and all his brothers I have given to him for servants, and with grain and wine I have sustained him. What then can I do for you, my son?\"",
+    "38| Esau said to his father, \"Have you but one blessing, my father? Bless me, even me also, O my father.\" And Esau lifted up his voice and wept.",
+    "39| Then Isaac his father answered and said to him: \"Behold, away from the fatness of the earth shall your dwelling be, and away from the dew of heaven on high.",
+    "40| By your sword you shall live, and you shall serve your brother; but when you grow restless you shall break his yoke from your neck.\"",
+    "41| Now Esau hated Jacob because of the blessing with which his father had blessed him, and Esau said to himself, \"The days of mourning for my father are approaching; then I will kill my brother Jacob.\"",
+    "42| But the words of Esau her older son were told to Rebekah. So she sent and called Jacob her younger son and said to him, \"Behold, your brother Esau comforts himself about you by planning to kill you.",
+    "43| Now therefore, my son, obey my voice. Arise, flee to Laban my brother in Haran",
+    "44| and stay with him a while, until your brother's fury turns away-",
+    "45| until your brother's anger turns away from you, and he forgets what you have done to him. Then I will send and bring you from there. Why should I be bereft of you both in one day?\"",
+    "46| Then Rebekah said to Isaac, \"I loathe my life because of the Hittite women. If Jacob marries one of the Hittite women like these, one of the women of the land, what good will my life be to me?\"",
 ]
 let encoded = ` “ ” `
-theirs = `1Now there was a famine in the land, besides the former famine that was in the days of Abraham. And Isaac went to Gerar to Abimelech king of the Philistines. 2And the Lord appeared to him and said, “Do not go down to Egypt; dwell in the land of which I shall tell you. 3Sojourn in this land, and I will be with you and will bless you, for to you and to your offspring I will give all these lands, and I will establish the oath that I swore to Abraham your father. 4I will multiply your offspring as the stars of heaven and will give to your offspring all these lands. And in your offspring all the nations of the earth shall be blessed, 5because Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws.”
-6So Isaac settled in Gerar. 7When the men of the place asked him about his wife, he said, “She is my sister,” for he feared to say, “My wife,” thinking, “lest the men of the place should kill me because of Rebekah,” because she was attractive in appearance. 8When he had been there a long time, Abimelech king of the Philistines looked out of a window and saw Isaac laughing with Rebekah his wife. 9So Abimelech called Isaac and said, “Behold, she is your wife. How then could you say, ‘She is my sister’?” Isaac said to him, “Because I thought, ‘Lest I die because of her.’” 10Abimelech said, “What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt upon us.” 11So Abimelech warned all the people, saying, “Whoever touches this man or his wife shall surely be put to death.”
-12And Isaac sowed in that land and reaped in the same year a hundredfold. The Lord blessed him, 13and the man became rich, and gained more and more until he became very wealthy. 14He had possessions of flocks and herds and many servants, so that the Philistines envied him. 15(Now the Philistines had stopped and filled with earth all the wells that his father’s servants had dug in the days of Abraham his father.) 16And Abimelech said to Isaac, “Go away from us, for you are much mightier than we.”
-17So Isaac departed from there and encamped in the Valley of Gerar and settled there. 18And Isaac dug again the wells of water that had been dug in the days of Abraham his father, which the Philistines had stopped after the death of Abraham. And he gave them the names that his father had given them. 19But when Isaac’s servants dug in the valley and found there a well of spring water, 20the herdsmen of Gerar quarreled with Isaac’s herdsmen, saying, “The water is ours.” So he called the name of the well Esek, because they contended with him. 21Then they dug another well, and they quarreled over that also, so he called its name Sitnah. 22And he moved from there and dug another well, and they did not quarrel over it. So he called its name Rehoboth, saying, “For now the Lord has made room for us, and we shall be fruitful in the land.”
-23From there he went up to Beersheba. 24And the Lord appeared to him the same night and said, “I am the God of Abraham your father. Fear not, for I am with you and will bless you and multiply your offspring for my servant Abraham’s sake.” 25So he built an altar there and called upon the name of the Lord and pitched his tent there. And there Isaac’s servants dug a well.
-26When Abimelech went to him from Gerar with Ahuzzath his adviser and Phicol the commander of his army, 27Isaac said to them, “Why have you come to me, seeing that you hate me and have sent me away from you?” 28They said, “We see plainly that the Lord has been with you. So we said, let there be a sworn pact between us, between you and us, and let us make a covenant with you, 29that you will do us no harm, just as we have not touched you and have done to you nothing but good and have sent you away in peace. You are now the blessed of the Lord.” 30So he made them a feast, and they ate and drank. 31In the morning they rose early and exchanged oaths. And Isaac sent them on their way, and they departed from him in peace. 32That same day Isaac’s servants came and told him about the well that they had dug and said to him, “We have found water.” 33He called it Shibah; therefore the name of the city is Beersheba to this day.
-34When Esau was forty years old, he took Judith the daughter of Beeri the Hittite to be his wife, and Basemath the daughter of Elon the Hittite, 35and they made life bitter for Isaac and Rebekah.`
+theirs = `1When Isaac was old and his eyes were dim so that he could not see, he called Esau his older son and said to him, “My son”; and he answered, “Here I am.” 2He said, “Behold, I am old; I do not know the day of my death. 3Now then, take your weapons, your quiver and your bow, and go out to the field and hunt game for me, 4and prepare for me delicious food, such as I love, and bring it to me so that I may eat, that my soul may bless you before I die.”
+5Now Rebekah was listening when Isaac spoke to his son Esau. So when Esau went to the field to hunt for game and bring it, 6Rebekah said to her son Jacob, “I heard your father speak to your brother Esau, 7‘Bring me game and prepare for me delicious food, that I may eat it and bless you before the Lord before I die.’ 8Now therefore, my son, obey my voice as I command you. 9Go to the flock and bring me two good young goats, so that I may prepare from them delicious food for your father, such as he loves. 10And you shall bring it to your father to eat, so that he may bless you before he dies.” 11But Jacob said to Rebekah his mother, “Behold, my brother Esau is a hairy man, and I am a smooth man. 12Perhaps my father will feel me, and I shall seem to be mocking him and bring a curse upon myself and not a blessing.” 13His mother said to him, “Let your curse be on me, my son; only obey my voice, and go, bring them to me.”
+14So he went and took them and brought them to his mother, and his mother prepared delicious food, such as his father loved. 15Then Rebekah took the best garments of Esau her older son, which were with her in the house, and put them on Jacob her younger son. 16And the skins of the young goats she put on his hands and on the smooth part of his neck. 17And she put the delicious food and the bread, which she had prepared, into the hand of her son Jacob.
+18So he went in to his father and said, “My father.” And he said, “Here I am. Who are you, my son?” 19Jacob said to his father, “I am Esau your firstborn. I have done as you told me; now sit up and eat of my game, that your soul may bless me.” 20But Isaac said to his son, “How is it that you have found it so quickly, my son?” He answered, “Because the Lord your God granted me success.” 21Then Isaac said to Jacob, “Please come near, that I may feel you, my son, to know whether you are really my son Esau or not.” 22So Jacob went near to Isaac his father, who felt him and said, “The voice is Jacob’s voice, but the hands are the hands of Esau.” 23And he did not recognize him, because his hands were hairy like his brother Esau’s hands. So he blessed him. 24He said, “Are you really my son Esau?” He answered, “I am.” 25Then he said, “Bring it near to me, that I may eat of my son’s game and bless you.” So he brought it near to him, and he ate; and he brought him wine, and he drank.
+26Then his father Isaac said to him, “Come near and kiss me, my son.” 27So he came near and kissed him. And Isaac smelled the smell of his garments and blessed him and said,
+“See, the smell of my son
+is as the smell of a field that the Lord has blessed!
+28May God give you of the dew of heaven
+and of the fatness of the earth
+and plenty of grain and wine.
+29Let peoples serve you,
+and nations bow down to you.
+Be lord over your brothers,
+and may your mother’s sons bow down to you.
+Cursed be everyone who curses you,
+and blessed be everyone who blesses you!”
+30As soon as Isaac had finished blessing Jacob, when Jacob had scarcely gone out from the presence of Isaac his father, Esau his brother came in from his hunting. 31He also prepared delicious food and brought it to his father. And he said to his father, “Let my father arise and eat of his son’s game, that you may bless me.” 32His father Isaac said to him, “Who are you?” He answered, “I am your son, your firstborn, Esau.” 33Then Isaac trembled very violently and said, “Who was it then that hunted game and brought it to me, and I ate it all before you came, and I have blessed him? Yes, and he shall be blessed.” 34As soon as Esau heard the words of his father, he cried out with an exceedingly great and bitter cry and said to his father, “Bless me, even me also, O my father!” 35But he said, “Your brother came deceitfully, and he has taken away your blessing.” 36Esau said, “Is he not rightly named Jacob? For he has cheated me these two times. He took away my birthright, and behold, now he has taken away my blessing.” Then he said, “Have you not reserved a blessing for me?” 37Isaac answered and said to Esau, “Behold, I have made him lord over you, and all his brothers I have given to him for servants, and with grain and wine I have sustained him. What then can I do for you, my son?” 38Esau said to his father, “Have you but one blessing, my father? Bless me, even me also, O my father.” And Esau lifted up his voice and wept.
+39Then Isaac his father answered and said to him:
+“Behold, away from the fatness of the earth shall your dwelling be,
+and away from the dew of heaven on high.
+40By your sword you shall live,
+and you shall serve your brother;
+but when you grow restless
+you shall break his yoke from your neck.”
+41Now Esau hated Jacob because of the blessing with which his father had blessed him, and Esau said to himself, “The days of mourning for my father are approaching; then I will kill my brother Jacob.” 42But the words of Esau her older son were told to Rebekah. So she sent and called Jacob her younger son and said to him, “Behold, your brother Esau comforts himself about you by planning to kill you. 43Now therefore, my son, obey my voice. Arise, flee to Laban my brother in Haran 44and stay with him a while, until your brother’s fury turns away— 45until your brother’s anger turns away from you, and he forgets what you have done to him. Then I will send and bring you from there. Why should I be bereft of you both in one day?”
+46Then Rebekah said to Isaac, “I loathe my life because of the Hittite women. If Jacob marries one of the Hittite women like these, one of the women of the land, what good will my life be to me?”`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
