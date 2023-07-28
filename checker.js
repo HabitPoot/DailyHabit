@@ -1,51 +1,48 @@
 mine = [
-    "1| Abraham took another wife, whose name was Keturah.",
-    "2| She bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.",
-    "3| Jokshan fathered Sheba and Dedan. The sons of Dedan were Asshurim, Letushim, and Leummim.",
-    "4| The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the children of Keturah.",
-    "5| Abraham gave all he had to Isaac.",
-    "6| But to the sons of his concubines Abraham gave gifts, and while he was still living he sent them away from his son Isaac, eastward to the east country.",
-    "7| These are the days of the years of Abraham's life, 175 years.",
-    "8| Abraham breathed his last and died in a good old age, an old man and full of years, and was gathered to his people.",
-    "9| Isaac and Ishmael his sons buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, east of Mamre,",
-    "10| the field that Abraham purchased from the Hittites. There Abraham was buried, with Sarah his wife.",
-    "11| After the death of Abraham, God blessed Isaac his son. And Isaac settled at Beer-lahai-roi.",
-    "12| These are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's servant, bore to Abraham.",
-    "13| These are the names of the sons of Ishmael, named in the order of their birth: Nebaioth, the firstborn of Ishmael; and Kedar, Adbeel, Mibsam,",
-    "14| Mishma, Dumah, Massa,",
-    "15| Hadad, Tema, Jetur, Naphish, and Kedemah.",
-    "16| These are the sons of Ishmael and these are their names, by their villages and by their encampments, twelve princes according to their tribes.",
-    "17| (These are the years of the life of Ishmael: 137 years. He breathed his last and died, and was gathered to his people.)",
-    "18| They settled from Havilah to Shur, which is opposite Egypt in the direction of Assyria. He settled over against all his kinsmen.",
-    "19| These are the generations of Isaac, Abraham's son: Abraham fathered Isaac,",
-    "20| and Isaac was forty years old when he took Rebekah, the daughter of Bethuel the Aramean of Paddan-aram, the sister of Laban the Aramean, to be his wife.",
-    "21| And Isaac prayed to the Lord for his wife, because she was barren. And the Lord granted his prayer, and Rebekah his wife conceived.",
-    "22| The children struggled together within her, and she said, \"If it is thus, why is this happening to me?\" So she went to inquire of the Lord.",
-    "23| And the Lord said to her, \"Two nations are in your womb, and two peoples from within you shall be divided; the one shall be stronger than the other, the older shall serve the younger.\"",
-    "24| When her days to give birth were completed, behold, there were twins in her womb.",
-    "25| The first came out red, all his body like a hairy cloak, so they called his name Esau.",
-    "26| Afterward his brother came out with his hand holding Esau's heel, so his name was called Jacob. Isaac was sixty years old when she bore them.",
-    "27| When the boys grew up, Esau was a skillful hunter, a man of the field, while Jacob was a quiet man, dwelling in tents.",
-    "28| Isaac loved Esau because he ate of his game, but Rebekah loved Jacob.",
-    "29| Once when Jacob was cooking stew, Esau came in from the field, and he was exhausted.",
-    "30| And Esau said to Jacob, \"Let me eat some of that red stew, for I am exhausted!\" (Therefore his name was called Edom.)",
-    "31| Jacob said, \"Sell me your birthright now.\"",
-    "32| Esau said, \"I am about to die; of what use is a birthright to me?\"",
-    "33| Jacob said, \"Swear to me now.\" So he swore to him and sold his birthright to Jacob.",
-    "34| Then Jacob gave Esau bread and lentil stew, and he ate and drank and rose and went his way. Thus Esau despised his birthright.",
+    "1| Now there was a famine in the land, besides the former famine that was in the days of Abraham. And Isaac went to Gerar to Abimelech king of the Philistines.",
+    "2| And the Lord appeared to him and said, \"Do not go down to Egypt; dwell in the land of which I shall tell you.",
+    "3| Sojourn in this land, and I will be with you and will bless you, for to you and to your offspring I will give all these lands, and I will establish the oath that I swore to Abraham your father.",
+    "4| I will multiply your offspring as the stars of heaven and will give to your offspring all these lands. And in your offspring all the nations of the earth shall be blessed,",
+    "5| because Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws.\"",
+    "6| So Isaac settled in Gerar.",
+    "7| When the men of the place asked him about his wife, he said, \"She is my sister,\" for he feared to say, \"My wife,\" thinking, \"lest the men of the place should kill me because of Rebekah,\" because she was attractive in appearance.",
+    "8| When he had been there a long time, Abimelech king of the Philistines looked out of a window and saw Isaac laughing with Rebekah his wife.",
+    "9| So Abimelech called Isaac and said, \"Behold, she is your wife. How then could you say, \'She is my sister\'?\" Isaac said to him, \"Because I thought, \'Lest I die because of her.\'\"",
+    "10| Abimelech said, \"What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt upon us.\"",
+    "11| So Abimelech warned all the people, saying, \"Whoever touches this man or his wife shall surely be put to death.\"",
+    "12| And Isaac sowed in that land and reaped in the same year a hundredfold. The Lord blessed him,",
+    "13| and the man became rich, and gained more and more until he became very wealthy.",
+    "14| He had possessions of flocks and herds and many servants, so that the Philistines envied him.",
+    "15| (Now the Philistines had stopped and filled with earth all the wells that his father\'s servants had dug in the days of Abraham his father.)",
+    "16| And Abimelech said to Isaac, \"Go away from us, for you are much mightier than we.\"",
+    "17| So Isaac departed from there and encamped in the Valley of Gerar and settled there.",
+    "18| And Isaac dug again the wells of water that had been dug in the days of Abraham his father, which the Philistines had stopped after the death of Abraham. And he gave them the names that his father had given them.",
+    "19| But when Isaac's servants dug in the valley and found there a well of spring water,",
+    "20| the herdsmen of Gerar quarreled with Isaac's herdsmen, saying, \"The water is ours.\" So he called the name of the well Esek, because they contended with him.",
+    "21| Then they dug another well, and they quarreled over that also, so he called its name Sitnah.",
+    "22| And he moved from there and dug another well, and they did not quarrel over it. So he called its name Rehoboth, saying, \"For now the Lord has made room for us, and we shall be fruitful in the land.\"",
+    "23| From there he went up to Beersheba.",
+    "24| And the Lord appeared to him the same night and said, \"I am the God of Abraham your father. Fear not, for I am with you and will bless you and multiply your offspring for my servant Abraham's sake.\"",
+    "25| So he built an altar there and called upon the name of the Lord and pitched his tent there. And there Isaac's servants dug a well.",
+    "26| When Abimelech went to him from Gerar with Ahuzzath his adviser and Phicol the commander of his army,",
+    "27| Isaac said to them, \"Why have you come to me, seeing that you hate me and have sent me away from you?\"",
+    "28| They said, \"We see plainly that the Lord has been with you. So we said, let there be a sworn pact between us, between you and us, and let us make a covenant with you,",
+    "29| that you will do us no harm, just as we have not touched you and have done to you nothing but good and have sent you away in peace. You are now the blessed of the Lord.\"",
+    "30| So he made them a feast, and they ate and drank.",
+    "31| In the morning they rose early and exchanged oaths. And Isaac sent them on their way, and they departed from him in peace.",
+    "32| That same day Isaac's servants came and told him about the well that they had dug and said to him, \"We have found water.\"",
+    "33| He called it Shibah; therefore the name of the city is Beersheba to this day.",
+    "34| When Esau was forty years old, he took Judith the daughter of Beeri the Hittite to be his wife, and Basemath the daughter of Elon the Hittite,",
+    "35| and they made life bitter for Isaac and Rebekah.",
 ]
 let encoded = ` “ ” `
-theirs = `1Abraham took another wife, whose name was Keturah. 2She bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. 3Jokshan fathered Sheba and Dedan. The sons of Dedan were Asshurim, Letushim, and Leummim. 4The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the children of Keturah. 5Abraham gave all he had to Isaac. 6But to the sons of his concubines Abraham gave gifts, and while he was still living he sent them away from his son Isaac, eastward to the east country.
-7These are the days of the years of Abraham’s life, 175 years. 8Abraham breathed his last and died in a good old age, an old man and full of years, and was gathered to his people. 9Isaac and Ishmael his sons buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, east of Mamre, 10the field that Abraham purchased from the Hittites. There Abraham was buried, with Sarah his wife. 11After the death of Abraham, God blessed Isaac his son. And Isaac settled at Beer-lahai-roi.
-12These are the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s servant, bore to Abraham. 13These are the names of the sons of Ishmael, named in the order of their birth: Nebaioth, the firstborn of Ishmael; and Kedar, Adbeel, Mibsam, 14Mishma, Dumah, Massa, 15Hadad, Tema, Jetur, Naphish, and Kedemah. 16These are the sons of Ishmael and these are their names, by their villages and by their encampments, twelve princes according to their tribes. 17(These are the years of the life of Ishmael: 137 years. He breathed his last and died, and was gathered to his people.) 18They settled from Havilah to Shur, which is opposite Egypt in the direction of Assyria. He settled over against all his kinsmen.
-19These are the generations of Isaac, Abraham’s son: Abraham fathered Isaac, 20and Isaac was forty years old when he took Rebekah, the daughter of Bethuel the Aramean of Paddan-aram, the sister of Laban the Aramean, to be his wife. 21And Isaac prayed to the Lord for his wife, because she was barren. And the Lord granted his prayer, and Rebekah his wife conceived. 22The children struggled together within her, and she said, “If it is thus, why is this happening to me?” So she went to inquire of the Lord. 23And the Lord said to her,
-“Two nations are in your womb,
-and two peoples from within you shall be divided;
-the one shall be stronger than the other,
-the older shall serve the younger.”
-24When her days to give birth were completed, behold, there were twins in her womb. 25The first came out red, all his body like a hairy cloak, so they called his name Esau. 26Afterward his brother came out with his hand holding Esau’s heel, so his name was called Jacob. Isaac was sixty years old when she bore them.
-27When the boys grew up, Esau was a skillful hunter, a man of the field, while Jacob was a quiet man, dwelling in tents. 28Isaac loved Esau because he ate of his game, but Rebekah loved Jacob.
-29Once when Jacob was cooking stew, Esau came in from the field, and he was exhausted. 30And Esau said to Jacob, “Let me eat some of that red stew, for I am exhausted!” (Therefore his name was called Edom.) 31Jacob said, “Sell me your birthright now.” 32Esau said, “I am about to die; of what use is a birthright to me?” 33Jacob said, “Swear to me now.” So he swore to him and sold his birthright to Jacob. 34Then Jacob gave Esau bread and lentil stew, and he ate and drank and rose and went his way. Thus Esau despised his birthright.`
+theirs = `1Now there was a famine in the land, besides the former famine that was in the days of Abraham. And Isaac went to Gerar to Abimelech king of the Philistines. 2And the Lord appeared to him and said, “Do not go down to Egypt; dwell in the land of which I shall tell you. 3Sojourn in this land, and I will be with you and will bless you, for to you and to your offspring I will give all these lands, and I will establish the oath that I swore to Abraham your father. 4I will multiply your offspring as the stars of heaven and will give to your offspring all these lands. And in your offspring all the nations of the earth shall be blessed, 5because Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws.”
+6So Isaac settled in Gerar. 7When the men of the place asked him about his wife, he said, “She is my sister,” for he feared to say, “My wife,” thinking, “lest the men of the place should kill me because of Rebekah,” because she was attractive in appearance. 8When he had been there a long time, Abimelech king of the Philistines looked out of a window and saw Isaac laughing with Rebekah his wife. 9So Abimelech called Isaac and said, “Behold, she is your wife. How then could you say, ‘She is my sister’?” Isaac said to him, “Because I thought, ‘Lest I die because of her.’” 10Abimelech said, “What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt upon us.” 11So Abimelech warned all the people, saying, “Whoever touches this man or his wife shall surely be put to death.”
+12And Isaac sowed in that land and reaped in the same year a hundredfold. The Lord blessed him, 13and the man became rich, and gained more and more until he became very wealthy. 14He had possessions of flocks and herds and many servants, so that the Philistines envied him. 15(Now the Philistines had stopped and filled with earth all the wells that his father’s servants had dug in the days of Abraham his father.) 16And Abimelech said to Isaac, “Go away from us, for you are much mightier than we.”
+17So Isaac departed from there and encamped in the Valley of Gerar and settled there. 18And Isaac dug again the wells of water that had been dug in the days of Abraham his father, which the Philistines had stopped after the death of Abraham. And he gave them the names that his father had given them. 19But when Isaac’s servants dug in the valley and found there a well of spring water, 20the herdsmen of Gerar quarreled with Isaac’s herdsmen, saying, “The water is ours.” So he called the name of the well Esek, because they contended with him. 21Then they dug another well, and they quarreled over that also, so he called its name Sitnah. 22And he moved from there and dug another well, and they did not quarrel over it. So he called its name Rehoboth, saying, “For now the Lord has made room for us, and we shall be fruitful in the land.”
+23From there he went up to Beersheba. 24And the Lord appeared to him the same night and said, “I am the God of Abraham your father. Fear not, for I am with you and will bless you and multiply your offspring for my servant Abraham’s sake.” 25So he built an altar there and called upon the name of the Lord and pitched his tent there. And there Isaac’s servants dug a well.
+26When Abimelech went to him from Gerar with Ahuzzath his adviser and Phicol the commander of his army, 27Isaac said to them, “Why have you come to me, seeing that you hate me and have sent me away from you?” 28They said, “We see plainly that the Lord has been with you. So we said, let there be a sworn pact between us, between you and us, and let us make a covenant with you, 29that you will do us no harm, just as we have not touched you and have done to you nothing but good and have sent you away in peace. You are now the blessed of the Lord.” 30So he made them a feast, and they ate and drank. 31In the morning they rose early and exchanged oaths. And Isaac sent them on their way, and they departed from him in peace. 32That same day Isaac’s servants came and told him about the well that they had dug and said to him, “We have found water.” 33He called it Shibah; therefore the name of the city is Beersheba to this day.
+34When Esau was forty years old, he took Judith the daughter of Beeri the Hittite to be his wife, and Basemath the daughter of Elon the Hittite, 35and they made life bitter for Isaac and Rebekah.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
