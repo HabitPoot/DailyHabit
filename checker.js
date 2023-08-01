@@ -1,48 +1,54 @@
 mine = [
-    "1| Then Jacob went on his journey and came to the land of the people of the east.",
-    "2| As he looked, he saw a well in the field, and behold, three flocks of sheep lying beside it, for out of that well the flocks were watered. The stone on the well's mouth was large,",
-    "3| and when all the flocks were gathered there, the shepherds would roll the stone from the mouth of the well and water the sheep, and put the stone back in its place over the mouth of the well.",
-    "4| Jacob said to them, \"My brothers, where do you come from?\" They said, \"We are from Haran.\"",
-    "5| He said to them, \"Do you know Laban the son of Nahor?\" They said, \"We know him.\"",
-    "6| He said to them, \"Is it well with him?\" They said, \"It is well; and see, Rachel his daughter is coming with the sheep!\"",
-    "7| He said, \"Behold, it is still high day; it is not time for the livestock to be gathered together. Water the sheep and go, pasture them.\"",
-    "8| But they said, \"We cannot until all the flocks are gathered together and the stone is rolled from the mouth of the well; then we water the sheep.\"",
-    "9| While he was still speaking with them, Rachel came with her father's sheep, for she was a shepherdess.",
-    "10| Now as soon as Jacob saw Rachel the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, Jacob came near and rolled the stone from the well's mouth and watered the flock of Laban his mother's brother.",
-    "11| Then Jacob kissed Rachel and wept aloud.",
-    "12| And Jacob told Rachel that he was her father's kinsman, and that he was Rebekah's son, and she ran and told her father.",
-    "13| As soon as Laban heard the news about Jacob, his sister's son, he ran to meet him and embraced him and kissed him and brought him to his house. Jacob told Laban all these things,",
-    "14| and Laban said to him, \"Surely you are my bone and my flesh!\" And he stayed with him a month.",
-    "15| Then Laban said to Jacob, \"Because you are my kinsman, should you therefore serve me for nothing? Tell me, what shall your wages be?\"",
-    "16| Now Laban had two daughters. The name of the older was Leah, and the name of the younger was Rachel.",
-    "17| Leah's eyes were weak, but Rachel was beautiful in form and appearance.",
-    "18| Jacob loved Rachel. And he said, \"I will serve you seven years for your younger daughter Rachel.\"",
-    "19| Laban said, \"It is better that I give her to you than that I should give her to any other man; stay with me.\"",
-    "20| So Jacob served seven years for Rachel, and they seemed to him but a few days because of the love he had for her.",
-    "21| Then Jacob said to Laban, \"Give me my wife that I may go in to her, for my time is completed.\"",
-    "22| So Laban gathered together all the people of the place and made a feast.",
-    "23| But in the evening he took his daughter Leah and brought her to Jacob, and he went in to her.",
-    "24| (Laban gave his female servant Zilpah to his daughter Leah to be her servant.)",
-    "25| And in the morning, behold, it was Leah! And Jacob said to Laban, \"What is this you have done to me? Did I not serve with you for Rachel? Why then have you deceived me?\"",
-    "26| Laban said, \"It is not so done in our country, to give the younger before the firstborn.",
-    "27| Complete the week of this one, and we will give you the other also in return for serving me another seven years.\"",
-    "28| Jacob did so, and completed her week. Then Laban gave him his daughter Rachel to be his wife.",
-    "29| (Laban gave his female servant Bilhah to his daughter Rachel to be her servant.)",
-    "30| So Jacob went in to Rachel also, and he loved Rachel more than Leah, and served Laban for another seven years.",
-    "31| When the Lord saw that Leah was hated, he opened her womb, but Rachel was barren.",
-    "32| And Leah conceived and bore a son, and she called his name Reuben, for she said, \"Because the Lord has looked upon my affliction; for now my husband will love me.\"",
-    "33| She conceived again and bore a son, and said, \"Because the Lord has heard that I am hated, he has given me this son also.\" And she called his name Simeon.",
-    "34| Again she conceived and bore a son, and said, \"Now this time my husband will be attached to me, because I have borne him three sons.\" Therefore his name was called Levi.",
-    "35| And she conceived again and bore a son, and said, \"This time I will praise the Lord.\" Therefore she called his name Judah. Then she ceased bearing.",
+    "1| 라헬이 자기가 야곱에게 아들을 낳지 못함을 보고 그 형을 투기하여 야곱에게 이르되 나로 자식을 낳게 하라 그렇지 아니하면 내가 죽겠노라",
+    "2| 야곱이 라헬에게 노를 발하여 가로되 그대로 성태치 못하게 하시는 이는 하나님이시니 내가 하나님을 대신하겠느냐",
+    "3| 라헬이 가로되 나의 여종 빌하에게로 들어가라 그가 아들을 낳아 내 무릎에 두리니 그러면 나도 그를 인하여 자식을 얻겠노라 하고",
+    "4| 그 시녀 빌하를 남편에게 첩으로 주매 야곱이 그에게로 들어갔더니",
+    "5| 빌하가 잉태하여 야곱에게 아들을 낳은지라",
+    "6| 라헬이 가로되 하나님이 내 억울함을 푸시려고 내 소리를 들으사 내게 아들을 주셨다 하고 이로 인하여 그 이름을 단이라 하였으며",
+    "7| 라헬의 시녀 빌하가 다시 잉태하여 둘째 아들을 야곱에게 낳으매",
+    "8| 라헬이 가로되 내가 형과 크게 경쟁하여 이기었다 하고 그 이름을 납달리라 하였더라",
+    "9| 레아가 자기의 생산이 멈춤을 보고 그 시녀 실바를 취하여 야곱에게 주어 첩을 삼게 하였더니",
+    "10| 레아의 시녀 실바가 야곱에게 아들을 낳으매",
+    "11| 레아가 가로되 복되도다 하고 그 이름을 갓이라 하였으며",
+    "12| 레아의 시녀 실바가 둘째 아들을 야곱에게 낳으매",
+    "13| 레아가 가로되 기쁘도다 모든 딸들이 나를 기쁜 자라 하리로다 하고 그 이름을 아셀이라 하였더라",
+    "14| 맥추때에 르우벤이 나가서 들에서 합환채를 얻어 어미 레아에게 드렸더니 라헬이 레아에게 이르되 형의 아들의 합환채를 청구하노라",
+    "15| 레아가 그에게 이르되 네가 내 남편을 빼앗은 것이 작은 일이냐 그런데 네가 내 아들의 합환채도 빼앗고자 하느냐 라헬이 가로되 그러면 형의 아들의 합환채 대신에 오늘 밤에 내 남편이 형과 동침하리라 하니라",
+    "16| 저물 때에 야곱이 들에서 돌아오매 레아가 나와서 그를 영접하며 이르되 내게로 들어오라 내가 내 아들의 합환채로 당신을 샀노라 그 밤에 야곱이 그와 동침하였더라",
+    "17| 하나님이 레아를 들으셨으므로 그가 잉태하여 다섯째 아들을 야곱에게 낳은지라",
+    "18| 레아가 가로되 내가 내 시녀를 남편에게 주었으므로 하나님이 내게 그 값을 주셨다 하고 그 이름을 잇사갈이라 하였으며",
+    "19| 레아가 다시 잉태하여 여섯째 아들을 야곱에게 낳은지라",
+    "20| 레아가 가로되 하나님이 내게 후한 선물을 주시도다 내가 남편에게 여섯 아들을 낳았으니 이제는 그가 나와 함께 거하리라 하고 그 이름을 스불론이라 하였으며",
+    "21| 그 후에 그가 딸을 낳고 그 이름을 디나라 하였더라",
+    "22| 하나님이 라헬을 생각하신지라 하나님이 그를 들으시고 그 태를 여신고로",
+    "23| 그가 잉태하여 아들을 낳고 가로되 하나님이 나의 부끄러움을 씻으셨다 하고",
+    "24| 그 이름을 요셉이라 하니 여호와는 다시 다른 아들을 내게 더하시기를 원하노라 함이었더라",
+    "25| 라헬이 요셉을 낳은 때에 야곱이 라반에게 이르되 나를 보내어 내 고향 내 본토로 가게 하시되",
+    "26| 내가 외삼촌에게서 일하고 얻은 처자를 내게 주어 나로 가게 하소서 내가 외삼촌께 한 일은 외삼촌이 아시나이다",
+    "27| 라반이 그에게 이르되 여호와께서 너로 인하여 내게 복 주신줄을 내가 깨달았노니 네가 나를 사랑스럽게 여기거든 유하라",
+    "28| 또 가로되 네 품삯을 정하라 내가 그것을 주리라",
+    "29| 야곱이 그에게 이르되 내가 어떻게 외삼촌을 섬겼는지, 어떻게 외삼촌의 짐승을 쳤는지 외삼촌이 아시나이다",
+    "30| 내가 오기 전에는 외삼촌의 소유가 적더니 번성하여 떼를 이루었나이다 나의 공력을 따라 여호와께서 외삼촌에게 복을 주셨나이다 그러나 나는 어느 때에나 내 집을 세우리이까",
+    "31| 라반이 가로되 내가 무엇으로 네게 주랴 야곱이 가로되 외삼촌께서 아무 것도 내게 주실 것이 아니라 나를 위하여 이 일을 행하시면 내가 다시 외삼촌의 양떼를 먹이고 지키리이다",
+    "32| 오늘 내가 외삼촌의 양떼로 두루 다니며 그 양 중에 아롱진 자와 점 있는 자와 검은 자를 가리어내며 염소 중에 점 있는 자와 아롱진 자를 가리어내리니 이같은 것이 나면 나의 삯이 되리이다",
+    "33| 후일에 외삼촌께서 오셔서 내 품삯을 조사하실 때에 나의 의가 나의 표징이 되리이다 내게 혹시 염소 중 아롱지지 아니한 자나 점이 없는 자나 양 중 검지 아니한 자가 있거든 다 도적질한 것으로 인정하소서",
+    "34| 라반이 가로되 내가 네 말대로 하리라 하고",
+    "35| 그 날에 그가 수염소 중 얼룩무늬 있는 자와 점 있는 자를 가리고 암염소 중 흰 바탕에 아롱진 자와 점 있는 자를 가리고 양 중의 검은 자들을 가려 자기 아들들의 손에 붙이고",
+    "36| 자기와 야곱의 사이를 사흘길이 뜨게 하였고 야곱은 라반의 남은 양떼를 치니라",
+    "37| 야곱이 버드나무와 살구나무와 신풍나무의 푸른 가지를 취하여 그것들의 껍질을 벗겨 흰 무늬를 내고",
+    "38| 그 껍질 벗긴 가지를 양떼가 와서 먹는 개천의 물구유에 세워 양떼에 향하게 하매 그 떼가 물을 먹으러 올 때에 새끼를 배니",
+    "39| 가지 앞에서 새끼를 배므로 얼룩얼룩한 것과 점이 있고 아롱진 것을 낳은지라",
+    "40| 야곱이 새끼 양을 구분하고 그 얼룩무늬와 검은 빛 있는 것으로 라반의 양과 서로 대하게하며 자기 양을 따로 두어 라반의 양과 섞이지 않게 하며",
+    "41| 실한 양이 새끼 밸 때에는 야곱이 개천에다가 양떼의 눈앞에 그 가지를 두어 양으로 그 가지 곁에서 새끼를 배게 하고",
+    "42| 약한 양이면 그 가지를 두지아니하니 이러므로 약한 자는 라반의 것이 되고 실한 자는 야곱의 것이 된지라",
+    "43| 이에 그 사람이 심히 풍부하여 양떼와 노비와 약대와 나귀가 많았더라",
 ]
 let encoded = ` “ ” `
-theirs = `1Then Jacob went on his journey and came to the land of the people of the east. 2As he looked, he saw a well in the field, and behold, three flocks of sheep lying beside it, for out of that well the flocks were watered. The stone on the well’s mouth was large, 3and when all the flocks were gathered there, the shepherds would roll the stone from the mouth of the well and water the sheep, and put the stone back in its place over the mouth of the well.
-4Jacob said to them, “My brothers, where do you come from?” They said, “We are from Haran.” 5He said to them, “Do you know Laban the son of Nahor?” They said, “We know him.” 6He said to them, “Is it well with him?” They said, “It is well; and see, Rachel his daughter is coming with the sheep!” 7He said, “Behold, it is still high day; it is not time for the livestock to be gathered together. Water the sheep and go, pasture them.” 8But they said, “We cannot until all the flocks are gathered together and the stone is rolled from the mouth of the well; then we water the sheep.”
-9While he was still speaking with them, Rachel came with her father’s sheep, for she was a shepherdess. 10Now as soon as Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, Jacob came near and rolled the stone from the well’s mouth and watered the flock of Laban his mother’s brother. 11Then Jacob kissed Rachel and wept aloud. 12And Jacob told Rachel that he was her father’s kinsman, and that he was Rebekah’s son, and she ran and told her father.
-13As soon as Laban heard the news about Jacob, his sister’s son, he ran to meet him and embraced him and kissed him and brought him to his house. Jacob told Laban all these things, 14and Laban said to him, “Surely you are my bone and my flesh!” And he stayed with him a month.
-15Then Laban said to Jacob, “Because you are my kinsman, should you therefore serve me for nothing? Tell me, what shall your wages be?” 16Now Laban had two daughters. The name of the older was Leah, and the name of the younger was Rachel. 17Leah’s eyes were weak, but Rachel was beautiful in form and appearance. 18Jacob loved Rachel. And he said, “I will serve you seven years for your younger daughter Rachel.” 19Laban said, “It is better that I give her to you than that I should give her to any other man; stay with me.” 20So Jacob served seven years for Rachel, and they seemed to him but a few days because of the love he had for her.
-21Then Jacob said to Laban, “Give me my wife that I may go in to her, for my time is completed.” 22So Laban gathered together all the people of the place and made a feast. 23But in the evening he took his daughter Leah and brought her to Jacob, and he went in to her. 24(Laban gave his female servant Zilpah to his daughter Leah to be her servant.) 25And in the morning, behold, it was Leah! And Jacob said to Laban, “What is this you have done to me? Did I not serve with you for Rachel? Why then have you deceived me?” 26Laban said, “It is not so done in our country, to give the younger before the firstborn. 27Complete the week of this one, and we will give you the other also in return for serving me another seven years.” 28Jacob did so, and completed her week. Then Laban gave him his daughter Rachel to be his wife. 29(Laban gave his female servant Bilhah to his daughter Rachel to be her servant.) 30So Jacob went in to Rachel also, and he loved Rachel more than Leah, and served Laban for another seven years.
-31When the Lord saw that Leah was hated, he opened her womb, but Rachel was barren. 32And Leah conceived and bore a son, and she called his name Reuben, for she said, “Because the Lord has looked upon my affliction; for now my husband will love me.” 33She conceived again and bore a son, and said, “Because the Lord has heard that I am hated, he has given me this son also.” And she called his name Simeon. 34Again she conceived and bore a son, and said, “Now this time my husband will be attached to me, because I have borne him three sons.” Therefore his name was called Levi. 35And she conceived again and bore a son, and said, “This time I will praise the Lord.” Therefore she called his name Judah. Then she ceased bearing.`
+theirs = `1라헬이 자기가 야곱에게 아들을 낳지 못함을 보고 그 형을 투기하여 야곱에게 이르되 나로 자식을 낳게 하라 그렇지 아니하면 내가 죽겠노라 2야곱이 라헬에게 노를 발하여 가로되 그대로 성태치 못하게 하시는 이는 하나님이시니 내가 하나님을 대신하겠느냐 3라헬이 가로되 나의 여종 빌하에게로 들어가라 그가 아들을 낳아 내 무릎에 두리니 그러면 나도 그를 인하여 자식을 얻겠노라 하고 4그 시녀 빌하를 남편에게 첩으로 주매 야곱이 그에게로 들어갔더니 5빌하가 잉태하여 야곱에게 아들을 낳은지라 6라헬이 가로되 하나님이 내 억울함을 푸시려고 내 소리를 들으사 내게 아들을 주셨다 하고 이로 인하여 그 이름을 단이라 하였으며 7라헬의 시녀 빌하가 다시 잉태하여 둘째 아들을 야곱에게 낳으매 8라헬이 가로되 내가 형과 크게 경쟁하여 이기었다 하고 그 이름을 납달리라 하였더라 9레아가 자기의 생산이 멈춤을 보고 그 시녀 실바를 취하여 야곱에게 주어 첩을 삼게 하였더니 10레아의 시녀 실바가 야곱에게 아들을 낳으매 11레아가 가로되 복되도다 하고 그 이름을 갓이라 하였으며 12레아의 시녀 실바가 둘째 아들을 야곱에게 낳으매 13레아가 가로되 기쁘도다 모든 딸들이 나를 기쁜 자라 하리로다 하고 그 이름을 아셀이라 하였더라 14맥추때에 르우벤이 나가서 들에서 합환채를 얻어 어미 레아에게 드렸더니 라헬이 레아에게 이르되 형의 아들의 합환채를 청구하노라
+15레아가 그에게 이르되 네가 내 남편을 빼앗은 것이 작은 일이냐 그런데 네가 내 아들의 합환채도 빼앗고자 하느냐 라헬이 가로되 그러면 형의 아들의 합환채 대신에 오늘 밤에 내 남편이 형과 동침하리라 하니라 16저물 때에 야곱이 들에서 돌아오매 레아가 나와서 그를 영접하며 이르되 내게로 들어오라 내가 내 아들의 합환채로 당신을 샀노라 그 밤에 야곱이 그와 동침하였더라 17하나님이 레아를 들으셨으므로 그가 잉태하여 다섯째 아들을 야곱에게 낳은지라 18레아가 가로되 내가 내 시녀를 남편에게 주었으므로 하나님이 내게 그 값을 주셨다 하고 그 이름을 잇사갈이라 하였으며 19레아가 다시 잉태하여 여섯째 아들을 야곱에게 낳은지라 20레아가 가로되 하나님이 내게 후한 선물을 주시도다 내가 남편에게 여섯 아들을 낳았으니 이제는 그가 나와 함께 거하리라 하고 그 이름을 스불론이라 하였으며 21그 후에 그가 딸을 낳고 그 이름을 디나라 하였더라 22하나님이 라헬을 생각하신지라 하나님이 그를 들으시고 그 태를 여신고로
+23그가 잉태하여 아들을 낳고 가로되 하나님이 나의 부끄러움을 씻으셨다 하고 24그 이름을 요셉이라 하니 여호와는 다시 다른 아들을 내게 더하시기를 원하노라 함이었더라 25라헬이 요셉을 낳은 때에 야곱이 라반에게 이르되 나를 보내어 내 고향 내 본토로 가게 하시되
+26내가 외삼촌에게서 일하고 얻은 처자를 내게 주어 나로 가게 하소서 내가 외삼촌께 한 일은 외삼촌이 아시나이다 27라반이 그에게 이르되 여호와께서 너로 인하여 내게 복 주신줄을 내가 깨달았노니 네가 나를 사랑스럽게 여기거든 유하라 28또 가로되 네 품삯을 정하라 내가 그것을 주리라 29야곱이 그에게 이르되 내가 어떻게 외삼촌을 섬겼는지, 어떻게 외삼촌의 짐승을 쳤는지 외삼촌이 아시나이다 30내가 오기 전에는 외삼촌의 소유가 적더니 번성하여 떼를 이루었나이다 나의 공력을 따라 여호와께서 외삼촌에게 복을 주셨나이다 그러나 나는 어느 때에나 내 집을 세우리이까 31라반이 가로되 내가 무엇으로 네게 주랴 야곱이 가로되 외삼촌께서 아무 것도 내게 주실 것이 아니라 나를 위하여 이 일을 행하시면 내가 다시 외삼촌의 양떼를 먹이고 지키리이다 32오늘 내가 외삼촌의 양떼로 두루 다니며 그 양 중에 아롱진 자와 점 있는 자와 검은 자를 가리어내며 염소 중에 점 있는 자와 아롱진 자를 가리어내리니 이같은 것이 나면 나의 삯이 되리이다 33후일에 외삼촌께서 오셔서 내 품삯을 조사하실 때에 나의 의가 나의 표징이 되리이다 내게 혹시 염소 중 아롱지지 아니한 자나 점이 없는 자나 양 중 검지 아니한 자가 있거든 다 도적질한 것으로 인정하소서 34라반이 가로되 내가 네 말대로 하리라 하고 35그 날에 그가 수염소 중 얼룩무늬 있는 자와 점 있는 자를 가리고 암염소 중 흰 바탕에 아롱진 자와 점 있는 자를 가리고 양 중의 검은 자들을 가려 자기 아들들의 손에 붙이고 36자기와 야곱의 사이를 사흘길이 뜨게 하였고 야곱은 라반의 남은 양떼를 치니라 37야곱이 버드나무와 살구나무와 신풍나무의 푸른 가지를 취하여 그것들의 껍질을 벗겨 흰 무늬를 내고
+38그 껍질 벗긴 가지를 양떼가 와서 먹는 개천의 물구유에 세워 양떼에 향하게 하매 그 떼가 물을 먹으러 올 때에 새끼를 배니 39가지 앞에서 새끼를 배므로 얼룩얼룩한 것과 점이 있고 아롱진 것을 낳은지라 40야곱이 새끼 양을 구분하고 그 얼룩무늬와 검은 빛 있는 것으로 라반의 양과 서로 대하게하며 자기 양을 따로 두어 라반의 양과 섞이지 않게 하며 41실한 양이 새끼 밸 때에는 야곱이 개천에다가 양떼의 눈앞에 그 가지를 두어 양으로 그 가지 곁에서 새끼를 배게 하고 42약한 양이면 그 가지를 두지아니하니 이러므로 약한 자는 라반의 것이 되고 실한 자는 야곱의 것이 된지라 43이에 그 사람이 심히 풍부하여 양떼와 노비와 약대와 나귀가 많았더라`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
