@@ -1,42 +1,56 @@
 mine = [
-    "1| God said to Jacob, \"Arise, go up to Bethel and dwell there. Make an altar there to the God who appeared to you when you fled from your brother Esau.\"",
-    "2| So Jacob said to his household and to all who were with him, \"Put away the foreign gods that are among you and purify yourselves and change your garments.",
-    "3| Then let us arise and go up to Bethel, so that I may make there an altar to the God who answers me in the day of my distress and has been with me wherever I have gone.\"",
-    "4| So they gave to Jacob all the foreign gods that they had, and the rings that were in their ears. Jacob hid them under the terebinth tree that was near Shechem.",
-    "5| And as they journeyed, a terror from God fell upon the cities that were around them, so that they did not pursue the sons of Jacob.",
-    "6| And Jacob came to Luz (that is, Bethel), which is in the land of Canaan, he and all the people who were with him,",
-    "7| and there he built an altar and called the place El-bethel, because there God had revealed himself to him when he fled from his brother.",
-    "8| And Deborah, Rebekah's nurse, died, and she was buried under an oak below Bethel. So he called its name Allon-bacuth.",
-    "9| God appeared to Jacob again, when he came from Paddan-aram, and blessed him.",
-    "10| And God said to him, \"Your name is Jacob; no longer shall your name be called Jacob, but Israel shall be your name.\" So he called his name Israel.",
-    "11| And God said to him, \"I am God Almighty: be fruitful and multiply. A nation and a company of nations shall come from you, and kings shall come from your own body.",
-    "12| The land that I gave to Abraham and Isaac I will give to you, and I will give the land to your offspring after you.\"",
-    "13| Then God went up from him in the place where he had spoken with him.",
-    "14| And Jacob set up a pillar in the place where he had spoken with him, a pillar of stone. He poured out a drink offering on it and poured oil on it.",
-    "15| So Jacob called the name of the place where God had spoken with him Bethel.",
-    "16| Then they journeyed from Bethel. When they were still some distance from Ephrath, Rachel went into labor, and she had hard labor.",
-    "17| And when her labor was at its hardest, the midwife said to her, \"Do not fear, for you have another son.\"",
-    "18| And as her soul was departing (for she was dying), she called his name Ben-oni; but his father called him Benjamin.",
-    "19| So Rachel died, and she was buried on the way to Ephrath (that is, Bethlehem),",
-    "20| and Jacob set up a pillar over her tomb. It is the pillar of Rachel's tomb, which is there to this day.",
-    "21| Israel journeyed on and pitched his tent beyond the tower of Eder.",
-    "22| While Israel lived in that land, Reuben went and lay with Bilhah his father's concubine. And Israel heard of it. Now the sons of Jacob were twelve.",
-    "23| The sons of Leah: Reuben (Jacob's firstborn), Simeon, Levi, Judah, Issachar, and Zebulun.",
-    "24| The sons of Rachel: Joseph and Benjamin.",
-    "25| The sons of Bilhah, Rachel's servant: Dan and Naphtali.",
-    "26| The sons of Zilpah, Leah's servant: Gad and Asher. These were the sons of Jacob who were born to him in Paddan-aram.",
-    "27| And Jacob came to his father Isaac at Mamre, or Kiriath-arba (that is, Hebron), where Abraham and Isaac had sojourned.",
-    "28| Now the days of Isaac were 180 years.",
-    "29| And Isaac breathed his last, and he died and was gathered to his people, old and full of days. And his sons Esau and Jacob buried him.",
+    "1| These are the generations of Esau (that is, Edom).",
+    "2| Esau took his wives from the Canaanites: Adah the daughter of Elon the Hittite, Oholibamah the daughter of Anah the daughter of Zibeon the Hivite,",
+    "3| and Basemath, Ishmael's daughter, the sister of Nebaioth.",
+    "4| And Adah bore to Esau, Eliphaz; Basemath bore Reuel;",
+    "5| and Oholibamah bore Jeush, Jalam, and Korah. These are the sons of Esau who were born to him in the land of Canaan.",
+    "6| Then Esau took his wives, his sons, his daughters, and all the members of his household, his livestock, all his beasts, and all his property that he had acquired in the land of Canaan. He went into a land away from his brother Jacob.",
+    "7| For their possessions were too great for them to dwell together. The land of their sojournings could not support them because of their livestock.",
+    "8| So Esau settled in the hill country of Seir. (Esau is Edom.)",
+    "9| These are the generations of Esau the father of the Edomites in the hill country of Seir.",
+    "10| These are the names of Esau's sons: Eliphaz the son of Adah the wife of Esau, Reuel the son of Basemath the wife of Esau.",
+    "11| The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.",
+    "12| (Timna was a concubine of Eliphaz, Esau's son; she bore Amalek to Eliphaz.) These are the sons of Adah, Esau's wife.",
+    "13| These are the sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. These are the sons of Basemath, Esau's wife.",
+    "14| These are the sons of Oholibamah the daughter of Anah the daughter of Zibeon, Esau's wife: she bore to Esau Jeush, Jalam, and Korah.",
+    "15| These are the chiefs of the sons of Esau. The sons of Eliphaz the firstborn of Esau: the chiefs Teman, Omar, Zepho, Kenaz,",
+    "16| Korah, Gatam, and Amalek; these are the chiefs of Eliphaz in the land of Edom; these are the sons of Adah.",
+    "17| These are the sons of Reuel, Esau's son: the chiefs Nahath, Zerah, Shammah, and Mizzah; these are the chiefs of Reuel in the land of Edom; these are the sons of Basemath, Esau's wife.",
+    "18| These are the sons of Oholibamah, Esau's wife: the chiefs Jeush, Jalam, and Korah; these are the chiefs born of Oholibamah the daughter of Anah, Esau's wife.",
+    "19| These are the sons of Esau (that is, Edom), and these are their chiefs.",
+    "20| These are the sons of Seir the Horite, the inhabitants of the land: Lotan, Shobal, Zibeon, Anah,",
+    "21| Dishon, Ezer, and Dishan; these are the chiefs of the Horites, the sons of Seir in the land of Edom.",
+    "22| The sons of Lotan were Hori and Hemam; and Lotan's sister was Timna.",
+    "23| These are the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam.",
+    "24| These are the sons of Zibeon: Aiah and Anah; he is the Anah who found the hot springs in the wilderness, as he pastured the donkeys of Zibeon his father.",
+    "25| These are the children of Anah: Dishon and Oholibamah the daughter of Anah.",
+    "26| These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.",
+    "27| These are the sons of Ezer: Bilhan, Zaavan, and Akan.",
+    "28| These are the sons of Dishan: Uz and Aran.",
+    "29| These are the chiefs of the Horites: the chiefs Lotan, Shobal, Zibeon, Anah,",
+    "30| Dishon, Ezer, and Dishan; these are the chiefs of the Horites, chief by chief in the land of Seir.",
+    "31| These are the kings who reigned in the land of Edom, before any king reigned over the Israelites.",
+    "32| Bela the son of Beor reigned in Edom, the name of his city being Dinhabah.",
+    "33| Bela died, and Jobab the son of Zerah of Bozrah reigned in his place.",
+    "34| Jobab died, and Husham of the land of the Temanites reigned in his place.",
+    "35| Husham died, and Hadad the son of Bedad, who defeated Midian in the country of Moab, reigned in his place, the name of his city being Avith.",
+    "36| Hadad died, and Samlah of Masrekah reigned in his place.",
+    "37| Samlah died, and Shaul of Rehoboth on the Euphrates reigned in his place.",
+    "38| Shaul died, and Baal-hanan the son of Achbor reigned in his place.",
+    "39| Baal-hanan the son of Achbor died, and Hadar reigned in his place, the name of his city being Pau; his wife's name was Mehetabel, the daughter of Matred, daughter of Mezahab.",
+    "40| These are the names of the chiefs of Esau, according to their clans and their dwelling places, by their names: the chiefs Timna, Alvah, Jetheth,",
+    "41| Oholibamah, Elah, Pinon,",
+    "42| Kenaz, Teman, Mibzar,",
+    "43| Magdiel, and Iram; these are the chiefs of Edom (that is, Esau, the father of Edom), according to their dwelling places in the land of their possession.",
 ]
 let encoded = ` “ ” `
-theirs = `1God said to Jacob, “Arise, go up to Bethel and dwell there. Make an altar there to the God who appeared to you when you fled from your brother Esau.” 2So Jacob said to his household and to all who were with him, “Put away the foreign gods that are among you and purify yourselves and change your garments. 3Then let us arise and go up to Bethel, so that I may make there an altar to the God who answers me in the day of my distress and has been with me wherever I have gone.” 4So they gave to Jacob all the foreign gods that they had, and the rings that were in their ears. Jacob hid them under the terebinth tree that was near Shechem.
-5And as they journeyed, a terror from God fell upon the cities that were around them, so that they did not pursue the sons of Jacob. 6And Jacob came to Luz (that is, Bethel), which is in the land of Canaan, he and all the people who were with him, 7and there he built an altar and called the place El-bethel, because there God had revealed himself to him when he fled from his brother. 8And Deborah, Rebekah’s nurse, died, and she was buried under an oak below Bethel. So he called its name Allon-bacuth.
-9God appeared to Jacob again, when he came from Paddan-aram, and blessed him. 10And God said to him, “Your name is Jacob; no longer shall your name be called Jacob, but Israel shall be your name.” So he called his name Israel. 11And God said to him, “I am God Almighty: be fruitful and multiply. A nation and a company of nations shall come from you, and kings shall come from your own body. 12The land that I gave to Abraham and Isaac I will give to you, and I will give the land to your offspring after you.” 13Then God went up from him in the place where he had spoken with him. 14And Jacob set up a pillar in the place where he had spoken with him, a pillar of stone. He poured out a drink offering on it and poured oil on it. 15So Jacob called the name of the place where God had spoken with him Bethel.
-16Then they journeyed from Bethel. When they were still some distance from Ephrath, Rachel went into labor, and she had hard labor. 17And when her labor was at its hardest, the midwife said to her, “Do not fear, for you have another son.” 18And as her soul was departing (for she was dying), she called his name Ben-oni; but his father called him Benjamin. 19So Rachel died, and she was buried on the way to Ephrath (that is, Bethlehem), 20and Jacob set up a pillar over her tomb. It is the pillar of Rachel’s tomb, which is there to this day. 21Israel journeyed on and pitched his tent beyond the tower of Eder.
-22While Israel lived in that land, Reuben went and lay with Bilhah his father’s concubine. And Israel heard of it.
-Now the sons of Jacob were twelve. 23The sons of Leah: Reuben (Jacob’s firstborn), Simeon, Levi, Judah, Issachar, and Zebulun. 24The sons of Rachel: Joseph and Benjamin. 25The sons of Bilhah, Rachel’s servant: Dan and Naphtali. 26The sons of Zilpah, Leah’s servant: Gad and Asher. These were the sons of Jacob who were born to him in Paddan-aram.
-27And Jacob came to his father Isaac at Mamre, or Kiriath-arba (that is, Hebron), where Abraham and Isaac had sojourned. 28Now the days of Isaac were 180 years. 29And Isaac breathed his last, and he died and was gathered to his people, old and full of days. And his sons Esau and Jacob buried him.`
+theirs = `1These are the generations of Esau (that is, Edom). 2Esau took his wives from the Canaanites: Adah the daughter of Elon the Hittite, Oholibamah the daughter of Anah the daughter of Zibeon the Hivite, 3and Basemath, Ishmael’s daughter, the sister of Nebaioth. 4And Adah bore to Esau, Eliphaz; Basemath bore Reuel; 5and Oholibamah bore Jeush, Jalam, and Korah. These are the sons of Esau who were born to him in the land of Canaan.
+6Then Esau took his wives, his sons, his daughters, and all the members of his household, his livestock, all his beasts, and all his property that he had acquired in the land of Canaan. He went into a land away from his brother Jacob. 7For their possessions were too great for them to dwell together. The land of their sojournings could not support them because of their livestock. 8So Esau settled in the hill country of Seir. (Esau is Edom.)
+9These are the generations of Esau the father of the Edomites in the hill country of Seir. 10These are the names of Esau’s sons: Eliphaz the son of Adah the wife of Esau, Reuel the son of Basemath the wife of Esau. 11The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz. 12(Timna was a concubine of Eliphaz, Esau’s son; she bore Amalek to Eliphaz.) These are the sons of Adah, Esau’s wife. 13These are the sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. These are the sons of Basemath, Esau’s wife. 14These are the sons of Oholibamah the daughter of Anah the daughter of Zibeon, Esau’s wife: she bore to Esau Jeush, Jalam, and Korah.
+15These are the chiefs of the sons of Esau. The sons of Eliphaz the firstborn of Esau: the chiefs Teman, Omar, Zepho, Kenaz, 16Korah, Gatam, and Amalek; these are the chiefs of Eliphaz in the land of Edom; these are the sons of Adah. 17These are the sons of Reuel, Esau’s son: the chiefs Nahath, Zerah, Shammah, and Mizzah; these are the chiefs of Reuel in the land of Edom; these are the sons of Basemath, Esau’s wife. 18These are the sons of Oholibamah, Esau’s wife: the chiefs Jeush, Jalam, and Korah; these are the chiefs born of Oholibamah the daughter of Anah, Esau’s wife. 19These are the sons of Esau (that is, Edom), and these are their chiefs.
+20These are the sons of Seir the Horite, the inhabitants of the land: Lotan, Shobal, Zibeon, Anah, 21Dishon, Ezer, and Dishan; these are the chiefs of the Horites, the sons of Seir in the land of Edom. 22The sons of Lotan were Hori and Hemam; and Lotan’s sister was Timna. 23These are the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam. 24These are the sons of Zibeon: Aiah and Anah; he is the Anah who found the hot springs in the wilderness, as he pastured the donkeys of Zibeon his father. 25These are the children of Anah: Dishon and Oholibamah the daughter of Anah. 26These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran. 27These are the sons of Ezer: Bilhan, Zaavan, and Akan. 28These are the sons of Dishan: Uz and Aran. 29These are the chiefs of the Horites: the chiefs Lotan, Shobal, Zibeon, Anah, 30Dishon, Ezer, and Dishan; these are the chiefs of the Horites, chief by chief in the land of Seir.
+31These are the kings who reigned in the land of Edom, before any king reigned over the Israelites. 32Bela the son of Beor reigned in Edom, the name of his city being Dinhabah. 33Bela died, and Jobab the son of Zerah of Bozrah reigned in his place. 34Jobab died, and Husham of the land of the Temanites reigned in his place. 35Husham died, and Hadad the son of Bedad, who defeated Midian in the country of Moab, reigned in his place, the name of his city being Avith. 36Hadad died, and Samlah of Masrekah reigned in his place. 37Samlah died, and Shaul of Rehoboth on the Euphrates reigned in his place. 38Shaul died, and Baal-hanan the son of Achbor reigned in his place. 39Baal-hanan the son of Achbor died, and Hadar reigned in his place, the name of his city being Pau; his wife’s name was Mehetabel, the daughter of Matred, daughter of Mezahab.
+40These are the names of the chiefs of Esau, according to their clans and their dwelling places, by their names: the chiefs Timna, Alvah, Jetheth, 41Oholibamah, Elah, Pinon, 42Kenaz, Teman, Mibzar, 43Magdiel, and Iram; these are the chiefs of Edom (that is, Esau, the father of Edom), according to their dwelling places in the land of their possession.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
