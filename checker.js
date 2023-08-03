@@ -1,44 +1,42 @@
 mine = [
-    "1| Now Dinah the daughter of Leah, whom she had borne to Jacob, went out to see the women of the land.",
-    "2| And when Shechem the son of Hamor the Hivite, the prince of the land, saw her, he seized her and lay with her and humiliated her.",
-    "3| And his soul was drawn to Dinah the daughter of Jacob. He loved the young woman and spoke tenderly to her.",
-    "4| So Shechem spoke to his father Hamor, saying, \"Get me this girl for my wife.\"",
-    "5| Now Jacob heard that he had defiled his daughter Dinah. But his sons were with his livestock in the field, so Jacob held his peace until they came.",
-    "6| And Hamor the father of Shechem went out to Jacob to speak with him.",
-    "7| The sons of Jacob had come in from the field as soon as they heard of it, and the men were indignant and very angry, because he had done an outrageous thing in Israel by lying with Jacob's daughter, for such a thing must not be done.",
-    "8| But Hamor spoke with them, saying, \"The soul of my son Shechem longs for your daughter. Please give her to him to be his wife.",
-    "9| Make marriages with us. Give your daughters to us, and take our daughters for yourselves.",
-    "10| You shall dwell with us, and the land shall be open to you. Dwell and trade in it, and get property in it.\"",
-    "11| Shechem also said to her father and to her brothers, \"Let me find favor in your eyes, and whatever you say to me I will give.",
-    "12| Ask me for as great a bride-price and gift as you will, and I will give whatever you say to me. Only give me the young woman to be my wife.\"",
-    "13| The sons of Jacob answered Shechem and his father Hamor deceitfully, because he had defiled their sister Dinah.",
-    "14| They said to them, \"We cannot do this thing, to give our sister to one who is uncircumcised, for that would be a disgrace to us.",
-    "15| Only on this condition will we agree with you-that you will become as we are by every male among you being circumcised.",
-    "16| Then we will give our daughters to you, and we will take your daughters to ourselves, and we will dwell with you and become one people.",
-    "17| But if you will not listen to us and be circumcised, then we will take our daughter, and we will be gone.\"",
-    "18| Their words pleased Hamor and Hamor's son Shechem.",
-    "19| And the young man did not delay to do the thing, because he delighted in Jacob's daughter. Now he was the most honored of all his father's house.",
-    "20| So Hamor and his son Shechem came to the gate of their city and spoke to the men of their city, saying,",
-    "21| \"These men are at peace with us; let them dwell in the land and trade in it, for behold, the land is large enough for them. Let us take their daughters as wives, and let us give them our daughters.",
-    "22| Only on this condition will the men agree to dwell with us to become one people-when every male among us is circumcised as they are circumcised.",
-    "23| Will not their livestock, their property and all their beasts be ours? Only let us agree with them, and they will dwell with us.\"",
-    "24| And all who went out of the gate of his city listened to Hamor and his son Shechem, and every male was circumcised, all who went out of the gate of his city.",
-    "25| On the third day, when they were sore, two of the sons of Jacob, Simeon and Levi, Dinah's brothers, took their swords and came against the city while it felt secure and killed all the males.",
-    "26| They killed Hamor and his son Shechem with the sword and took Dinah out of Shechem's house and went away.",
-    "27| The sons of Jacob came upon the slain and plundered the city, because they had defiled their sister.",
-    "28| They took their flocks and their herds, their donkeys, and whatever was in the city and in the field.",
-    "29| All their wealth, all their little ones and their wives, all that was in the houses, they captured and plundered.",
-    "30| Then Jacob said to Simeon and Levi, \"You have brought trouble on me by making me stink to the inhabitants of the land, the Canaanites and the Perizzites. My numbers are few, and if they gather themselves against me and attack me, I shall be destroyed, both I and my household.\"",
-    "31| But they said, \"Should he treat our sister like a prostitute?\"",
+    "1| God said to Jacob, \"Arise, go up to Bethel and dwell there. Make an altar there to the God who appeared to you when you fled from your brother Esau.\"",
+    "2| So Jacob said to his household and to all who were with him, \"Put away the foreign gods that are among you and purify yourselves and change your garments.",
+    "3| Then let us arise and go up to Bethel, so that I may make there an altar to the God who answers me in the day of my distress and has been with me wherever I have gone.\"",
+    "4| So they gave to Jacob all the foreign gods that they had, and the rings that were in their ears. Jacob hid them under the terebinth tree that was near Shechem.",
+    "5| And as they journeyed, a terror from God fell upon the cities that were around them, so that they did not pursue the sons of Jacob.",
+    "6| And Jacob came to Luz (that is, Bethel), which is in the land of Canaan, he and all the people who were with him,",
+    "7| and there he built an altar and called the place El-bethel, because there God had revealed himself to him when he fled from his brother.",
+    "8| And Deborah, Rebekah's nurse, died, and she was buried under an oak below Bethel. So he called its name Allon-bacuth.",
+    "9| God appeared to Jacob again, when he came from Paddan-aram, and blessed him.",
+    "10| And God said to him, \"Your name is Jacob; no longer shall your name be called Jacob, but Israel shall be your name.\" So he called his name Israel.",
+    "11| And God said to him, \"I am God Almighty: be fruitful and multiply. A nation and a company of nations shall come from you, and kings shall come from your own body.",
+    "12| The land that I gave to Abraham and Isaac I will give to you, and I will give the land to your offspring after you.\"",
+    "13| Then God went up from him in the place where he had spoken with him.",
+    "14| And Jacob set up a pillar in the place where he had spoken with him, a pillar of stone. He poured out a drink offering on it and poured oil on it.",
+    "15| So Jacob called the name of the place where God had spoken with him Bethel.",
+    "16| Then they journeyed from Bethel. When they were still some distance from Ephrath, Rachel went into labor, and she had hard labor.",
+    "17| And when her labor was at its hardest, the midwife said to her, \"Do not fear, for you have another son.\"",
+    "18| And as her soul was departing (for she was dying), she called his name Ben-oni; but his father called him Benjamin.",
+    "19| So Rachel died, and she was buried on the way to Ephrath (that is, Bethlehem),",
+    "20| and Jacob set up a pillar over her tomb. It is the pillar of Rachel's tomb, which is there to this day.",
+    "21| Israel journeyed on and pitched his tent beyond the tower of Eder.",
+    "22| While Israel lived in that land, Reuben went and lay with Bilhah his father's concubine. And Israel heard of it. Now the sons of Jacob were twelve.",
+    "23| The sons of Leah: Reuben (Jacob's firstborn), Simeon, Levi, Judah, Issachar, and Zebulun.",
+    "24| The sons of Rachel: Joseph and Benjamin.",
+    "25| The sons of Bilhah, Rachel's servant: Dan and Naphtali.",
+    "26| The sons of Zilpah, Leah's servant: Gad and Asher. These were the sons of Jacob who were born to him in Paddan-aram.",
+    "27| And Jacob came to his father Isaac at Mamre, or Kiriath-arba (that is, Hebron), where Abraham and Isaac had sojourned.",
+    "28| Now the days of Isaac were 180 years.",
+    "29| And Isaac breathed his last, and he died and was gathered to his people, old and full of days. And his sons Esau and Jacob buried him.",
 ]
 let encoded = ` “ ” `
-theirs = `1Now Dinah the daughter of Leah, whom she had borne to Jacob, went out to see the women of the land. 2And when Shechem the son of Hamor the Hivite, the prince of the land, saw her, he seized her and lay with her and humiliated her. 3And his soul was drawn to Dinah the daughter of Jacob. He loved the young woman and spoke tenderly to her. 4So Shechem spoke to his father Hamor, saying, “Get me this girl for my wife.”
-5Now Jacob heard that he had defiled his daughter Dinah. But his sons were with his livestock in the field, so Jacob held his peace until they came. 6And Hamor the father of Shechem went out to Jacob to speak with him. 7The sons of Jacob had come in from the field as soon as they heard of it, and the men were indignant and very angry, because he had done an outrageous thing in Israel by lying with Jacob’s daughter, for such a thing must not be done.
-8But Hamor spoke with them, saying, “The soul of my son Shechem longs for your daughter. Please give her to him to be his wife. 9Make marriages with us. Give your daughters to us, and take our daughters for yourselves. 10You shall dwell with us, and the land shall be open to you. Dwell and trade in it, and get property in it.” 11Shechem also said to her father and to her brothers, “Let me find favor in your eyes, and whatever you say to me I will give. 12Ask me for as great a bride-price and gift as you will, and I will give whatever you say to me. Only give me the young woman to be my wife.”
-13The sons of Jacob answered Shechem and his father Hamor deceitfully, because he had defiled their sister Dinah. 14They said to them, “We cannot do this thing, to give our sister to one who is uncircumcised, for that would be a disgrace to us. 15Only on this condition will we agree with you—that you will become as we are by every male among you being circumcised. 16Then we will give our daughters to you, and we will take your daughters to ourselves, and we will dwell with you and become one people. 17But if you will not listen to us and be circumcised, then we will take our daughter, and we will be gone.”
-18Their words pleased Hamor and Hamor’s son Shechem. 19And the young man did not delay to do the thing, because he delighted in Jacob’s daughter. Now he was the most honored of all his father’s house. 20So Hamor and his son Shechem came to the gate of their city and spoke to the men of their city, saying, 21“These men are at peace with us; let them dwell in the land and trade in it, for behold, the land is large enough for them. Let us take their daughters as wives, and let us give them our daughters. 22Only on this condition will the men agree to dwell with us to become one people—when every male among us is circumcised as they are circumcised. 23Will not their livestock, their property and all their beasts be ours? Only let us agree with them, and they will dwell with us.” 24And all who went out of the gate of his city listened to Hamor and his son Shechem, and every male was circumcised, all who went out of the gate of his city.
-25On the third day, when they were sore, two of the sons of Jacob, Simeon and Levi, Dinah’s brothers, took their swords and came against the city while it felt secure and killed all the males. 26They killed Hamor and his son Shechem with the sword and took Dinah out of Shechem’s house and went away. 27The sons of Jacob came upon the slain and plundered the city, because they had defiled their sister. 28They took their flocks and their herds, their donkeys, and whatever was in the city and in the field. 29All their wealth, all their little ones and their wives, all that was in the houses, they captured and plundered.
-30Then Jacob said to Simeon and Levi, “You have brought trouble on me by making me stink to the inhabitants of the land, the Canaanites and the Perizzites. My numbers are few, and if they gather themselves against me and attack me, I shall be destroyed, both I and my household.” 31But they said, “Should he treat our sister like a prostitute?”`
+theirs = `1God said to Jacob, “Arise, go up to Bethel and dwell there. Make an altar there to the God who appeared to you when you fled from your brother Esau.” 2So Jacob said to his household and to all who were with him, “Put away the foreign gods that are among you and purify yourselves and change your garments. 3Then let us arise and go up to Bethel, so that I may make there an altar to the God who answers me in the day of my distress and has been with me wherever I have gone.” 4So they gave to Jacob all the foreign gods that they had, and the rings that were in their ears. Jacob hid them under the terebinth tree that was near Shechem.
+5And as they journeyed, a terror from God fell upon the cities that were around them, so that they did not pursue the sons of Jacob. 6And Jacob came to Luz (that is, Bethel), which is in the land of Canaan, he and all the people who were with him, 7and there he built an altar and called the place El-bethel, because there God had revealed himself to him when he fled from his brother. 8And Deborah, Rebekah’s nurse, died, and she was buried under an oak below Bethel. So he called its name Allon-bacuth.
+9God appeared to Jacob again, when he came from Paddan-aram, and blessed him. 10And God said to him, “Your name is Jacob; no longer shall your name be called Jacob, but Israel shall be your name.” So he called his name Israel. 11And God said to him, “I am God Almighty: be fruitful and multiply. A nation and a company of nations shall come from you, and kings shall come from your own body. 12The land that I gave to Abraham and Isaac I will give to you, and I will give the land to your offspring after you.” 13Then God went up from him in the place where he had spoken with him. 14And Jacob set up a pillar in the place where he had spoken with him, a pillar of stone. He poured out a drink offering on it and poured oil on it. 15So Jacob called the name of the place where God had spoken with him Bethel.
+16Then they journeyed from Bethel. When they were still some distance from Ephrath, Rachel went into labor, and she had hard labor. 17And when her labor was at its hardest, the midwife said to her, “Do not fear, for you have another son.” 18And as her soul was departing (for she was dying), she called his name Ben-oni; but his father called him Benjamin. 19So Rachel died, and she was buried on the way to Ephrath (that is, Bethlehem), 20and Jacob set up a pillar over her tomb. It is the pillar of Rachel’s tomb, which is there to this day. 21Israel journeyed on and pitched his tent beyond the tower of Eder.
+22While Israel lived in that land, Reuben went and lay with Bilhah his father’s concubine. And Israel heard of it.
+Now the sons of Jacob were twelve. 23The sons of Leah: Reuben (Jacob’s firstborn), Simeon, Levi, Judah, Issachar, and Zebulun. 24The sons of Rachel: Joseph and Benjamin. 25The sons of Bilhah, Rachel’s servant: Dan and Naphtali. 26The sons of Zilpah, Leah’s servant: Gad and Asher. These were the sons of Jacob who were born to him in Paddan-aram.
+27And Jacob came to his father Isaac at Mamre, or Kiriath-arba (that is, Hebron), where Abraham and Isaac had sojourned. 28Now the days of Isaac were 180 years. 29And Isaac breathed his last, and he died and was gathered to his people, old and full of days. And his sons Esau and Jacob buried him.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
