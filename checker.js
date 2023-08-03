@@ -1,31 +1,44 @@
 mine = [
-    "1| And Jacob lifted up his eyes and looked, and behold, Esau was coming, and four hundred men with him. So he divided the children among Leah and Rachel and the two female servants.",
-    "2| And he put the servants with their children in front, then Leah with her children, and Rachel and Joseph last of all.",
-    "3| He himself went on before them, bowing himself to the ground seven times, until he came near to his brother.",
-    "4| But Esau ran to meet him and embraced him and fell on his neck and kissed him, and they wept.",
-    "5| And when Esau lifted up his eyes and saw the women and children, he said, \"Who are these with you?\" Jacob said, \"The children whom God has graciously given your servant.\"",
-    "6| Then the servants drew near, they and their children, and bowed down.",
-    "7| Leah likewise and her children drew near and bowed down. And last Joseph and Rachel drew near, and they bowed down.",
-    "8| Esau said, \"What do you mean by all this company that I met?\" Jacob answered, \"To find favor in the sight of my lord.\"",
-    "9| But Esau said, \"I have enough, my brother; keep what you have for yourself.\"",
-    "10| Jacob said, \"No, please, if I have found favor in your sight, then accept my present from my hand. For I have seen your face, which is like seeing the face of God, and you have accepted me.",
-    "11| Please accept my blessing that is brought to you, because God has dealt graciously with me, and because I have enough.\" Thus he urged him, and he took it.",
-    "12| Then Esau said, \"Let us journey on our way, and I will go ahead of you.\"",
-    "13| But Jacob said to him, \"My lord knows that the children are frail, and that the nursing flocks and herds are a care to me. If they are driven hard for one day, all the flocks will die.",
-    "14| Let my lord pass on ahead of his servant, and I will lead on slowly, at the pace of the livestock that are ahead of me and at the pace of the children, until I come to my lord in Seir.\"",
-    "15| So Esau said, \"Let me leave with you some of the people who are with me.\" But he said, \"What need is there? Let me find favor in the sight of my lord.\"",
-    "16| So Esau returned that day on his way to Seir.",
-    "17| But Jacob journeyed to Succoth, and built himself a house and made booths for his livestock. Therefore the name of the place is called Succoth.",
-    "18| And Jacob came safely to the city of Shechem, which is in the land of Canaan, on his way from Paddan-aram, and he camped before the city.",
-    "19| And from the sons of Hamor, Shechem's father, he bought for a hundred pieces of money the piece of land on which he had pitched his tent.",
-    "20| There he erected an altar and called it El-Elohe-Israel.",
+    "1| Now Dinah the daughter of Leah, whom she had borne to Jacob, went out to see the women of the land.",
+    "2| And when Shechem the son of Hamor the Hivite, the prince of the land, saw her, he seized her and lay with her and humiliated her.",
+    "3| And his soul was drawn to Dinah the daughter of Jacob. He loved the young woman and spoke tenderly to her.",
+    "4| So Shechem spoke to his father Hamor, saying, \"Get me this girl for my wife.\"",
+    "5| Now Jacob heard that he had defiled his daughter Dinah. But his sons were with his livestock in the field, so Jacob held his peace until they came.",
+    "6| And Hamor the father of Shechem went out to Jacob to speak with him.",
+    "7| The sons of Jacob had come in from the field as soon as they heard of it, and the men were indignant and very angry, because he had done an outrageous thing in Israel by lying with Jacob's daughter, for such a thing must not be done.",
+    "8| But Hamor spoke with them, saying, \"The soul of my son Shechem longs for your daughter. Please give her to him to be his wife.",
+    "9| Make marriages with us. Give your daughters to us, and take our daughters for yourselves.",
+    "10| You shall dwell with us, and the land shall be open to you. Dwell and trade in it, and get property in it.\"",
+    "11| Shechem also said to her father and to her brothers, \"Let me find favor in your eyes, and whatever you say to me I will give.",
+    "12| Ask me for as great a bride-price and gift as you will, and I will give whatever you say to me. Only give me the young woman to be my wife.\"",
+    "13| The sons of Jacob answered Shechem and his father Hamor deceitfully, because he had defiled their sister Dinah.",
+    "14| They said to them, \"We cannot do this thing, to give our sister to one who is uncircumcised, for that would be a disgrace to us.",
+    "15| Only on this condition will we agree with you-that you will become as we are by every male among you being circumcised.",
+    "16| Then we will give our daughters to you, and we will take your daughters to ourselves, and we will dwell with you and become one people.",
+    "17| But if you will not listen to us and be circumcised, then we will take our daughter, and we will be gone.\"",
+    "18| Their words pleased Hamor and Hamor's son Shechem.",
+    "19| And the young man did not delay to do the thing, because he delighted in Jacob's daughter. Now he was the most honored of all his father's house.",
+    "20| So Hamor and his son Shechem came to the gate of their city and spoke to the men of their city, saying,",
+    "21| \"These men are at peace with us; let them dwell in the land and trade in it, for behold, the land is large enough for them. Let us take their daughters as wives, and let us give them our daughters.",
+    "22| Only on this condition will the men agree to dwell with us to become one people-when every male among us is circumcised as they are circumcised.",
+    "23| Will not their livestock, their property and all their beasts be ours? Only let us agree with them, and they will dwell with us.\"",
+    "24| And all who went out of the gate of his city listened to Hamor and his son Shechem, and every male was circumcised, all who went out of the gate of his city.",
+    "25| On the third day, when they were sore, two of the sons of Jacob, Simeon and Levi, Dinah's brothers, took their swords and came against the city while it felt secure and killed all the males.",
+    "26| They killed Hamor and his son Shechem with the sword and took Dinah out of Shechem's house and went away.",
+    "27| The sons of Jacob came upon the slain and plundered the city, because they had defiled their sister.",
+    "28| They took their flocks and their herds, their donkeys, and whatever was in the city and in the field.",
+    "29| All their wealth, all their little ones and their wives, all that was in the houses, they captured and plundered.",
+    "30| Then Jacob said to Simeon and Levi, \"You have brought trouble on me by making me stink to the inhabitants of the land, the Canaanites and the Perizzites. My numbers are few, and if they gather themselves against me and attack me, I shall be destroyed, both I and my household.\"",
+    "31| But they said, \"Should he treat our sister like a prostitute?\"",
 ]
 let encoded = ` “ ” `
-theirs = `1And Jacob lifted up his eyes and looked, and behold, Esau was coming, and four hundred men with him. So he divided the children among Leah and Rachel and the two female servants. 2And he put the servants with their children in front, then Leah with her children, and Rachel and Joseph last of all. 3He himself went on before them, bowing himself to the ground seven times, until he came near to his brother.
-4But Esau ran to meet him and embraced him and fell on his neck and kissed him, and they wept. 5And when Esau lifted up his eyes and saw the women and children, he said, “Who are these with you?” Jacob said, “The children whom God has graciously given your servant.” 6Then the servants drew near, they and their children, and bowed down. 7Leah likewise and her children drew near and bowed down. And last Joseph and Rachel drew near, and they bowed down. 8Esau said, “What do you mean by all this company that I met?” Jacob answered, “To find favor in the sight of my lord.” 9But Esau said, “I have enough, my brother; keep what you have for yourself.” 10Jacob said, “No, please, if I have found favor in your sight, then accept my present from my hand. For I have seen your face, which is like seeing the face of God, and you have accepted me. 11Please accept my blessing that is brought to you, because God has dealt graciously with me, and because I have enough.” Thus he urged him, and he took it.
-12Then Esau said, “Let us journey on our way, and I will go ahead of you.” 13But Jacob said to him, “My lord knows that the children are frail, and that the nursing flocks and herds are a care to me. If they are driven hard for one day, all the flocks will die. 14Let my lord pass on ahead of his servant, and I will lead on slowly, at the pace of the livestock that are ahead of me and at the pace of the children, until I come to my lord in Seir.”
-15So Esau said, “Let me leave with you some of the people who are with me.” But he said, “What need is there? Let me find favor in the sight of my lord.” 16So Esau returned that day on his way to Seir. 17But Jacob journeyed to Succoth, and built himself a house and made booths for his livestock. Therefore the name of the place is called Succoth.
-18And Jacob came safely to the city of Shechem, which is in the land of Canaan, on his way from Paddan-aram, and he camped before the city. 19And from the sons of Hamor, Shechem’s father, he bought for a hundred pieces of money the piece of land on which he had pitched his tent. 20There he erected an altar and called it El-Elohe-Israel.`
+theirs = `1Now Dinah the daughter of Leah, whom she had borne to Jacob, went out to see the women of the land. 2And when Shechem the son of Hamor the Hivite, the prince of the land, saw her, he seized her and lay with her and humiliated her. 3And his soul was drawn to Dinah the daughter of Jacob. He loved the young woman and spoke tenderly to her. 4So Shechem spoke to his father Hamor, saying, “Get me this girl for my wife.”
+5Now Jacob heard that he had defiled his daughter Dinah. But his sons were with his livestock in the field, so Jacob held his peace until they came. 6And Hamor the father of Shechem went out to Jacob to speak with him. 7The sons of Jacob had come in from the field as soon as they heard of it, and the men were indignant and very angry, because he had done an outrageous thing in Israel by lying with Jacob’s daughter, for such a thing must not be done.
+8But Hamor spoke with them, saying, “The soul of my son Shechem longs for your daughter. Please give her to him to be his wife. 9Make marriages with us. Give your daughters to us, and take our daughters for yourselves. 10You shall dwell with us, and the land shall be open to you. Dwell and trade in it, and get property in it.” 11Shechem also said to her father and to her brothers, “Let me find favor in your eyes, and whatever you say to me I will give. 12Ask me for as great a bride-price and gift as you will, and I will give whatever you say to me. Only give me the young woman to be my wife.”
+13The sons of Jacob answered Shechem and his father Hamor deceitfully, because he had defiled their sister Dinah. 14They said to them, “We cannot do this thing, to give our sister to one who is uncircumcised, for that would be a disgrace to us. 15Only on this condition will we agree with you—that you will become as we are by every male among you being circumcised. 16Then we will give our daughters to you, and we will take your daughters to ourselves, and we will dwell with you and become one people. 17But if you will not listen to us and be circumcised, then we will take our daughter, and we will be gone.”
+18Their words pleased Hamor and Hamor’s son Shechem. 19And the young man did not delay to do the thing, because he delighted in Jacob’s daughter. Now he was the most honored of all his father’s house. 20So Hamor and his son Shechem came to the gate of their city and spoke to the men of their city, saying, 21“These men are at peace with us; let them dwell in the land and trade in it, for behold, the land is large enough for them. Let us take their daughters as wives, and let us give them our daughters. 22Only on this condition will the men agree to dwell with us to become one people—when every male among us is circumcised as they are circumcised. 23Will not their livestock, their property and all their beasts be ours? Only let us agree with them, and they will dwell with us.” 24And all who went out of the gate of his city listened to Hamor and his son Shechem, and every male was circumcised, all who went out of the gate of his city.
+25On the third day, when they were sore, two of the sons of Jacob, Simeon and Levi, Dinah’s brothers, took their swords and came against the city while it felt secure and killed all the males. 26They killed Hamor and his son Shechem with the sword and took Dinah out of Shechem’s house and went away. 27The sons of Jacob came upon the slain and plundered the city, because they had defiled their sister. 28They took their flocks and their herds, their donkeys, and whatever was in the city and in the field. 29All their wealth, all their little ones and their wives, all that was in the houses, they captured and plundered.
+30Then Jacob said to Simeon and Levi, “You have brought trouble on me by making me stink to the inhabitants of the land, the Canaanites and the Perizzites. My numbers are few, and if they gather themselves against me and attack me, I shall be destroyed, both I and my household.” 31But they said, “Should he treat our sister like a prostitute?”`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
