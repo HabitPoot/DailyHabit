@@ -1,44 +1,31 @@
 mine = [
-    "1| Jacob went on his way, and the angels of God met him.",
-    "2| And when Jacob saw them he said, \"This is God's camp!\" So he called the name of that place Mahanaim.",
-    "3| And Jacob sent messengers before him to Esau his brother in the land of Seir, the country of Edom,",
-    "4| instructing them, \"Thus you shall say to my lord Esau: Thus says your servant Jacob, \'I have sojourned with Laban and stayed until now.",
-    "5| I have oxen, donkeys, flocks, male servants, and female servants. I have sent to tell my lord, in order that I may find favor in your sight.'\"",
-    "6| And the messengers returned to Jacob, saying, \"We came to your brother Esau, and he is coming to meet you, and there are four hundred men with him.\"",
-    "7| Then Jacob was greatly afraid and distressed. He divided the people who were with him, and the flocks and herds and camels, into two camps,",
-    "8| thinking, \"If Esau comes to the one camp and attacks it, then the camp that is left will escape.\"",
-    "9| And Jacob said, \"O God of my father Abraham and God of my father Isaac, O Lord who said to me, \'Return to your country and to your kindred, that I may do you good,\'",
-    "10| I am not worthy of the least of all the deeds of steadfast love and all the faithfulness that you have shown to your servant, for with only my staff I crossed this Jordan, and now I have become two camps.",
-    "11| Please deliver me from the hand of my brother, from the hand of Esau, for I fear him, that he may come and attack me, the mothers with the children.",
-    "12| But you said, 'I will surely do you good, and make your offspring as the sand of the sea, which cannot be numbered for multitude.'\"",
-    "13| So he stayed there that night, and from what he had with him he took a present for his brother Esau,",
-    "14| two hundred female goats and twenty male goats, two hundred ewes and twenty rams,",
-    "15| thirty milking camels and their calves, forty cows and ten bulls, twenty female donkeys and ten male donkeys.",
-    "16| These he handed over to his servants, every drove by itself, and said to his servants, \"Pass on ahead of me and put a space between drove and drove.\"",
-    "17| He instructed the first, \"When Esau my brother meets you and asks you, \'To whom do you belong? Where are you going? And whose are these ahead of you?'",
-    "18| then you shall say, 'They belong to your servant Jacob. They are a present sent to my lord Esau. And moreover, he is behind us.'\"",
-    "19| He likewise instructed the second and the third and all who followed the droves, \"You shall say the same thing to Esau when you find him,",
-    "20| and you shall say, 'Moreover, your servant Jacob is behind us.'\" For he thought, \"I may appease him with the present that goes ahead of me, and afterward I shall see his face. Perhaps he will accept me.\"",
-    "21| So the present passed on ahead of him, and he himself stayed that night in the camp.",
-    "22| The same night he arose and took his two wives, his two female servants, and his eleven children, and crossed the ford of the Jabbok.",
-    "23| He took them and sent them across the stream, and everything else that he had.",
-    "24| And Jacob was left alone. And a man wrestled with him until the breaking of the day.",
-    "25| When the man saw that he did not prevail against Jacob, he touched his hip socket, and Jacob's hip was put out of joint as he wrestled with him.",
-    "26| Then he said, \"Let me go, for the day has broken.\" But Jacob said, \"I will not let you go unless you bless me.\"",
-    "27| And he said to him, \"What is your name?\" And he said, \"Jacob.\"",
-    "28| Then he said, \"Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed.\"",
-    "29| Then Jacob asked him, \"Please tell me your name.\" But he said, \"Why is it that you ask my name?\" And there he blessed him.",
-    "30| So Jacob called the name of the place Peniel, saying, \"For I have seen God face to face, and yet my life has been delivered.\"",
-    "31| The sun rose upon him as he passed Penuel, limping because of his hip.",
-    "32| Therefore to this day the people of Israel do not eat the sinew of the thigh that is on the hip socket, because he touched the socket of Jacob's hip on the sinew of the thigh.",
+    "1| And Jacob lifted up his eyes and looked, and behold, Esau was coming, and four hundred men with him. So he divided the children among Leah and Rachel and the two female servants.",
+    "2| And he put the servants with their children in front, then Leah with her children, and Rachel and Joseph last of all.",
+    "3| He himself went on before them, bowing himself to the ground seven times, until he came near to his brother.",
+    "4| But Esau ran to meet him and embraced him and fell on his neck and kissed him, and they wept.",
+    "5| And when Esau lifted up his eyes and saw the women and children, he said, \"Who are these with you?\" Jacob said, \"The children whom God has graciously given your servant.\"",
+    "6| Then the servants drew near, they and their children, and bowed down.",
+    "7| Leah likewise and her children drew near and bowed down. And last Joseph and Rachel drew near, and they bowed down.",
+    "8| Esau said, \"What do you mean by all this company that I met?\" Jacob answered, \"To find favor in the sight of my lord.\"",
+    "9| But Esau said, \"I have enough, my brother; keep what you have for yourself.\"",
+    "10| Jacob said, \"No, please, if I have found favor in your sight, then accept my present from my hand. For I have seen your face, which is like seeing the face of God, and you have accepted me.",
+    "11| Please accept my blessing that is brought to you, because God has dealt graciously with me, and because I have enough.\" Thus he urged him, and he took it.",
+    "12| Then Esau said, \"Let us journey on our way, and I will go ahead of you.\"",
+    "13| But Jacob said to him, \"My lord knows that the children are frail, and that the nursing flocks and herds are a care to me. If they are driven hard for one day, all the flocks will die.",
+    "14| Let my lord pass on ahead of his servant, and I will lead on slowly, at the pace of the livestock that are ahead of me and at the pace of the children, until I come to my lord in Seir.\"",
+    "15| So Esau said, \"Let me leave with you some of the people who are with me.\" But he said, \"What need is there? Let me find favor in the sight of my lord.\"",
+    "16| So Esau returned that day on his way to Seir.",
+    "17| But Jacob journeyed to Succoth, and built himself a house and made booths for his livestock. Therefore the name of the place is called Succoth.",
+    "18| And Jacob came safely to the city of Shechem, which is in the land of Canaan, on his way from Paddan-aram, and he camped before the city.",
+    "19| And from the sons of Hamor, Shechem's father, he bought for a hundred pieces of money the piece of land on which he had pitched his tent.",
+    "20| There he erected an altar and called it El-Elohe-Israel.",
 ]
 let encoded = ` “ ” `
-theirs = `1Jacob went on his way, and the angels of God met him. 2And when Jacob saw them he said, “This is God’s camp!” So he called the name of that place Mahanaim.
-3And Jacob sent messengers before him to Esau his brother in the land of Seir, the country of Edom, 4instructing them, “Thus you shall say to my lord Esau: Thus says your servant Jacob, ‘I have sojourned with Laban and stayed until now. 5I have oxen, donkeys, flocks, male servants, and female servants. I have sent to tell my lord, in order that I may find favor in your sight.’”
-6And the messengers returned to Jacob, saying, “We came to your brother Esau, and he is coming to meet you, and there are four hundred men with him.” 7Then Jacob was greatly afraid and distressed. He divided the people who were with him, and the flocks and herds and camels, into two camps, 8thinking, “If Esau comes to the one camp and attacks it, then the camp that is left will escape.”
-9And Jacob said, “O God of my father Abraham and God of my father Isaac, O Lord who said to me, ‘Return to your country and to your kindred, that I may do you good,’ 10I am not worthy of the least of all the deeds of steadfast love and all the faithfulness that you have shown to your servant, for with only my staff I crossed this Jordan, and now I have become two camps. 11Please deliver me from the hand of my brother, from the hand of Esau, for I fear him, that he may come and attack me, the mothers with the children. 12But you said, ‘I will surely do you good, and make your offspring as the sand of the sea, which cannot be numbered for multitude.’”
-13So he stayed there that night, and from what he had with him he took a present for his brother Esau, 14two hundred female goats and twenty male goats, two hundred ewes and twenty rams, 15thirty milking camels and their calves, forty cows and ten bulls, twenty female donkeys and ten male donkeys. 16These he handed over to his servants, every drove by itself, and said to his servants, “Pass on ahead of me and put a space between drove and drove.” 17He instructed the first, “When Esau my brother meets you and asks you, ‘To whom do you belong? Where are you going? And whose are these ahead of you?’ 18then you shall say, ‘They belong to your servant Jacob. They are a present sent to my lord Esau. And moreover, he is behind us.’” 19He likewise instructed the second and the third and all who followed the droves, “You shall say the same thing to Esau when you find him, 20and you shall say, ‘Moreover, your servant Jacob is behind us.’” For he thought, “I may appease him with the present that goes ahead of me, and afterward I shall see his face. Perhaps he will accept me.” 21So the present passed on ahead of him, and he himself stayed that night in the camp.
-22The same night he arose and took his two wives, his two female servants, and his eleven children, and crossed the ford of the Jabbok. 23He took them and sent them across the stream, and everything else that he had. 24And Jacob was left alone. And a man wrestled with him until the breaking of the day. 25When the man saw that he did not prevail against Jacob, he touched his hip socket, and Jacob’s hip was put out of joint as he wrestled with him. 26Then he said, “Let me go, for the day has broken.” But Jacob said, “I will not let you go unless you bless me.” 27And he said to him, “What is your name?” And he said, “Jacob.” 28Then he said, “Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed.” 29Then Jacob asked him, “Please tell me your name.” But he said, “Why is it that you ask my name?” And there he blessed him. 30So Jacob called the name of the place Peniel, saying, “For I have seen God face to face, and yet my life has been delivered.” 31The sun rose upon him as he passed Penuel, limping because of his hip. 32Therefore to this day the people of Israel do not eat the sinew of the thigh that is on the hip socket, because he touched the socket of Jacob’s hip on the sinew of the thigh.`
+theirs = `1And Jacob lifted up his eyes and looked, and behold, Esau was coming, and four hundred men with him. So he divided the children among Leah and Rachel and the two female servants. 2And he put the servants with their children in front, then Leah with her children, and Rachel and Joseph last of all. 3He himself went on before them, bowing himself to the ground seven times, until he came near to his brother.
+4But Esau ran to meet him and embraced him and fell on his neck and kissed him, and they wept. 5And when Esau lifted up his eyes and saw the women and children, he said, “Who are these with you?” Jacob said, “The children whom God has graciously given your servant.” 6Then the servants drew near, they and their children, and bowed down. 7Leah likewise and her children drew near and bowed down. And last Joseph and Rachel drew near, and they bowed down. 8Esau said, “What do you mean by all this company that I met?” Jacob answered, “To find favor in the sight of my lord.” 9But Esau said, “I have enough, my brother; keep what you have for yourself.” 10Jacob said, “No, please, if I have found favor in your sight, then accept my present from my hand. For I have seen your face, which is like seeing the face of God, and you have accepted me. 11Please accept my blessing that is brought to you, because God has dealt graciously with me, and because I have enough.” Thus he urged him, and he took it.
+12Then Esau said, “Let us journey on our way, and I will go ahead of you.” 13But Jacob said to him, “My lord knows that the children are frail, and that the nursing flocks and herds are a care to me. If they are driven hard for one day, all the flocks will die. 14Let my lord pass on ahead of his servant, and I will lead on slowly, at the pace of the livestock that are ahead of me and at the pace of the children, until I come to my lord in Seir.”
+15So Esau said, “Let me leave with you some of the people who are with me.” But he said, “What need is there? Let me find favor in the sight of my lord.” 16So Esau returned that day on his way to Seir. 17But Jacob journeyed to Succoth, and built himself a house and made booths for his livestock. Therefore the name of the place is called Succoth.
+18And Jacob came safely to the city of Shechem, which is in the land of Canaan, on his way from Paddan-aram, and he camped before the city. 19And from the sons of Hamor, Shechem’s father, he bought for a hundred pieces of money the piece of land on which he had pitched his tent. 20There he erected an altar and called it El-Elohe-Israel.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
