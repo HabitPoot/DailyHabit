@@ -12,14 +12,14 @@ let data = [
     {
         "esv": [
             "1| In the beginning, God created the heavens and the earth.",
-            "2| The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters",
+            "2| The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.",
             "3| And God said, \"Let there be light,\" and there was light.",
             "4| And God saw that the light was good. And God separated the light from the darkness.",
             "5| God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day."
         ],
         "krv": [
             "1| 태초에 하나님이 천지를 창조하시니라",
-            "2| 땅이 혼돈하고 공허하며 흑암이 깊음 위에 있고 하나님의 신은 수면에 운행 하시니라",
+            "2| 땅이 혼돈하고 공허하며 흑암이 깊음 위에 있고 하나님의 신은 수면에 운행하시니라",
             "3| 하나님이 가라사대 빛이 있으라 하시매 빛이 있었고",
             "4| 그 빛이 하나님의 보시기에 좋았더라 하나님이 빛과 어두움을 나누사",
             "5| 빛을 낮이라 칭하시고 어두움을 밤이라 칭하시니라 저녁이 되며 아침이 되니 이는 첫째 날이니라"
@@ -77,7 +77,7 @@ let data = [
     },
     {
         "esv": [
-            "16| And God made the two great lights--the greater light to rule the day and the lesser light to rule the night--and the stars.",
+            "16| And God made the two great lights-the greater light to rule the day and the lesser light to rule the night-and the stars.",
             "17| And God set them in the expanse of the heavens to give light on the earth,",
             "18| to rule over the day and over the night, and to separate the light from the darkness. And God saw that it was good.",
             "19| And there was evening and there was morning, the fourth day.",
@@ -102,14 +102,14 @@ let data = [
             "21| So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good.",
             "22| And God blessed them, saying, \"Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.\"",
             "23| And there was evening and there was morning, the fifth day.",
-            "24| And God said, \"Let the earth bring forth living creatures according to their kinds--livestock and creeping things and beasts of the earth according to their kinds.\" And it was so.",
+            "24| And God said, \"Let the earth bring forth living creatures according to their kinds-livestock and creeping things and beasts of the earth according to their kinds.\" And it was so.",
             "25| And God made the beasts of the earth according to their kinds and the livestock according to their kinds, and everything that creeps on the ground according to its kind. And God saw that it was good."
         ],
         "krv": [
-            "21| 하나님이 큰 물고기와 물에서 번성하여 움직이는 모든 생물을 그 종류대로, 날개 있는 모든 새를 그 종류대로 창조하시니 하니님의 보시기에 좋았더라",
+            "21| 하나님이 큰 물고기와 물에서 번성하여 움직이는 모든 생물을 그 종류대로, 날개 있는 모든 새를 그 종류대로 창조하시니 하나님의 보시기에 좋았더라",
             "22| 하나님이 그들에게 복을 주어 가라사대 생육하고 번성하여 여러 바다 물에 충만하라 새들도 땅에 번성하라 하시니라",
             "23| 저녁이 되며 아침이 되니 이는 다섯째 날이니라",
-            "24| 하나님이 가라사대 땅은 생물을 그 종류대로 내되 육축과 기는것과 땅의 짐승을 종류대로 내라 하시고 (그대로 되니라)",
+            "24| 하나님이 가라사대 땅은 생물을 그 종류대로 내되 육축과 기는 것과 땅의 짐승을 종류대로 내라 하시고 (그대로 되니라)",
             "25| 하나님이 땅의 짐승을 그 종류대로, 육축을 그 종류대로, 땅에 기는 모든 것을 그 종류대로 만드시니 하나님의 보시기에 좋았더라"
         ],
         "date": "2023-07-01T08:00:00.000Z",
@@ -149,8 +149,8 @@ let data = [
             "2| And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done.",
             "3| So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.",
             "4| These are the generations of the heavens and the earth when they were created, in the day that the Lord God made the earth and the heavens.",
-            "5| When no bush of the field was yet in the land and no small plant of the field had yet sprung up--for the Lord God had not caused it to rain on the land, and there was no man to work the ground,",
-            "6| and a mist was going up from the land and was watering the whole face of the ground--",
+            "5| When no bush of the field was yet in the land and no small plant of the field had yet sprung up-for the Lord God had not caused it to rain on the land, and there was no man to work the ground,",
+            "6| and a mist was going up from the land and was watering the whole face of the ground-",
             "7| then the Lord God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature.",
             "8| And the Lord God planted a garden in Eden, in the east, and there he put the man whom he had formed.",
             "9| And out of the ground the Lord God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil.",
@@ -158,7 +158,7 @@ let data = [
             "11| The name of the first is the Pishon. It is the one that flowed around the whole land of Havilah, where there is gold.",
             "12| And the gold of that land is good; bdellium and onyx stone are there.",
             "13| The name of the second river is the Gihon. It is the one that flowed around the whole land of Cush.",
-            "14| And the name of the third river is the Tigris, which flows east of Assyria. And the fourth river is the Euphrates",
+            "14| And the name of the third river is the Tigris, which flows east of Assyria. And the fourth river is the Euphrates.",
             "15| The Lord God took the man and put him in the garden of Eden to work it and keep it.",
             "16| And the Lord God commanded the man, saying, \"You may surely eat of every tree of the garden,",
             "17| but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.\"",
@@ -182,7 +182,7 @@ let data = [
             "8| 여호와 하나님이 동방의 에덴에 동산을 창설하시고 그 지으신 사람을 거기 두시고",
             "9| 여호와 하나님이 그 땅에서 보기에 아름답고 먹기에 좋은 나무가 나게 하시니 동산 가운데에는 생명나무와 선악을 알게하는 나무도 있더라",
             "10| 강이 에덴에서 발원하여 동산을 적시고 거기서부터 갈라져 네 근원이 되었으니",
-            "11| 첫째의 이름은 비손이라 금이 있는 하월라 온 땅에 둘렸으며",
+            "11| 첫째의 이름은 비손이라 금이 있는 하윌라 온 땅에 둘렸으며",
             "12| 그 땅의 금은 정금이요 그곳에는 베델리엄과 호마노도 있으며",
             "13| 둘째 강의 이름은 기혼이라 구스 온 땅에 둘렸고",
             "14| 세째 강의 이름은 힛데겔이라 앗수르 동편으로 흐르며 네째 강은 유브라데더라",
@@ -194,7 +194,7 @@ let data = [
             "20| 아담이 모든 육축과 공중의 새와 들의 모든 짐승에게 이름을 주니라 아담이 돕는 배필이 없으므로",
             "21| 여호와 하나님이 아담을 깊이 잠들게 하시니 잠들매 그가 그 갈빗대 하나를 취하고 살로 대신 채우시고",
             "22| 여호와 하나님이 아담에게서 취하신 그 갈빗대로 여자를 만드시고 그를 아담에게로 이끌어 오시니",
-            "23| 아담이 가로되 이는 내뼈 중의 뼈요 살 중의 살이라 이것을 남자에게서 취하였은즉 여자라 칭하리라 하니라",
+            "23| 아담이 가로되 이는 내 뼈 중의 뼈요 살 중의 살이라 이것을 남자에게서 취하였은즉 여자라 칭하리라 하니라",
             "24| 이러므로 남자가 부모를 떠나 그 아내와 연합하여 둘이 한 몸을 이룰찌로다",
             "25| 아담과 그 아내 두 사람이 벌거벗었으나 부끄러워 아니하니라",
         ],
@@ -208,8 +208,8 @@ let data = [
     {
         "esv": [
             "1| Now the serpent was more crafty than any other beast of the field that the Lord God had made. He said to the woman, \"Did God actually say, 'You shall not eat of any tree in the garden'?\"",
-            "2| And the woman said to the serpent, \"We may eat of the fruit of the trees in the garden, ",
-            "3| but God said, 'You shall not eat of the fruit of the tree that is in the midst of the garden, neither shall you touch it, lest you die,'\"",
+            "2| And the woman said to the serpent, \"We may eat of the fruit of the trees in the garden,",
+            "3| but God said, 'You shall not eat of the fruit of the tree that is in the midst of the garden, neither shall you touch it, lest you die.'\"",
             "4| But the serpent said to the woman, \"You will not surely die.",
             "5| For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.\"",
             "6| So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate.",
@@ -217,7 +217,7 @@ let data = [
             "8| And they heard the sound of the Lord God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the Lord God among the trees of the garden.",
             "9| But the Lord God called to the man and said to him, \"Where are you?\"",
             "10| And he said, \"I heard the sound of you in the garden, and I was afraid, because I was naked, and I hid myself.\"",
-            "11| He said, \"Who told you thaat you were naked? Have you eaten of the tree of which I commaanded you not to eat?\"",
+            "11| He said, \"Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?\"",
             "12| The man said, \"The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.\"",
             "13| Then the Lord God said to the woman, \"What is this that you have done?\" The woman said, \"The serpent deceived me, and I ate.\"",
             "14| The Lord God said to the serpent, \"Because you have done this, cursed are you above all livestock and above all beasts of the field; on your belly you shall go, and dust you shall eat all the days of your life.",
@@ -225,10 +225,10 @@ let data = [
             "16| To the woman he said, \"I will surely multiply your pain in childbearing; in pain you shall bring forth children. Your desire shall be contrary to your husband, but he shall rule over you.\"",
             "17| And to Adam he said, \"Because you have listened to the voice of your wife and have eaten of the tree of which I commanded you, 'You shall not eat of it,' cursed is the ground because of you; in pain you shall eat of it all the days of your life;",
             "18| thorns and thistles it shall bring forth for you; and you shall eat the plants of the field.",
-            "19| By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return.",
+            "19| By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return.\"",
             "20| The man called his wife's name Eve, because she was the mother of all living.",
             "21| And the Lord God made for Adam and for his wife garments of skins and clothed them.",
-            "22| Then the Lord God said, \"Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever--\"",
+            "22| Then the Lord God said, \"Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever-\"",
             "23| therefore the Lord God sent him out from the garden of Eden to work the ground from which he was taken.",
             "24| He drove out the man, and at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life."
         ],
@@ -476,7 +476,7 @@ let data = [
             "11| In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst forth, and the windows of the heavens were opened.",
             "12| And rain fell upon the earth forty days and forty nights.",
             "13| On the very same day Noah and his sons, Shem and Ham and Japheth, and Noah's wife and the three wives of his sons with them entered the ark,",
-            "14| they and every beast, according to its kind, and all the livestock according to their kinds, and every creeping thing htat creeps on the earth, according to its kind, and every bird, according to its kind, every winged creature.",
+            "14| they and every beast, according to its kind, and all the livestock according to their kinds, and every creeping thing that creeps on the earth, according to its kind, and every bird, according to its kind, every winged creature.",
             "15| They went into the ark with Noah, two and two of all flesh in which there was the breath of life.",
             "16| And those that entered, male and female of all flesh, went in as God had commanded him. And the Lord shut him in.",
             "17| The flood continued forty days on the earth. The waters increased and bore up the ark, and it rose high above the earth.",
