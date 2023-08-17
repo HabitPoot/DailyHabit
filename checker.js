@@ -1,55 +1,44 @@
 mine = [
-    "1| 이스라엘이 모든 소유를 이끌고 발행하여 브엘세바에 이르러 그 아비 이삭의 하나님께 희생을 드리니",
-    "2| 밤에 하나님이 이상 중에 이스라엘에게 나타나시고 불러 가라사대 야곱아 야곱아 하시는지라 야곱이 가로되 내가 여기 있나이다 하매",
-    "3| 하나님이 가라사대 나는 하나님이라 네 아비의 하나님이니 애굽으로 내려가기를 두려워 말라 내가 거기서 너로 큰 민족을 이루게 하리라",
-    "4| 내가 너와 함께 애굽으로 내려가겠고 정녕 너를 인도하여 다시 올라올 것이며 요셉이 그 손으로 네 눈을 감기리라 하셨더라",
-    "5| 야곱이 브엘세바에서 발행할쌔 이스라엘의 아들들이 바로의 태우려고 보낸 수레에 자기들의 아비 야곱과 자기들의 처자들을 태웠고",
-    "6| 그 생축과 가나안 땅에서 얻은 재물을 이끌었으며 야곱과 그 자손들이 다 함께 애굽으로 갔더라",
-    "7| 이와 같이 야곱이 그 아들들과 손자들과 딸들과 손녀들 곧 그 모든 자손을 데리고 애굽으로 갔더라",
-    "8| 애굽으로 내려간 이스라엘 가족의 이름이 이러하니 야곱과 그 아들들 곧 야곱의 맏아들 르우벤과",
-    "9| 르우벤의 아들 하녹과 발루와 헤스론과 갈미요",
-    "10| 시므온의 아들 곧 여무엘과 야민과 오핫과 야긴과 스할과 가나안 여인의 소생 사울이요",
-    "11| 레위의 아들 곧 게르손과 그핫과 므라리요",
-    "12| 유다의 아들 곧 엘과 오난과 셀라와 베레스와 세라니 엘과 오난은 가나안 땅에서 죽었고 또 베레스의 아들 곧 헤스론과 하물이요",
-    "13| 잇사갈의 아들 곧 돌라와 부와와 욥과 시므론이요",
-    "14| 스불론의 아들 곧 세렛과 엘론과 얄르엘이니",
-    "15| 이들은 레아가 밧단아람에서 야곱에게 낳은 자손들이라 그 딸 디나를 합하여 남자와 여자가 삼십 삼명이며",
-    "16| 갓의 아들 곧 시뵨과 학기와 수니와 에스본과 에리와 아로디와 아렐리요",
-    "17| 아셀의 아들 곧 임나와 이스와와 이스위와 브리아와 그들의 누이 세라며 또 브리아의 아들 곧 헤벨과 말기엘이니",
-    "18| 이들은 라반이 그 딸 레아에게 준 실바가 야곱에게 낳은 자손들이라 합 십 륙명이요",
-    "19| 야곱의 아내 라헬의 아들 곧 요셉과 베냐민이요",
-    "20| 애굽 땅에서 온 제사장 보디베라의 딸 아스낫이 요셉에게 낳은 므낫세와 에브라임이요",
-    "21| 베냐민의 아들 곧 벨라와 베겔과 아스벨과 게라와 나아만과 에히와 로스와 뭅빔과 훕빔과 아릇이니",
-    "22| 이들은 라헬이 야곱에게 낳은 자손이라 합 십 사명이요",
-    "23| 단의 아들 후심이요",
-    "24| 납달리의 아들 곧 야스엘과 구니와 예셀과 실렘이라",
-    "25| 이들은 라반이 그 딸 라헬에게 준 빌하가 야곱에게 낳은 자손이니 합이 칠명이라",
-    "26| 야곱과 함께 애굽에 이른 자는 야곱의 자부 외에 육십 륙명이니 이는 다 야곱의 몸에서 나온 자며",
-    "27| 애굽에서 요셉에게 낳은 아들이 두명이니 야곱의 집 사람으로 애굽에 이른 자의 도합이 칠십명이었더라",
-    "28| 야곱이 유다를 요셉에게 미리 보내어 자기를 고센으로 인도하게 하고 다 고센 땅에 이르니",
-    "29| 요셉이 수레를 갖추고 고센으로 올라가서 아비 이스라엘을 맞으며 그에게 보이고 그 목을 어긋맞겨 안고 얼마 동안 울매",
-    "30| 이스라엘이 요셉에게 이르되 네가 지금까지 살아 있고 내가 네 얼굴을 보았으니 지금 죽어도 가하도다",
-    "31| 요셉이 그 형들과 아비의 권속에게 이르되 내가 올라가서 바로에게 고하여 이르기를 가나안 땅에 있던 내 형들과 내 아비의 권속이 내게로 왔는데",
-    "32| 그들은 목자라 목축으로 업을 삼으므로 그 양과 소와 모든 소유를 이끌고 왔나이다 하리니",
-    "33| 바로가 당신들을 불러서 너희의 업이 무엇이냐 묻거든",
-    "34| 당신들은 고하기를 주의 종들은 어렸을 때부터 지금까지 목축하는 자이온데 우리와 우리 선조가 다 그러하니이다 하소서 애굽 사람은 다 목축을 가증히 여기나니 당신들이 고센 땅에 거하게 되리이다",
+    "1| So Joseph went in and told Pharaoh, \"My father and my brothers, with their flocks and herds and all that they possess, have come from the land of Canaan. They are now in the land of Goshen.\"",
+    "2| And from among his brothers he took five men and presented them to Pharaoh.",
+    "3| Pharaoh said to his brothers, \"What is your occupation?\" And they said to Pharaoh, \"Your servants are shepherds, as our fathers were.\"",
+    "4| They said to Pharaoh, \"We have come to sojourn in the land, for there is no pasture for your servants' flocks, for the famine is severe in the land of Canaan. And now, please let your servants dwell in the land of Goshen.\"",
+    "5| Then Pharaoh said to Joseph, \"Your father and your brothers have come to you.",
+    "6| The land of Egypt is before you. Settle your father and your brothers in the best of the land. Let them settle in the land of Goshen, and if you know any able men among them, put them in charge of my livestock.\"",
+    "7| Then Joseph brought in Jacob his father and stood him before Pharaoh, and Jacob blessed Pharaoh.",
+    "8| And Pharaoh said to Jacob, \"How many are the days of the years of your life?\"",
+    "9| And Jacob said to Pharaoh, \"The days of the years of my sojourning are 130 years. Few and evil have been the days of the years of my life, and they have not attained to the days of the years of the life of my fathers in the days of their sojourning.\"",
+    "10| And Jacob blessed Pharaoh and went out from the presence of Pharaoh.",
+    "11| Then Joseph settled his father and his brothers and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.",
+    "12| And Joseph provided his father, his brothers, and all his father's household with food, according to the number of their dependents.",
+    "13| Now there was no food in all the land, for the famine was very severe, so that the land of Egypt and the land of Canaan languished by reason of the famine.",
+    "14| And Joseph gathered up all the money that was found in the land of Egypt and in the land of Canaan, in exchange for the grain that they bought. And Joseph brought the money into Pharaoh's house.",
+    "15| And when the money was all spent in the land of Egypt and in the land of Canaan, all the Egyptians came to Joseph and said, \"Give us food. Why should we die before your eyes? For our money is gone.\"",
+    "16| And Joseph answered, \"Give your livestock, and I will give you food in exchange for your livestock, if your money is gone.\"",
+    "17| So they brought their livestock to Joseph, and Joseph gave them food in exchange for the horses, the flocks, the herds, and the donkeys. He supplied them with food in exchange for all their livestock that year.",
+    "18| And when that year was ended, they came to him the following year and said to him, \"We will not hide from my lord that our money is all spent. The herds of livestock are my lord's. There is nothing left in the sight of my lord but our bodies and our land.",
+    "19| Why should we die before your eyes, both we and our land? Buy us and our land for food, and we with our land will be servants to Pharaoh. And give us seed that we may live and not die, and that the land may not be desolate.\"",
+    "20| So Joseph bought all the land of Egypt for Pharaoh, for all the Egyptians sold their fields, because the famine was severe on them. The land became Pharaoh's.",
+    "21| As for the people, he made servants of them from one end of Egypt to the other.",
+    "22| Only the land of the priests he did not buy, for the priests had a fixed allowance from Pharaoh and lived on the allowance that Pharaoh gave them; therefore they did not sell their land.",
+    "23| Then Joseph said to the people, \"Behold, I have this day bought you and your land for Pharaoh. Now here is seed for you, and you shall sow the land.",
+    "24| And at the harvests you shall give a fifth to Pharaoh, and four fifths shall be your own, as seed for the field and as food for yourselves and your households, and as food for your little ones.\"",
+    "25| And they said, \"You have saved our lives; may it please my lord, we will be servants to Pharaoh.\"",
+    "26| So Joseph made it a statute concerning the land of Egypt, and it stands to this day, that Pharaoh should have the fifth; the land of the priests alone did not become Pharaoh's.",
+    "27| Thus Israel settled in the land of Egypt, in the land of Goshen. And they gained possessions in it, and were fruitful and multiplied greatly.",
+    "28| And Jacob lived in the land of Egypt seventeen years. So the days of Jacob, the years of his life, were 147 years.",
+    "29| And when the time drew near that Israel must die, he called his son Joseph and said to him, \"If now I have found favor in your sight, put your hand under my thigh and promise to deal kindly and truly with me. Do not bury me in Egypt,",
+    "30| but let me lie with my fathers. Carry me out of Egypt and bury me in their burying place.\" He answered, \"I will do as you have said.\"",
+    "31| And he said, \"Swear to me\"; and he swore to him. Then Israel bowed himself upon the head of his bed.",
 ]
 let encoded = ` “ ” `
-theirs = `1이스라엘이 모든 소유를 이끌고 발행하여 브엘세바에 이르러 그 아비 이삭의 하나님께 희생을 드리니 2밤에 하나님이 이상 중에 이스라엘에게 나타나시고 불러 가라사대 야곱아 야곱아 하시는지라 야곱이 가로되 내가 여기 있나이다 하매 3하나님이 가라사대 나는 하나님이라 네 아비의 하나님이니 애굽으로 내려가기를 두려워 말라 내가 거기서 너로 큰 민족을 이루게 하리라 4내가 너와 함께 애굽으로 내려가겠고 정녕 너를 인도하여 다시 올라올 것이며 요셉이 그 손으로 네 눈을 감기리라 하셨더라 5야곱이 브엘세바에서 발행할쌔 이스라엘의 아들들이 바로의 태우려고 보낸 수레에 자기들의 아비 야곱과 자기들의 처자들을 태웠고
-6그 생축과 가나안 땅에서 얻은 재물을 이끌었으며 야곱과 그 자손들이 다 함께 애굽으로 갔더라 7이와 같이 야곱이 그 아들들과 손자들과 딸들과 손녀들 곧 그 모든 자손을 데리고 애굽으로 갔더라 8애굽으로 내려간 이스라엘 가족의 이름이 이러하니 야곱과 그 아들들 곧 야곱의 맏아들 르우벤과
-9르우벤의 아들 하녹과 발루와 헤스론과 갈미요 10시므온의 아들 곧 여무엘과 야민과 오핫과 야긴과 스할과 가나안 여인의 소생 사울이요
-11레위의 아들 곧 게르손과 그핫과 므라리요
-12유다의 아들 곧 엘과 오난과 셀라와 베레스와 세라니 엘과 오난은 가나안 땅에서 죽었고 또 베레스의 아들 곧 헤스론과 하물이요
-13잇사갈의 아들 곧 돌라와 부와와 욥과 시므론이요
-14스불론의 아들 곧 세렛과 엘론과 얄르엘이니
-15이들은 레아가 밧단아람에서 야곱에게 낳은 자손들이라 그 딸 디나를 합하여 남자와 여자가 삼십 삼명이며 16갓의 아들 곧 시뵨과 학기와 수니와 에스본과 에리와 아로디와 아렐리요
-17아셀의 아들 곧 임나와 이스와와 이스위와 브리아와 그들의 누이 세라며 또 브리아의 아들 곧 헤벨과 말기엘이니
-18이들은 라반이 그 딸 레아에게 준 실바가 야곱에게 낳은 자손들이라 합 십 륙명이요 19야곱의 아내 라헬의 아들 곧 요셉과 베냐민이요 20애굽 땅에서 온 제사장 보디베라의 딸 아스낫이 요셉에게 낳은 므낫세와 에브라임이요
-21베냐민의 아들 곧 벨라와 베겔과 아스벨과 게라와 나아만과 에히와 로스와 뭅빔과 훕빔과 아릇이니
-22이들은 라헬이 야곱에게 낳은 자손이라 합 십 사명이요 23단의 아들 후심이요
-24납달리의 아들 곧 야스엘과 구니와 예셀과 실렘이라
-25이들은 라반이 그 딸 라헬에게 준 빌하가 야곱에게 낳은 자손이니 합이 칠명이라 26야곱과 함께 애굽에 이른 자는 야곱의 자부 외에 육십 륙명이니 이는 다 야곱의 몸에서 나온 자며 27애굽에서 요셉에게 낳은 아들이 두명이니 야곱의 집 사람으로 애굽에 이른 자의 도합이 칠십명이었더라 28야곱이 유다를 요셉에게 미리 보내어 자기를 고센으로 인도하게 하고 다 고센 땅에 이르니
-29요셉이 수레를 갖추고 고센으로 올라가서 아비 이스라엘을 맞으며 그에게 보이고 그 목을 어긋맞겨 안고 얼마 동안 울매 30이스라엘이 요셉에게 이르되 네가 지금까지 살아 있고 내가 네 얼굴을 보았으니 지금 죽어도 가하도다 31요셉이 그 형들과 아비의 권속에게 이르되 내가 올라가서 바로에게 고하여 이르기를 가나안 땅에 있던 내 형들과 내 아비의 권속이 내게로 왔는데 32그들은 목자라 목축으로 업을 삼으므로 그 양과 소와 모든 소유를 이끌고 왔나이다 하리니 33바로가 당신들을 불러서 너희의 업이 무엇이냐 묻거든 34당신들은 고하기를 주의 종들은 어렸을 때부터 지금까지 목축하는 자이온데 우리와 우리 선조가 다 그러하니이다 하소서 애굽 사람은 다 목축을 가증히 여기나니 당신들이 고센 땅에 거하게 되리이다`
+theirs = `1So Joseph went in and told Pharaoh, “My father and my brothers, with their flocks and herds and all that they possess, have come from the land of Canaan. They are now in the land of Goshen.” 2And from among his brothers he took five men and presented them to Pharaoh. 3Pharaoh said to his brothers, “What is your occupation?” And they said to Pharaoh, “Your servants are shepherds, as our fathers were.” 4They said to Pharaoh, “We have come to sojourn in the land, for there is no pasture for your servants’ flocks, for the famine is severe in the land of Canaan. And now, please let your servants dwell in the land of Goshen.” 5Then Pharaoh said to Joseph, “Your father and your brothers have come to you. 6The land of Egypt is before you. Settle your father and your brothers in the best of the land. Let them settle in the land of Goshen, and if you know any able men among them, put them in charge of my livestock.”
+7Then Joseph brought in Jacob his father and stood him before Pharaoh, and Jacob blessed Pharaoh. 8And Pharaoh said to Jacob, “How many are the days of the years of your life?” 9And Jacob said to Pharaoh, “The days of the years of my sojourning are 130 years. Few and evil have been the days of the years of my life, and they have not attained to the days of the years of the life of my fathers in the days of their sojourning.” 10And Jacob blessed Pharaoh and went out from the presence of Pharaoh. 11Then Joseph settled his father and his brothers and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded. 12And Joseph provided his father, his brothers, and all his father’s household with food, according to the number of their dependents.
+13Now there was no food in all the land, for the famine was very severe, so that the land of Egypt and the land of Canaan languished by reason of the famine. 14And Joseph gathered up all the money that was found in the land of Egypt and in the land of Canaan, in exchange for the grain that they bought. And Joseph brought the money into Pharaoh’s house. 15And when the money was all spent in the land of Egypt and in the land of Canaan, all the Egyptians came to Joseph and said, “Give us food. Why should we die before your eyes? For our money is gone.” 16And Joseph answered, “Give your livestock, and I will give you food in exchange for your livestock, if your money is gone.” 17So they brought their livestock to Joseph, and Joseph gave them food in exchange for the horses, the flocks, the herds, and the donkeys. He supplied them with food in exchange for all their livestock that year. 18And when that year was ended, they came to him the following year and said to him, “We will not hide from my lord that our money is all spent. The herds of livestock are my lord’s. There is nothing left in the sight of my lord but our bodies and our land. 19Why should we die before your eyes, both we and our land? Buy us and our land for food, and we with our land will be servants to Pharaoh. And give us seed that we may live and not die, and that the land may not be desolate.”
+20So Joseph bought all the land of Egypt for Pharaoh, for all the Egyptians sold their fields, because the famine was severe on them. The land became Pharaoh’s. 21As for the people, he made servants of them from one end of Egypt to the other. 22Only the land of the priests he did not buy, for the priests had a fixed allowance from Pharaoh and lived on the allowance that Pharaoh gave them; therefore they did not sell their land.
+23Then Joseph said to the people, “Behold, I have this day bought you and your land for Pharaoh. Now here is seed for you, and you shall sow the land. 24And at the harvests you shall give a fifth to Pharaoh, and four fifths shall be your own, as seed for the field and as food for yourselves and your households, and as food for your little ones.” 25And they said, “You have saved our lives; may it please my lord, we will be servants to Pharaoh.” 26So Joseph made it a statute concerning the land of Egypt, and it stands to this day, that Pharaoh should have the fifth; the land of the priests alone did not become Pharaoh’s.
+27Thus Israel settled in the land of Egypt, in the land of Goshen. And they gained possessions in it, and were fruitful and multiplied greatly. 28And Jacob lived in the land of Egypt seventeen years. So the days of Jacob, the years of his life, were 147 years.
+29And when the time drew near that Israel must die, he called his son Joseph and said to him, “If now I have found favor in your sight, put your hand under my thigh and promise to deal kindly and truly with me. Do not bury me in Egypt, 30but let me lie with my fathers. Carry me out of Egypt and bury me in their burying place.” He answered, “I will do as you have said.” 31And he said, “Swear to me”; and he swore to him. Then Israel bowed himself upon the head of his bed.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
