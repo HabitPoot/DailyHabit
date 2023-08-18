@@ -3539,12 +3539,14 @@ let data = [
     }
 ]
 let root = document.getElementById("root")
+// let rootwrite = document.getElementById("root-write")
 let body = document.getElementById("body")
 let dark = document.getElementById("dark")
 let light = document.getElementById("light")
 let esv = document.getElementById("esv")
 let krv = document.getElementById("krv")
 let both = document.getElementById("both")
+// let ReadWrite = document.getElementById("Read/Write")
 let textTags = document.getElementsByClassName("text-tags")
 let tracker = document.getElementById("tracker")
 let left = document.getElementById("left")
@@ -3634,13 +3636,24 @@ function setLanguage(lang) {
     localStorage.getItem('mode') === 'dark' ? colorMode('dark') : colorMode('light')
 }
 
+function grayScale(){
+    for (let tag of textTags) {
+        tag.classList.add('gray')
+        tag.classList.remove('dark')
+        tag.classList.remove('light')
+    }
+    var position = root.getBoundingClientRect();
+    rootwrite.style.position = 'absolute';
+    rootwrite.style.top = position.top + 'px';
+    rootwrite.style.left = position.left + 'px';    
+}
+
 light.addEventListener("click", function () {
     colorMode('light')
 })
 dark.addEventListener("click", function () {
     colorMode('dark')
 })
-
 esv.addEventListener("click", function () {
     setLanguage('esv')
 })
@@ -3650,6 +3663,9 @@ krv.addEventListener("click", function () {
 both.addEventListener("click", function () {
     setLanguage('both')
 })
+// ReadWrite.addEventListener("click", function () {
+//     grayScale()
+// })
 left.addEventListener("click", function () {
     updateDay('left')
 })

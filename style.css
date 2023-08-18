@@ -5,6 +5,13 @@
     margin-top: 20px;
     padding-bottom: 65px;
 }
+#root-write {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    padding-bottom: 65px;
+}
 
 .bg-light {
     background-color: white;
@@ -21,6 +28,10 @@
 
 .dark {
     color: white;
+}
+
+.gray {
+    color: gray;
 }
 
 .btn-light {
