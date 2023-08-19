@@ -9,8 +9,13 @@
     border: 1px solid gray;
     border-radius: 5px;
     padding: 20px;
-    margin-top: 20px;
     padding-bottom: 65px;
+    resize:none;
+    background-color:transparent;
+    position:absolute;
+    font-size:16px;
+    line-height:18px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .bg-light {
@@ -65,4 +70,12 @@
 }
 .hidden { 
     visibility: hidden;
+}
+h3 {
+    margin: 16px 0px;
+    font-weight:normal;
+    font-size:16px; 
+}
+.red {
+    color:red;
 }

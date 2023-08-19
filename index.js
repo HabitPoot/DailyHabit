@@ -3595,14 +3595,14 @@ let data = [
     }
 ]
 let root = document.getElementById("root")
-// let rootwrite = document.getElementById("root-write")
+let rootwrite = document.getElementById("root-write")
 let body = document.getElementById("body")
 let dark = document.getElementById("dark")
 let light = document.getElementById("light")
 let esv = document.getElementById("esv")
 let krv = document.getElementById("krv")
 let both = document.getElementById("both")
-// let ReadWrite = document.getElementById("Read/Write")
+let ReadWrite = document.getElementById("Read/Write")
 let textTags = document.getElementsByClassName("text-tags")
 let tracker = document.getElementById("tracker")
 let left = document.getElementById("left")
@@ -3701,7 +3701,18 @@ function grayScale(){
     var position = root.getBoundingClientRect();
     rootwrite.style.position = 'absolute';
     rootwrite.style.top = position.top + 'px';
-    rootwrite.style.left = position.left + 'px';    
+    rootwrite.style.left = position.left + 'px';
+    rootwrite.style.width = root.clientWidth + 'px'
+    rootwrite.style.height = root.clientHeight + 'px'
+    console.log(root.style.width)
+    rootwrite.classList.add('dark')
+    rootwrite.innerHTML += "\n"
+}
+function spellCheck(){
+    console.log("happening")
+    if(rootwrite.innerText[0] !== "e"){
+        rootwrite.innerHTML += `<span class="red">${rootwrite.innerText[0]}</span>`
+    }
 }
 
 light.addEventListener("click", function () {
@@ -3719,9 +3730,12 @@ krv.addEventListener("click", function () {
 both.addEventListener("click", function () {
     setLanguage('both')
 })
-// ReadWrite.addEventListener("click", function () {
-//     grayScale()
-// })
+ReadWrite.addEventListener("click", function () {
+    grayScale()
+})
+rootwrite.addEventListener("onkeyup", function(event) {
+    
+})
 left.addEventListener("click", function () {
     updateDay('left')
 })
