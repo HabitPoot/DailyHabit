@@ -1,39 +1,120 @@
 mine = [
-    "1| After this, Joseph was told, \"Behold, your father is ill.\" So he took with him his two sons, Manasseh and Ephraim.",
-    "2| And it was told to Jacob, \"Your son Joseph has come to you.\" Then Israel summoned his strength and sat up in bed.",
-    "3| And Jacob said to Joseph, \"God Almighty appeared to me at Luz in the land of Canaan and blessed me,",
-    "4| and said to me, 'Behold, I will make you fruitful and multiply you, and I will make of you a company of peoples and will give this land to your offspring after you for an everlasting possession.'",
-    "5| And now your two sons, who were born to you in the land of Egypt before I came to you in Egypt, are mine; Ephraim and Manasseh shall be mine, as Reuben and Simeon are.",
-    "6| And the children that you fathered after them shall be yours. They shall be called by the name of their brothers in their inheritance.",
-    "7| As for me, when I came from Paddan, to my sorrow Rachel died in the land of Canaan on the way, when there was still some distance to go to Ephrath, and I buried her there on the way to Ephrath (that is, Bethlehem).\"",
-    "8| When Israel saw Joseph's sons, he said, \"Who are these?\"",
-    "9| Joseph said to his father, \"They are my sons, whom God has given me here.\" And he said, \"Bring them to me, please, that I may bless them.\"",
-    "10| Now the eyes of Israel were dim with age, so that he could not see. So Joseph brought them near him, and he kissed them and embraced them.",
-    "11| And Israel said to Joseph, \"I never expected to see your face; and behold, God has let me see your offspring also.\"",
-    "12| Then Joseph removed them from his knees, and he bowed himself with his face to the earth.",
-    "13| And Joseph took them both, Ephraim in his right hand toward Israel's left hand, and Manasseh in his left hand toward Israel's right hand, and brought them near him.",
-    "14| And Israel stretched out his right hand and laid it on the head of Ephraim, who was the younger, and his left hand on the head of Manasseh, crossing his hands (for Manasseh was the firstborn).",
-    "15| And he blessed Joseph and said, \"The God before whom my fathers Abraham and Isaac walked, the God who has been my shepherd all my life long to this day,",
-    "16| the angel who has redeemed me from all evil, bless the boys; and in them let my name be carried on, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.\"",
-    "17| When Joseph saw that his father laid his right hand on the head of Ephraim, it displeased him, and he took his father's hand to move it from Ephraim's head to Manasseh's head.",
-    "18| And Joseph said to his father, \"Not this way, my father; since this one is the firstborn, put your right hand on his head.\"",
-    "19| But his father refused and said, \"I know, my son, I know. He also shall become a people, and he also shall be great. Nevertheless, his younger brother shall be greater than he, and his offspring shall become a multitude of nations.\"",
-    "20| So he blessed them that day, saying, \"By you Israel will pronounce blessings, saying, 'God make you as Ephraim and as Manasseh.'\" Thus he put Ephraim before Manasseh.",
-    "21| Then Israel said to Joseph, \"Behold, I am about to die, but God will be with you and will bring you again to the land of your fathers.",
-    "22| Moreover, I have given to you rather than to your brothers one mountain slope that I took from the hand of the Amorites with my sword and with my bow.\"",
+    "1| Then Jacob called his sons and said, \"Gather yourselves together, that I may tell you what shall happen to you in days to come.",
+    "2| \"Assemble and listen, O sons of Jacob, listen to Israel your father.",
+    "3| \"Reuben, you are my firstborn, my might, and the firstfruits of my strength, preeminent in dignity and preeminent in power.",
+    "4| Unstable as water, you shall not have preeminence, because you went up to your father's bed; then you defiled it-he went up to my couch!",
+    "5| \"Simeon and Levi are brothers; weapons of violence are their swords.",
+    "6| Let my soul come not into their council; O my glory, be not joined to their company. For in their anger they killed men, and in their willfulness they hamstrung oxen.",
+    "7| Cursed be their anger, for it is fierce, and their wrath, for it is cruel! I will divide them in Jacob and scatter them in Israel.",
+    "8| \"Judah, your brothers shall praise you; your hand shall be on the neck of your enemies; your father's sons shall bow down before you.",
+    "9| Judah is a lion's cub; from the prey, my son, you have gone up. He stooped down; he crouched as a lion and as a lioness; who dares rouse him?",
+    "10| The scepter shall not depart from Judah, nor the ruler's staff from between his feet, until tribute comes to him; and to him shall be the obedience of the peoples.",
+    "11| Binding his foal to the vine and his donkey's colt to the choice vine, he has washed his garments in wine and his vesture in the blood of grapes.",
+    "12| His eyes are darker than wine, and his teeth whiter than milk.",
+    "13| \"Zebulun shall dwell at the shore of the sea; he shall become a haven for ships, and his border shall be at Sidon.",
+    "14| \"Issachar is a strong donkey, crouching between the sheepfolds.",
+    "15| He saw that a resting place was good, and that the land was pleasant, so he bowed his shoulder to bear, and became a servant at forced labor.",
+    "16| \"Dan shall judge his people as one of the tribes of Israel.",
+    "17| Dan shall be a serpent in the way, a viper by the path, that bites the horse's heels so that his rider falls backward.",
+    "18| I wait for your salvation, O Lord.",
+    "19| \"Raiders shall raid Gad, but he shall raid at their heels.",
+    "20| \"Asher's food shall be rich, and he shall yield royal delicacies.",
+    "21| \"Naphtali is a doe let loose that bears beautiful fawns.",
+    "22| \"Joseph is a fruitful bough, a fruitful bough by a spring; his branches run over the wall.",
+    "23| The archers bitterly attacked him, shot at him, and harassed him severely,",
+    "24| yet his bow remained unmoved; his arms were made agile by the hands of the Mighty One of Jacob (from there is the Shepherd, the Stone of Israel),",
+    "25| by the God of your father who will help you, by the Almighty who will bless you with blessings of heaven above, blessings of the deep that crouches beneath, blessings of the breasts and of the womb.",
+    "26| The blessings of your father are mighty beyond the blessings of my parents, up to the bounties of the everlasting hills. May they be on the head of Joseph, and on the brow of him who was set apart from his brothers.",
+    "27| \"Benjamin is a ravenous wolf, in the morning devouring the prey and at evening dividing the spoil.\"",
+    "28| All these are the twelve tribes of Israel. This is what their father said to them as he blessed them, blessing each with the blessing suitable to him.",
+    "29| Then he commanded them and said to them, \"I am to be gathered to my people; bury me with my fathers in the cave that is in the field of Ephron the Hittite,",
+    "30| in the cave that is in the field at Machpelah, to the east of Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite to possess as a burying place.",
+    "31| There they buried Abraham and Sarah his wife. There they buried Isaac and Rebekah his wife, and there I buried Leah-",
+    "32| the field and the cave that is in it were bought from the Hittites.\"",
+    "33| When Jacob finished commanding his sons, he drew up his feet into the bed and breathed his last and was gathered to his people.",
 ]
 let encoded = ` “ ” `
-theirs = `1After this, Joseph was told, “Behold, your father is ill.” So he took with him his two sons, Manasseh and Ephraim. 2And it was told to Jacob, “Your son Joseph has come to you.” Then Israel summoned his strength and sat up in bed. 3And Jacob said to Joseph, “God Almighty appeared to me at Luz in the land of Canaan and blessed me, 4and said to me, ‘Behold, I will make you fruitful and multiply you, and I will make of you a company of peoples and will give this land to your offspring after you for an everlasting possession.’ 5And now your two sons, who were born to you in the land of Egypt before I came to you in Egypt, are mine; Ephraim and Manasseh shall be mine, as Reuben and Simeon are. 6And the children that you fathered after them shall be yours. They shall be called by the name of their brothers in their inheritance. 7As for me, when I came from Paddan, to my sorrow Rachel died in the land of Canaan on the way, when there was still some distance to go to Ephrath, and I buried her there on the way to Ephrath (that is, Bethlehem).”
-8When Israel saw Joseph’s sons, he said, “Who are these?” 9Joseph said to his father, “They are my sons, whom God has given me here.” And he said, “Bring them to me, please, that I may bless them.” 10Now the eyes of Israel were dim with age, so that he could not see. So Joseph brought them near him, and he kissed them and embraced them. 11And Israel said to Joseph, “I never expected to see your face; and behold, God has let me see your offspring also.” 12Then Joseph removed them from his knees, and he bowed himself with his face to the earth. 13And Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought them near him. 14And Israel stretched out his right hand and laid it on the head of Ephraim, who was the younger, and his left hand on the head of Manasseh, crossing his hands (for Manasseh was the firstborn). 15And he blessed Joseph and said,
-“The God before whom my fathers Abraham and Isaac walked,
-the God who has been my shepherd all my life long to this day,
-16the angel who has redeemed me from all evil, bless the boys;
-and in them let my name be carried on, and the name of my fathers Abraham and Isaac;
-and let them grow into a multitude in the midst of the earth.”
-17When Joseph saw that his father laid his right hand on the head of Ephraim, it displeased him, and he took his father’s hand to move it from Ephraim’s head to Manasseh’s head. 18And Joseph said to his father, “Not this way, my father; since this one is the firstborn, put your right hand on his head.” 19But his father refused and said, “I know, my son, I know. He also shall become a people, and he also shall be great. Nevertheless, his younger brother shall be greater than he, and his offspring shall become a multitude of nations.” 20So he blessed them that day, saying,
-“By you Israel will pronounce blessings, saying,
-‘God make you as Ephraim and as Manasseh.’”
-Thus he put Ephraim before Manasseh. 21Then Israel said to Joseph, “Behold, I am about to die, but God will be with you and will bring you again to the land of your fathers. 22Moreover, I have given to you rather than to your brothers one mountain slope that I took from the hand of the Amorites with my sword and with my bow.”`
+theirs = `1Then Jacob called his sons and said, “Gather yourselves together, that I may tell you what shall happen to you in days to come.
+2“Assemble and listen, O sons of Jacob,
+listen to Israel your father.
+3“Reuben, you are my firstborn,
+my might, and the firstfruits of my strength,
+preeminent in dignity and preeminent in power.
+4Unstable as water, you shall not have preeminence,
+because you went up to your father’s bed;
+then you defiled it—he went up to my couch!
+5“Simeon and Levi are brothers;
+weapons of violence are their swords.
+6Let my soul come not into their council;
+O my glory, be not joined to their company.
+For in their anger they killed men,
+and in their willfulness they hamstrung oxen.
+7Cursed be their anger, for it is fierce,
+and their wrath, for it is cruel!
+I will divide them in Jacob
+and scatter them in Israel.
+8“Judah, your brothers shall praise you;
+your hand shall be on the neck of your enemies;
+your father’s sons shall bow down before you.
+9Judah is a lion’s cub;
+from the prey, my son, you have gone up.
+He stooped down; he crouched as a lion
+and as a lioness; who dares rouse him?
+10The scepter shall not depart from Judah,
+nor the ruler’s staff from between his feet,
+until tribute comes to him;
+and to him shall be the obedience of the peoples.
+11Binding his foal to the vine
+and his donkey’s colt to the choice vine,
+he has washed his garments in wine
+and his vesture in the blood of grapes.
+12His eyes are darker than wine,
+and his teeth whiter than milk.
+13“Zebulun shall dwell at the shore of the sea;
+he shall become a haven for ships,
+and his border shall be at Sidon.
+14“Issachar is a strong donkey,
+crouching between the sheepfolds.
+15He saw that a resting place was good,
+and that the land was pleasant,
+so he bowed his shoulder to bear,
+and became a servant at forced labor.
+16“Dan shall judge his people
+as one of the tribes of Israel.
+17Dan shall be a serpent in the way,
+a viper by the path,
+that bites the horse’s heels
+so that his rider falls backward.
+18I wait for your salvation, O Lord.
+19“Raiders shall raid Gad,
+but he shall raid at their heels.
+20“Asher’s food shall be rich,
+and he shall yield royal delicacies.
+21“Naphtali is a doe let loose
+that bears beautiful fawns.
+22“Joseph is a fruitful bough,
+a fruitful bough by a spring;
+his branches run over the wall.
+23The archers bitterly attacked him,
+shot at him, and harassed him severely,
+24yet his bow remained unmoved;
+his arms were made agile
+by the hands of the Mighty One of Jacob
+(from there is the Shepherd, the Stone of Israel),
+25by the God of your father who will help you,
+by the Almighty who will bless you
+with blessings of heaven above,
+blessings of the deep that crouches beneath,
+blessings of the breasts and of the womb.
+26The blessings of your father
+are mighty beyond the blessings of my parents,
+up to the bounties of the everlasting hills.
+May they be on the head of Joseph,
+and on the brow of him who was set apart from his brothers.
+27“Benjamin is a ravenous wolf,
+in the morning devouring the prey
+and at evening dividing the spoil.”
+28All these are the twelve tribes of Israel. This is what their father said to them as he blessed them, blessing each with the blessing suitable to him. 29Then he commanded them and said to them, “I am to be gathered to my people; bury me with my fathers in the cave that is in the field of Ephron the Hittite, 30in the cave that is in the field at Machpelah, to the east of Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite to possess as a burying place. 31There they buried Abraham and Sarah his wife. There they buried Isaac and Rebekah his wife, and there I buried Leah— 32the field and the cave that is in it were bought from the Hittites.” 33When Jacob finished commanding his sons, he drew up his feet into the bed and breathed his last and was gathered to his people.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
