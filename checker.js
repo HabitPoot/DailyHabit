@@ -1,120 +1,36 @@
 mine = [
-    "1| Then Jacob called his sons and said, \"Gather yourselves together, that I may tell you what shall happen to you in days to come.",
-    "2| \"Assemble and listen, O sons of Jacob, listen to Israel your father.",
-    "3| \"Reuben, you are my firstborn, my might, and the firstfruits of my strength, preeminent in dignity and preeminent in power.",
-    "4| Unstable as water, you shall not have preeminence, because you went up to your father's bed; then you defiled it-he went up to my couch!",
-    "5| \"Simeon and Levi are brothers; weapons of violence are their swords.",
-    "6| Let my soul come not into their council; O my glory, be not joined to their company. For in their anger they killed men, and in their willfulness they hamstrung oxen.",
-    "7| Cursed be their anger, for it is fierce, and their wrath, for it is cruel! I will divide them in Jacob and scatter them in Israel.",
-    "8| \"Judah, your brothers shall praise you; your hand shall be on the neck of your enemies; your father's sons shall bow down before you.",
-    "9| Judah is a lion's cub; from the prey, my son, you have gone up. He stooped down; he crouched as a lion and as a lioness; who dares rouse him?",
-    "10| The scepter shall not depart from Judah, nor the ruler's staff from between his feet, until tribute comes to him; and to him shall be the obedience of the peoples.",
-    "11| Binding his foal to the vine and his donkey's colt to the choice vine, he has washed his garments in wine and his vesture in the blood of grapes.",
-    "12| His eyes are darker than wine, and his teeth whiter than milk.",
-    "13| \"Zebulun shall dwell at the shore of the sea; he shall become a haven for ships, and his border shall be at Sidon.",
-    "14| \"Issachar is a strong donkey, crouching between the sheepfolds.",
-    "15| He saw that a resting place was good, and that the land was pleasant, so he bowed his shoulder to bear, and became a servant at forced labor.",
-    "16| \"Dan shall judge his people as one of the tribes of Israel.",
-    "17| Dan shall be a serpent in the way, a viper by the path, that bites the horse's heels so that his rider falls backward.",
-    "18| I wait for your salvation, O Lord.",
-    "19| \"Raiders shall raid Gad, but he shall raid at their heels.",
-    "20| \"Asher's food shall be rich, and he shall yield royal delicacies.",
-    "21| \"Naphtali is a doe let loose that bears beautiful fawns.",
-    "22| \"Joseph is a fruitful bough, a fruitful bough by a spring; his branches run over the wall.",
-    "23| The archers bitterly attacked him, shot at him, and harassed him severely,",
-    "24| yet his bow remained unmoved; his arms were made agile by the hands of the Mighty One of Jacob (from there is the Shepherd, the Stone of Israel),",
-    "25| by the God of your father who will help you, by the Almighty who will bless you with blessings of heaven above, blessings of the deep that crouches beneath, blessings of the breasts and of the womb.",
-    "26| The blessings of your father are mighty beyond the blessings of my parents, up to the bounties of the everlasting hills. May they be on the head of Joseph, and on the brow of him who was set apart from his brothers.",
-    "27| \"Benjamin is a ravenous wolf, in the morning devouring the prey and at evening dividing the spoil.\"",
-    "28| All these are the twelve tribes of Israel. This is what their father said to them as he blessed them, blessing each with the blessing suitable to him.",
-    "29| Then he commanded them and said to them, \"I am to be gathered to my people; bury me with my fathers in the cave that is in the field of Ephron the Hittite,",
-    "30| in the cave that is in the field at Machpelah, to the east of Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite to possess as a burying place.",
-    "31| There they buried Abraham and Sarah his wife. There they buried Isaac and Rebekah his wife, and there I buried Leah-",
-    "32| the field and the cave that is in it were bought from the Hittites.\"",
-    "33| When Jacob finished commanding his sons, he drew up his feet into the bed and breathed his last and was gathered to his people.",
+    "1| Then Joseph fell on his father's face and wept over him and kissed him.",
+    "2| And Joseph commanded his servants the physicians to embalm his father. So the physicians embalmed Israel.",
+    "3| Forty days were required for it, for that is how many are required for embalming. And the Egyptians wept for him seventy days.",
+    "4| And when the days of weeping for him were past, Joseph spoke to the household of Pharaoh, saying, \"If now I have found favor in your eyes, please speak in the ears of Pharaoh, saying,",
+    "5| 'My father made me swear, saying, \"I am about to die: in my tomb that I hewed out for myself in the land of Canaan, there shall you bury me.\" Now therefore, let me please go up and bury my father. Then I will return.'\"",
+    "6| And Pharaoh answered, \"Go up, and bury your father, as he made you swear.\"",
+    "7| So Joseph went up to bury his father. With him went up all the servants of Pharaoh, the elders of his household, and all the elders of the land of Egypt,",
+    "8| as well as all the household of Joseph, his brothers, and his father's household. Only their children, their flocks, and their herds were left in the land of Goshen.",
+    "9| And there went up with him both chariots and horsemen. It was a very great company.",
+    "10| When they came to the threshing floor of Atad, which is beyond the Jordan, they lamented there with a very great and grievous lamentation, and he made a mourning for his father seven days.",
+    "11| When the inhabitants of the land, the Canaanites, saw the mourning on the threshing floor of Atad, they said, \"This is a grievous mourning by the Egyptians.\" Therefore the place was named Abel-mizraim; it is beyond the Jordan.",
+    "12| Thus his sons did for him as he had commanded them,",
+    "13| for his sons carried him to the land of Canaan and buried him in the cave of the field at Machpelah, to the east of Mamre, which Abraham bought with the field from Ephron the Hittite to possess as a burying place.",
+    "14| After he had buried his father, Joseph returned to Egypt with his brothers and all who had gone up with him to bury his father.",
+    "15| When Joseph's brothers saw that their father was dead, they said, \"It may be that Joseph will hate us and pay us back for all the evil that we did to him.\"",
+    "16| So they sent a message to Joseph, saying, \"Your father gave this command before he died:",
+    "17| 'Say to Joseph, \"Please forgive the transgression of your brothers and their sin, because they did evil to you.\"' And now, please forgive the transgression of the servants of the God of your father.\" Joseph wept when they spoke to him.",
+    "18| His brothers also came and fell down before him and said, \"Behold, we are your servants.\"",
+    "19| But Joseph said to them, \"Do not fear, for am I in the place of God?",
+    "20| As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today.",
+    "21| So do not fear; I will provide for you and your little ones.\" Thus he comforted them and spoke kindly to them.",
+    "22| So Joseph remained in Egypt, he and his father's house. Joseph lived 110 years.",
+    "23| And Joseph saw Ephraim's children of the third generation. The children also of Machir the son of Manasseh were counted as Joseph's own.",
+    "24| And Joseph said to his brothers, \"I am about to die, but God will visit you and bring you up out of this land to the land that he swore to Abraham, to Isaac, and to Jacob.\"",
+    "25| Then Joseph made the sons of Israel swear, saying, \"God will surely visit you, and you shall carry up my bones from here.\"",
+    "26| So Joseph died, being 110 years old. They embalmed him, and he was put in a coffin in Egypt.",
 ]
 let encoded = ` “ ” `
-theirs = `1Then Jacob called his sons and said, “Gather yourselves together, that I may tell you what shall happen to you in days to come.
-2“Assemble and listen, O sons of Jacob,
-listen to Israel your father.
-3“Reuben, you are my firstborn,
-my might, and the firstfruits of my strength,
-preeminent in dignity and preeminent in power.
-4Unstable as water, you shall not have preeminence,
-because you went up to your father’s bed;
-then you defiled it—he went up to my couch!
-5“Simeon and Levi are brothers;
-weapons of violence are their swords.
-6Let my soul come not into their council;
-O my glory, be not joined to their company.
-For in their anger they killed men,
-and in their willfulness they hamstrung oxen.
-7Cursed be their anger, for it is fierce,
-and their wrath, for it is cruel!
-I will divide them in Jacob
-and scatter them in Israel.
-8“Judah, your brothers shall praise you;
-your hand shall be on the neck of your enemies;
-your father’s sons shall bow down before you.
-9Judah is a lion’s cub;
-from the prey, my son, you have gone up.
-He stooped down; he crouched as a lion
-and as a lioness; who dares rouse him?
-10The scepter shall not depart from Judah,
-nor the ruler’s staff from between his feet,
-until tribute comes to him;
-and to him shall be the obedience of the peoples.
-11Binding his foal to the vine
-and his donkey’s colt to the choice vine,
-he has washed his garments in wine
-and his vesture in the blood of grapes.
-12His eyes are darker than wine,
-and his teeth whiter than milk.
-13“Zebulun shall dwell at the shore of the sea;
-he shall become a haven for ships,
-and his border shall be at Sidon.
-14“Issachar is a strong donkey,
-crouching between the sheepfolds.
-15He saw that a resting place was good,
-and that the land was pleasant,
-so he bowed his shoulder to bear,
-and became a servant at forced labor.
-16“Dan shall judge his people
-as one of the tribes of Israel.
-17Dan shall be a serpent in the way,
-a viper by the path,
-that bites the horse’s heels
-so that his rider falls backward.
-18I wait for your salvation, O Lord.
-19“Raiders shall raid Gad,
-but he shall raid at their heels.
-20“Asher’s food shall be rich,
-and he shall yield royal delicacies.
-21“Naphtali is a doe let loose
-that bears beautiful fawns.
-22“Joseph is a fruitful bough,
-a fruitful bough by a spring;
-his branches run over the wall.
-23The archers bitterly attacked him,
-shot at him, and harassed him severely,
-24yet his bow remained unmoved;
-his arms were made agile
-by the hands of the Mighty One of Jacob
-(from there is the Shepherd, the Stone of Israel),
-25by the God of your father who will help you,
-by the Almighty who will bless you
-with blessings of heaven above,
-blessings of the deep that crouches beneath,
-blessings of the breasts and of the womb.
-26The blessings of your father
-are mighty beyond the blessings of my parents,
-up to the bounties of the everlasting hills.
-May they be on the head of Joseph,
-and on the brow of him who was set apart from his brothers.
-27“Benjamin is a ravenous wolf,
-in the morning devouring the prey
-and at evening dividing the spoil.”
-28All these are the twelve tribes of Israel. This is what their father said to them as he blessed them, blessing each with the blessing suitable to him. 29Then he commanded them and said to them, “I am to be gathered to my people; bury me with my fathers in the cave that is in the field of Ephron the Hittite, 30in the cave that is in the field at Machpelah, to the east of Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite to possess as a burying place. 31There they buried Abraham and Sarah his wife. There they buried Isaac and Rebekah his wife, and there I buried Leah— 32the field and the cave that is in it were bought from the Hittites.” 33When Jacob finished commanding his sons, he drew up his feet into the bed and breathed his last and was gathered to his people.`
+theirs = `1Then Joseph fell on his father’s face and wept over him and kissed him. 2And Joseph commanded his servants the physicians to embalm his father. So the physicians embalmed Israel. 3Forty days were required for it, for that is how many are required for embalming. And the Egyptians wept for him seventy days.
+4And when the days of weeping for him were past, Joseph spoke to the household of Pharaoh, saying, “If now I have found favor in your eyes, please speak in the ears of Pharaoh, saying, 5‘My father made me swear, saying, “I am about to die: in my tomb that I hewed out for myself in the land of Canaan, there shall you bury me.” Now therefore, let me please go up and bury my father. Then I will return.’” 6And Pharaoh answered, “Go up, and bury your father, as he made you swear.” 7So Joseph went up to bury his father. With him went up all the servants of Pharaoh, the elders of his household, and all the elders of the land of Egypt, 8as well as all the household of Joseph, his brothers, and his father’s household. Only their children, their flocks, and their herds were left in the land of Goshen. 9And there went up with him both chariots and horsemen. It was a very great company. 10When they came to the threshing floor of Atad, which is beyond the Jordan, they lamented there with a very great and grievous lamentation, and he made a mourning for his father seven days. 11When the inhabitants of the land, the Canaanites, saw the mourning on the threshing floor of Atad, they said, “This is a grievous mourning by the Egyptians.” Therefore the place was named Abel-mizraim; it is beyond the Jordan. 12Thus his sons did for him as he had commanded them, 13for his sons carried him to the land of Canaan and buried him in the cave of the field at Machpelah, to the east of Mamre, which Abraham bought with the field from Ephron the Hittite to possess as a burying place. 14After he had buried his father, Joseph returned to Egypt with his brothers and all who had gone up with him to bury his father.
+15When Joseph’s brothers saw that their father was dead, they said, “It may be that Joseph will hate us and pay us back for all the evil that we did to him.” 16So they sent a message to Joseph, saying, “Your father gave this command before he died: 17‘Say to Joseph, “Please forgive the transgression of your brothers and their sin, because they did evil to you.”’ And now, please forgive the transgression of the servants of the God of your father.” Joseph wept when they spoke to him. 18His brothers also came and fell down before him and said, “Behold, we are your servants.” 19But Joseph said to them, “Do not fear, for am I in the place of God? 20As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today. 21So do not fear; I will provide for you and your little ones.” Thus he comforted them and spoke kindly to them.
+22So Joseph remained in Egypt, he and his father’s house. Joseph lived 110 years. 23And Joseph saw Ephraim’s children of the third generation. The children also of Machir the son of Manasseh were counted as Joseph’s own. 24And Joseph said to his brothers, “I am about to die, but God will visit you and bring you up out of this land to the land that he swore to Abraham, to Isaac, and to Jacob.” 25Then Joseph made the sons of Israel swear, saying, “God will surely visit you, and you shall carry up my bones from here.” 26So Joseph died, being 110 years old. They embalmed him, and he was put in a coffin in Egypt.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
