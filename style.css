@@ -5,17 +5,22 @@
     margin-top: 20px;
     padding-bottom: 65px;
 }
+#root-typed {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    padding-bottom: 65px;
+    position:absolute;
+    background-color:transparent;
+    z-index: 3;
+}
 #root-write {
     border: 1px solid gray;
     border-radius: 5px;
     padding: 20px;
     padding-bottom: 65px;
-    resize:none;
-    background-color:transparent;
     position:absolute;
-    font-size:16px;
-    line-height:18px;
-    font-family: 'Times New Roman', Times, serif;
+    background-color:transparent;
 }
 
 .bg-light {

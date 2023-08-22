@@ -3793,6 +3793,7 @@ let data = [
     }
 ]
 let root = document.getElementById("root")
+let rootTyped = document.getElementById("root-typed")
 let rootwrite = document.getElementById("root-write")
 let body = document.getElementById("body")
 let dark = document.getElementById("dark")
@@ -3807,7 +3808,9 @@ let left = document.getElementById("left")
 let right = document.getElementById("right")
 let up = document.getElementById("up")
 let current = data[data.length - 1];
-
+let typed = []
+let currentTyping = ""
+let mode = false
 function retrieveSettings() {
     let lang = localStorage.getItem('language')
     lang ? setLanguage(lang) : setLanguage('krv')
@@ -3874,15 +3877,15 @@ function setLanguage(lang) {
     root.innerHTML = ""
     switch (lang) {
         case 'both':
-            root.innerHTML += `<h3 class="text-tags">${current.kbook} ${current.chapter}:${current.start}-${current.end}</h3>`
-            root.innerHTML += `<h3 class="text-tags">${current.book} ${current.chapter}:${current.start}-${current.end}</h3>`
+            root.innerHTML += `<p class="text-tags">${current.kbook} ${current.chapter}:${current.start}-${current.end}</p>`
+            root.innerHTML += `<p class="text-tags">${current.book} ${current.chapter}:${current.start}-${current.end}</p>`
             for (let i = 0; i < current.krv.length; i++) {
                 root.innerHTML += `<p class="text-tags">${current.krv[i]}</p>`
                 root.innerHTML += `<p class="text-tags">${current.esv[i]}</p>`
             }
             break
         default:
-            root.innerHTML += `<h3 class="text-tags">${lang === 'krv' ? current.kbook : current.book} ${current.chapter}:${current.start}-${current.end}</h3>`
+            root.innerHTML += `<p class="text-tags">${lang === 'krv' ? current.kbook : current.book} ${current.chapter}:${current.start}-${current.end}</p>`
             for (let verse of current[lang]) {
                 root.innerHTML += `<p class="text-tags">${verse}</p>`
             }
@@ -3890,27 +3893,85 @@ function setLanguage(lang) {
     localStorage.getItem('mode') === 'dark' ? colorMode('dark') : colorMode('light')
 }
 
-function grayScale(){
-    for (let tag of textTags) {
-        tag.classList.add('gray')
-        tag.classList.remove('dark')
-        tag.classList.remove('light')
+function readWriteMode() {
+    if (mode) {
+        for (let tag of textTags) {
+            tag.classList.add('gray')
+            tag.classList.remove('dark')
+            tag.classList.remove('light')
+        }
+        var position = root.getBoundingClientRect();
+        var computed = getComputedStyle(root);
+        rootTyped.style.top = position.top + 'px';
+        rootTyped.style.left = position.left + 'px';
+        rootTyped.style.width = computed.width
+        rootTyped.style.height = computed.height
+        rootwrite.style.top = position.top + 'px';
+        rootwrite.style.left = position.left + 'px';
+        rootwrite.style.width = computed.width
+        rootwrite.style.height = computed.height
+        rootwrite.classList.add('dark')
+        rootTyped.classList.remove("hidden")
+        rootwrite.classList.remove("hidden")
+    } else {
+        for (let tag of textTags) {
+            tag.classList.add('gray')
+            tag.classList.remove('dark')
+            tag.classList.remove('light')
+        }
+        var position = root.getBoundingClientRect();
+        var computed = getComputedStyle(root);
+        rootTyped.style.top = position.top + 'px';
+        rootTyped.style.left = position.left + 'px';
+        rootTyped.style.width = computed.width
+        rootTyped.style.height = computed.height
+        rootwrite.style.top = position.top + 'px';
+        rootwrite.style.left = position.left + 'px';
+        rootwrite.style.width = computed.width
+        rootwrite.style.height = computed.height
+        rootwrite.classList.add('dark')
+        rootTyped.classList.add("hidden")
+        rootwrite.classList.add("hidden")
     }
-    var position = root.getBoundingClientRect();
-    rootwrite.style.position = 'absolute';
-    rootwrite.style.top = position.top + 'px';
-    rootwrite.style.left = position.left + 'px';
-    rootwrite.style.width = root.clientWidth + 'px'
-    rootwrite.style.height = root.clientHeight + 'px'
-    console.log(root.style.width)
-    rootwrite.classList.add('dark')
-    rootwrite.innerHTML += "\n"
+    mode = !mode
+    
 }
-function spellCheck(){
+function spellCheck() {
     console.log("happening")
-    if(rootwrite.innerText[0] !== "e"){
+    if (rootwrite.innerText[0] !== "e") {
         rootwrite.innerHTML += `<span class="red">${rootwrite.innerText[0]}</span>`
     }
+}
+function typing(event) {
+    let lang = localStorage.getItem('language')
+    if(lang == "both"){
+
+    }
+    if (event.keyCode == 13) {
+        typed.push(currentTyping)
+        currentTyping = ""
+    } else if (event.keyCode == 8) {
+        if (currentTyping.length) {
+            currentTyping = currentTyping.substring(0,currentTyping.length - 1)
+        } else {
+            if (typed.length) {
+                currentTyping = typed[typed.length - 1]
+                typed.pop()
+            } else {
+                currentTyping = ""
+            }
+        }
+    } else {
+        currentTyping = event.target.value
+    }
+    let innerHTML = ""
+    for (let line of typed) {
+        if (line.length) innerHTML += `<p class="text-tags dark">${line}</p>`
+    }
+    console.log(currentTyping)
+    if (currentTyping.length) innerHTML += `<p class="text-tags dark">${currentTyping}</p>`
+    rootwrite.innerHTML = innerHTML
+    return currentTyping
 }
 
 light.addEventListener("click", function () {
@@ -3929,10 +3990,10 @@ both.addEventListener("click", function () {
     setLanguage('both')
 })
 ReadWrite.addEventListener("click", function () {
-    grayScale()
+    readWriteMode()
 })
-rootwrite.addEventListener("onkeyup", function(event) {
-    
+rootTyped.addEventListener("keyup", function (event) {
+    event.target.value = typing(event)
 })
 left.addEventListener("click", function () {
     updateDay('left')
