@@ -3790,6 +3790,68 @@ let data = [
         "chapter": 1,
         "start": 1,
         "end": 22
+    },
+    {
+        "esv": [
+            "1| Now a man from the house of Levi went and took as his wife a Levite woman.",
+            "2| The woman conceived and bore a son, and when she saw that he was a fine child, she hid him three months.",
+            "3| When she could hide him no longer, she took for him a basket made of bulrushes and daubed it with bitumen and pitch. She put the child in it and placed it among the reeds by the river bank.",
+            "4| And his sister stood at a distance to know what would be done to him.",
+            "5| Now the daughter of Pharaoh came down to bathe at the river, while her young women walked beside the river. She saw the basket among the reeds and sent her servant woman, and she took it.",
+            "6| When she opened it, she saw the child, and behold, the baby was crying. She took pity on him and said, \"This is one of the Hebrews' children.\"",
+            "7| Then his sister said to Pharaoh's daughter, \"Shall I go and call you a nurse from the Hebrew women to nurse the child for you?\"",
+            "8| And Pharaoh's daughter said to her, \"Go.\" So the girl went and called the child's mother.",
+            "9| And Pharaoh's daughter said to her, \"Take this child away and nurse him for me, and I will give you your wages.\" So the woman took the child and nursed him.",
+            "10| When the child grew older, she brought him to Pharaoh's daughter, and he became her son. She named him Moses, \"Because,\" she said, \"I drew him out of the water.\"",
+            "11| One day, when Moses had grown up, he went out to his people and looked on their burdens, and he saw an Egyptian beating a Hebrew, one of his people.",
+            "12| He looked this way and that, and seeing no one, he struck down the Egyptian and hid him in the sand.",
+            "13| When he went out the next day, behold, two Hebrews were struggling together. And he said to the man in the wrong, \"Why do you strike your companion?\"",
+            "14| He answered, \"Who made you a prince and a judge over us? Do you mean to kill me as you killed the Egyptian?\" Then Moses was afraid, and thought, \"Surely the thing is known.\"",
+            "15| When Pharaoh heard of it, he sought to kill Moses. But Moses fled from Pharaoh and stayed in the land of Midian. And he sat down by a well.",
+            "16| Now the priest of Midian had seven daughters, and they came and drew water and filled the troughs to water their father's flock.",
+            "17| The shepherds came and drove them away, but Moses stood up and saved them, and watered their flock.",
+            "18| When they came home to their father Reuel, he said, \"How is it that you have come home so soon today?\"",
+            "19| They said, \"An Egyptian delivered us out of the hand of the shepherds and even drew water for us and watered the flock.\"",
+            "20| He said to his daughters, \"Then where is he? Why have you left the man? Call him, that he may eat bread.\"",
+            "21| And Moses was content to dwell with the man, and he gave Moses his daughter Zipporah.",
+            "22| She gave birth to a son, and he called his name Gershom, for he said, \"I have been a sojourner in a foreign land.\"",
+            "23| During those many days the king of Egypt died, and the people of Israel groaned because of their slavery and cried out for help. Their cry for rescue from slavery came up to God.",
+            "24| And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.",
+            "25| God saw the people of Israel-and God knew.",
+        ],
+        "krv": [
+            "1| 레위 족속중 한 사람이 가서 레위 여자에게 장가 들었더니",
+            "2| 그 여자가 잉태하여 아들을 낳아 그 준수함을 보고 그를 석달을 숨겼더니",
+            "3| 더 숨길 수 없이 되매 그를 위하여 갈 상자를 가져다가 역청과 나무 진을 칠하고 아이를 거기 담아 하숫가 갈대 사이에 두고",
+            "4| 그 누이가 어떻게 되는 것을 알려고 멀리 섰더니",
+            "5| 바로의 딸이 목욕하러 하수로 내려오고 시녀들은 하숫가에 거닐 때에 그가 갈대 사이의 상자를 보고 시녀를 보내어 가져다가",
+            "6| 열고 그 아이를 보니 아이가 우는지라 그가 불쌍히 여겨 가로되 이는 히브리 사람의 아이로다",
+            "7| 그 누이가 바로의 딸에게 이르되 내가 가서 히브리 여인 중에서 유모를 불러다가 당신을 위하여 이 아이를 젖 먹이게 하리이까",
+            "8| 바로의 딸이 그에게 이르되 가라 그 소녀가 가서 아이의 어미를 불러오니",
+            "9| 바로의 딸이 그에게 이르되 이 아이를 데려다가 나를 위하여 젖을 먹이라 내가 그 삯을 주리라 여인이 아이를 데려다가 젖을 먹이더니",
+            "10| 그 아이가 자라매 바로의 딸에게로 데려가니 그의 아들이 되니라 그가 그 이름을 모세라 하여 가로되 이는 내가 그를 물에서 건져 내었음이라 하였더라",
+            "11| 모세가 장성한 후에 한번은 자기 형제들에게 나가서 그 고역함을 보더니 어떤 애굽 사람이 어떤 히브리 사람 곧 자기 형제를 치는 것을 본지라",
+            "12| 좌우로 살펴 사람이 없음을 보고 그 애굽 사람을 쳐죽여 모래에 감추니라",
+            "13| 이튿날 다시 나가니 두 히브리 사람이 서로 싸우는지라 그 그른 자에게 이르되 네가 어찌하여 동포를 치느냐 하매",
+            "14| 그가 가로되 누가 너로 우리의 주재와 법관을 삼았느냐 네가 애굽 사람을 죽임 같이 나도 죽이려느냐 모세가 두려워하여 가로되 일이 탄로되었도다",
+            "15| 바로가 이 일을 듣고 모세를 죽이고자 하여 찾은지라 모세가 바로의 낯을 피하여 미디안 땅에 머물며 하루는 우물 곁에 앉았더라",
+            "16| 미디안 제사장에게 일곱 딸이 있더니 그들이 와서 물을 길어 구유에 채우고 그 아비의 양무리에게 먹이려 하는데",
+            "17| 목자들이 와서 그들을 쫓는지라 모세가 일어나 그들을 도와 그 양무리에게 먹이니라",
+            "18| 그들이 그 아비 르우엘에게 이를 때에 아비가 가로되 너희가 오늘은 어찌하여 이같이 속히 돌아오느냐",
+            "19| 그들이 가로되 한 애굽 사람이 우리를 목자들의 손에서 건져내고 우리를 위하여 물을 길어 양무리에게 먹였나이다",
+            "20| 아비가 딸들에게 이르되 그 사람이 어디 있느냐 너희가 어찌하여 그 사람을 버리고 왔느냐 그를 청하여 음식으로 대접하라 하였더라",
+            "21| 모세가 그와 동거하기를 기뻐하매 그가 그 딸 십보라를 모세에게 주었더니",
+            "22| 그가 아들을 낳으매 모세가 그 이름을 게르솜이라 하여 가로되 내가 타국에서 객이 되었음이라 하였더라",
+            "23| 여러 해 후에 애굽 왕은 죽었고 이스라엘 자손은 고역으로 인하여 탄식하며 부르짖으니 그 고역으로 인하여 부르짖는 소리가 하나님께 상달한지라",
+            "24| 하나님이 그 고통 소리를 들으시고 아브라함과 이삭과 야곱에게 세운 그 언약을 기억하사",
+            "25| 이스라엘 자손을 권념하셨더라",
+        ],
+        "date": "2023-08-22T08:00:00.000Z",
+        "book": "Exodus",
+        "kbook": "출애굽기",
+        "chapter": 2,
+        "start": 1,
+        "end": 22
     }
 ]
 let root = document.getElementById("root")
@@ -3894,57 +3956,50 @@ function setLanguage(lang) {
 }
 
 function readWriteMode() {
+    mode = !mode
+    let position = root.getBoundingClientRect();
+    let computed = getComputedStyle(root);
+    rootTyped.style.top = position.top + 'px';
+    rootTyped.style.left = position.left + 'px';
+    rootTyped.style.width = computed.width
+    rootTyped.style.height = computed.height
+    rootwrite.style.top = position.top + 'px';
+    rootwrite.style.left = position.left + 'px';
+    rootwrite.style.width = computed.width
+    rootwrite.style.height = computed.height
+
     if (mode) {
         for (let tag of textTags) {
             tag.classList.add('gray')
             tag.classList.remove('dark')
             tag.classList.remove('light')
         }
-        var position = root.getBoundingClientRect();
-        var computed = getComputedStyle(root);
-        rootTyped.style.top = position.top + 'px';
-        rootTyped.style.left = position.left + 'px';
-        rootTyped.style.width = computed.width
-        rootTyped.style.height = computed.height
-        rootwrite.style.top = position.top + 'px';
-        rootwrite.style.left = position.left + 'px';
-        rootwrite.style.width = computed.width
-        rootwrite.style.height = computed.height
-        rootwrite.classList.add('dark')
         rootTyped.classList.remove("hidden")
         rootwrite.classList.remove("hidden")
     } else {
+        let colorMode = localStorage.getItem('mode')
         for (let tag of textTags) {
-            tag.classList.add('gray')
-            tag.classList.remove('dark')
-            tag.classList.remove('light')
+            tag.classList.add(colorMode)
+            tag.classList.remove('gray')
         }
-        var position = root.getBoundingClientRect();
-        var computed = getComputedStyle(root);
-        rootTyped.style.top = position.top + 'px';
-        rootTyped.style.left = position.left + 'px';
-        rootTyped.style.width = computed.width
-        rootTyped.style.height = computed.height
-        rootwrite.style.top = position.top + 'px';
-        rootwrite.style.left = position.left + 'px';
-        rootwrite.style.width = computed.width
-        rootwrite.style.height = computed.height
-        rootwrite.classList.add('dark')
         rootTyped.classList.add("hidden")
         rootwrite.classList.add("hidden")
     }
-    mode = !mode
     
+
 }
 function spellCheck() {
-    console.log("happening")
     if (rootwrite.innerText[0] !== "e") {
         rootwrite.innerHTML += `<span class="red">${rootwrite.innerText[0]}</span>`
     }
 }
 function typing(event) {
     let lang = localStorage.getItem('language')
-    if(lang == "both"){
+    if (lang == "both") {
+
+    } else if (lang == "esv") {
+
+    } else {
 
     }
     if (event.keyCode == 13) {
@@ -3952,7 +4007,7 @@ function typing(event) {
         currentTyping = ""
     } else if (event.keyCode == 8) {
         if (currentTyping.length) {
-            currentTyping = currentTyping.substring(0,currentTyping.length - 1)
+            currentTyping = currentTyping.substring(0, currentTyping.length - 1)
         } else {
             if (typed.length) {
                 currentTyping = typed[typed.length - 1]
@@ -3968,7 +4023,6 @@ function typing(event) {
     for (let line of typed) {
         if (line.length) innerHTML += `<p class="text-tags dark">${line}</p>`
     }
-    console.log(currentTyping)
     if (currentTyping.length) innerHTML += `<p class="text-tags dark">${currentTyping}</p>`
     rootwrite.innerHTML = innerHTML
     return currentTyping
