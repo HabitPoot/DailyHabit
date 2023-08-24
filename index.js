@@ -3852,6 +3852,62 @@ let data = [
         "chapter": 2,
         "start": 1,
         "end": 22
+    },
+    {
+        "esv": [
+            "1| Now Moses was keeping the flock of his father-in-law, Jethro, the priest of Midian, and he led his flock to the west side of the wilderness and came to Horeb, the mountain of God.",
+            "2| And the angel of the Lord appeared to him in a flame of fire out of the midst of a bush. He looked, and behold, the bush was burning, yet it was not consumed.",
+            "3| And Moses said, \"I will turn aside to see this great sight, why the bush is not burned.\"",
+            "4| When the Lord saw that he turned aside to see, God called to him out of the bush, \"Moses, Moses!\" And he said, \"Here I am.\"",
+            "5| Then he said, \"Do not come near; take your sandals off your feet, for the place on which you are standing is holy ground.\"",
+            "6| And he said, \"I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.\" And Moses hid his face, for he was afraid to look at God.",
+            "7| Then the Lord said, \"I have surely seen the affliction of my people who are in Egypt and have heard their cry because of their taskmasters. I know their sufferings,",
+            "8| and I have come down to deliver them out of the hand of the Egyptians and to bring them up out of that land to a good and broad land, a land flowing with milk and honey, to the place of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites.",
+            "9| And now, behold, the cry of the people of Israel has come to me, and I have also seen the oppression with which the Egyptians oppress them.",
+            "10| Come, I will send you to Pharaoh that you may bring my people, the children of Israel, out of Egypt.\"",
+            "11| But Moses said to God, \"Who am I that I should go to Pharaoh and bring the children of Israel out of Egypt?\"",
+            "12| He said, \"But I will be with you, and this shall be the sign for you, that I have sent you: when you have brought the people out of Egypt, you shall serve God on this mountain.\"",
+            "13| Then Moses said to God, \"If I come to the people of Israel and say to them, 'The God of your fathers has sent me to you,' and they ask me, 'What is his name?' what shall I say to them?\"",
+            "14| God said to Moses, \"I am who I am.\" And he said, \"Say this to the people of Israel: 'I am has sent me to you.'\"",
+            "15| God also said to Moses, \"Say this to the people of Israel: 'The Lord, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.' This is my name forever, and thus I am to be remembered throughout all generations.",
+            "16| Go and gather the elders of Israel together and say to them, 'The Lord, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying, \"I have observed you and what has been done to you in Egypt,",
+            "17| and I promise that I will bring you up out of the affliction of Egypt to the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites, a land flowing with milk and honey.\"'",
+            "18| And they will listen to your voice, and you and the elders of Israel shall go to the king of Egypt and say to him, 'The Lord, the God of the Hebrews, has met with us; and now, please let us go a three days' journey into the wilderness, that we may sacrifice to the Lord our God.'",
+            "19| But I know that the king of Egypt will not let you go unless compelled by a mighty hand.",
+            "20| So I will stretch out my hand and strike Egypt with all the wonders that I will do in it; after that he will let you go.",
+            "21| And I will give this people favor in the sight of the Egyptians; and when you go, you shall not go empty,",
+            "22| but each woman shall ask of her neighbor, and any woman who lives in her house, for silver and gold jewelry, and for clothing. You shall put them on your sons and on your daughters. So you shall plunder the Egyptians.\"",
+        ],
+        "krv": [
+            "1| 모세가 그 장인 미디안 제사장 이드로의 양무리를 치더니 그 무리를 광야 서편으로 인도하여 하나님의 산 호렙에 이르매",
+            "2| 여호와의 사자가 떨기나무 불꽃 가운데서 그에게 나타나시니라 그가 보니 떨기나무에 불이 붙었으나 사라지지 아니하는지라",
+            "3| 이에 가로되 내가 돌이켜 가서 이 큰 광경을 보리라 떨기나무가 어찌하여 타지 아니하는고 하는 동시에",
+            "4| 여호와께서 그가 보려고 돌이켜 오는 것을 보신지라 하나님이 떨기나무 가운데서 그를 불러 가라사대 모세야 모세야 하시매 그가 가로되 내가 여기 있나이다",
+            "5| 하나님이 가라사대 이리로 가까이 하지 말라 너의 선 곳은 거룩한 땅이니 네 발에서 신을 벗으라",
+            "6| 또 이르시되 나는 네 조상의 하나님이니 아브라함의 하나님, 이삭의 하나님, 야곱의 하나님이니라 모세가 하나님 뵈옵기를 두려워하여 얼굴을 가리우매",
+            "7| 여호와께서 가라사대 내가 애굽에 있는 내 백성의 고통을 정녕히 보고 그들이 그 간역자로 인하여 부르짖음을 듣고 그 우고를 알고",
+            "8| 내가 내려와서 그들을 애굽인의 손에서 건져내고 그들을 그 땅에서 인도하여 아름답고 광대한 땅, 젖과 꿀이 흐르는 땅 곧 가나안 족속, 헷 족속, 아모리 족속, 브리스 족속, 히위 족속, 여부스 족속의 지방에 이르려 하노라",
+            "9| 이제 이스라엘 자손의 부르짖음이 내게 달하고 애굽 사람이 그들을 괴롭게 하는 학대도 내가 보았으니",
+            "10| 이제 내가 너를 바로에게 보내어 너로 내 백성 이스라엘 자손을 애굽에서 인도하여 내게 하리라",
+            "11| 모세가 하나님께 고하되 내가 누구관대 바로에게 가며 이스라엘 자손을 애굽에서 인도하여 내리이까",
+            "12| 하나님이 가라사대 내가 정녕 너와 함께 있으리라 네가 백성을 애굽에서 인도하여 낸 후에 너희가 이 산에서 하나님을 섬기리니 이것이 내가 너를 보낸 증거니라",
+            "13| 모세가 하나님께 고하되 내가 이스라엘 자손에게 가서 이르기를 너희 조상의 하나님이 나를 너희에게 보내셨다 하면 그들이 내게 묻기를 그의 이름이 무엇이냐 하리니 내가 무엇이라고 그들에게 말하리이까",
+            "14| 하나님이 모세에게 이르시되 나는 스스로 있는 자니라 또 이르시되 너는 이스라엘 자손에게 이같이 이르기를 스스로 있는 자가 나를 너희에게 보내셨다 하라",
+            "15| 하나님이 또 모세에게 이르시되 너는 이스라엘 자손에게 이같이 이르기를 나를 너희에게 보내신 이는 너희 조상의 하나님 곧 아브라함의 하나님, 이삭의 하나님, 야곱의 하나님 여호와라 하라 이는 나의 영원한 이름이요 대대로 기억할 나의 표호니라",
+            "16| 너는 가서 이스라엘 장로들을 모으고 그들에게 이르기를 여호와 너희 조상의 하나님 곧 아브라함과 이삭과 야곱의 하나님이 내게 나타나 이르시되 내가 실로 너희를 권고하여 너희가 애굽에서 당한 일을 보았노라",
+            "17| 내가 말하였거니와 내가 너희를 애굽의 고난 중에서 인도하여 내어 젖과 꿀이 흐르는 땅 곧 가나안 족속, 헷 족속, 아모리 족속, 브리스 족속, 히위 족속, 여부스 족속의 땅으로 올라가게 하리라 하셨다 하면",
+            "18| 그들이 네 말을 들으리니 너는 그들의 장로들과 함께 애굽 왕에게 이르기를 히브리 사람의 하나님 여호와께서 우리에게 임하셨은즉 우리가 우리 하나님 여호와께 희생을 드리려 하오니 사흘길쯤 광야로 가기를 허락하소서 하라",
+            "19| 내가 아노니 강한 손으로 치기 전에는 애굽 왕이 너희의 가기를 허락지 아니하다가",
+            "20| 내가 내 손을 들어 애굽 중에 여러가지 이적으로 그 나라를 친 후에야 그가 너희를 보내리라",
+            "21| 내가 애굽 사람으로 이 백성에게 은혜를 입히게 할찌라 너희가 갈 때에 빈손으로 가지 아니하리니",
+            "22| 여인마다 그 이웃 사람과 및 자기 집에 우거하는 자에게 은 패물과 금 패물과 의복을 구하여 너희 자녀를 꾸미라 너희가 애굽 사람의 물품을 취하리라",
+        ],
+        "date": "2023-08-23T08:00:00.000Z",
+        "book": "Exodus",
+        "kbook": "출애굽기",
+        "chapter": 3,
+        "start": 1,
+        "end": 22
     }
 ]
 let root = document.getElementById("root")
@@ -3995,11 +4051,14 @@ function spellCheck() {
 }
 function typing(event) {
     let lang = localStorage.getItem('language')
+    let startFinder = "| "
     if (lang == "both") {
-
+        
     } else if (lang == "esv") {
+        let compareAgainst = typed.length ? current.esv[typed.length] : current[0]
 
     } else {
+        let compareAgainst = typed.length ? current.krv[typed.length] : current[0]
 
     }
     if (event.keyCode == 13) {
