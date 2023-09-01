@@ -4264,6 +4264,38 @@ let data = [
         "chapter": 10,
         "start": 1,
         "end": 29
+    },
+    {
+        "esv": [
+            "1| The Lord said to Moses, \"Yet one plague more I will bring upon Pharaoh and upon Egypt. Afterward he will let you go from here. When he lets you go, he will drive you away completely.",
+            "2| Speak now in the hearing of the people, that they ask, every man of his neighbor and every woman of her neighbor, for silver and gold jewelry.\"",
+            "3| And the Lord gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh's servants and in the sight of the people.",
+            "4| So Moses said, \"Thus says the Lord: 'About midnight I will go out in the midst of Egypt,",
+            "5| and every firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the slave girl who is behind the handmill, and all the firstborn of the cattle.",
+            "6| There shall be a great cry throughout all the land of Egypt, such as there has never been, nor ever will be again.",
+            "7| But not a dog shall growl against any of the people of Israel, either man or beast, that you may know that the Lord makes a distinction between Egypt and Israel.'",
+            "8| And all these your servants shall come down to me and bow down to me, saying, 'Get out, you and all the people who follow you.' And after that I will go out.\" And he went out from Pharaoh in hot anger.",
+            "9| Then the Lord said to Moses, \"Pharaoh will not listen to you, that my wonders may be multiplied in the land of Egypt.\"",
+            "10| Moses and Aaron did all these wonders before Pharaoh, and the Lord hardened Pharaoh's heart, and he did not let the people of Israel go out of his land.",
+        ],
+        "krv": [
+            "1| 여호와께서 모세에게 이르시기를 내가 이제 한가지 재앙을 바로와 애굽에 내린 후에야 그가 너희를 여기서 보낼찌라 그가 너희를 보낼 때에는 여기서 정녕 다 쫓아 내리니",
+            "2| 백성에게 말하여 남녀로 각기 이웃들에게 은, 금패물을 구하게 하라 하시더니",
+            "3| 여호와께서 그 백성으로 애굽 사람의 은혜를 받게 하셨고 또 그 사람 모세는 애굽국에서 바로의 신하와 백성에게 심히 크게 뵈었더라",
+            "4| 모세가 바로에게 이르되 여호와께서 이같이 말씀하시기를 밤중에 내가 애굽 가운데로 들어가리니",
+            "5| 애굽 가운데 처음 난 것은 위에 앉은 바로의 장자로부터 맷돌 뒤에 있는 여종의 장자까지와 모든 생축의 처음 난 것이 죽을찌라",
+            "6| 애굽 전국에 전무후무한 큰 곡성이 있으리라",
+            "7| 그러나 이스라엘 자손에게는 사람에게나 짐승에게나 개도 그 혀를 움직이지 않으리니 여호와가 애굽 사람과 이스라엘 사이에 구별하는 줄을 너희가 알리라 하셨나니",
+            "8| 왕의 이 모든 신하가 내게 내려와서 내게 절하며 이르기를 너와 너를 좇는 온 백성은 나가라 한 후에야 내가 나가리라 하고 심히 노하여 바로에게서 나오니라",
+            "9| 여호와께서 모세에게 이르시기를 바로가 너희를 듣지 아니할찌라 그러므로 내가 애굽 땅에서 나의 기사를 더하리라 하셨고",
+            "10| 모세와 아론이 이 모든 기사를 바로 앞에서 행하였으나 여호와께서 바로의 마음을 강퍅케 하셨으므로 그가 이스라엘 자손을 그 나라에서 보내지 아니하였더라",
+        ],
+        "date": "2023-08-31T08:00:00.000Z",
+        "book": "Exodus",
+        "kbook": "출애굽기",
+        "chapter": 11,
+        "start": 1,
+        "end": 10
     }
 ]
 let root = document.getElementById("root")
