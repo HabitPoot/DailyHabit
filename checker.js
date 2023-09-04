@@ -1,45 +1,37 @@
 mine = [
-    "1| Then the Lord said to Moses,",
-    "2| \"Tell the people of Israel to turn back and encamp in front of Pi-hahiroth, between Migdol and the sea, in front of Baal-zephon; you shall encamp facing it, by the sea.",
-    "3| For Pharaoh will say of the people of Israel, 'They are wandering in the land; the wilderness has shut them in.'",
-    "4| And I will harden Pharaoh's heart, and he will pursue them, and I will get glory over Pharaoh and all his host, and the Egyptians shall know that I am the Lord.\" And they did so.",
-    "5| When the king of Egypt was told that the people had fled, the mind of Pharaoh and his servants was changed toward the people, and they said, \"What is this we have done, that we have let Israel go from serving us?\"",
-    "6| So he made ready his chariot and took his army with him,",
-    "7| and took six hundred chosen chariots and all the other chariots of Egypt with officers over all of them.",
-    "8| And the Lord hardened the heart of Pharaoh king of Egypt, and he pursued the people of Israel while the people of Israel were going out defiantly.",
-    "9| The Egyptians pursued them, all Pharaoh's horses and chariots and his horsemen and his army, and overtook them encamped at the sea, by Pi-hahiroth, in front of Baal-zephon.",
-    "10| When Pharaoh drew near, the people of Israel lifted up their eyes, and behold, the Egyptians were marching after them, and they feared greatly. And the people of Israel cried out to the Lord.",
-    "11| They said to Moses, \"Is it because there are no graves in Egypt that you have taken us away to die in the wilderness? What have you done to us in bringing us out of Egypt?",
-    "12| Is not this what we said to you in Egypt: 'Leave us alone that we may serve the Egyptians'? For it would have been better for us to serve the Egyptians than to die in the wilderness.\"",
-    "13| And Moses said to the people, \"Fear not, stand firm, and see the salvation of the Lord, which he will work for you today. For the Egyptians whom you see today, you shall never see again.",
-    "14| The Lord will fight for you, and you have only to be silent.\"",
-    "15| The Lord said to Moses, \"Why do you cry to me? Tell the people of Israel to go forward.",
-    "16| Lift up your staff, and stretch out your hand over the sea and divide it, that the people of Israel may go through the sea on dry ground.",
-    "17| And I will harden the hearts of the Egyptians so that they shall go in after them, and I will get glory over Pharaoh and all his host, his chariots, and his horsemen.",
-    "18| And the Egyptians shall know that I am the Lord, when I have gotten glory over Pharaoh, his chariots, and his horsemen.\"",
-    "19| Then the angel of God who was going before the host of Israel moved and went behind them, and the pillar of cloud moved from before them and stood behind them,",
-    "20| coming between the host of Egypt and the host of Israel. And there was the cloud and the darkness. And it lit up the night without one coming near the other all night.",
-    "21| Then Moses stretched out his hand over the sea, and the Lord drove the sea back by a strong east wind all night and made the sea dry land, and the waters were divided.",
-    "22| And the people of Israel went into the midst of the sea on dry ground, the waters being a wall to them on their right hand and on their left.",
-    "23| The Egyptians pursued and went in after them into the midst of the sea, all Pharaoh's horses, his chariots, and his horsemen.",
-    "24| And in the morning watch the Lord in the pillar of fire and of cloud looked down on the Egyptian forces and threw the Egyptian forces into a panic,",
-    "25| clogging their chariot wheels so that they drove heavily. And the Egyptians said, \"Let us flee from before Israel, for the Lord fights for them against the Egyptians.\"",
-    "26| Then the Lord said to Moses, \"Stretch out your hand over the sea, that the water may come back upon the Egyptians, upon their chariots, and upon their horsemen.\"",
-    "27| So Moses stretched out his hand over the sea, and the sea returned to its normal course when the morning appeared. And as the Egyptians fled into it, the Lord threw the Egyptians into the midst of the sea.",
-    "28| The waters returned and covered the chariots and the horsemen; of all the host of Pharaoh that had followed them into the sea, not one of them remained.",
-    "29| But the people of Israel walked on dry ground through the sea, the waters being a wall to them on their right hand and on their left.",
-    "30| Thus the Lord saved Israel that day from the hand of the Egyptians, and Israel saw the Egyptians dead on the seashore.",
-    "31| Israel saw the great power that the Lord used against the Egyptians, so the people feared the Lord, and they believed in the Lord and in his servant Moses.",
+    "1| 이 때에 모세와 이스라엘 자손이 이 노래로 여호와께 노래하니 일렀으되 내가 여호와를 찬송하리니 그는 높고 영화로우심이요 말과 그 탄 자를 바다에 던지셨음이로다",
+    "2| 여호와는 나의 힘이요 노래시며 나의 구원이시로다 그는 나의 하나님이시니 내가 그를 찬송할 것이요 내 아비의 하나님이시니 내가 그를 높이리로다",
+    "3| 여호와는 용사시니 여호와는 그의 이름이시로다",
+    "4| 그가 바로의 병거와 그 군대를 바다에 던지시니 그 택한 장관이 홍해에 잠겼고",
+    "5| 큰 물이 그들을 덮으니 그들이 돌처럼 깊음에 내렸도다",
+    "6| 여호와여 주의 오른손이 권능으로 영광을 나타내시니이다 여호와여 주의 오른손이 원수를 부수시니이다",
+    "7| 주께서 주의 큰 위엄으로 주를 거스리는 자를 엎으시니이다 주께서 진노를 발하시니 그 진노가 그들을 초개 같이 사르니이다",
+    "8| 주의 콧김에 물이 쌓이되 파도가 언덕 같이 일어서고 큰 물이 바다 가운데 엉기니이다",
+    "9| 대적의 말이 내가 쫓아 미쳐 탈취물을 나누리라, 내가 그들로 인하여 내 마음을 채우리라, 내가 내 칼을 빼리니 내 손이 그들을 멸하리라 하였으나",
+    "10| 주께서 주의 바람을 일으키시매 바다가 그들을 덮으니 그들이 흉용한 물에 납 같이 잠겼나이다",
+    "11| 여호와여 신 중에 주와 같은 자 누구니이까 주와 같이 거룩함에 영광스러우며 찬송할만한 위엄이 있으며 기이한 일을 행하는 자 누구니이까",
+    "12| 주께서 오른손을 드신즉 땅이 그들을 삼켰나이다",
+    "13| 주께서 그 구속하신 백성을 은혜로 인도하시되 주의 힘으로 그들을 주의 성결한 처소에 들어가게 하시나이다",
+    "14| 열방이 듣고 떨며 블레셋 거민이 두려움에 잡히며",
+    "15| 에돔 방백이 놀라고 모압 영웅이 떨림에 잡히며 가나안 거민이 다 낙담하나이다",
+    "16| 놀람과 두려움이 그들에게 미치매 주의 팔이 큼을 인하여 그들이 돌 같이 고요하였사오되 여호와여 주의 백성이 통과하기까지 곧 주의 사신 백성이 통과하기까지였나이다",
+    "17| 주께서 백성을 인도하사 그들을 주의 기업의 산에 심으시리이다 여호와여 이는 주의 처소를 삼으시려고 예비하신 것이라 주여 이것이 주의 손으로 세우신 성소로소이다",
+    "18| 여호와의 다스리심이 영원무궁하시도다 하였더라",
+    "19| 바로의 말과 병거와 마병이 함께 바다에 들어가매 여호와께서 바닷물로 그들 위에 돌이켜 흐르게 하셨으나 이스라엘 자손은 바다 가운데서 육지로 행한지라",
+    "20| 아론의 누이 선지자 미리암이 손에 소고를 잡으매 모든 여인도 그를 따라 나오며 소고를 잡고 춤추니",
+    "21| 미리암이 그들에게 화답하여 가로되 너희는 여호와를 찬송하라 그는 높고 영화로우심이요 말과 그 탄 자를 바다에 던지셨음이로다 하였더라",
+    "22| 모세가 홍해에서 이스라엘을 인도하매 그들이 나와서 수르 광야로 들어가서 거기서 사흘길을 행하였으나 물을 얻지 못하고",
+    "23| 마라에 이르렀더니 그곳 물이 써서 마시지 못하겠으므로 그 이름을 마라라 하였더라",
+    "24| 백성이 모세를 대하여 원망하여 가로되 우리가 무엇을 마실까 하매",
+    "25| 모세가 여호와께 부르짖었더니 여호와께서 그에게 한 나무를 지시하시니 그가 물에 던지매 물이 달아졌더라 거기서 여호와께서 그들을 위하여 법도와 율례를 정하시고 그들을 시험하실쌔",
+    "26| 가라사대 너희가 너희 하나님 나 여호와의 말을 청종하고 나의 보기에 의를 행하며 내 계명에 귀를 기울이며 내 모든 규례를 지키면 내가 애굽 사람에게 내린 모든 질병의 하나도 너희에게 내리지 아니하리니 나는 너희를 치료하는 여호와임이니라",
+    "27| 그들이 엘림에 이르니 거기 물샘 열 둘과 종려 칠십주가 있는지라 거기서 그들이 그 물 곁에 장막을 치니라",
 ]
 let encoded = ` “ ” `
-theirs = `1Then the Lord said to Moses, 2“Tell the people of Israel to turn back and encamp in front of Pi-hahiroth, between Migdol and the sea, in front of Baal-zephon; you shall encamp facing it, by the sea. 3For Pharaoh will say of the people of Israel, ‘They are wandering in the land; the wilderness has shut them in.’ 4And I will harden Pharaoh’s heart, and he will pursue them, and I will get glory over Pharaoh and all his host, and the Egyptians shall know that I am the Lord.” And they did so.
-5When the king of Egypt was told that the people had fled, the mind of Pharaoh and his servants was changed toward the people, and they said, “What is this we have done, that we have let Israel go from serving us?” 6So he made ready his chariot and took his army with him, 7and took six hundred chosen chariots and all the other chariots of Egypt with officers over all of them. 8And the Lord hardened the heart of Pharaoh king of Egypt, and he pursued the people of Israel while the people of Israel were going out defiantly. 9The Egyptians pursued them, all Pharaoh’s horses and chariots and his horsemen and his army, and overtook them encamped at the sea, by Pi-hahiroth, in front of Baal-zephon.
-10When Pharaoh drew near, the people of Israel lifted up their eyes, and behold, the Egyptians were marching after them, and they feared greatly. And the people of Israel cried out to the Lord. 11They said to Moses, “Is it because there are no graves in Egypt that you have taken us away to die in the wilderness? What have you done to us in bringing us out of Egypt? 12Is not this what we said to you in Egypt: ‘Leave us alone that we may serve the Egyptians’? For it would have been better for us to serve the Egyptians than to die in the wilderness.” 13And Moses said to the people, “Fear not, stand firm, and see the salvation of the Lord, which he will work for you today. For the Egyptians whom you see today, you shall never see again. 14The Lord will fight for you, and you have only to be silent.”
-15The Lord said to Moses, “Why do you cry to me? Tell the people of Israel to go forward. 16Lift up your staff, and stretch out your hand over the sea and divide it, that the people of Israel may go through the sea on dry ground. 17And I will harden the hearts of the Egyptians so that they shall go in after them, and I will get glory over Pharaoh and all his host, his chariots, and his horsemen. 18And the Egyptians shall know that I am the Lord, when I have gotten glory over Pharaoh, his chariots, and his horsemen.”
-19Then the angel of God who was going before the host of Israel moved and went behind them, and the pillar of cloud moved from before them and stood behind them, 20coming between the host of Egypt and the host of Israel. And there was the cloud and the darkness. And it lit up the night without one coming near the other all night.
-21Then Moses stretched out his hand over the sea, and the Lord drove the sea back by a strong east wind all night and made the sea dry land, and the waters were divided. 22And the people of Israel went into the midst of the sea on dry ground, the waters being a wall to them on their right hand and on their left. 23The Egyptians pursued and went in after them into the midst of the sea, all Pharaoh’s horses, his chariots, and his horsemen. 24And in the morning watch the Lord in the pillar of fire and of cloud looked down on the Egyptian forces and threw the Egyptian forces into a panic, 25clogging their chariot wheels so that they drove heavily. And the Egyptians said, “Let us flee from before Israel, for the Lord fights for them against the Egyptians.”
-26Then the Lord said to Moses, “Stretch out your hand over the sea, that the water may come back upon the Egyptians, upon their chariots, and upon their horsemen.” 27So Moses stretched out his hand over the sea, and the sea returned to its normal course when the morning appeared. And as the Egyptians fled into it, the Lord threw the Egyptians into the midst of the sea. 28The waters returned and covered the chariots and the horsemen; of all the host of Pharaoh that had followed them into the sea, not one of them remained. 29But the people of Israel walked on dry ground through the sea, the waters being a wall to them on their right hand and on their left.
-30Thus the Lord saved Israel that day from the hand of the Egyptians, and Israel saw the Egyptians dead on the seashore. 31Israel saw the great power that the Lord used against the Egyptians, so the people feared the Lord, and they believed in the Lord and in his servant Moses.`
+theirs = `1이 때에 모세와 이스라엘 자손이 이 노래로 여호와께 노래하니 일렀으되 내가 여호와를 찬송하리니 그는 높고 영화로우심이요 말과 그 탄 자를 바다에 던지셨음이로다 2여호와는 나의 힘이요 노래시며 나의 구원이시로다 그는 나의 하나님이시니 내가 그를 찬송할 것이요 내 아비의 하나님이시니 내가 그를 높이리로다 3여호와는 용사시니 여호와는 그의 이름이시로다 4그가 바로의 병거와 그 군대를 바다에 던지시니 그 택한 장관이 홍해에 잠겼고 5큰 물이 그들을 덮으니 그들이 돌처럼 깊음에 내렸도다 6여호와여 주의 오른손이 권능으로 영광을 나타내시니이다 여호와여 주의 오른손이 원수를 부수시니이다 7주께서 주의 큰 위엄으로 주를 거스리는 자를 엎으시니이다 주께서 진노를 발하시니 그 진노가 그들을 초개 같이 사르니이다 8주의 콧김에 물이 쌓이되 파도가 언덕 같이 일어서고 큰 물이 바다 가운데 엉기니이다 9대적의 말이 내가 쫓아 미쳐 탈취물을 나누리라, 내가 그들로 인하여 내 마음을 채우리라, 내가 내 칼을 빼리니 내 손이 그들을 멸하리라 하였으나 10주께서 주의 바람을 일으키시매 바다가 그들을 덮으니 그들이 흉용한 물에 납 같이 잠겼나이다 11여호와여 신 중에 주와 같은 자 누구니이까 주와 같이 거룩함에 영광스러우며 찬송할만한 위엄이 있으며 기이한 일을 행하는 자 누구니이까 12주께서 오른손을 드신즉 땅이 그들을 삼켰나이다 13주께서 그 구속하신 백성을 은혜로 인도하시되 주의 힘으로 그들을 주의 성결한 처소에 들어가게 하시나이다 14열방이 듣고 떨며 블레셋 거민이 두려움에 잡히며 15에돔 방백이 놀라고 모압 영웅이 떨림에 잡히며 가나안 거민이 다 낙담하나이다 16놀람과 두려움이 그들에게 미치매 주의 팔이 큼을 인하여 그들이 돌 같이 고요하였사오되 여호와여 주의 백성이 통과하기까지 곧 주의 사신 백성이 통과하기까지였나이다 17주께서 백성을 인도하사 그들을 주의 기업의 산에 심으시리이다 여호와여 이는 주의 처소를 삼으시려고 예비하신 것이라 주여 이것이 주의 손으로 세우신 성소로소이다 18여호와의 다스리심이 영원무궁하시도다 하였더라 19바로의 말과 병거와 마병이 함께 바다에 들어가매 여호와께서 바닷물로 그들 위에 돌이켜 흐르게 하셨으나 이스라엘 자손은 바다 가운데서 육지로 행한지라 20아론의 누이 선지자 미리암이 손에 소고를 잡으매 모든 여인도 그를 따라 나오며 소고를 잡고 춤추니
+21미리암이 그들에게 화답하여 가로되 너희는 여호와를 찬송하라 그는 높고 영화로우심이요 말과 그 탄 자를 바다에 던지셨음이로다 하였더라 22모세가 홍해에서 이스라엘을 인도하매 그들이 나와서 수르 광야로 들어가서 거기서 사흘길을 행하였으나 물을 얻지 못하고
+23마라에 이르렀더니 그곳 물이 써서 마시지 못하겠으므로 그 이름을 마라라 하였더라
+24백성이 모세를 대하여 원망하여 가로되 우리가 무엇을 마실까 하매 25모세가 여호와께 부르짖었더니 여호와께서 그에게 한 나무를 지시하시니 그가 물에 던지매 물이 달아졌더라 거기서 여호와께서 그들을 위하여 법도와 율례를 정하시고 그들을 시험하실쌔 26가라사대 너희가 너희 하나님 나 여호와의 말을 청종하고 나의 보기에 의를 행하며 내 계명에 귀를 기울이며 내 모든 규례를 지키면 내가 애굽 사람에게 내린 모든 질병의 하나도 너희에게 내리지 아니하리니 나는 너희를 치료하는 여호와임이니라 27그들이 엘림에 이르니 거기 물샘 열 둘과 종려 칠십주가 있는지라 거기서 그들이 그 물 곁에 장막을 치니라`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
