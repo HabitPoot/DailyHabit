@@ -1,37 +1,49 @@
 mine = [
-    "1| 이 때에 모세와 이스라엘 자손이 이 노래로 여호와께 노래하니 일렀으되 내가 여호와를 찬송하리니 그는 높고 영화로우심이요 말과 그 탄 자를 바다에 던지셨음이로다",
-    "2| 여호와는 나의 힘이요 노래시며 나의 구원이시로다 그는 나의 하나님이시니 내가 그를 찬송할 것이요 내 아비의 하나님이시니 내가 그를 높이리로다",
-    "3| 여호와는 용사시니 여호와는 그의 이름이시로다",
-    "4| 그가 바로의 병거와 그 군대를 바다에 던지시니 그 택한 장관이 홍해에 잠겼고",
-    "5| 큰 물이 그들을 덮으니 그들이 돌처럼 깊음에 내렸도다",
-    "6| 여호와여 주의 오른손이 권능으로 영광을 나타내시니이다 여호와여 주의 오른손이 원수를 부수시니이다",
-    "7| 주께서 주의 큰 위엄으로 주를 거스리는 자를 엎으시니이다 주께서 진노를 발하시니 그 진노가 그들을 초개 같이 사르니이다",
-    "8| 주의 콧김에 물이 쌓이되 파도가 언덕 같이 일어서고 큰 물이 바다 가운데 엉기니이다",
-    "9| 대적의 말이 내가 쫓아 미쳐 탈취물을 나누리라, 내가 그들로 인하여 내 마음을 채우리라, 내가 내 칼을 빼리니 내 손이 그들을 멸하리라 하였으나",
-    "10| 주께서 주의 바람을 일으키시매 바다가 그들을 덮으니 그들이 흉용한 물에 납 같이 잠겼나이다",
-    "11| 여호와여 신 중에 주와 같은 자 누구니이까 주와 같이 거룩함에 영광스러우며 찬송할만한 위엄이 있으며 기이한 일을 행하는 자 누구니이까",
-    "12| 주께서 오른손을 드신즉 땅이 그들을 삼켰나이다",
-    "13| 주께서 그 구속하신 백성을 은혜로 인도하시되 주의 힘으로 그들을 주의 성결한 처소에 들어가게 하시나이다",
-    "14| 열방이 듣고 떨며 블레셋 거민이 두려움에 잡히며",
-    "15| 에돔 방백이 놀라고 모압 영웅이 떨림에 잡히며 가나안 거민이 다 낙담하나이다",
-    "16| 놀람과 두려움이 그들에게 미치매 주의 팔이 큼을 인하여 그들이 돌 같이 고요하였사오되 여호와여 주의 백성이 통과하기까지 곧 주의 사신 백성이 통과하기까지였나이다",
-    "17| 주께서 백성을 인도하사 그들을 주의 기업의 산에 심으시리이다 여호와여 이는 주의 처소를 삼으시려고 예비하신 것이라 주여 이것이 주의 손으로 세우신 성소로소이다",
-    "18| 여호와의 다스리심이 영원무궁하시도다 하였더라",
-    "19| 바로의 말과 병거와 마병이 함께 바다에 들어가매 여호와께서 바닷물로 그들 위에 돌이켜 흐르게 하셨으나 이스라엘 자손은 바다 가운데서 육지로 행한지라",
-    "20| 아론의 누이 선지자 미리암이 손에 소고를 잡으매 모든 여인도 그를 따라 나오며 소고를 잡고 춤추니",
-    "21| 미리암이 그들에게 화답하여 가로되 너희는 여호와를 찬송하라 그는 높고 영화로우심이요 말과 그 탄 자를 바다에 던지셨음이로다 하였더라",
-    "22| 모세가 홍해에서 이스라엘을 인도하매 그들이 나와서 수르 광야로 들어가서 거기서 사흘길을 행하였으나 물을 얻지 못하고",
-    "23| 마라에 이르렀더니 그곳 물이 써서 마시지 못하겠으므로 그 이름을 마라라 하였더라",
-    "24| 백성이 모세를 대하여 원망하여 가로되 우리가 무엇을 마실까 하매",
-    "25| 모세가 여호와께 부르짖었더니 여호와께서 그에게 한 나무를 지시하시니 그가 물에 던지매 물이 달아졌더라 거기서 여호와께서 그들을 위하여 법도와 율례를 정하시고 그들을 시험하실쌔",
-    "26| 가라사대 너희가 너희 하나님 나 여호와의 말을 청종하고 나의 보기에 의를 행하며 내 계명에 귀를 기울이며 내 모든 규례를 지키면 내가 애굽 사람에게 내린 모든 질병의 하나도 너희에게 내리지 아니하리니 나는 너희를 치료하는 여호와임이니라",
-    "27| 그들이 엘림에 이르니 거기 물샘 열 둘과 종려 칠십주가 있는지라 거기서 그들이 그 물 곁에 장막을 치니라",
+    "1| They set out from Elim, and all the congregation of the people of Israel came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had departed from the land of Egypt.",
+    "2| And the whole congregation of the people of Israel grumbled against Moses and Aaron in the wilderness,",
+    "3| and the people of Israel said to them, \"Would that we had died by the hand of the Lord in the land of Egypt, when we sat by the meat pots and ate bread to the full, for you have brought us out into this wilderness to kill this whole assembly with hunger.\"",
+    "4| Then the Lord said to Moses, \"Behold, I am about to rain bread from heaven for you, and the people shall go out and gather a day's portion every day, that I may test them, whether they will walk in my law or not.",
+    "5| On the sixth day, when they prepare what they bring in, it will be twice as much as they gather daily.\"",
+    "6| So Moses and Aaron said to all the people of Israel, \"At evening you shall know that it was the Lord who brought you out of the land of Egypt,",
+    "7| and in the morning you shall see the glory of the Lord, because he has heard your grumbling against the Lord. For what are we, that you grumble against us?\"",
+    "8| And Moses said, \"When the Lord gives you in the evening meat to eat and in the morning bread to the full, because the Lord has heard your grumbling that you grumble against him-what are we? Your grumbling is not against us but against the Lord.\"",
+    "9| Then Moses said to Aaron, \"Say to the whole congregation of the people of Israel, 'Come near before the Lord, for he has heard your grumbling.'\"",
+    "10| And as soon as Aaron spoke to the whole congregation of the people of Israel, they looked toward the wilderness, and behold, the glory of the Lord appeared in the cloud.",
+    "11| And the Lord said to Moses,",
+    "12| \"I have heard the grumbling of the people of Israel. Say to them, 'At twilight you shall eat meat, and in the morning you shall be filled with bread. Then you shall know that I am the Lord your God.'\"",
+    "13| In the evening quail came up and covered the camp, and in the morning dew lay around the camp.",
+    "14| And when the dew had gone up, there was on the face of the wilderness a fine, flake-like thing, fine as frost on the ground.",
+    "15| When the people of Israel saw it, they said to one another, \"What is it?\" For they did not know what it was. And Moses said to them, \"It is the bread that the Lord has given you to eat.",
+    "16| This is what the Lord has commanded: 'Gather of it, each one of you, as much as he can eat. You shall each take an omer, according to the number of the persons that each of you has in his tent.'\"",
+    "17| And the people of Israel did so. They gathered, some more, some less.",
+    "18| But when they measured it with an omer, whoever gathered much had nothing left over, and whoever gathered little had no lack. Each of them gathered as much as he could eat.",
+    "19| And Moses said to them, \"Let no one leave any of it over till the morning.\"",
+    "20| But they did not listen to Moses. Some left part of it till the morning, and it bred worms and stank. And Moses was angry with them.",
+    "21| Morning by morning they gathered it, each as much as he could eat; but when the sun grew hot, it melted.",
+    "22| On the sixth day they gathered twice as much bread, two omers each. And when all the leaders of the congregation came and told Moses,",
+    "23| he said to them, \"This is what the Lord has commanded: 'Tomorrow is a day of solemn rest, a holy Sabbath to the Lord; bake what you will bake and boil what you will boil, and all that is left over lay aside to be kept till the morning.'\"",
+    "24| So they laid it aside till the morning, as Moses commanded them, and it did not stink, and there were no worms in it.",
+    "25| Moses said, \"Eat it today, for today is a Sabbath to the Lord; today you will not find it in the field.",
+    "26| Six days you shall gather it, but on the seventh day, which is a Sabbath, there will be none.\"",
+    "27| On the seventh day some of the people went out to gather, but they found none.",
+    "28| And the Lord said to Moses, \"How long will you refuse to keep my commandments and my laws?",
+    "29| See! The Lord has given you the Sabbath; therefore on the sixth day he gives you bread for two days. Remain each of you in his place; let no one go out of his place on the seventh day.\"",
+    "30| So the people rested on the seventh day.",
+    "31| Now the house of Israel called its name manna. It was like coriander seed, white, and the taste of it was like wafers made with honey.",
+    "32| Moses said, \"This is what the Lord has commanded: 'Let an omer of it be kept throughout your generations, so that they may see the bread with which I fed you in the wilderness, when I brought you out of the land of Egypt.'\"",
+    "33| And Moses said to Aaron, \"Take a jar, and put an omer of manna in it, and place it before the Lord to be kept throughout your generations.\"",
+    "34| As the Lord commanded Moses, so Aaron placed it before the testimony to be kept.",
+    "35| The people of Israel ate the manna forty years, till they came to a habitable land. They ate the manna till they came to the border of the land of Canaan.",
+    "36| (An omer is the tenth part of an ephah.)",
 ]
 let encoded = ` “ ” `
-theirs = `1이 때에 모세와 이스라엘 자손이 이 노래로 여호와께 노래하니 일렀으되 내가 여호와를 찬송하리니 그는 높고 영화로우심이요 말과 그 탄 자를 바다에 던지셨음이로다 2여호와는 나의 힘이요 노래시며 나의 구원이시로다 그는 나의 하나님이시니 내가 그를 찬송할 것이요 내 아비의 하나님이시니 내가 그를 높이리로다 3여호와는 용사시니 여호와는 그의 이름이시로다 4그가 바로의 병거와 그 군대를 바다에 던지시니 그 택한 장관이 홍해에 잠겼고 5큰 물이 그들을 덮으니 그들이 돌처럼 깊음에 내렸도다 6여호와여 주의 오른손이 권능으로 영광을 나타내시니이다 여호와여 주의 오른손이 원수를 부수시니이다 7주께서 주의 큰 위엄으로 주를 거스리는 자를 엎으시니이다 주께서 진노를 발하시니 그 진노가 그들을 초개 같이 사르니이다 8주의 콧김에 물이 쌓이되 파도가 언덕 같이 일어서고 큰 물이 바다 가운데 엉기니이다 9대적의 말이 내가 쫓아 미쳐 탈취물을 나누리라, 내가 그들로 인하여 내 마음을 채우리라, 내가 내 칼을 빼리니 내 손이 그들을 멸하리라 하였으나 10주께서 주의 바람을 일으키시매 바다가 그들을 덮으니 그들이 흉용한 물에 납 같이 잠겼나이다 11여호와여 신 중에 주와 같은 자 누구니이까 주와 같이 거룩함에 영광스러우며 찬송할만한 위엄이 있으며 기이한 일을 행하는 자 누구니이까 12주께서 오른손을 드신즉 땅이 그들을 삼켰나이다 13주께서 그 구속하신 백성을 은혜로 인도하시되 주의 힘으로 그들을 주의 성결한 처소에 들어가게 하시나이다 14열방이 듣고 떨며 블레셋 거민이 두려움에 잡히며 15에돔 방백이 놀라고 모압 영웅이 떨림에 잡히며 가나안 거민이 다 낙담하나이다 16놀람과 두려움이 그들에게 미치매 주의 팔이 큼을 인하여 그들이 돌 같이 고요하였사오되 여호와여 주의 백성이 통과하기까지 곧 주의 사신 백성이 통과하기까지였나이다 17주께서 백성을 인도하사 그들을 주의 기업의 산에 심으시리이다 여호와여 이는 주의 처소를 삼으시려고 예비하신 것이라 주여 이것이 주의 손으로 세우신 성소로소이다 18여호와의 다스리심이 영원무궁하시도다 하였더라 19바로의 말과 병거와 마병이 함께 바다에 들어가매 여호와께서 바닷물로 그들 위에 돌이켜 흐르게 하셨으나 이스라엘 자손은 바다 가운데서 육지로 행한지라 20아론의 누이 선지자 미리암이 손에 소고를 잡으매 모든 여인도 그를 따라 나오며 소고를 잡고 춤추니
-21미리암이 그들에게 화답하여 가로되 너희는 여호와를 찬송하라 그는 높고 영화로우심이요 말과 그 탄 자를 바다에 던지셨음이로다 하였더라 22모세가 홍해에서 이스라엘을 인도하매 그들이 나와서 수르 광야로 들어가서 거기서 사흘길을 행하였으나 물을 얻지 못하고
-23마라에 이르렀더니 그곳 물이 써서 마시지 못하겠으므로 그 이름을 마라라 하였더라
-24백성이 모세를 대하여 원망하여 가로되 우리가 무엇을 마실까 하매 25모세가 여호와께 부르짖었더니 여호와께서 그에게 한 나무를 지시하시니 그가 물에 던지매 물이 달아졌더라 거기서 여호와께서 그들을 위하여 법도와 율례를 정하시고 그들을 시험하실쌔 26가라사대 너희가 너희 하나님 나 여호와의 말을 청종하고 나의 보기에 의를 행하며 내 계명에 귀를 기울이며 내 모든 규례를 지키면 내가 애굽 사람에게 내린 모든 질병의 하나도 너희에게 내리지 아니하리니 나는 너희를 치료하는 여호와임이니라 27그들이 엘림에 이르니 거기 물샘 열 둘과 종려 칠십주가 있는지라 거기서 그들이 그 물 곁에 장막을 치니라`
+theirs = `1They set out from Elim, and all the congregation of the people of Israel came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had departed from the land of Egypt. 2And the whole congregation of the people of Israel grumbled against Moses and Aaron in the wilderness, 3and the people of Israel said to them, “Would that we had died by the hand of the Lord in the land of Egypt, when we sat by the meat pots and ate bread to the full, for you have brought us out into this wilderness to kill this whole assembly with hunger.”
+4Then the Lord said to Moses, “Behold, I am about to rain bread from heaven for you, and the people shall go out and gather a day’s portion every day, that I may test them, whether they will walk in my law or not. 5On the sixth day, when they prepare what they bring in, it will be twice as much as they gather daily.” 6So Moses and Aaron said to all the people of Israel, “At evening you shall know that it was the Lord who brought you out of the land of Egypt, 7and in the morning you shall see the glory of the Lord, because he has heard your grumbling against the Lord. For what are we, that you grumble against us?” 8And Moses said, “When the Lord gives you in the evening meat to eat and in the morning bread to the full, because the Lord has heard your grumbling that you grumble against him—what are we? Your grumbling is not against us but against the Lord.”
+9Then Moses said to Aaron, “Say to the whole congregation of the people of Israel, ‘Come near before the Lord, for he has heard your grumbling.’” 10And as soon as Aaron spoke to the whole congregation of the people of Israel, they looked toward the wilderness, and behold, the glory of the Lord appeared in the cloud. 11And the Lord said to Moses, 12“I have heard the grumbling of the people of Israel. Say to them, ‘At twilight you shall eat meat, and in the morning you shall be filled with bread. Then you shall know that I am the Lord your God.’”
+13In the evening quail came up and covered the camp, and in the morning dew lay around the camp. 14And when the dew had gone up, there was on the face of the wilderness a fine, flake-like thing, fine as frost on the ground. 15When the people of Israel saw it, they said to one another, “What is it?” For they did not know what it was. And Moses said to them, “It is the bread that the Lord has given you to eat. 16This is what the Lord has commanded: ‘Gather of it, each one of you, as much as he can eat. You shall each take an omer, according to the number of the persons that each of you has in his tent.’” 17And the people of Israel did so. They gathered, some more, some less. 18But when they measured it with an omer, whoever gathered much had nothing left over, and whoever gathered little had no lack. Each of them gathered as much as he could eat. 19And Moses said to them, “Let no one leave any of it over till the morning.” 20But they did not listen to Moses. Some left part of it till the morning, and it bred worms and stank. And Moses was angry with them. 21Morning by morning they gathered it, each as much as he could eat; but when the sun grew hot, it melted.
+22On the sixth day they gathered twice as much bread, two omers each. And when all the leaders of the congregation came and told Moses, 23he said to them, “This is what the Lord has commanded: ‘Tomorrow is a day of solemn rest, a holy Sabbath to the Lord; bake what you will bake and boil what you will boil, and all that is left over lay aside to be kept till the morning.’” 24So they laid it aside till the morning, as Moses commanded them, and it did not stink, and there were no worms in it. 25Moses said, “Eat it today, for today is a Sabbath to the Lord; today you will not find it in the field. 26Six days you shall gather it, but on the seventh day, which is a Sabbath, there will be none.”
+27On the seventh day some of the people went out to gather, but they found none. 28And the Lord said to Moses, “How long will you refuse to keep my commandments and my laws? 29See! The Lord has given you the Sabbath; therefore on the sixth day he gives you bread for two days. Remain each of you in his place; let no one go out of his place on the seventh day.” 30So the people rested on the seventh day.
+31Now the house of Israel called its name manna. It was like coriander seed, white, and the taste of it was like wafers made with honey. 32Moses said, “This is what the Lord has commanded: ‘Let an omer of it be kept throughout your generations, so that they may see the bread with which I fed you in the wilderness, when I brought you out of the land of Egypt.’” 33And Moses said to Aaron, “Take a jar, and put an omer of manna in it, and place it before the Lord to be kept throughout your generations.” 34As the Lord commanded Moses, so Aaron placed it before the testimony to be kept. 35The people of Israel ate the manna forty years, till they came to a habitable land. They ate the manna till they came to the border of the land of Canaan. 36(An omer is the tenth part of an ephah.)`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
