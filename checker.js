@@ -1,36 +1,36 @@
 mine = [
-    "1| 모세의 장인 미디안 제사장 이드로가 하나님이 모세에게와 자기 백성 이스라엘에게 하신 일 곧 여호와께서 이스라엘을 애굽에서 인도하여 내신 모든 일을 들으니라",
-    "2| 모세의 장인 이드로가 모세가 돌려 보내었던 그의 아내 십보라와",
-    "3| 그 두 아들을 데렸으니 그 하나의 이름은 게르솜이라 이는 모세가 이르기를 내가 이방에서 객이 되었다 함이요",
-    "4| 하나의 이름은 엘리에셀이라 이는 내 아버지의 하나님이 나를 도우사 바로의 칼에서 구원하셨다 함이더라",
-    "5| 모세의 장인 이드로가 모세의 아들들과 그 아내로 더불어 광야에 들어와 모세에게 이르니 곧 모세가 하나님의 산에 진 친 곳이라",
-    "6| 그가 모세에게 전언하되 그대의 장인 나 이드로가 그대의 아내와 그와 함께한 그 두 아들로 더불어 그대에게 왔노라",
-    "7| 모세가 나가서 그 장인을 맞아 절하고 그에게 입맞추고 그들이 서로 문안하고 함께 장막에 들어가서",
-    "8| 모세가 여호와께서 이스라엘을 위하여 바로와 애굽 사람에게 행하신 모든 일과 길에서 그들의 당한 모든 고난과 여호와께서 그들을 구원하신 일을 다 그 장인에게 고하매",
-    "9| 이드로가 여호와께서 이스라엘에게 모든 은혜를 베푸사 애굽 사람의 손에서 구원하심을 기뻐하여",
-    "10| 가로되 여호와를 찬송하리로다 너희를 애굽 사람의 손에서와 바로의 손에서 건져내시고 백성을 애굽 사람의 손 밑에서 건지셨도다",
-    "11| 이제 내가 알았도다 여호와는 모든 신보다 크시므로 이스라엘에게 교만히 행하는 그들을 이기셨도다 하고",
-    "12| 모세의 장인 이드로가 번제물과 희생을 하나님께 가져오매 아론과 이스라엘 모든 장로가 와서 모세의 장인과 함께 하나님 앞에서 떡을 먹으니라",
-    "13| 이튿날에 모세가 백성을 재판하느라고 앉았고 백성은 아침부터 저녁까지 모세의 곁에 섰는지라",
-    "14| 모세의 장인이 모세가 백성에게 행하는 모든 일을 보고 가로되 그대가 이 백성에게 행하는 이 일이 어찜이뇨 어찌하여 그대는 홀로 앉았고 백성은 아침부터 저녁까지 그대의 곁에 섰느뇨",
-    "15| 모세가 그 장인에게 대답하되 백성이 하나님께 물으려고 내게로 옴이라",
-    "16| 그들이 일이 있으면 내게로 오나니 내가 그 양편을 판단하여 하나님의 율례와 법도를 알게 하나이다",
-    "17| 모세의 장인이 그에게 이르되 그대의 하는 것이 선하지 못하도다",
-    "18| 그대와 그대와 함께한 이 백성이 필연 기력이 쇠하리니 이 일이 그대에게 너무 중함이라 그대가 혼자 할 수 없으리라",
-    "19| 이제 내 말을 들으라 내가 그대에게 방침을 가르치리니 하나님이 그대와 함께 계실찌로다 그대는 백성을 위하여 하나님 앞에 있어서 소송을 하나님께 베풀며",
-    "20| 그들에게 율례와 법도를 가르쳐서 마땅히 갈 길과 할 일을 그들에게 보이고",
-    "21| 그대는 또 온 백성 가운데서 재덕이 겸전한 자 곧 하나님을 두려워하며 진실무망하며 불의한 이를 미워하는 자를 빼서 백성 위에 세워 천부장과 백부장과 오십부장과 십부장을 삼아",
-    "22| 그들로 때를 따라 백성을 재판하게 하라 무릇 큰 일이면 그대에게 베풀 것이고 무릇 작은 일이면 그들이 스스로 재판할 것이니 그리하면 그들이 그대와 함께 담당할 것인즉 일이 그대에게 쉬우리라",
-    "23| 그대가 만일 이 일을 하고 하나님께서도 그대에게 인가하시면 그대가 이 일을 감당하고 이 모든 백성도 자기 곳으로 평안히 가리라",
-    "24| 이에 모세가 자기 장인의 말을 듣고 그 모든 말대로 하여",
-    "25| 이스라엘 무리 중에서 재덕이 겸전한 자를 빼서 그들로 백성의 두목 곧 천부장과 백부장과 오십부장과 십부장을 삼으매",
-    "26| 그들이 때를 따라 백성을 재판하되 어려운 일은 모세에게 베풀고 쉬운 일은 자단하더라",
-    "27| 모세가 그 장인을 보내니 그가 자기 고향으로 돌아가니라",
+    "1| On the third new moon after the people of Israel had gone out of the land of Egypt, on that day they came into the wilderness of Sinai.",
+    "2| They set out from Rephidim and came into the wilderness of Sinai, and they encamped in the wilderness. There Israel encamped before the mountain,",
+    "3| while Moses went up to God. The Lord called to him out of the mountain, saying, \"Thus you shall say to the house of Jacob, and tell the people of Israel:",
+    "4| 'You yourselves have seen what I did to the Egyptians, and how I bore you on eagles' wings and brought you to myself.",
+    "5| Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine;",
+    "6| and you shall be to me a kingdom of priests and a holy nation.' These are the words that you shall speak to the people of Israel.\"",
+    "7| So Moses came and called the elders of the people and set before them all these words that the Lord had commanded him.",
+    "8| All the people answered together and said, \"All that the Lord has spoken we will do.\" And Moses reported the words of the people to the Lord.",
+    "9| And the Lord said to Moses, \"Behold, I am coming to you in a thick cloud, that the people may hear when I speak with you, and may also believe you forever.\" When Moses told the words of the people to the Lord,",
+    "10| the Lord said to Moses, \"Go to the people and consecrate them today and tomorrow, and let them wash their garments",
+    "11| and be ready for the third day. For on the third day the Lord will come down on Mount Sinai in the sight of all the people.",
+    "12| And you shall set limits for the people all around, saying, 'Take care not to go up into the mountain or touch the edge of it. Whoever touches the mountain shall be put to death.",
+    "13| No hand shall touch him, but he shall be stoned or shot; whether beast or man, he shall not live.' When the trumpet sounds a long blast, they shall come up to the mountain.\"",
+    "14| So Moses went down from the mountain to the people and consecrated the people; and they washed their garments.",
+    "15| And he said to the people, \"Be ready for the third day; do not go near a woman.\"",
+    "16| On the morning of the third day there were thunders and lightnings and a thick cloud on the mountain and a very loud trumpet blast, so that all the people in the camp trembled.",
+    "17| Then Moses brought the people out of the camp to meet God, and they took their stand at the foot of the mountain.",
+    "18| Now Mount Sinai was wrapped in smoke because the Lord had descended on it in fire. The smoke of it went up like the smoke of a kiln, and the whole mountain trembled greatly.",
+    "19| And as the sound of the trumpet grew louder and louder, Moses spoke, and God answered him in thunder.",
+    "20| The Lord came down on Mount Sinai, to the top of the mountain. And the Lord called Moses to the top of the mountain, and Moses went up.",
+    "21| And the Lord said to Moses, \"Go down and warn the people, lest they break through to the Lord to look and many of them perish.",
+    "22| Also let the priests who come near to the Lord consecrate themselves, lest the Lord break out against them.\"",
+    "23| And Moses said to the Lord, \"The people cannot come up to Mount Sinai, for you yourself warned us, saying, 'Set limits around the mountain and consecrate it.'\"",
+    "24| And the Lord said to him, \"Go down, and come up bringing Aaron with you. But do not let the priests and the people break through to come up to the Lord, lest he break out against them.\"",
+    "25| So Moses went down to the people and told them.",
 ]
 let encoded = ` “ ” `
-theirs = `1모세의 장인 미디안 제사장 이드로가 하나님이 모세에게와 자기 백성 이스라엘에게 하신 일 곧 여호와께서 이스라엘을 애굽에서 인도하여 내신 모든 일을 들으니라 2모세의 장인 이드로가 모세가 돌려 보내었던 그의 아내 십보라와 3그 두 아들을 데렸으니 그 하나의 이름은 게르솜이라 이는 모세가 이르기를 내가 이방에서 객이 되었다 함이요 4하나의 이름은 엘리에셀이라 이는 내 아버지의 하나님이 나를 도우사 바로의 칼에서 구원하셨다 함이더라 5모세의 장인 이드로가 모세의 아들들과 그 아내로 더불어 광야에 들어와 모세에게 이르니 곧 모세가 하나님의 산에 진 친 곳이라 6그가 모세에게 전언하되 그대의 장인 나 이드로가 그대의 아내와 그와 함께한 그 두 아들로 더불어 그대에게 왔노라 7모세가 나가서 그 장인을 맞아 절하고 그에게 입맞추고 그들이 서로 문안하고 함께 장막에 들어가서
-8모세가 여호와께서 이스라엘을 위하여 바로와 애굽 사람에게 행하신 모든 일과 길에서 그들의 당한 모든 고난과 여호와께서 그들을 구원하신 일을 다 그 장인에게 고하매 9이드로가 여호와께서 이스라엘에게 모든 은혜를 베푸사 애굽 사람의 손에서 구원하심을 기뻐하여 10가로되 여호와를 찬송하리로다 너희를 애굽 사람의 손에서와 바로의 손에서 건져내시고 백성을 애굽 사람의 손 밑에서 건지셨도다 11이제 내가 알았도다 여호와는 모든 신보다 크시므로 이스라엘에게 교만히 행하는 그들을 이기셨도다 하고 12모세의 장인 이드로가 번제물과 희생을 하나님께 가져오매 아론과 이스라엘 모든 장로가 와서 모세의 장인과 함께 하나님 앞에서 떡을 먹으니라 13이튿날에 모세가 백성을 재판하느라고 앉았고 백성은 아침부터 저녁까지 모세의 곁에 섰는지라
-14모세의 장인이 모세가 백성에게 행하는 모든 일을 보고 가로되 그대가 이 백성에게 행하는 이 일이 어찜이뇨 어찌하여 그대는 홀로 앉았고 백성은 아침부터 저녁까지 그대의 곁에 섰느뇨 15모세가 그 장인에게 대답하되 백성이 하나님께 물으려고 내게로 옴이라 16그들이 일이 있으면 내게로 오나니 내가 그 양편을 판단하여 하나님의 율례와 법도를 알게 하나이다 17모세의 장인이 그에게 이르되 그대의 하는 것이 선하지 못하도다 18그대와 그대와 함께한 이 백성이 필연 기력이 쇠하리니 이 일이 그대에게 너무 중함이라 그대가 혼자 할 수 없으리라 19이제 내 말을 들으라 내가 그대에게 방침을 가르치리니 하나님이 그대와 함께 계실찌로다 그대는 백성을 위하여 하나님 앞에 있어서 소송을 하나님께 베풀며 20그들에게 율례와 법도를 가르쳐서 마땅히 갈 길과 할 일을 그들에게 보이고 21그대는 또 온 백성 가운데서 재덕이 겸전한 자 곧 하나님을 두려워하며 진실무망하며 불의한 이를 미워하는 자를 빼서 백성 위에 세워 천부장과 백부장과 오십부장과 십부장을 삼아 22그들로 때를 따라 백성을 재판하게 하라 무릇 큰 일이면 그대에게 베풀 것이고 무릇 작은 일이면 그들이 스스로 재판할 것이니 그리하면 그들이 그대와 함께 담당할 것인즉 일이 그대에게 쉬우리라 23그대가 만일 이 일을 하고 하나님께서도 그대에게 인가하시면 그대가 이 일을 감당하고 이 모든 백성도 자기 곳으로 평안히 가리라 24이에 모세가 자기 장인의 말을 듣고 그 모든 말대로 하여 25이스라엘 무리 중에서 재덕이 겸전한 자를 빼서 그들로 백성의 두목 곧 천부장과 백부장과 오십부장과 십부장을 삼으매 26그들이 때를 따라 백성을 재판하되 어려운 일은 모세에게 베풀고 쉬운 일은 자단하더라 27모세가 그 장인을 보내니 그가 자기 고향으로 돌아가니라`
+theirs = `1On the third new moon after the people of Israel had gone out of the land of Egypt, on that day they came into the wilderness of Sinai. 2They set out from Rephidim and came into the wilderness of Sinai, and they encamped in the wilderness. There Israel encamped before the mountain, 3while Moses went up to God. The Lord called to him out of the mountain, saying, “Thus you shall say to the house of Jacob, and tell the people of Israel: 4‘You yourselves have seen what I did to the Egyptians, and how I bore you on eagles’ wings and brought you to myself. 5Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine; 6and you shall be to me a kingdom of priests and a holy nation.’ These are the words that you shall speak to the people of Israel.”
+7So Moses came and called the elders of the people and set before them all these words that the Lord had commanded him. 8All the people answered together and said, “All that the Lord has spoken we will do.” And Moses reported the words of the people to the Lord. 9And the Lord said to Moses, “Behold, I am coming to you in a thick cloud, that the people may hear when I speak with you, and may also believe you forever.”
+When Moses told the words of the people to the Lord, 10the Lord said to Moses, “Go to the people and consecrate them today and tomorrow, and let them wash their garments 11and be ready for the third day. For on the third day the Lord will come down on Mount Sinai in the sight of all the people. 12And you shall set limits for the people all around, saying, ‘Take care not to go up into the mountain or touch the edge of it. Whoever touches the mountain shall be put to death. 13No hand shall touch him, but he shall be stoned or shot; whether beast or man, he shall not live.’ When the trumpet sounds a long blast, they shall come up to the mountain.” 14So Moses went down from the mountain to the people and consecrated the people; and they washed their garments. 15And he said to the people, “Be ready for the third day; do not go near a woman.”
+16On the morning of the third day there were thunders and lightnings and a thick cloud on the mountain and a very loud trumpet blast, so that all the people in the camp trembled. 17Then Moses brought the people out of the camp to meet God, and they took their stand at the foot of the mountain. 18Now Mount Sinai was wrapped in smoke because the Lord had descended on it in fire. The smoke of it went up like the smoke of a kiln, and the whole mountain trembled greatly. 19And as the sound of the trumpet grew louder and louder, Moses spoke, and God answered him in thunder. 20The Lord came down on Mount Sinai, to the top of the mountain. And the Lord called Moses to the top of the mountain, and Moses went up.
+21And the Lord said to Moses, “Go down and warn the people, lest they break through to the Lord to look and many of them perish. 22Also let the priests who come near to the Lord consecrate themselves, lest the Lord break out against them.” 23And Moses said to the Lord, “The people cannot come up to Mount Sinai, for you yourself warned us, saying, ‘Set limits around the mountain and consecrate it.’” 24And the Lord said to him, “Go down, and come up bringing Aaron with you. But do not let the priests and the people break through to come up to the Lord, lest he break out against them.” 25So Moses went down to the people and told them.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
