@@ -1,36 +1,37 @@
 mine = [
-    "1| On the third new moon after the people of Israel had gone out of the land of Egypt, on that day they came into the wilderness of Sinai.",
-    "2| They set out from Rephidim and came into the wilderness of Sinai, and they encamped in the wilderness. There Israel encamped before the mountain,",
-    "3| while Moses went up to God. The Lord called to him out of the mountain, saying, \"Thus you shall say to the house of Jacob, and tell the people of Israel:",
-    "4| 'You yourselves have seen what I did to the Egyptians, and how I bore you on eagles' wings and brought you to myself.",
-    "5| Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine;",
-    "6| and you shall be to me a kingdom of priests and a holy nation.' These are the words that you shall speak to the people of Israel.\"",
-    "7| So Moses came and called the elders of the people and set before them all these words that the Lord had commanded him.",
-    "8| All the people answered together and said, \"All that the Lord has spoken we will do.\" And Moses reported the words of the people to the Lord.",
-    "9| And the Lord said to Moses, \"Behold, I am coming to you in a thick cloud, that the people may hear when I speak with you, and may also believe you forever.\" When Moses told the words of the people to the Lord,",
-    "10| the Lord said to Moses, \"Go to the people and consecrate them today and tomorrow, and let them wash their garments",
-    "11| and be ready for the third day. For on the third day the Lord will come down on Mount Sinai in the sight of all the people.",
-    "12| And you shall set limits for the people all around, saying, 'Take care not to go up into the mountain or touch the edge of it. Whoever touches the mountain shall be put to death.",
-    "13| No hand shall touch him, but he shall be stoned or shot; whether beast or man, he shall not live.' When the trumpet sounds a long blast, they shall come up to the mountain.\"",
-    "14| So Moses went down from the mountain to the people and consecrated the people; and they washed their garments.",
-    "15| And he said to the people, \"Be ready for the third day; do not go near a woman.\"",
-    "16| On the morning of the third day there were thunders and lightnings and a thick cloud on the mountain and a very loud trumpet blast, so that all the people in the camp trembled.",
-    "17| Then Moses brought the people out of the camp to meet God, and they took their stand at the foot of the mountain.",
-    "18| Now Mount Sinai was wrapped in smoke because the Lord had descended on it in fire. The smoke of it went up like the smoke of a kiln, and the whole mountain trembled greatly.",
-    "19| And as the sound of the trumpet grew louder and louder, Moses spoke, and God answered him in thunder.",
-    "20| The Lord came down on Mount Sinai, to the top of the mountain. And the Lord called Moses to the top of the mountain, and Moses went up.",
-    "21| And the Lord said to Moses, \"Go down and warn the people, lest they break through to the Lord to look and many of them perish.",
-    "22| Also let the priests who come near to the Lord consecrate themselves, lest the Lord break out against them.\"",
-    "23| And Moses said to the Lord, \"The people cannot come up to Mount Sinai, for you yourself warned us, saying, 'Set limits around the mountain and consecrate it.'\"",
-    "24| And the Lord said to him, \"Go down, and come up bringing Aaron with you. But do not let the priests and the people break through to come up to the Lord, lest he break out against them.\"",
-    "25| So Moses went down to the people and told them.",
+    "1| 하나님이 이 모든 말씀으로 일러 가라사대",
+    "2| 나는 너를 애굽 땅, 종 되었던 집에서 인도하여 낸 너의 하나님 여호와로라",
+    "3| 너는 나 외에는 다른 신들을 네게 있게 말찌니라",
+    "4| 너를 위하여 새긴 우상을 만들지 말고 또 위로 하늘에 있는 것이나 아래로 땅에 있는 것이나 땅아래 물속에 있는 것의 아무 형상이든지 만들지 말며",
+    "5| 그것들에게 절하지 말며 그것들을 섬기지 말라 나 여호와 너의 하나님은 질투하는 하나님인즉 나를 미워하는 자의 죄를 갚되 아비로부터 아들에게로 삼 사대까지 이르게 하거니와",
+    "6| 나를 사랑하고 내 계명을 지키는 자에게는 천대까지 은혜를 베푸느니라",
+    "7| 너는 너의 하나님 여호와의 이름을 망령되이 일컫지 말라 나 여호와는 나의 이름을 망령되이 일컫는 자를 죄 없다 하지 아니하리라",
+    "8| 안식일을 기억하여 거룩히 지키라",
+    "9| 엿새 동안은 힘써 네 모든 일을 행할 것이나",
+    "10| 제 칠일은 너의 하나님 여호와의 안식일인즉 너나 네 아들이나 네 딸이나 네 남종이나 네 여종이나 네 육축이나 네 문안에 유하는 객이라도 아무 일도 하지 말라",
+    "11| 이는 엿새 동안에 나 여호와가 하늘과 땅과 바다와 그 가운데 모든 것을 만들고 제 칠일에 쉬었음이라 그러므로 나 여호와가 안식일을 복되게 하여 그 날을 거룩하게 하였느니라",
+    "12| 네 부모를 공경하라 그리하면 너의 하나님 나 여호와가 네게 준 땅에서 네 생명이 길리라",
+    "13| 살인하지 말찌니라",
+    "14| 간음하지 말찌니라",
+    "15| 도적질하지 말찌니라",
+    "16| 네 이웃에 대하여 거짓 증거하지 말찌니라",
+    "17| 네 이웃의 집을 탐내지 말찌니라 네 이웃의 아내나 그의 남종이나 그의 여종이나 그의 소나 그의 나귀나 무릇 네 이웃의 소유를 탐내지 말찌니라",
+    "18| 뭇 백성이 우뢰와 번개와 나팔소리와 산의 연기를 본지라 그들이 볼 때에 떨며 멀리 서서",
+    "19| 모세에게 이르되 당신이 우리에게 말씀하소서 우리가 들으리이다 하나님이 우리에게 말씀하시지 말게 하소서 우리가 죽을까 하나이다",
+    "20| 모세가 백성에게 이르되 두려워 말라 하나님이 강림하심은 너희를 시험하고 너희로 경외하여 범죄치 않게 하려 하심이니라",
+    "21| 백성은 멀리 섰고 모세는 하나님의 계신 암흑으로 가까이 가니라",
+    "22| 여호와께서 모세에게 이르시되 너는 이스라엘 자손에게 이같이 이르라 내가 하늘에서부터 너희에게 말하는 것을 너희가 친히 보았으니",
+    "23| 너희는 나를 비겨서 은으로 신상이나 금으로 신상을 너희를 위하여 만들지 말고",
+    "24| 내게 토단을 쌓고 그 위에 너의 양과 소로 너의 번제와 화목제를 드리라 내가 무릇 내 이름을 기념하게 하는 곳에서 네게 강림하여 복을 주리라",
+    "25| 네가 내게 돌로 단을 쌓거든 다듬은 돌로 쌓지 말라 네가 정으로 그것을 쪼면 부정하게 함이니라",
+    "26| 너는 층계로 내 단에 오르지 말라 네 하체가 그 위에서 드러날까 함이니라",
 ]
 let encoded = ` “ ” `
-theirs = `1On the third new moon after the people of Israel had gone out of the land of Egypt, on that day they came into the wilderness of Sinai. 2They set out from Rephidim and came into the wilderness of Sinai, and they encamped in the wilderness. There Israel encamped before the mountain, 3while Moses went up to God. The Lord called to him out of the mountain, saying, “Thus you shall say to the house of Jacob, and tell the people of Israel: 4‘You yourselves have seen what I did to the Egyptians, and how I bore you on eagles’ wings and brought you to myself. 5Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine; 6and you shall be to me a kingdom of priests and a holy nation.’ These are the words that you shall speak to the people of Israel.”
-7So Moses came and called the elders of the people and set before them all these words that the Lord had commanded him. 8All the people answered together and said, “All that the Lord has spoken we will do.” And Moses reported the words of the people to the Lord. 9And the Lord said to Moses, “Behold, I am coming to you in a thick cloud, that the people may hear when I speak with you, and may also believe you forever.”
-When Moses told the words of the people to the Lord, 10the Lord said to Moses, “Go to the people and consecrate them today and tomorrow, and let them wash their garments 11and be ready for the third day. For on the third day the Lord will come down on Mount Sinai in the sight of all the people. 12And you shall set limits for the people all around, saying, ‘Take care not to go up into the mountain or touch the edge of it. Whoever touches the mountain shall be put to death. 13No hand shall touch him, but he shall be stoned or shot; whether beast or man, he shall not live.’ When the trumpet sounds a long blast, they shall come up to the mountain.” 14So Moses went down from the mountain to the people and consecrated the people; and they washed their garments. 15And he said to the people, “Be ready for the third day; do not go near a woman.”
-16On the morning of the third day there were thunders and lightnings and a thick cloud on the mountain and a very loud trumpet blast, so that all the people in the camp trembled. 17Then Moses brought the people out of the camp to meet God, and they took their stand at the foot of the mountain. 18Now Mount Sinai was wrapped in smoke because the Lord had descended on it in fire. The smoke of it went up like the smoke of a kiln, and the whole mountain trembled greatly. 19And as the sound of the trumpet grew louder and louder, Moses spoke, and God answered him in thunder. 20The Lord came down on Mount Sinai, to the top of the mountain. And the Lord called Moses to the top of the mountain, and Moses went up.
-21And the Lord said to Moses, “Go down and warn the people, lest they break through to the Lord to look and many of them perish. 22Also let the priests who come near to the Lord consecrate themselves, lest the Lord break out against them.” 23And Moses said to the Lord, “The people cannot come up to Mount Sinai, for you yourself warned us, saying, ‘Set limits around the mountain and consecrate it.’” 24And the Lord said to him, “Go down, and come up bringing Aaron with you. But do not let the priests and the people break through to come up to the Lord, lest he break out against them.” 25So Moses went down to the people and told them.`
+theirs = `1하나님이 이 모든 말씀으로 일러 가라사대 2나는 너를 애굽 땅, 종 되었던 집에서 인도하여 낸 너의 하나님 여호와로라 3너는 나 외에는 다른 신들을 네게 있게 말찌니라 4너를 위하여 새긴 우상을 만들지 말고 또 위로 하늘에 있는 것이나 아래로 땅에 있는 것이나 땅아래 물속에 있는 것의 아무 형상이든지 만들지 말며 5그것들에게 절하지 말며 그것들을 섬기지 말라 나 여호와 너의 하나님은 질투하는 하나님인즉 나를 미워하는 자의 죄를 갚되 아비로부터 아들에게로 삼 사대까지 이르게 하거니와 6나를 사랑하고 내 계명을 지키는 자에게는 천대까지 은혜를 베푸느니라 7너는 너의 하나님 여호와의 이름을 망령되이 일컫지 말라 나 여호와는 나의 이름을 망령되이 일컫는 자를 죄 없다 하지 아니하리라 8안식일을 기억하여 거룩히 지키라 9엿새 동안은 힘써 네 모든 일을 행할 것이나 10제 칠일은 너의 하나님 여호와의 안식일인즉 너나 네 아들이나 네 딸이나 네 남종이나 네 여종이나 네 육축이나 네 문안에 유하는 객이라도 아무 일도 하지 말라 11이는 엿새 동안에 나 여호와가 하늘과 땅과 바다와 그 가운데 모든 것을 만들고 제 칠일에 쉬었음이라 그러므로 나 여호와가 안식일을 복되게 하여 그 날을 거룩하게 하였느니라 12네 부모를 공경하라 그리하면 너의 하나님 나 여호와가 네게 준 땅에서 네 생명이 길리라
+13살인하지 말찌니라 14간음하지 말찌니라 15도적질하지 말찌니라 16네 이웃에 대하여 거짓 증거하지 말찌니라 17네 이웃의 집을 탐내지 말찌니라 네 이웃의 아내나 그의 남종이나 그의 여종이나 그의 소나 그의 나귀나 무릇 네 이웃의 소유를 탐내지 말찌니라 18뭇 백성이 우뢰와 번개와 나팔소리와 산의 연기를 본지라 그들이 볼 때에 떨며 멀리 서서
+19모세에게 이르되 당신이 우리에게 말씀하소서 우리가 들으리이다 하나님이 우리에게 말씀하시지 말게 하소서 우리가 죽을까 하나이다 20모세가 백성에게 이르되 두려워 말라 하나님이 강림하심은 너희를 시험하고 너희로 경외하여 범죄치 않게 하려 하심이니라 21백성은 멀리 섰고 모세는 하나님의 계신 암흑으로 가까이 가니라 22여호와께서 모세에게 이르시되 너는 이스라엘 자손에게 이같이 이르라 내가 하늘에서부터 너희에게 말하는 것을 너희가 친히 보았으니
+23너희는 나를 비겨서 은으로 신상이나 금으로 신상을 너희를 위하여 만들지 말고 24내게 토단을 쌓고 그 위에 너의 양과 소로 너의 번제와 화목제를 드리라 내가 무릇 내 이름을 기념하게 하는 곳에서 네게 강림하여 복을 주리라
+25네가 내게 돌로 단을 쌓거든 다듬은 돌로 쌓지 말라 네가 정으로 그것을 쪼면 부정하게 함이니라 26너는 층계로 내 단에 오르지 말라 네 하체가 그 위에서 드러날까 함이니라`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
