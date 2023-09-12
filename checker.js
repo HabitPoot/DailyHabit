@@ -1,55 +1,52 @@
 mine = [
-    "1| 네가 백성 앞에 세울 율례는 이러하니라",
-    "2| 네가 히브리 종을 사면 그가 육년 동안 섬길 것이요 제 칠년에는 값 없이 나가 자유할 것이며",
-    "3| 그가 단신으로 왔으면 단신으로 나갈 것이요 장가 들었으면 그 아내도 그와 함께 나가려니와",
-    "4| 상전이 그에게 아내를 줌으로 그 아내가 자녀간 낳았으면 그 아내와 그 자식들은 상전에게 속할 것이요 그는 단신으로 나갈 것이로되",
-    "5| 종이 진정으로 말하기를 내가 상전과 내 처자를 사랑하니 나가서 자유하지 않겠노라 하면",
-    "6| 상전이 그를 데리고 재판장에게로 갈 것이요 또 그를 문이나 문설주 앞으로 데리고 가서 그것에다가 송곳으로 그 귀를 뚫을 것이라 그가 영영히 그 상전을 섬기리라",
-    "7| 사람이 그 딸을 여종으로 팔았으면 그는 남종 같이 나오지 못할찌며",
-    "8| 만일 상전이 그를 기뻐아니하여 상관치 아니하면 그를 속신케 할 것이나 그 여자를 속임이 되었으니 타국인에게 팔지 못할 것이요",
-    "9| 만일 그를 자기 아들에게 주기로 하였으면 그를 딸 같이 대접할 것이요",
-    "10| 만일 상전이 달리 장가 들찌라도 그의 의복과 음식과 동침하는 것은 끊지 못할 것이요",
-    "11| 이 세 가지를 시행하지 아니하면 그는 속전을 내지 않고 거저 나가게 할 것이니라",
-    "12| 사람을 쳐 죽인 자는 반드시 죽일 것이나",
-    "13| 만일 사람이 계획함이 아니라 나 하나님이 사람을 그 손에 붙임이면 내가 위하여 한 곳을 정하리니 그 사람이 그리로 도망할 것이며",
-    "14| 사람이 그 이웃을 짐짓 모살하였으면 너는 그를 내 단에서라도 잡아내려 죽일찌니라",
-    "15| 자기 아비나 어미를 치는 자는 반드시 죽일찌니라",
-    "16| 사람을 후린 자가 그 사람을 팔았든지 자기 수하에 두었든지 그를 반드시 죽일찌니라",
-    "17| 그 아비나 어미를 저주하는 자는 반드시 죽일찌니라",
-    "18| 사람이 서로 싸우다가 하나가 돌이나 주먹으로 그 적수를 쳤으나 그가 죽지 않고 자리에 누웠다가",
-    "19| 지팡이를 짚고 기동하면 그를 친 자가 형벌은 면하되 기간 손해를 배상하고 그로 전치되게 할찌니라",
-    "20| 사람이 매로 그 남종이나 여종을 쳐서 당장에 죽으면 반드시 형벌을 받으려니와",
-    "21| 그가 일일이나 이일을 연명하면 형벌을 면하리니 그는 상전의 금전임이니라",
-    "22| 사람이 서로 싸우다가 아이 밴 여인을 다쳐 낙태케 하였으나 다른 해가 없으면 그 남편의 청구대로 반드시 벌금을 내되 재판장의 판결을 좇아 낼 것이니라",
-    "23| 그러나 다른 해가 있으면 갚되 생명은 생명으로,",
-    "24| 눈은 눈으로, 이는 이로, 손은 손으로, 발은 발로,",
-    "25| 데운 것은 데움으로, 상하게 한 것은 상함으로, 때린 것은 때림으로 갚을찌니라",
-    "26| 사람이 그 남종의 한 눈이나 여종의 한 눈을 쳐서 상하게 하면 그 눈 대신에 그를 놓을 것이며",
-    "27| 그 남종의 한 이나 여종의 한 이를 쳐서 빠뜨리면 그 이 대신에 그를 놓을찌니라",
-    "28| 소가 남자나 여자를 받아서 죽이면 그 소는 반드시 돌에 맞아 죽을 것이요 그 고기는 먹지 말것이며 임자는 형벌을 면하려니와",
-    "29| 소는 본래 받는 버릇이 있고 그 임자는 그로 인하여 경고를 받았으되 단속하지 아니하므로 남녀간에 받아 죽이면 그 소는 돌로 쳐 죽일 것이고 임자도 죽일 것이며",
-    "30| 만일 그에게 속죄금을 명하면 무릇 그 명한 것을 생명의 속으로 낼 것이요",
-    "31| 아들을 받든지 딸을 받든지 이 율례대로 그 임자에게 행할 것이며",
-    "32| 소가 만일 남종이나 여종을 받으면 소 임자가 은 삼십 세겔을 그 상전에게 줄 것이요 소는 돌에 맞아 죽을찌니라",
-    "33| 사람이 구덩이를 열어 두거나 구덩이를 파고 덮지 아니함으로 소나 나귀가 거기 빠지면",
-    "34| 그 구덩이 주인이 잘 조처하여 짐승의 임자에게 돈을 줄 것이요 죽은 것은 그의 차지가 될찌니라",
-    "35| 이 사람의 소가 저 사람의 소를 받아 죽이면 산 소를 팔아 그 값을 반분하고 죽은 것도 반분하려니와",
-    "36| 그 소가 본래 받는 버릇이 있는 줄을 알고도 그 임자가 단속하지 아니하였으면 그는 소로 소를 갚을 것이요 죽은 것은 그의 차지가 될찌니라",
+    "1| \"If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and four sheep for a sheep.",
+    "2| If a thief is found breaking in and is struck so that he dies, there shall be no bloodguilt for him,",
+    "3| but if the sun has risen on him, there shall be bloodguilt for him. He shall surely pay. If he has nothing, then he shall be sold for his theft.",
+    "4| If the stolen beast is found alive in his possession, whether it is an ox or a donkey or a sheep, he shall pay double.",
+    "5| \"If a man causes a field or vineyard to be grazed over, or lets his beast loose and it feeds in another man's field, he shall make restitution from the best in his own field and in his own vineyard.",
+    "6| \"If fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field is consumed, he who started the fire shall make full restitution.",
+    "7| \"If a man gives to his neighbor money or goods to keep safe, and it is stolen from the man's house, then, if the thief is found, he shall pay double.",
+    "8| If the thief is not found, the owner of the house shall come near to God to show whether or not he has put his hand to his neighbor's property.",
+    "9| For every breach of trust, whether it is for an ox, for a donkey, for a sheep, for a cloak, or for any kind of lost thing, of which one says, 'This is it,' the case of both parties shall come before God. The one whom God condemns shall pay double to his neighbor.",
+    "10| \"If a man gives to his neighbor a donkey or an ox or a sheep or any beast to keep safe, and it dies or is injured or is driven away, without anyone seeing it,",
+    "11| an oath by the Lord shall be between them both to see whether or not he has put his hand to his neighbor's property. The owner shall accept the oath, and he shall not make restitution.",
+    "12| But if it is stolen from him, he shall make restitution to its owner.",
+    "13| If it is torn by beasts, let him bring it as evidence. He shall not make restitution for what has been torn.",
+    "14| \"If a man borrows anything of his neighbor, and it is injured or dies, the owner not being with it, he shall make full restitution.",
+    "15| If the owner was with it, he shall not make restitution; if it was hired, it came for its hiring fee.",
+    "16| \"If a man seduces a virgin who is not betrothed and lies with her, he shall give the bride-price for her and make her his wife.",
+    "17| If her father utterly refuses to give her to him, he shall pay money equal to the bride-price for virgins.",
+    "18| \"You shall not permit a sorceress to live.",
+    "19| \"Whoever lies with an animal shall be put to death.",
+    "20| \"Whoever sacrifices to any god, other than the Lord alone, shall be devoted to destruction.",
+    "21| \"You shall not wrong a sojourner or oppress him, for you were sojourners in the land of Egypt.",
+    "22| You shall not mistreat any widow or fatherless child.",
+    "23| If you do mistreat them, and they cry out to me, I will surely hear their cry,",
+    "24| and my wrath will burn, and I will kill you with the sword, and your wives shall become widows and your children fatherless.",
+    "25| \"If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him.",
+    "26| If ever you take your neighbor's cloak in pledge, you shall return it to him before the sun goes down,",
+    "27| for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he cries to me, I will hear, for I am compassionate.",
+    "28| \"You shall not revile God, nor curse a ruler of your people.",
+    "29| \"You shall not delay to offer from the fullness of your harvest and from the outflow of your presses. The firstborn of your sons you shall give to me.",
+    "30| You shall do the same with your oxen and with your sheep: seven days it shall be with its mother; on the eighth day you shall give it to me.",
+    "31| \"You shall be consecrated to me. Therefore you shall not eat any flesh that is torn by beasts in the field; you shall throw it to the dogs.",
 ]
 let encoded = ` “ ” `
-theirs = `1네가 백성 앞에 세울 율례는 이러하니라 2네가 히브리 종을 사면 그가 육년 동안 섬길 것이요 제 칠년에는 값 없이 나가 자유할 것이며 3그가 단신으로 왔으면 단신으로 나갈 것이요 장가 들었으면 그 아내도 그와 함께 나가려니와 4상전이 그에게 아내를 줌으로 그 아내가 자녀간 낳았으면 그 아내와 그 자식들은 상전에게 속할 것이요 그는 단신으로 나갈 것이로되 5종이 진정으로 말하기를 내가 상전과 내 처자를 사랑하니 나가서 자유하지 않겠노라 하면 6상전이 그를 데리고 재판장에게로 갈 것이요 또 그를 문이나 문설주 앞으로 데리고 가서 그것에다가 송곳으로 그 귀를 뚫을 것이라 그가 영영히 그 상전을 섬기리라 7사람이 그 딸을 여종으로 팔았으면 그는 남종 같이 나오지 못할찌며
-8만일 상전이 그를 기뻐아니하여 상관치 아니하면 그를 속신케 할 것이나 그 여자를 속임이 되었으니 타국인에게 팔지 못할 것이요 9만일 그를 자기 아들에게 주기로 하였으면 그를 딸 같이 대접할 것이요 10만일 상전이 달리 장가 들찌라도 그의 의복과 음식과 동침하는 것은 끊지 못할 것이요 11이 세 가지를 시행하지 아니하면 그는 속전을 내지 않고 거저 나가게 할 것이니라 12사람을 쳐 죽인 자는 반드시 죽일 것이나
-13만일 사람이 계획함이 아니라 나 하나님이 사람을 그 손에 붙임이면 내가 위하여 한 곳을 정하리니 그 사람이 그리로 도망할 것이며 14사람이 그 이웃을 짐짓 모살하였으면 너는 그를 내 단에서라도 잡아내려 죽일찌니라 15자기 아비나 어미를 치는 자는 반드시 죽일찌니라
-16사람을 후린 자가 그 사람을 팔았든지 자기 수하에 두었든지 그를 반드시 죽일찌니라
-17그 아비나 어미를 저주하는 자는 반드시 죽일찌니라
-18사람이 서로 싸우다가 하나가 돌이나 주먹으로 그 적수를 쳤으나 그가 죽지 않고 자리에 누웠다가
-19지팡이를 짚고 기동하면 그를 친 자가 형벌은 면하되 기간 손해를 배상하고 그로 전치되게 할찌니라 20사람이 매로 그 남종이나 여종을 쳐서 당장에 죽으면 반드시 형벌을 받으려니와
-21그가 일일이나 이일을 연명하면 형벌을 면하리니 그는 상전의 금전임이니라 22사람이 서로 싸우다가 아이 밴 여인을 다쳐 낙태케 하였으나 다른 해가 없으면 그 남편의 청구대로 반드시 벌금을 내되 재판장의 판결을 좇아 낼 것이니라
-23그러나 다른 해가 있으면 갚되 생명은 생명으로, 24눈은 눈으로, 이는 이로, 손은 손으로, 발은 발로, 25데운 것은 데움으로, 상하게 한 것은 상함으로, 때린 것은 때림으로 갚을찌니라 26사람이 그 남종의 한 눈이나 여종의 한 눈을 쳐서 상하게 하면 그 눈 대신에 그를 놓을 것이며
-27그 남종의 한 이나 여종의 한 이를 쳐서 빠뜨리면 그 이 대신에 그를 놓을찌니라 28소가 남자나 여자를 받아서 죽이면 그 소는 반드시 돌에 맞아 죽을 것이요 그 고기는 먹지 말것이며 임자는 형벌을 면하려니와
-29소는 본래 받는 버릇이 있고 그 임자는 그로 인하여 경고를 받았으되 단속하지 아니하므로 남녀간에 받아 죽이면 그 소는 돌로 쳐 죽일 것이고 임자도 죽일 것이며 30만일 그에게 속죄금을 명하면 무릇 그 명한 것을 생명의 속으로 낼 것이요 31아들을 받든지 딸을 받든지 이 율례대로 그 임자에게 행할 것이며 32소가 만일 남종이나 여종을 받으면 소 임자가 은 삼십 세겔을 그 상전에게 줄 것이요 소는 돌에 맞아 죽을찌니라 33사람이 구덩이를 열어 두거나 구덩이를 파고 덮지 아니함으로 소나 나귀가 거기 빠지면
-34그 구덩이 주인이 잘 조처하여 짐승의 임자에게 돈을 줄 것이요 죽은 것은 그의 차지가 될찌니라 35이 사람의 소가 저 사람의 소를 받아 죽이면 산 소를 팔아 그 값을 반분하고 죽은 것도 반분하려니와
-36그 소가 본래 받는 버릇이 있는 줄을 알고도 그 임자가 단속하지 아니하였으면 그는 소로 소를 갚을 것이요 죽은 것은 그의 차지가 될찌니라`
+theirs = `1“If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and four sheep for a sheep. 2If a thief is found breaking in and is struck so that he dies, there shall be no bloodguilt for him, 3but if the sun has risen on him, there shall be bloodguilt for him. He shall surely pay. If he has nothing, then he shall be sold for his theft. 4If the stolen beast is found alive in his possession, whether it is an ox or a donkey or a sheep, he shall pay double.
+5“If a man causes a field or vineyard to be grazed over, or lets his beast loose and it feeds in another man’s field, he shall make restitution from the best in his own field and in his own vineyard.
+6“If fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field is consumed, he who started the fire shall make full restitution.
+7“If a man gives to his neighbor money or goods to keep safe, and it is stolen from the man’s house, then, if the thief is found, he shall pay double. 8If the thief is not found, the owner of the house shall come near to God to show whether or not he has put his hand to his neighbor’s property. 9For every breach of trust, whether it is for an ox, for a donkey, for a sheep, for a cloak, or for any kind of lost thing, of which one says, ‘This is it,’ the case of both parties shall come before God. The one whom God condemns shall pay double to his neighbor.
+10“If a man gives to his neighbor a donkey or an ox or a sheep or any beast to keep safe, and it dies or is injured or is driven away, without anyone seeing it, 11an oath by the Lord shall be between them both to see whether or not he has put his hand to his neighbor’s property. The owner shall accept the oath, and he shall not make restitution. 12But if it is stolen from him, he shall make restitution to its owner. 13If it is torn by beasts, let him bring it as evidence. He shall not make restitution for what has been torn.
+14“If a man borrows anything of his neighbor, and it is injured or dies, the owner not being with it, he shall make full restitution. 15If the owner was with it, he shall not make restitution; if it was hired, it came for its hiring fee.
+16“If a man seduces a virgin who is not betrothed and lies with her, he shall give the bride-price for her and make her his wife. 17If her father utterly refuses to give her to him, he shall pay money equal to the bride-price for virgins.
+18“You shall not permit a sorceress to live.
+19“Whoever lies with an animal shall be put to death.
+20“Whoever sacrifices to any god, other than the Lord alone, shall be devoted to destruction.
+21“You shall not wrong a sojourner or oppress him, for you were sojourners in the land of Egypt. 22You shall not mistreat any widow or fatherless child. 23If you do mistreat them, and they cry out to me, I will surely hear their cry, 24and my wrath will burn, and I will kill you with the sword, and your wives shall become widows and your children fatherless.
+25“If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him. 26If ever you take your neighbor’s cloak in pledge, you shall return it to him before the sun goes down, 27for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he cries to me, I will hear, for I am compassionate.
+28“You shall not revile God, nor curse a ruler of your people.
+29“You shall not delay to offer from the fullness of your harvest and from the outflow of your presses. The firstborn of your sons you shall give to me. 30You shall do the same with your oxen and with your sheep: seven days it shall be with its mother; on the eighth day you shall give it to me.
+31“You shall be consecrated to me. Therefore you shall not eat any flesh that is torn by beasts in the field; you shall throw it to the dogs.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
