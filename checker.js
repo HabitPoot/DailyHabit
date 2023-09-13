@@ -1,52 +1,53 @@
 mine = [
-    "1| \"If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and four sheep for a sheep.",
-    "2| If a thief is found breaking in and is struck so that he dies, there shall be no bloodguilt for him,",
-    "3| but if the sun has risen on him, there shall be bloodguilt for him. He shall surely pay. If he has nothing, then he shall be sold for his theft.",
-    "4| If the stolen beast is found alive in his possession, whether it is an ox or a donkey or a sheep, he shall pay double.",
-    "5| \"If a man causes a field or vineyard to be grazed over, or lets his beast loose and it feeds in another man's field, he shall make restitution from the best in his own field and in his own vineyard.",
-    "6| \"If fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field is consumed, he who started the fire shall make full restitution.",
-    "7| \"If a man gives to his neighbor money or goods to keep safe, and it is stolen from the man's house, then, if the thief is found, he shall pay double.",
-    "8| If the thief is not found, the owner of the house shall come near to God to show whether or not he has put his hand to his neighbor's property.",
-    "9| For every breach of trust, whether it is for an ox, for a donkey, for a sheep, for a cloak, or for any kind of lost thing, of which one says, 'This is it,' the case of both parties shall come before God. The one whom God condemns shall pay double to his neighbor.",
-    "10| \"If a man gives to his neighbor a donkey or an ox or a sheep or any beast to keep safe, and it dies or is injured or is driven away, without anyone seeing it,",
-    "11| an oath by the Lord shall be between them both to see whether or not he has put his hand to his neighbor's property. The owner shall accept the oath, and he shall not make restitution.",
-    "12| But if it is stolen from him, he shall make restitution to its owner.",
-    "13| If it is torn by beasts, let him bring it as evidence. He shall not make restitution for what has been torn.",
-    "14| \"If a man borrows anything of his neighbor, and it is injured or dies, the owner not being with it, he shall make full restitution.",
-    "15| If the owner was with it, he shall not make restitution; if it was hired, it came for its hiring fee.",
-    "16| \"If a man seduces a virgin who is not betrothed and lies with her, he shall give the bride-price for her and make her his wife.",
-    "17| If her father utterly refuses to give her to him, he shall pay money equal to the bride-price for virgins.",
-    "18| \"You shall not permit a sorceress to live.",
-    "19| \"Whoever lies with an animal shall be put to death.",
-    "20| \"Whoever sacrifices to any god, other than the Lord alone, shall be devoted to destruction.",
-    "21| \"You shall not wrong a sojourner or oppress him, for you were sojourners in the land of Egypt.",
-    "22| You shall not mistreat any widow or fatherless child.",
-    "23| If you do mistreat them, and they cry out to me, I will surely hear their cry,",
-    "24| and my wrath will burn, and I will kill you with the sword, and your wives shall become widows and your children fatherless.",
-    "25| \"If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him.",
-    "26| If ever you take your neighbor's cloak in pledge, you shall return it to him before the sun goes down,",
-    "27| for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he cries to me, I will hear, for I am compassionate.",
-    "28| \"You shall not revile God, nor curse a ruler of your people.",
-    "29| \"You shall not delay to offer from the fullness of your harvest and from the outflow of your presses. The firstborn of your sons you shall give to me.",
-    "30| You shall do the same with your oxen and with your sheep: seven days it shall be with its mother; on the eighth day you shall give it to me.",
-    "31| \"You shall be consecrated to me. Therefore you shall not eat any flesh that is torn by beasts in the field; you shall throw it to the dogs.",
+    "1| \"You shall not spread a false report. You shall not join hands with a wicked man to be a malicious witness.",
+    "2| You shall not fall in with the many to do evil, nor shall you bear witness in a lawsuit, siding with the many, so as to pervert justice,",
+    "3| nor shall you be partial to a poor man in his lawsuit.",
+    "4| \"If you meet your enemy's ox or his donkey going astray, you shall bring it back to him.",
+    "5| If you see the donkey of one who hates you lying down under its burden, you shall refrain from leaving him with it; you shall rescue it with him.",
+    "6| \"You shall not pervert the justice due to your poor in his lawsuit.",
+    "7| Keep far from a false charge, and do not kill the innocent and righteous, for I will not acquit the wicked.",
+    "8| And you shall take no bribe, for a bribe blinds the clear-sighted and subverts the cause of those who are in the right.",
+    "9| \"You shall not oppress a sojourner. You know the heart of a sojourner, for you were sojourners in the land of Egypt.",
+    "10| \"For six years you shall sow your land and gather in its yield,",
+    "11| but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the beasts of the field may eat. You shall do likewise with your vineyard, and with your olive orchard.",
+    "12| \"Six days you shall do your work, but on the seventh day you shall rest; that your ox and your donkey may have rest, and the son of your servant woman, and the alien, may be refreshed.",
+    "13| \"Pay attention to all that I have said to you, and make no mention of the names of other gods, nor let it be heard on your lips.",
+    "14| \"Three times in the year you shall keep a feast to me.",
+    "15| You shall keep the Feast of Unleavened Bread. As I commanded you, you shall eat unleavened bread for seven days at the appointed time in the month of Abib, for in it you came out of Egypt. None shall appear before me empty-handed.",
+    "16| You shall keep the Feast of Harvest, of the firstfruits of your labor, of what you sow in the field. You shall keep the Feast of Ingathering at the end of the year, when you gather in from the field the fruit of your labor.",
+    "17| Three times in the year shall all your males appear before the Lord God.",
+    "18| \"You shall not offer the blood of my sacrifice with anything leavened, or let the fat of my feast remain until the morning.",
+    "19| \"The best of the firstfruits of your ground you shall bring into the house of the Lord your God. \"You shall not boil a young goat in its mother's milk.",
+    "20| \"Behold, I send an angel before you to guard you on the way and to bring you to the place that I have prepared.",
+    "21| Pay careful attention to him and obey his voice; do not rebel against him, for he will not pardon your transgression, for my name is in him.",
+    "22| \"But if you carefully obey his voice and do all that I say, then I will be an enemy to your enemies and an adversary to your adversaries.",
+    "23| \"When my angel goes before you and brings you to the Amorites and the Hittites and the Perizzites and the Canaanites, the Hivites and the Jebusites, and I blot them out,",
+    "24| you shall not bow down to their gods nor serve them, nor do as they do, but you shall utterly overthrow them and break their pillars in pieces.",
+    "25| You shall serve the Lord your God, and he will bless your bread and your water, and I will take sickness away from among you.",
+    "26| None shall miscarry or be barren in your land; I will fulfill the number of your days.",
+    "27| I will send my terror before you and will throw into confusion all the people against whom you shall come, and I will make all your enemies turn their backs to you.",
+    "28| And I will send hornets before you, which shall drive out the Hivites, the Canaanites, and the Hittites from before you.",
+    "29| I will not drive them out from before you in one year, lest the land become desolate and the wild beasts multiply against you.",
+    "30| Little by little I will drive them out from before you, until you have increased and possess the land.",
+    "31| And I will set your border from the Red Sea to the Sea of the Philistines, and from the wilderness to the Euphrates, for I will give the inhabitants of the land into your hand, and you shall drive them out before you.",
+    "32| You shall make no covenant with them and their gods.",
+    "33| They shall not dwell in your land, lest they make you sin against me; for if you serve their gods, it will surely be a snare to you.\"",
 ]
 let encoded = ` “ ” `
-theirs = `1“If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and four sheep for a sheep. 2If a thief is found breaking in and is struck so that he dies, there shall be no bloodguilt for him, 3but if the sun has risen on him, there shall be bloodguilt for him. He shall surely pay. If he has nothing, then he shall be sold for his theft. 4If the stolen beast is found alive in his possession, whether it is an ox or a donkey or a sheep, he shall pay double.
-5“If a man causes a field or vineyard to be grazed over, or lets his beast loose and it feeds in another man’s field, he shall make restitution from the best in his own field and in his own vineyard.
-6“If fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field is consumed, he who started the fire shall make full restitution.
-7“If a man gives to his neighbor money or goods to keep safe, and it is stolen from the man’s house, then, if the thief is found, he shall pay double. 8If the thief is not found, the owner of the house shall come near to God to show whether or not he has put his hand to his neighbor’s property. 9For every breach of trust, whether it is for an ox, for a donkey, for a sheep, for a cloak, or for any kind of lost thing, of which one says, ‘This is it,’ the case of both parties shall come before God. The one whom God condemns shall pay double to his neighbor.
-10“If a man gives to his neighbor a donkey or an ox or a sheep or any beast to keep safe, and it dies or is injured or is driven away, without anyone seeing it, 11an oath by the Lord shall be between them both to see whether or not he has put his hand to his neighbor’s property. The owner shall accept the oath, and he shall not make restitution. 12But if it is stolen from him, he shall make restitution to its owner. 13If it is torn by beasts, let him bring it as evidence. He shall not make restitution for what has been torn.
-14“If a man borrows anything of his neighbor, and it is injured or dies, the owner not being with it, he shall make full restitution. 15If the owner was with it, he shall not make restitution; if it was hired, it came for its hiring fee.
-16“If a man seduces a virgin who is not betrothed and lies with her, he shall give the bride-price for her and make her his wife. 17If her father utterly refuses to give her to him, he shall pay money equal to the bride-price for virgins.
-18“You shall not permit a sorceress to live.
-19“Whoever lies with an animal shall be put to death.
-20“Whoever sacrifices to any god, other than the Lord alone, shall be devoted to destruction.
-21“You shall not wrong a sojourner or oppress him, for you were sojourners in the land of Egypt. 22You shall not mistreat any widow or fatherless child. 23If you do mistreat them, and they cry out to me, I will surely hear their cry, 24and my wrath will burn, and I will kill you with the sword, and your wives shall become widows and your children fatherless.
-25“If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him. 26If ever you take your neighbor’s cloak in pledge, you shall return it to him before the sun goes down, 27for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he cries to me, I will hear, for I am compassionate.
-28“You shall not revile God, nor curse a ruler of your people.
-29“You shall not delay to offer from the fullness of your harvest and from the outflow of your presses. The firstborn of your sons you shall give to me. 30You shall do the same with your oxen and with your sheep: seven days it shall be with its mother; on the eighth day you shall give it to me.
-31“You shall be consecrated to me. Therefore you shall not eat any flesh that is torn by beasts in the field; you shall throw it to the dogs.`
+theirs = `1“You shall not spread a false report. You shall not join hands with a wicked man to be a malicious witness. 2You shall not fall in with the many to do evil, nor shall you bear witness in a lawsuit, siding with the many, so as to pervert justice, 3nor shall you be partial to a poor man in his lawsuit.
+4“If you meet your enemy’s ox or his donkey going astray, you shall bring it back to him. 5If you see the donkey of one who hates you lying down under its burden, you shall refrain from leaving him with it; you shall rescue it with him.
+6“You shall not pervert the justice due to your poor in his lawsuit. 7Keep far from a false charge, and do not kill the innocent and righteous, for I will not acquit the wicked. 8And you shall take no bribe, for a bribe blinds the clear-sighted and subverts the cause of those who are in the right.
+9“You shall not oppress a sojourner. You know the heart of a sojourner, for you were sojourners in the land of Egypt.
+10“For six years you shall sow your land and gather in its yield, 11but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the beasts of the field may eat. You shall do likewise with your vineyard, and with your olive orchard.
+12“Six days you shall do your work, but on the seventh day you shall rest; that your ox and your donkey may have rest, and the son of your servant woman, and the alien, may be refreshed.
+13“Pay attention to all that I have said to you, and make no mention of the names of other gods, nor let it be heard on your lips.
+14“Three times in the year you shall keep a feast to me. 15You shall keep the Feast of Unleavened Bread. As I commanded you, you shall eat unleavened bread for seven days at the appointed time in the month of Abib, for in it you came out of Egypt. None shall appear before me empty-handed. 16You shall keep the Feast of Harvest, of the firstfruits of your labor, of what you sow in the field. You shall keep the Feast of Ingathering at the end of the year, when you gather in from the field the fruit of your labor. 17Three times in the year shall all your males appear before the Lord God.
+18“You shall not offer the blood of my sacrifice with anything leavened, or let the fat of my feast remain until the morning.
+19“The best of the firstfruits of your ground you shall bring into the house of the Lord your God.
+“You shall not boil a young goat in its mother’s milk.
+20“Behold, I send an angel before you to guard you on the way and to bring you to the place that I have prepared. 21Pay careful attention to him and obey his voice; do not rebel against him, for he will not pardon your transgression, for my name is in him.
+22“But if you carefully obey his voice and do all that I say, then I will be an enemy to your enemies and an adversary to your adversaries.
+23“When my angel goes before you and brings you to the Amorites and the Hittites and the Perizzites and the Canaanites, the Hivites and the Jebusites, and I blot them out, 24you shall not bow down to their gods nor serve them, nor do as they do, but you shall utterly overthrow them and break their pillars in pieces. 25You shall serve the Lord your God, and he will bless your bread and your water, and I will take sickness away from among you. 26None shall miscarry or be barren in your land; I will fulfill the number of your days. 27I will send my terror before you and will throw into confusion all the people against whom you shall come, and I will make all your enemies turn their backs to you. 28And I will send hornets before you, which shall drive out the Hivites, the Canaanites, and the Hittites from before you. 29I will not drive them out from before you in one year, lest the land become desolate and the wild beasts multiply against you. 30Little by little I will drive them out from before you, until you have increased and possess the land. 31And I will set your border from the Red Sea to the Sea of the Philistines, and from the wilderness to the Euphrates, for I will give the inhabitants of the land into your hand, and you shall drive them out before you. 32You shall make no covenant with them and their gods. 33They shall not dwell in your land, lest they make you sin against me; for if you serve their gods, it will surely be a snare to you.”`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
