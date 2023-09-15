@@ -1,29 +1,51 @@
 mine = [
-    "1| Then he said to Moses, \"Come up to the Lord, you and Aaron, Nadab, and Abihu, and seventy of the elders of Israel, and worship from afar.",
-    "2| Moses alone shall come near to the Lord, but the others shall not come near, and the people shall not come up with him.\"",
-    "3| Moses came and told the people all the words of the Lord and all the rules. And all the people answered with one voice and said, \"All the words that the Lord has spoken we will do.\"",
-    "4| And Moses wrote down all the words of the Lord. He rose early in the morning and built an altar at the foot of the mountain, and twelve pillars, according to the twelve tribes of Israel.",
-    "5| And he sent young men of the people of Israel, who offered burnt offerings and sacrificed peace offerings of oxen to the Lord.",
-    "6| And Moses took half of the blood and put it in basins, and half of the blood he threw against the altar.",
-    "7| Then he took the Book of the Covenant and read it in the hearing of the people. And they said, \"All that the Lord has spoken we will do, and we will be obedient.\"",
-    "8| And Moses took the blood and threw it on the people and said, \"Behold the blood of the covenant that the Lord has made with you in accordance with all these words.\"",
-    "9| Then Moses and Aaron, Nadab, and Abihu, and seventy of the elders of Israel went up,",
-    "10| and they saw the God of Israel. There was under his feet as it were a pavement of sapphire stone, like the very heaven for clearness.",
-    "11| And he did not lay his hand on the chief men of the people of Israel; they beheld God, and ate and drank.",
-    "12| The Lord said to Moses, \"Come up to me on the mountain and wait there, that I may give you the tablets of stone, with the law and the commandment, which I have written for their instruction.\"",
-    "13| So Moses rose with his assistant Joshua, and Moses went up into the mountain of God.",
-    "14| And he said to the elders, \"Wait here for us until we return to you. And behold, Aaron and Hur are with you. Whoever has a dispute, let him go to them.\"",
-    "15| Then Moses went up on the mountain, and the cloud covered the mountain.",
-    "16| The glory of the Lord dwelt on Mount Sinai, and the cloud covered it six days. And on the seventh day he called to Moses out of the midst of the cloud.",
-    "17| Now the appearance of the glory of the Lord was like a devouring fire on the top of the mountain in the sight of the people of Israel.",
-    "18| Moses entered the cloud and went up on the mountain. And Moses was on the mountain forty days and forty nights.",
+    "1| The Lord said to Moses,",
+    "2| \"Speak to the people of Israel, that they take for me a contribution. From every man whose heart moves him you shall receive the contribution for me.",
+    "3| And this is the contribution that you shall receive from them: gold, silver, and bronze,",
+    "4| blue and purple and scarlet yarns and fine twined linen, goats' hair,",
+    "5| tanned rams' skins, goatskins, acacia wood,",
+    "6| oil for the lamps, spices for the anointing oil and for the fragrant incense,",
+    "7| onyx stones, and stones for setting, for the ephod and for the breastpiece.",
+    "8| And let them make me a sanctuary, that I may dwell in their midst.",
+    "9| Exactly as I show you concerning the pattern of the tabernacle, and of all its furniture, so you shall make it.",
+    "10| \"They shall make an ark of acacia wood. Two cubits and a half shall be its length, a cubit and a half its breadth, and a cubit and a half its height.",
+    "11| You shall overlay it with pure gold, inside and outside shall you overlay it, and you shall make on it a molding of gold around it.",
+    "12| You shall cast four rings of gold for it and put them on its four feet, two rings on the one side of it, and two rings on the other side of it.",
+    "13| You shall make poles of acacia wood and overlay them with gold.",
+    "14| And you shall put the poles into the rings on the sides of the ark to carry the ark by them.",
+    "15| The poles shall remain in the rings of the ark; they shall not be taken from it.",
+    "16| And you shall put into the ark the testimony that I shall give you.",
+    "17| \"You shall make a mercy seat of pure gold. Two cubits and a half shall be its length, and a cubit and a half its breadth.",
+    "18| And you shall make two cherubim of gold; of hammered work shall you make them, on the two ends of the mercy seat.",
+    "19| Make one cherub on the one end, and one cherub on the other end. Of one piece with the mercy seat shall you make the cherubim on its two ends.",
+    "20| The cherubim shall spread out their wings above, overshadowing the mercy seat with their wings, their faces one to another; toward the mercy seat shall the faces of the cherubim be.",
+    "21| And you shall put the mercy seat on the top of the ark, and in the ark you shall put the testimony that I shall give you.",
+    "22| There I will meet with you, and from above the mercy seat, from between the two cherubim that are on the ark of the testimony, I will speak with you about all that I will give you in commandment for the people of Israel.",
+    "23| \"You shall make a table of acacia wood. Two cubits shall be its length, a cubit its breadth, and a cubit and a half its height.",
+    "24| You shall overlay it with pure gold and make a molding of gold around it.",
+    "25| And you shall make a rim around it a handbreadth wide, and a molding of gold around the rim.",
+    "26| And you shall make for it four rings of gold, and fasten the rings to the four corners at its four legs.",
+    "27| Close to the frame the rings shall lie, as holders for the poles to carry the table.",
+    "28| You shall make the poles of acacia wood, and overlay them with gold, and the table shall be carried with these.",
+    "29| And you shall make its plates and dishes for incense, and its flagons and bowls with which to pour drink offerings; you shall make them of pure gold.",
+    "30| And you shall set the bread of the Presence on the table before me regularly.",
+    "31| \"You shall make a lampstand of pure gold. The lampstand shall be made of hammered work: its base, its stem, its cups, its calyxes, and its flowers shall be of one piece with it.",
+    "32| And there shall be six branches going out of its sides, three branches of the lampstand out of one side of it and three branches of the lampstand out of the other side of it;",
+    "33| three cups made like almond blossoms, each with calyx and flower, on one branch, and three cups made like almond blossoms, each with calyx and flower, on the other branch-so for the six branches going out of the lampstand.",
+    "34| And on the lampstand itself there shall be four cups made like almond blossoms, with their calyxes and flowers,",
+    "35| and a calyx of one piece with it under each pair of the six branches going out from the lampstand.",
+    "36| Their calyxes and their branches shall be of one piece with it, the whole of it a single piece of hammered work of pure gold.",
+    "37| You shall make seven lamps for it. And the lamps shall be set up so as to give light on the space in front of it.",
+    "38| Its tongs and their trays shall be of pure gold.",
+    "39| It shall be made, with all these utensils, out of a talent of pure gold.",
+    "40| And see that you make them after the pattern for them, which is being shown you on the mountain.",
 ]
 let encoded = ` “ ” `
-theirs = `1Then he said to Moses, “Come up to the Lord, you and Aaron, Nadab, and Abihu, and seventy of the elders of Israel, and worship from afar. 2Moses alone shall come near to the Lord, but the others shall not come near, and the people shall not come up with him.”
-3Moses came and told the people all the words of the Lord and all the rules. And all the people answered with one voice and said, “All the words that the Lord has spoken we will do.” 4And Moses wrote down all the words of the Lord. He rose early in the morning and built an altar at the foot of the mountain, and twelve pillars, according to the twelve tribes of Israel. 5And he sent young men of the people of Israel, who offered burnt offerings and sacrificed peace offerings of oxen to the Lord. 6And Moses took half of the blood and put it in basins, and half of the blood he threw against the altar. 7Then he took the Book of the Covenant and read it in the hearing of the people. And they said, “All that the Lord has spoken we will do, and we will be obedient.” 8And Moses took the blood and threw it on the people and said, “Behold the blood of the covenant that the Lord has made with you in accordance with all these words.”
-9Then Moses and Aaron, Nadab, and Abihu, and seventy of the elders of Israel went up, 10and they saw the God of Israel. There was under his feet as it were a pavement of sapphire stone, like the very heaven for clearness. 11And he did not lay his hand on the chief men of the people of Israel; they beheld God, and ate and drank.
-12The Lord said to Moses, “Come up to me on the mountain and wait there, that I may give you the tablets of stone, with the law and the commandment, which I have written for their instruction.” 13So Moses rose with his assistant Joshua, and Moses went up into the mountain of God. 14And he said to the elders, “Wait here for us until we return to you. And behold, Aaron and Hur are with you. Whoever has a dispute, let him go to them.”
-15Then Moses went up on the mountain, and the cloud covered the mountain. 16The glory of the Lord dwelt on Mount Sinai, and the cloud covered it six days. And on the seventh day he called to Moses out of the midst of the cloud. 17Now the appearance of the glory of the Lord was like a devouring fire on the top of the mountain in the sight of the people of Israel. 18Moses entered the cloud and went up on the mountain. And Moses was on the mountain forty days and forty nights.`
+theirs = `1The Lord said to Moses, 2“Speak to the people of Israel, that they take for me a contribution. From every man whose heart moves him you shall receive the contribution for me. 3And this is the contribution that you shall receive from them: gold, silver, and bronze, 4blue and purple and scarlet yarns and fine twined linen, goats’ hair, 5tanned rams’ skins, goatskins, acacia wood, 6oil for the lamps, spices for the anointing oil and for the fragrant incense, 7onyx stones, and stones for setting, for the ephod and for the breastpiece. 8And let them make me a sanctuary, that I may dwell in their midst. 9Exactly as I show you concerning the pattern of the tabernacle, and of all its furniture, so you shall make it.
+10“They shall make an ark of acacia wood. Two cubits and a half shall be its length, a cubit and a half its breadth, and a cubit and a half its height. 11You shall overlay it with pure gold, inside and outside shall you overlay it, and you shall make on it a molding of gold around it. 12You shall cast four rings of gold for it and put them on its four feet, two rings on the one side of it, and two rings on the other side of it. 13You shall make poles of acacia wood and overlay them with gold. 14And you shall put the poles into the rings on the sides of the ark to carry the ark by them. 15The poles shall remain in the rings of the ark; they shall not be taken from it. 16And you shall put into the ark the testimony that I shall give you.
+17“You shall make a mercy seat of pure gold. Two cubits and a half shall be its length, and a cubit and a half its breadth. 18And you shall make two cherubim of gold; of hammered work shall you make them, on the two ends of the mercy seat. 19Make one cherub on the one end, and one cherub on the other end. Of one piece with the mercy seat shall you make the cherubim on its two ends. 20The cherubim shall spread out their wings above, overshadowing the mercy seat with their wings, their faces one to another; toward the mercy seat shall the faces of the cherubim be. 21And you shall put the mercy seat on the top of the ark, and in the ark you shall put the testimony that I shall give you. 22There I will meet with you, and from above the mercy seat, from between the two cherubim that are on the ark of the testimony, I will speak with you about all that I will give you in commandment for the people of Israel.
+23“You shall make a table of acacia wood. Two cubits shall be its length, a cubit its breadth, and a cubit and a half its height. 24You shall overlay it with pure gold and make a molding of gold around it. 25And you shall make a rim around it a handbreadth wide, and a molding of gold around the rim. 26And you shall make for it four rings of gold, and fasten the rings to the four corners at its four legs. 27Close to the frame the rings shall lie, as holders for the poles to carry the table. 28You shall make the poles of acacia wood, and overlay them with gold, and the table shall be carried with these. 29And you shall make its plates and dishes for incense, and its flagons and bowls with which to pour drink offerings; you shall make them of pure gold. 30And you shall set the bread of the Presence on the table before me regularly.
+31“You shall make a lampstand of pure gold. The lampstand shall be made of hammered work: its base, its stem, its cups, its calyxes, and its flowers shall be of one piece with it. 32And there shall be six branches going out of its sides, three branches of the lampstand out of one side of it and three branches of the lampstand out of the other side of it; 33three cups made like almond blossoms, each with calyx and flower, on one branch, and three cups made like almond blossoms, each with calyx and flower, on the other branch—so for the six branches going out of the lampstand. 34And on the lampstand itself there shall be four cups made like almond blossoms, with their calyxes and flowers, 35and a calyx of one piece with it under each pair of the six branches going out from the lampstand. 36Their calyxes and their branches shall be of one piece with it, the whole of it a single piece of hammered work of pure gold. 37You shall make seven lamps for it. And the lamps shall be set up so as to give light on the space in front of it. 38Its tongs and their trays shall be of pure gold. 39It shall be made, with all these utensils, out of a talent of pure gold. 40And see that you make them after the pattern for them, which is being shown you on the mountain.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
