@@ -1,51 +1,45 @@
 mine = [
-    "1| The Lord said to Moses, \"Cut for yourself two tablets of stone like the first, and I will write on the tablets the words that were on the first tablets, which you broke.",
-    "2| Be ready by the morning, and come up in the morning to Mount Sinai, and present yourself there to me on the top of the mountain.",
-    "3| No one shall come up with you, and let no one be seen throughout all the mountain. Let no flocks or herds graze opposite that mountain.\"",
-    "4| So Moses cut two tablets of stone like the first. And he rose early in the morning and went up on Mount Sinai, as the Lord had commanded him, and took in his hand two tablets of stone.",
-    "5| The Lord descended in the cloud and stood with him there, and proclaimed the name of the Lord.",
-    "6| The Lord passed before him and proclaimed, \"The Lord, the Lord, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness,",
-    "7| keeping steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers on the children and the children's children, to the third and the fourth generation.\"",
-    "8| And Moses quickly bowed his head toward the earth and worshiped.",
-    "9| And he said, \"If now I have found favor in your sight, O Lord, please let the Lord go in the midst of us, for it is a stiff-necked people, and pardon our iniquity and our sin, and take us for your inheritance.\"",
-    "10| And he said, \"Behold, I am making a covenant. Before all your people I will do marvels, such as have not been created in all the earth or in any nation. And all the people among whom you are shall see the work of the Lord, for it is an awesome thing that I will do with you.",
-    "11| \"Observe what I command you this day. Behold, I will drive out before you the Amorites, the Canaanites, the Hittites, the Perizzites, the Hivites, and the Jebusites.",
-    "12| Take care, lest you make a covenant with the inhabitants of the land to which you go, lest it become a snare in your midst.",
-    "13| You shall tear down their altars and break their pillars and cut down their Asherim",
-    "14| (for you shall worship no other god, for the Lord, whose name is Jealous, is a jealous God),",
-    "15| lest you make a covenant with the inhabitants of the land, and when they whore after their gods and sacrifice to their gods and you are invited, you eat of his sacrifice,",
-    "16| and you take of their daughters for your sons, and their daughters whore after their gods and make your sons whore after their gods.",
-    "17| \"You shall not make for yourself any gods of cast metal.",
-    "18| \"You shall keep the Feast of Unleavened Bread. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month Abib, for in the month Abib you came out from Egypt.",
-    "19| All that open the womb are mine, all your male livestock, the firstborn of cow and sheep.",
-    "20| The firstborn of a donkey you shall redeem with a lamb, or if you will not redeem it you shall break its neck. All the firstborn of your sons you shall redeem. And none shall appear before me empty-handed.",
-    "21| \"Six days you shall work, but on the seventh day you shall rest. In plowing time and in harvest you shall rest.",
-    "22| You shall observe the Feast of Weeks, the firstfruits of wheat harvest, and the Feast of Ingathering at the year's end.",
-    "23| Three times in the year shall all your males appear before the Lord God, the God of Israel.",
-    "24| For I will cast out nations before you and enlarge your borders; no one shall covet your land, when you go up to appear before the Lord your God three times in the year.",
-    "25| \"You shall not offer the blood of my sacrifice with anything leavened, or let the sacrifice of the Feast of the Passover remain until the morning.",
-    "26| The best of the firstfruits of your ground you shall bring to the house of the Lord your God. You shall not boil a young goat in its mother's milk.\"",
-    "27| And the Lord said to Moses, \"Write these words, for in accordance with these words I have made a covenant with you and with Israel.\"",
-    "28| So he was there with the Lord forty days and forty nights. He neither ate bread nor drank water. And he wrote on the tablets the words of the covenant, the Ten Commandments.",
-    "29| When Moses came down from Mount Sinai, with the two tablets of the testimony in his hand as he came down from the mountain, Moses did not know that the skin of his face shone because he had been talking with God.",
-    "30| Aaron and all the people of Israel saw Moses, and behold, the skin of his face shone, and they were afraid to come near him.",
-    "31| But Moses called to them, and Aaron and all the leaders of the congregation returned to him, and Moses talked with them.",
-    "32| Afterward all the people of Israel came near, and he commanded them all that the Lord had spoken with him in Mount Sinai.",
-    "33| And when Moses had finished speaking with them, he put a veil over his face.",
-    "34| Whenever Moses went in before the Lord to speak with him, he would remove the veil, until he came out. And when he came out and told the people of Israel what he was commanded,",
-    "35| the people of Israel would see the face of Moses, that the skin of Moses' face was shining. And Moses would put the veil over his face again, until he went in to speak with him.",
+    "1| 모세가 이스라엘의 온 회중을 모으고 그들에게 이르되 여호와께서 너희에게 명하사 행하게 하신 말씀이 이러하니라",
+    "2| 엿새 동안은 일하고 제 칠일은 너희에게 성일이니 여호와께 특별한 안식일이라 무릇 이날에 일하는 자를 죽일지니",
+    "3| 안식일에는 너희의 모든 처소에서 불도 피우지 말지니라",
+    "4| 모세가 이스라엘 자손의 온 회중에게 고하여 가로되 여호와의 명하신 일이 이러하니라 이르시기를",
+    "5| 너희의 소유 중에서 너희는 여호와께 드릴 것을 취하되 무릇 마음에 원하는 자는 그것을 가져다가 여호와께 드릴지니 곧 금과 은과 놋과",
+    "6| 청색 자색 홍색실과 가는 베실과 염소털과",
+    "7| 붉은 물 들인 수양의 가죽과 해달의 가죽과 조각목과",
+    "8| 등유와 및 관유에 드는 향품과 분향할 향을 만드는 향품과",
+    "9| 호마노며 에봇과 흉패에 물릴 보석이니라",
+    "10| 무릇 너희 중 마음이 지혜로운 자는 와서 여호와의 명하신 것을 다 만들지니",
+    "11| 곧 성막과 그 막과 그 덮개와 그 갈고리와 그 널판과 그 띠와 그 기둥과 그 받침과",
+    "12| 증거궤와 그 채와 속죄소와 그 가리는 장과",
+    "13| 상과 그 채와 그 모든 기구와 진설병과",
+    "14| 불 켜는 등대와 그 기구와 그 등잔과 등유와",
+    "15| 분향단과 그 채와 관유와 분향할 향품과 성막문의 장과",
+    "16| 번제단과 그 놋 그물과 그 채와 그 모든 기구와 물두멍과 그 받침과",
+    "17| 뜰의 포장과 그 기둥과 그 받침과 뜰문의 장과",
+    "18| 장막 말뚝과 뜰의 포장 말뚝과 그 줄과",
+    "19| 성소에서 섬기기 위하여 공교히 만든 옷 곧 제사 직분을 행할 때에 입는 제사장 아론의 거룩한 옷과 그 아들들의 옷이니라",
+    "20| 이스라엘 자손의 온 회중이 모세 앞에서 물러갔더니",
+    "21| 무릇 마음이 감동된 자와 무릇 자원하는 자가 와서 성막을 짓기 위하여 그 속에서 쓸 모든 것을 위하여, 거룩한 옷을 위하여 예물을 가져 여호와께 드렸으니",
+    "22| 곧 마음에 원하는 남녀가 와서 가슴 핀과 귀고리와 가락지와 목거리와 여러가지 금품을 가져 왔으되 사람마다 여호와께 금 예물을 드렸으며",
+    "23| 무릇 청색 자색 홍색실과 가는 베실과 염소 털과 붉은 물 들인 수양의 가죽과 해달의 가죽이 있는 자도 가져 왔으며",
+    "24| 무릇 은과 놋으로 예물을 삼는 자는 가져다가 여호와께 드렸으며 무릇 섬기는 일에 소용되는 조각목이 있는 자는 가져 왔으며",
+    "25| 마음이 슬기로운 모든 여인은 손수 실을 낳고 그 낳은 청색 자색 홍색실과 가는 베실을 가져 왔으며",
+    "26| 마음에 감동을 받아 슬기로운 모든 여인은 염소털로 실을 낳았으며",
+    "27| 모든 족장은 호마노와 및 에봇과 흉패에 물릴 보석을 가져 왔으며",
+    "28| 등불과 관유와 분향할 향에 소용되는 기름과 향품을 가져 왔으니",
+    "29| 마음에 원하는 이스라엘 자손의 남녀마다 여호와께서 모세의 손을 빙자하여 명하신 모든 것을 만들기 위하여 물품을 가져다가 여호와께 즐거이 드림이 이러하였더라",
+    "30| 모세가 이스라엘 자손에게 이르되 볼찌어다 여호와께서 유다 지파 훌의 손자요 우리의 아들인 브살렐을 지명하여 부르시고",
+    "31| 하나님의 신을 그에게 충만케 하여 지혜와 총명과 지식으로 여러가지 일을 하게 하시되",
+    "32| 공교한 일을 연구하여 금과 은과 놋으로 일하게 하시며",
+    "33| 보석을 깎아 물리며 나무를 새기는 여러가지 공교한 일을 하게 하셨고",
+    "34| 또 그와 단 지파 아히사막의 아들 오홀리압을 감동시키사 가르치게 하시며",
+    "35| 지혜로운 마음을 그들에게 충만하게 하사 여러가지 일을 하게 하시되 조각하는 일과 공교로운 일과 청색 자색 홍색실과 가는 베실로 수 놓는 일과 짜는 일과 그 외에 여러가지 일을 하게 하시고 공교로운 일을 연구하게 하셨나니",
 ]
 let encoded = ` “ ” `
-theirs = `1The Lord said to Moses, “Cut for yourself two tablets of stone like the first, and I will write on the tablets the words that were on the first tablets, which you broke. 2Be ready by the morning, and come up in the morning to Mount Sinai, and present yourself there to me on the top of the mountain. 3No one shall come up with you, and let no one be seen throughout all the mountain. Let no flocks or herds graze opposite that mountain.” 4So Moses cut two tablets of stone like the first. And he rose early in the morning and went up on Mount Sinai, as the Lord had commanded him, and took in his hand two tablets of stone. 5The Lord descended in the cloud and stood with him there, and proclaimed the name of the Lord. 6The Lord passed before him and proclaimed, “The Lord, the Lord, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, 7keeping steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers on the children and the children’s children, to the third and the fourth generation.” 8And Moses quickly bowed his head toward the earth and worshiped. 9And he said, “If now I have found favor in your sight, O Lord, please let the Lord go in the midst of us, for it is a stiff-necked people, and pardon our iniquity and our sin, and take us for your inheritance.”
-10And he said, “Behold, I am making a covenant. Before all your people I will do marvels, such as have not been created in all the earth or in any nation. And all the people among whom you are shall see the work of the Lord, for it is an awesome thing that I will do with you.
-11“Observe what I command you this day. Behold, I will drive out before you the Amorites, the Canaanites, the Hittites, the Perizzites, the Hivites, and the Jebusites. 12Take care, lest you make a covenant with the inhabitants of the land to which you go, lest it become a snare in your midst. 13You shall tear down their altars and break their pillars and cut down their Asherim 14(for you shall worship no other god, for the Lord, whose name is Jealous, is a jealous God), 15lest you make a covenant with the inhabitants of the land, and when they whore after their gods and sacrifice to their gods and you are invited, you eat of his sacrifice, 16and you take of their daughters for your sons, and their daughters whore after their gods and make your sons whore after their gods.
-17“You shall not make for yourself any gods of cast metal.
-18“You shall keep the Feast of Unleavened Bread. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month Abib, for in the month Abib you came out from Egypt. 19All that open the womb are mine, all your male livestock, the firstborn of cow and sheep. 20The firstborn of a donkey you shall redeem with a lamb, or if you will not redeem it you shall break its neck. All the firstborn of your sons you shall redeem. And none shall appear before me empty-handed.
-21“Six days you shall work, but on the seventh day you shall rest. In plowing time and in harvest you shall rest. 22You shall observe the Feast of Weeks, the firstfruits of wheat harvest, and the Feast of Ingathering at the year’s end. 23Three times in the year shall all your males appear before the Lord God, the God of Israel. 24For I will cast out nations before you and enlarge your borders; no one shall covet your land, when you go up to appear before the Lord your God three times in the year.
-25“You shall not offer the blood of my sacrifice with anything leavened, or let the sacrifice of the Feast of the Passover remain until the morning. 26The best of the firstfruits of your ground you shall bring to the house of the Lord your God. You shall not boil a young goat in its mother’s milk.”
-27And the Lord said to Moses, “Write these words, for in accordance with these words I have made a covenant with you and with Israel.” 28So he was there with the Lord forty days and forty nights. He neither ate bread nor drank water. And he wrote on the tablets the words of the covenant, the Ten Commandments.
-29When Moses came down from Mount Sinai, with the two tablets of the testimony in his hand as he came down from the mountain, Moses did not know that the skin of his face shone because he had been talking with God. 30Aaron and all the people of Israel saw Moses, and behold, the skin of his face shone, and they were afraid to come near him. 31But Moses called to them, and Aaron and all the leaders of the congregation returned to him, and Moses talked with them. 32Afterward all the people of Israel came near, and he commanded them all that the Lord had spoken with him in Mount Sinai. 33And when Moses had finished speaking with them, he put a veil over his face.
-34Whenever Moses went in before the Lord to speak with him, he would remove the veil, until he came out. And when he came out and told the people of Israel what he was commanded, 35the people of Israel would see the face of Moses, that the skin of Moses’ face was shining. And Moses would put the veil over his face again, until he went in to speak with him.`
+theirs = `1모세가 이스라엘의 온 회중을 모으고 그들에게 이르되 여호와께서 너희에게 명하사 행하게 하신 말씀이 이러하니라 2엿새 동안은 일하고 제 칠일은 너희에게 성일이니 여호와께 특별한 안식일이라 무릇 이날에 일하는 자를 죽일지니 3안식일에는 너희의 모든 처소에서 불도 피우지 말지니라 4모세가 이스라엘 자손의 온 회중에게 고하여 가로되 여호와의 명하신 일이 이러하니라 이르시기를
+5너희의 소유 중에서 너희는 여호와께 드릴 것을 취하되 무릇 마음에 원하는 자는 그것을 가져다가 여호와께 드릴지니 곧 금과 은과 놋과 6청색 자색 홍색실과 가는 베실과 염소털과 7붉은 물 들인 수양의 가죽과 해달의 가죽과 조각목과 8등유와 및 관유에 드는 향품과 분향할 향을 만드는 향품과 9호마노며 에봇과 흉패에 물릴 보석이니라 10무릇 너희 중 마음이 지혜로운 자는 와서 여호와의 명하신 것을 다 만들지니 11곧 성막과 그 막과 그 덮개와 그 갈고리와 그 널판과 그 띠와 그 기둥과 그 받침과 12증거궤와 그 채와 속죄소와 그 가리는 장과 13상과 그 채와 그 모든 기구와 진설병과 14불 켜는 등대와 그 기구와 그 등잔과 등유와 15분향단과 그 채와 관유와 분향할 향품과 성막문의 장과 16번제단과 그 놋 그물과 그 채와 그 모든 기구와 물두멍과 그 받침과 17뜰의 포장과 그 기둥과 그 받침과 뜰문의 장과 18장막 말뚝과 뜰의 포장 말뚝과 그 줄과 19성소에서 섬기기 위하여 공교히 만든 옷 곧 제사 직분을 행할 때에 입는 제사장 아론의 거룩한 옷과 그 아들들의 옷이니라 20이스라엘 자손의 온 회중이 모세 앞에서 물러갔더니
+21무릇 마음이 감동된 자와 무릇 자원하는 자가 와서 성막을 짓기 위하여 그 속에서 쓸 모든 것을 위하여, 거룩한 옷을 위하여 예물을 가져 여호와께 드렸으니 22곧 마음에 원하는 남녀가 와서 가슴 핀과 귀고리와 가락지와 목거리와 여러가지 금품을 가져 왔으되 사람마다 여호와께 금 예물을 드렸으며 23무릇 청색 자색 홍색실과 가는 베실과 염소 털과 붉은 물 들인 수양의 가죽과 해달의 가죽이 있는 자도 가져 왔으며 24무릇 은과 놋으로 예물을 삼는 자는 가져다가 여호와께 드렸으며 무릇 섬기는 일에 소용되는 조각목이 있는 자는 가져 왔으며 25마음이 슬기로운 모든 여인은 손수 실을 낳고 그 낳은 청색 자색 홍색실과 가는 베실을 가져 왔으며 26마음에 감동을 받아 슬기로운 모든 여인은 염소털로 실을 낳았으며 27모든 족장은 호마노와 및 에봇과 흉패에 물릴 보석을 가져 왔으며 28등불과 관유와 분향할 향에 소용되는 기름과 향품을 가져 왔으니 29마음에 원하는 이스라엘 자손의 남녀마다 여호와께서 모세의 손을 빙자하여 명하신 모든 것을 만들기 위하여 물품을 가져다가 여호와께 즐거이 드림이 이러하였더라 30모세가 이스라엘 자손에게 이르되 볼찌어다 여호와께서 유다 지파 훌의 손자요 우리의 아들인 브살렐을 지명하여 부르시고
+31하나님의 신을 그에게 충만케 하여 지혜와 총명과 지식으로 여러가지 일을 하게 하시되 32공교한 일을 연구하여 금과 은과 놋으로 일하게 하시며 33보석을 깎아 물리며 나무를 새기는 여러가지 공교한 일을 하게 하셨고 34또 그와 단 지파 아히사막의 아들 오홀리압을 감동시키사 가르치게 하시며 35지혜로운 마음을 그들에게 충만하게 하사 여러가지 일을 하게 하시되 조각하는 일과 공교로운 일과 청색 자색 홍색실과 가는 베실로 수 놓는 일과 짜는 일과 그 외에 여러가지 일을 하게 하시고 공교로운 일을 연구하게 하셨나니`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
