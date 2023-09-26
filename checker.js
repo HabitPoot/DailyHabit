@@ -1,45 +1,52 @@
 mine = [
-    "1| 모세가 이스라엘의 온 회중을 모으고 그들에게 이르되 여호와께서 너희에게 명하사 행하게 하신 말씀이 이러하니라",
-    "2| 엿새 동안은 일하고 제 칠일은 너희에게 성일이니 여호와께 특별한 안식일이라 무릇 이날에 일하는 자를 죽일지니",
-    "3| 안식일에는 너희의 모든 처소에서 불도 피우지 말지니라",
-    "4| 모세가 이스라엘 자손의 온 회중에게 고하여 가로되 여호와의 명하신 일이 이러하니라 이르시기를",
-    "5| 너희의 소유 중에서 너희는 여호와께 드릴 것을 취하되 무릇 마음에 원하는 자는 그것을 가져다가 여호와께 드릴지니 곧 금과 은과 놋과",
-    "6| 청색 자색 홍색실과 가는 베실과 염소털과",
-    "7| 붉은 물 들인 수양의 가죽과 해달의 가죽과 조각목과",
-    "8| 등유와 및 관유에 드는 향품과 분향할 향을 만드는 향품과",
-    "9| 호마노며 에봇과 흉패에 물릴 보석이니라",
-    "10| 무릇 너희 중 마음이 지혜로운 자는 와서 여호와의 명하신 것을 다 만들지니",
-    "11| 곧 성막과 그 막과 그 덮개와 그 갈고리와 그 널판과 그 띠와 그 기둥과 그 받침과",
-    "12| 증거궤와 그 채와 속죄소와 그 가리는 장과",
-    "13| 상과 그 채와 그 모든 기구와 진설병과",
-    "14| 불 켜는 등대와 그 기구와 그 등잔과 등유와",
-    "15| 분향단과 그 채와 관유와 분향할 향품과 성막문의 장과",
-    "16| 번제단과 그 놋 그물과 그 채와 그 모든 기구와 물두멍과 그 받침과",
-    "17| 뜰의 포장과 그 기둥과 그 받침과 뜰문의 장과",
-    "18| 장막 말뚝과 뜰의 포장 말뚝과 그 줄과",
-    "19| 성소에서 섬기기 위하여 공교히 만든 옷 곧 제사 직분을 행할 때에 입는 제사장 아론의 거룩한 옷과 그 아들들의 옷이니라",
-    "20| 이스라엘 자손의 온 회중이 모세 앞에서 물러갔더니",
-    "21| 무릇 마음이 감동된 자와 무릇 자원하는 자가 와서 성막을 짓기 위하여 그 속에서 쓸 모든 것을 위하여, 거룩한 옷을 위하여 예물을 가져 여호와께 드렸으니",
-    "22| 곧 마음에 원하는 남녀가 와서 가슴 핀과 귀고리와 가락지와 목거리와 여러가지 금품을 가져 왔으되 사람마다 여호와께 금 예물을 드렸으며",
-    "23| 무릇 청색 자색 홍색실과 가는 베실과 염소 털과 붉은 물 들인 수양의 가죽과 해달의 가죽이 있는 자도 가져 왔으며",
-    "24| 무릇 은과 놋으로 예물을 삼는 자는 가져다가 여호와께 드렸으며 무릇 섬기는 일에 소용되는 조각목이 있는 자는 가져 왔으며",
-    "25| 마음이 슬기로운 모든 여인은 손수 실을 낳고 그 낳은 청색 자색 홍색실과 가는 베실을 가져 왔으며",
-    "26| 마음에 감동을 받아 슬기로운 모든 여인은 염소털로 실을 낳았으며",
-    "27| 모든 족장은 호마노와 및 에봇과 흉패에 물릴 보석을 가져 왔으며",
-    "28| 등불과 관유와 분향할 향에 소용되는 기름과 향품을 가져 왔으니",
-    "29| 마음에 원하는 이스라엘 자손의 남녀마다 여호와께서 모세의 손을 빙자하여 명하신 모든 것을 만들기 위하여 물품을 가져다가 여호와께 즐거이 드림이 이러하였더라",
-    "30| 모세가 이스라엘 자손에게 이르되 볼찌어다 여호와께서 유다 지파 훌의 손자요 우리의 아들인 브살렐을 지명하여 부르시고",
-    "31| 하나님의 신을 그에게 충만케 하여 지혜와 총명과 지식으로 여러가지 일을 하게 하시되",
-    "32| 공교한 일을 연구하여 금과 은과 놋으로 일하게 하시며",
-    "33| 보석을 깎아 물리며 나무를 새기는 여러가지 공교한 일을 하게 하셨고",
-    "34| 또 그와 단 지파 아히사막의 아들 오홀리압을 감동시키사 가르치게 하시며",
-    "35| 지혜로운 마음을 그들에게 충만하게 하사 여러가지 일을 하게 하시되 조각하는 일과 공교로운 일과 청색 자색 홍색실과 가는 베실로 수 놓는 일과 짜는 일과 그 외에 여러가지 일을 하게 하시고 공교로운 일을 연구하게 하셨나니",
+    "1| \"Bezalel and Oholiab and every craftsman in whom the Lord has put skill and intelligence to know how to do any work in the construction of the sanctuary shall work in accordance with all that the Lord has commanded.\"",
+    "2| And Moses called Bezalel and Oholiab and every craftsman in whose mind the Lord had put skill, everyone whose heart stirred him up to come to do the work.",
+    "3| And they received from Moses all the contribution that the people of Israel had brought for doing the work on the sanctuary. They still kept bringing him freewill offerings every morning,",
+    "4| so that all the craftsmen who were doing every sort of task on the sanctuary came, each from the task that he was doing,",
+    "5| and said to Moses, \"The people bring much more than enough for doing the work that the Lord has commanded us to do.\"",
+    "6| So Moses gave command, and word was proclaimed throughout the camp, \"Let no man or woman do anything more for the contribution for the sanctuary.\" So the people were restrained from bringing,",
+    "7| for the material they had was sufficient to do all the work, and more.",
+    "8| And all the craftsmen among the workmen made the tabernacle with ten curtains. They were made of fine twined linen and blue and purple and scarlet yarns, with cherubim skillfully worked.",
+    "9| The length of each curtain was twenty-eight cubits, and the breadth of each curtain four cubits. All the curtains were the same size.",
+    "10| He coupled five curtains to one another, and the other five curtains he coupled to one another.",
+    "11| He made loops of blue on the edge of the outermost curtain of the first set. Likewise he made them on the edge of the outermost curtain of the second set.",
+    "12| He made fifty loops on the one curtain, and he made fifty loops on the edge of the curtain that was in the second set. The loops were opposite one another.",
+    "13| And he made fifty clasps of gold, and coupled the curtains one to the other with clasps. So the tabernacle was a single whole.",
+    "14| He also made curtains of goats' hair for a tent over the tabernacle. He made eleven curtains.",
+    "15| The length of each curtain was thirty cubits, and the breadth of each curtain four cubits. The eleven curtains were the same size.",
+    "16| He coupled five curtains by themselves, and six curtains by themselves.",
+    "17| And he made fifty loops on the edge of the outermost curtain of the one set, and fifty loops on the edge of the other connecting curtain.",
+    "18| And he made fifty clasps of bronze to couple the tent together that it might be a single whole.",
+    "19| And he made for the tent a covering of tanned rams' skins and goatskins.",
+    "20| Then he made the upright frames for the tabernacle of acacia wood.",
+    "21| Ten cubits was the length of a frame, and a cubit and a half the breadth of each frame.",
+    "22| Each frame had two tenons for fitting together. He did this for all the frames of the tabernacle.",
+    "23| The frames for the tabernacle he made thus: twenty frames for the south side.",
+    "24| And he made forty bases of silver under the twenty frames, two bases under one frame for its two tenons, and two bases under the next frame for its two tenons.",
+    "25| For the second side of the tabernacle, on the north side, he made twenty frames",
+    "26| and their forty bases of silver, two bases under one frame and two bases under the next frame.",
+    "27| For the rear of the tabernacle westward he made six frames.",
+    "28| He made two frames for corners of the tabernacle in the rear.",
+    "29| And they were separate beneath but joined at the top, at the first ring. He made two of them this way for the two corners.",
+    "30| There were eight frames with their bases of silver: sixteen bases, under every frame two bases.",
+    "31| He made bars of acacia wood, five for the frames of the one side of the tabernacle,",
+    "32| and five bars for the frames of the other side of the tabernacle, and five bars for the frames of the tabernacle at the rear westward.",
+    "33| And he made the middle bar to run from end to end halfway up the frames.",
+    "34| And he overlaid the frames with gold, and made their rings of gold for holders for the bars, and overlaid the bars with gold.",
+    "35| He made the veil of blue and purple and scarlet yarns and fine twined linen; with cherubim skillfully worked into it he made it.",
+    "36| And for it he made four pillars of acacia and overlaid them with gold. Their hooks were of gold, and he cast for them four bases of silver.",
+    "37| He also made a screen for the entrance of the tent, of blue and purple and scarlet yarns and fine twined linen, embroidered with needlework,",
+    "38| and its five pillars with their hooks. He overlaid their capitals, and their fillets were of gold, but their five bases were of bronze.",
 ]
 let encoded = ` “ ” `
-theirs = `1모세가 이스라엘의 온 회중을 모으고 그들에게 이르되 여호와께서 너희에게 명하사 행하게 하신 말씀이 이러하니라 2엿새 동안은 일하고 제 칠일은 너희에게 성일이니 여호와께 특별한 안식일이라 무릇 이날에 일하는 자를 죽일지니 3안식일에는 너희의 모든 처소에서 불도 피우지 말지니라 4모세가 이스라엘 자손의 온 회중에게 고하여 가로되 여호와의 명하신 일이 이러하니라 이르시기를
-5너희의 소유 중에서 너희는 여호와께 드릴 것을 취하되 무릇 마음에 원하는 자는 그것을 가져다가 여호와께 드릴지니 곧 금과 은과 놋과 6청색 자색 홍색실과 가는 베실과 염소털과 7붉은 물 들인 수양의 가죽과 해달의 가죽과 조각목과 8등유와 및 관유에 드는 향품과 분향할 향을 만드는 향품과 9호마노며 에봇과 흉패에 물릴 보석이니라 10무릇 너희 중 마음이 지혜로운 자는 와서 여호와의 명하신 것을 다 만들지니 11곧 성막과 그 막과 그 덮개와 그 갈고리와 그 널판과 그 띠와 그 기둥과 그 받침과 12증거궤와 그 채와 속죄소와 그 가리는 장과 13상과 그 채와 그 모든 기구와 진설병과 14불 켜는 등대와 그 기구와 그 등잔과 등유와 15분향단과 그 채와 관유와 분향할 향품과 성막문의 장과 16번제단과 그 놋 그물과 그 채와 그 모든 기구와 물두멍과 그 받침과 17뜰의 포장과 그 기둥과 그 받침과 뜰문의 장과 18장막 말뚝과 뜰의 포장 말뚝과 그 줄과 19성소에서 섬기기 위하여 공교히 만든 옷 곧 제사 직분을 행할 때에 입는 제사장 아론의 거룩한 옷과 그 아들들의 옷이니라 20이스라엘 자손의 온 회중이 모세 앞에서 물러갔더니
-21무릇 마음이 감동된 자와 무릇 자원하는 자가 와서 성막을 짓기 위하여 그 속에서 쓸 모든 것을 위하여, 거룩한 옷을 위하여 예물을 가져 여호와께 드렸으니 22곧 마음에 원하는 남녀가 와서 가슴 핀과 귀고리와 가락지와 목거리와 여러가지 금품을 가져 왔으되 사람마다 여호와께 금 예물을 드렸으며 23무릇 청색 자색 홍색실과 가는 베실과 염소 털과 붉은 물 들인 수양의 가죽과 해달의 가죽이 있는 자도 가져 왔으며 24무릇 은과 놋으로 예물을 삼는 자는 가져다가 여호와께 드렸으며 무릇 섬기는 일에 소용되는 조각목이 있는 자는 가져 왔으며 25마음이 슬기로운 모든 여인은 손수 실을 낳고 그 낳은 청색 자색 홍색실과 가는 베실을 가져 왔으며 26마음에 감동을 받아 슬기로운 모든 여인은 염소털로 실을 낳았으며 27모든 족장은 호마노와 및 에봇과 흉패에 물릴 보석을 가져 왔으며 28등불과 관유와 분향할 향에 소용되는 기름과 향품을 가져 왔으니 29마음에 원하는 이스라엘 자손의 남녀마다 여호와께서 모세의 손을 빙자하여 명하신 모든 것을 만들기 위하여 물품을 가져다가 여호와께 즐거이 드림이 이러하였더라 30모세가 이스라엘 자손에게 이르되 볼찌어다 여호와께서 유다 지파 훌의 손자요 우리의 아들인 브살렐을 지명하여 부르시고
-31하나님의 신을 그에게 충만케 하여 지혜와 총명과 지식으로 여러가지 일을 하게 하시되 32공교한 일을 연구하여 금과 은과 놋으로 일하게 하시며 33보석을 깎아 물리며 나무를 새기는 여러가지 공교한 일을 하게 하셨고 34또 그와 단 지파 아히사막의 아들 오홀리압을 감동시키사 가르치게 하시며 35지혜로운 마음을 그들에게 충만하게 하사 여러가지 일을 하게 하시되 조각하는 일과 공교로운 일과 청색 자색 홍색실과 가는 베실로 수 놓는 일과 짜는 일과 그 외에 여러가지 일을 하게 하시고 공교로운 일을 연구하게 하셨나니`
+theirs = `1“Bezalel and Oholiab and every craftsman in whom the Lord has put skill and intelligence to know how to do any work in the construction of the sanctuary shall work in accordance with all that the Lord has commanded.”
+2And Moses called Bezalel and Oholiab and every craftsman in whose mind the Lord had put skill, everyone whose heart stirred him up to come to do the work. 3And they received from Moses all the contribution that the people of Israel had brought for doing the work on the sanctuary. They still kept bringing him freewill offerings every morning, 4so that all the craftsmen who were doing every sort of task on the sanctuary came, each from the task that he was doing, 5and said to Moses, “The people bring much more than enough for doing the work that the Lord has commanded us to do.” 6So Moses gave command, and word was proclaimed throughout the camp, “Let no man or woman do anything more for the contribution for the sanctuary.” So the people were restrained from bringing, 7for the material they had was sufficient to do all the work, and more.
+8And all the craftsmen among the workmen made the tabernacle with ten curtains. They were made of fine twined linen and blue and purple and scarlet yarns, with cherubim skillfully worked. 9The length of each curtain was twenty-eight cubits, and the breadth of each curtain four cubits. All the curtains were the same size.
+10He coupled five curtains to one another, and the other five curtains he coupled to one another. 11He made loops of blue on the edge of the outermost curtain of the first set. Likewise he made them on the edge of the outermost curtain of the second set. 12He made fifty loops on the one curtain, and he made fifty loops on the edge of the curtain that was in the second set. The loops were opposite one another. 13And he made fifty clasps of gold, and coupled the curtains one to the other with clasps. So the tabernacle was a single whole.
+14He also made curtains of goats’ hair for a tent over the tabernacle. He made eleven curtains. 15The length of each curtain was thirty cubits, and the breadth of each curtain four cubits. The eleven curtains were the same size. 16He coupled five curtains by themselves, and six curtains by themselves. 17And he made fifty loops on the edge of the outermost curtain of the one set, and fifty loops on the edge of the other connecting curtain. 18And he made fifty clasps of bronze to couple the tent together that it might be a single whole. 19And he made for the tent a covering of tanned rams’ skins and goatskins.
+20Then he made the upright frames for the tabernacle of acacia wood. 21Ten cubits was the length of a frame, and a cubit and a half the breadth of each frame. 22Each frame had two tenons for fitting together. He did this for all the frames of the tabernacle. 23The frames for the tabernacle he made thus: twenty frames for the south side. 24And he made forty bases of silver under the twenty frames, two bases under one frame for its two tenons, and two bases under the next frame for its two tenons. 25For the second side of the tabernacle, on the north side, he made twenty frames 26and their forty bases of silver, two bases under one frame and two bases under the next frame. 27For the rear of the tabernacle westward he made six frames. 28He made two frames for corners of the tabernacle in the rear. 29And they were separate beneath but joined at the top, at the first ring. He made two of them this way for the two corners. 30There were eight frames with their bases of silver: sixteen bases, under every frame two bases.
+31He made bars of acacia wood, five for the frames of the one side of the tabernacle, 32and five bars for the frames of the other side of the tabernacle, and five bars for the frames of the tabernacle at the rear westward. 33And he made the middle bar to run from end to end halfway up the frames. 34And he overlaid the frames with gold, and made their rings of gold for holders for the bars, and overlaid the bars with gold.
+35He made the veil of blue and purple and scarlet yarns and fine twined linen; with cherubim skillfully worked into it he made it. 36And for it he made four pillars of acacia and overlaid them with gold. Their hooks were of gold, and he cast for them four bases of silver. 37He also made a screen for the entrance of the tent, of blue and purple and scarlet yarns and fine twined linen, embroidered with needlework, 38and its five pillars with their hooks. He overlaid their capitals, and their fillets were of gold, but their five bases were of bronze.`
 theirs = theirs.split("\n").join(" ")
 theirs = theirs.split("“").join('"')
 theirs = theirs.split("”").join('"')
