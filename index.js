@@ -7232,6 +7232,34 @@ let data = [
         "chapter": 11,
         "start": 1,
         "end": 47
+    },
+    {
+        "esv": [
+            "1| The Lord spoke to Moses, saying,",
+            "2| \"Speak to the people of Israel, saying, If a woman conceives and bears a male child, then she shall be unclean seven days. As at the time of her menstruation, she shall be unclean.",
+            "3| And on the eighth day the flesh of his foreskin shall be circumcised.",
+            "4| Then she shall continue for thirty-three days in the blood of her purifying. She shall not touch anything holy, nor come into the sanctuary, until the days of her purifying are completed.",
+            "5| But if she bears a female child, then she shall be unclean two weeks, as in her menstruation. And she shall continue in the blood of her purifying for sixty-six days.",
+            "6| \"And when the days of her purifying are completed, whether for a son or for a daughter, she shall bring to the priest at the entrance of the tent of meeting a lamb a year old for a burnt offering, and a pigeon or a turtledove for a sin offering,",
+            "7| and he shall offer it before the Lord and make atonement for her. Then she shall be clean from the flow of her blood. This is the law for her who bears a child, either male or female.",
+            "8| And if she cannot afford a lamb, then she shall take two turtledoves or two pigeons, one for a burnt offering and the other for a sin offering. And the priest shall make atonement for her, and she shall be clean.\"",
+        ],
+        "krv": [
+            "1| 여호와께서 모세에게 일러 가라사대",
+            "2| 이스라엘 자손에게 고하여 이르라 여인이 잉태하여 남자를 낳으면 그는 칠일 동안 부정하리니 곧 경도할 때와 같이 부정할 것이며",
+            "3| 제 팔일에는 그 아이의 양피를 벨 것이요",
+            "4| 그 여인은 오히려 삼십 삼일을 지나야 산혈이 깨끗하리니 정결케 되는 기한이 차기 전에는 성물을 만지지도 말며 성소에 들어가지도 말 것이며",
+            "5| 여자를 낳으면 그는 이 칠일 동안 부정하리니 경도할 때와 같을 것이며 산혈이 깨끗하게 됨은 육십 륙일을 지나야 하리라",
+            "6| 자녀간 정결케 되는 기한이 차거든 그 여인은 번제를 위하여 일년 된 어린 양을 취하고 속죄제를 위하여 집비둘기 새끼나 산비둘기를 취하여 회막문 제사장에게로 가져갈 것이요",
+            "7| 제사장은 그것을 여호와 앞에 드려서 여인을 위하여 속죄할찌니 그리하면 산혈이 깨끗하리라 이는 자녀간 생산한 여인에게 대한 규례니라",
+            "8| 그 여인의 힘이 어린 양에 미치지 못하거든 산비둘기 둘이나 집비둘기 새끼 둘을 가져다가 하나는 번제물로, 하나는 속죄 제물로 삼을 것이요 제사장은 그를 위하여 속할찌니 그가 정결하리라",
+        ],
+        "date": "2023-10-11T08:00:00.000Z",
+        "book": "Leviticus",
+        "kbook": "레위기",
+        "chapter": 12,
+        "start": 1,
+        "end": 8
     }
 ]
 let root = document.getElementById("root")
